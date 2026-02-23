@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T08:39:40.841887+00:00",
+  "last_updated": "2026-02-23T08:44:10.621870+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3302,6 +3302,391 @@
           "thumbnail": "https://i.ytimg.com/vi/MWtXiFA6Mro/mqdefault.jpg",
           "published_at": "2025-01-28T14:00:32Z",
           "url": "https://www.youtube.com/watch?v=MWtXiFA6Mro"
+        }
+      ]
+    },
+    {
+      "id": "UCq8ZAAsI89IoJ-fn1gYpO3g",
+      "name": "Nightshift \u2013 Kurzgesagt After Dark",
+      "thumbnail": "https://yt3.ggpht.com/eXEBNg6ggwrJopuwMkvxi-ZZhlTOAo8juTk5FBWDoE8qvoLPXWInWKtVKJN5SKiOpheZyudT=s88-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "bIwX4QuL90k",
+          "title": "The Final Days of Louis XIV",
+          "thumbnail": "https://i.ytimg.com/vi/bIwX4QuL90k/mqdefault.jpg",
+          "published_at": "2026-02-13T15:00:01Z",
+          "url": "https://www.youtube.com/watch?v=bIwX4QuL90k"
+        },
+        {
+          "id": "rTgwZR3T_uo",
+          "title": "Whale Hunting Was Absolutely Crazy",
+          "thumbnail": "https://i.ytimg.com/vi/rTgwZR3T_uo/mqdefault.jpg",
+          "published_at": "2026-01-30T15:00:26Z",
+          "url": "https://www.youtube.com/watch?v=rTgwZR3T_uo"
+        },
+        {
+          "id": "y2lkVlB96y4",
+          "title": "The Most Powerful Pirate In History",
+          "thumbnail": "https://i.ytimg.com/vi/y2lkVlB96y4/mqdefault.jpg",
+          "published_at": "2026-01-16T15:00:06Z",
+          "url": "https://www.youtube.com/watch?v=y2lkVlB96y4"
+        }
+      ]
+    },
+    {
+      "id": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "name": "Kurzgesagt \u2013 In a Nutshell",
+      "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s88-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "9t5m33ccUYA",
+          "title": "The Uncomfortable Truth About Ozempic",
+          "thumbnail": "https://i.ytimg.com/vi/9t5m33ccUYA/mqdefault.jpg",
+          "published_at": "2026-02-17T14:59:14Z",
+          "url": "https://www.youtube.com/watch?v=9t5m33ccUYA"
+        },
+        {
+          "id": "D0WQK7cMJn8",
+          "title": "We Made A New Channel!",
+          "thumbnail": "https://i.ytimg.com/vi/D0WQK7cMJn8/mqdefault.jpg",
+          "published_at": "2026-01-16T15:30:05Z",
+          "url": "https://www.youtube.com/watch?v=D0WQK7cMJn8"
+        },
+        {
+          "id": "pHJIhxZEoxg",
+          "title": "Why Are There No Holes Around Trees?",
+          "thumbnail": "https://i.ytimg.com/vi/pHJIhxZEoxg/mqdefault.jpg",
+          "published_at": "2026-01-07T15:00:13Z",
+          "url": "https://www.youtube.com/watch?v=pHJIhxZEoxg"
+        },
+        {
+          "id": "H4KMQuyxH_Y",
+          "title": "Tattoo Removal Is Insane",
+          "thumbnail": "https://i.ytimg.com/vi/H4KMQuyxH_Y/mqdefault.jpg",
+          "published_at": "2025-12-12T15:00:02Z",
+          "url": "https://www.youtube.com/watch?v=H4KMQuyxH_Y"
+        },
+        {
+          "id": "KNwMiydCYA4",
+          "title": "All Of Human History In One Hour",
+          "thumbnail": "https://i.ytimg.com/vi/KNwMiydCYA4/mqdefault.jpg",
+          "published_at": "2025-12-05T15:00:03Z",
+          "url": "https://www.youtube.com/watch?v=KNwMiydCYA4"
+        },
+        {
+          "id": "zozEm4f_dlw",
+          "title": "Astronomy Is In Crisis...And It's Incredibly Exciting",
+          "thumbnail": "https://i.ytimg.com/vi/zozEm4f_dlw/mqdefault.jpg",
+          "published_at": "2025-12-02T15:00:05Z",
+          "url": "https://www.youtube.com/watch?v=zozEm4f_dlw"
+        },
+        {
+          "id": "ZSch_NgZpQs",
+          "title": "Trees Are So Weird",
+          "thumbnail": "https://i.ytimg.com/vi/ZSch_NgZpQs/mqdefault.jpg",
+          "published_at": "2025-11-25T15:00:10Z",
+          "url": "https://www.youtube.com/watch?v=ZSch_NgZpQs"
+        },
+        {
+          "id": "sOsqXKr4l30",
+          "title": "The Fat Problem",
+          "thumbnail": "https://i.ytimg.com/vi/sOsqXKr4l30/mqdefault.jpg",
+          "published_at": "2025-11-18T15:00:06Z",
+          "url": "https://www.youtube.com/watch?v=sOsqXKr4l30"
+        },
+        {
+          "id": "Mo1A45ShcMo",
+          "title": "You're More Stressed Than Ever - Let's Change That",
+          "thumbnail": "https://i.ytimg.com/vi/Mo1A45ShcMo/mqdefault.jpg",
+          "published_at": "2025-11-11T15:00:05Z",
+          "url": "https://www.youtube.com/watch?v=Mo1A45ShcMo"
+        },
+        {
+          "id": "Brm71uCWr-I",
+          "title": "You Need To Quit Weed.",
+          "thumbnail": "https://i.ytimg.com/vi/Brm71uCWr-I/mqdefault.jpg",
+          "published_at": "2025-11-04T16:10:02Z",
+          "url": "https://www.youtube.com/watch?v=Brm71uCWr-I"
+        },
+        {
+          "id": "_zfN9wnPvU0",
+          "title": "AI Slop Is Destroying The Internet",
+          "thumbnail": "https://i.ytimg.com/vi/_zfN9wnPvU0/mqdefault.jpg",
+          "published_at": "2025-10-07T14:00:17Z",
+          "url": "https://www.youtube.com/watch?v=_zfN9wnPvU0"
+        },
+        {
+          "id": "VMm-U2pHrXE",
+          "title": "We Found a Loophole to Survive the End of the Universe",
+          "thumbnail": "https://i.ytimg.com/vi/VMm-U2pHrXE/mqdefault.jpg",
+          "published_at": "2025-09-30T14:00:03Z",
+          "url": "https://www.youtube.com/watch?v=VMm-U2pHrXE"
+        },
+        {
+          "id": "Zpq1GbPqhy4",
+          "title": "Pregnancy is Insane",
+          "thumbnail": "https://i.ytimg.com/vi/Zpq1GbPqhy4/mqdefault.jpg",
+          "published_at": "2025-09-23T14:00:25Z",
+          "url": "https://www.youtube.com/watch?v=Zpq1GbPqhy4"
+        },
+        {
+          "id": "dKm7T13X7n4",
+          "title": "Can Humanity Stop A Planet-Killing Asteroid?",
+          "thumbnail": "https://i.ytimg.com/vi/dKm7T13X7n4/mqdefault.jpg",
+          "published_at": "2025-09-16T14:00:03Z",
+          "url": "https://www.youtube.com/watch?v=dKm7T13X7n4"
+        },
+        {
+          "id": "gtDKKJq9u30",
+          "title": "The Dumbest Animal Alive",
+          "thumbnail": "https://i.ytimg.com/vi/gtDKKJq9u30/mqdefault.jpg",
+          "published_at": "2025-09-02T14:00:01Z",
+          "url": "https://www.youtube.com/watch?v=gtDKKJq9u30"
+        },
+        {
+          "id": "u4LUix-BU0s",
+          "title": "The Drug To Master Reality",
+          "thumbnail": "https://i.ytimg.com/vi/u4LUix-BU0s/mqdefault.jpg",
+          "published_at": "2025-08-19T14:00:01Z",
+          "url": "https://www.youtube.com/watch?v=u4LUix-BU0s"
+        },
+        {
+          "id": "aOwmt39L2IQ",
+          "title": "Alcohol is AMAZING",
+          "thumbnail": "https://i.ytimg.com/vi/aOwmt39L2IQ/mqdefault.jpg",
+          "published_at": "2025-08-12T14:00:08Z",
+          "url": "https://www.youtube.com/watch?v=aOwmt39L2IQ"
+        },
+        {
+          "id": "7wK4peez9zE",
+          "title": "Let's Kill You a Billion Times to Make You Immortal",
+          "thumbnail": "https://i.ytimg.com/vi/7wK4peez9zE/mqdefault.jpg",
+          "published_at": "2025-07-29T14:00:02Z",
+          "url": "https://www.youtube.com/watch?v=7wK4peez9zE"
+        },
+        {
+          "id": "efOW5NUTYB8",
+          "title": "When Your Body Attacks Itself \u2013 Autoimmune",
+          "thumbnail": "https://i.ytimg.com/vi/efOW5NUTYB8/mqdefault.jpg",
+          "published_at": "2025-07-01T14:00:01Z",
+          "url": "https://www.youtube.com/watch?v=efOW5NUTYB8"
+        },
+        {
+          "id": "zxq60I5RSW8",
+          "title": "How Nuclear Flies Protect You from Flesh-Eating Parasites",
+          "thumbnail": "https://i.ytimg.com/vi/zxq60I5RSW8/mqdefault.jpg",
+          "published_at": "2025-06-03T14:00:05Z",
+          "url": "https://www.youtube.com/watch?v=zxq60I5RSW8"
+        },
+        {
+          "id": "m6KnVTYtSc0",
+          "title": "Why Does Fentanyl Feel So Good?",
+          "thumbnail": "https://i.ytimg.com/vi/m6KnVTYtSc0/mqdefault.jpg",
+          "published_at": "2025-05-20T14:00:01Z",
+          "url": "https://www.youtube.com/watch?v=m6KnVTYtSc0"
+        },
+        {
+          "id": "tRXy-b6_lBc",
+          "title": "What If It Rains Bananas For A Single Day? (Spoiler: It's Bad)",
+          "thumbnail": "https://i.ytimg.com/vi/tRXy-b6_lBc/mqdefault.jpg",
+          "published_at": "2025-05-06T14:00:01Z",
+          "url": "https://www.youtube.com/watch?v=tRXy-b6_lBc"
+        },
+        {
+          "id": "NYNBAxDfgrY",
+          "title": "Your Time Machine Broke - At The Worst Time In History",
+          "thumbnail": "https://i.ytimg.com/vi/NYNBAxDfgrY/mqdefault.jpg",
+          "published_at": "2025-04-22T14:00:01Z",
+          "url": "https://www.youtube.com/watch?v=NYNBAxDfgrY"
+        },
+        {
+          "id": "Ufmu1WD2TSk",
+          "title": "SOUTH KOREA IS OVER",
+          "thumbnail": "https://i.ytimg.com/vi/Ufmu1WD2TSk/mqdefault.jpg",
+          "published_at": "2025-04-02T14:00:03Z",
+          "url": "https://www.youtube.com/watch?v=Ufmu1WD2TSk"
+        },
+        {
+          "id": "wo_e0EvEZn8",
+          "title": "Why Your Brain Blinds You For 2 Hours Every Day",
+          "thumbnail": "https://i.ytimg.com/vi/wo_e0EvEZn8/mqdefault.jpg",
+          "published_at": "2025-03-18T15:00:01Z",
+          "url": "https://www.youtube.com/watch?v=wo_e0EvEZn8"
+        },
+        {
+          "id": "5sVfTPaxRwk",
+          "title": "If You Eat Meat You Should Know This",
+          "thumbnail": "https://i.ytimg.com/vi/5sVfTPaxRwk/mqdefault.jpg",
+          "published_at": "2025-02-25T15:00:01Z",
+          "url": "https://www.youtube.com/watch?v=5sVfTPaxRwk"
+        },
+        {
+          "id": "dCiMUWw1BBc",
+          "title": "What Actual Aliens Might Look Like",
+          "thumbnail": "https://i.ytimg.com/vi/dCiMUWw1BBc/mqdefault.jpg",
+          "published_at": "2025-02-04T15:00:01Z",
+          "url": "https://www.youtube.com/watch?v=dCiMUWw1BBc"
+        },
+        {
+          "id": "9zCH37330f8",
+          "title": "The Real Reason Why You Have Allergies",
+          "thumbnail": "https://i.ytimg.com/vi/9zCH37330f8/mqdefault.jpg",
+          "published_at": "2024-12-12T15:00:04Z",
+          "url": "https://www.youtube.com/watch?v=9zCH37330f8"
+        },
+        {
+          "id": "reSfF60-2S4",
+          "title": "Is The World Getting More Violent?",
+          "thumbnail": "https://i.ytimg.com/vi/reSfF60-2S4/mqdefault.jpg",
+          "published_at": "2024-12-10T15:00:01Z",
+          "url": "https://www.youtube.com/watch?v=reSfF60-2S4"
+        },
+        {
+          "id": "BmUZ2wp1lM8",
+          "title": "Black Hole's Evil Twin - Gravastars Explained",
+          "thumbnail": "https://i.ytimg.com/vi/BmUZ2wp1lM8/mqdefault.jpg",
+          "published_at": "2024-12-03T15:00:04Z",
+          "url": "https://www.youtube.com/watch?v=BmUZ2wp1lM8"
+        },
+        {
+          "id": "cHEOsKddURQ",
+          "title": "Vaping Is Too Good To Be True",
+          "thumbnail": "https://i.ytimg.com/vi/cHEOsKddURQ/mqdefault.jpg",
+          "published_at": "2024-11-19T15:00:01Z",
+          "url": "https://www.youtube.com/watch?v=cHEOsKddURQ"
+        },
+        {
+          "id": "qBRaI0ZeAf8",
+          "title": "We Have To Talk About Weed",
+          "thumbnail": "https://i.ytimg.com/vi/qBRaI0ZeAf8/mqdefault.jpg",
+          "published_at": "2024-11-12T14:59:35Z",
+          "url": "https://www.youtube.com/watch?v=qBRaI0ZeAf8"
+        },
+        {
+          "id": "E55uSCO5D2w",
+          "title": "The Most Insane Weapon You Never Heard About",
+          "thumbnail": "https://i.ytimg.com/vi/E55uSCO5D2w/mqdefault.jpg",
+          "published_at": "2024-11-05T15:00:02Z",
+          "url": "https://www.youtube.com/watch?v=E55uSCO5D2w"
+        },
+        {
+          "id": "bgo7rm5Maqg",
+          "title": "We Fell For The Oldest Lie On The Internet",
+          "thumbnail": "https://i.ytimg.com/vi/bgo7rm5Maqg/mqdefault.jpg",
+          "published_at": "2024-10-29T15:00:09Z",
+          "url": "https://www.youtube.com/watch?v=bgo7rm5Maqg"
+        },
+        {
+          "id": "c1nYtX-NUsc",
+          "title": "Tired of Doomscrolling?",
+          "thumbnail": "https://i.ytimg.com/vi/c1nYtX-NUsc/mqdefault.jpg",
+          "published_at": "2024-10-08T13:59:36Z",
+          "url": "https://www.youtube.com/watch?v=c1nYtX-NUsc"
+        },
+        {
+          "id": "VD6xJq8NguY",
+          "title": "There Is Life Hiding Inside Earth",
+          "thumbnail": "https://i.ytimg.com/vi/VD6xJq8NguY/mqdefault.jpg",
+          "published_at": "2024-10-03T13:59:15Z",
+          "url": "https://www.youtube.com/watch?v=VD6xJq8NguY"
+        },
+        {
+          "id": "oTx-GSF3cts",
+          "title": "This Video Might Save 58 Lives Next Week",
+          "thumbnail": "https://i.ytimg.com/vi/oTx-GSF3cts/mqdefault.jpg",
+          "published_at": "2024-09-24T15:00:04Z",
+          "url": "https://www.youtube.com/watch?v=oTx-GSF3cts"
+        },
+        {
+          "id": "SbvAaDN1bpE",
+          "title": "Why Scientists Are Puzzled By This Virus",
+          "thumbnail": "https://i.ytimg.com/vi/SbvAaDN1bpE/mqdefault.jpg",
+          "published_at": "2024-09-17T14:00:08Z",
+          "url": "https://www.youtube.com/watch?v=SbvAaDN1bpE"
+        },
+        {
+          "id": "vSSkDos2hzo",
+          "title": "We Need to Rethink Exercise (Updated Version)",
+          "thumbnail": "https://i.ytimg.com/vi/vSSkDos2hzo/mqdefault.jpg",
+          "published_at": "2024-09-12T14:01:11Z",
+          "url": "https://www.youtube.com/watch?v=vSSkDos2hzo"
+        },
+        {
+          "id": "dBxxi5XAm3U",
+          "title": "We Traveled Back in Time. Now Physicists Are Angry.",
+          "thumbnail": "https://i.ytimg.com/vi/dBxxi5XAm3U/mqdefault.jpg",
+          "published_at": "2024-08-27T14:00:00Z",
+          "url": "https://www.youtube.com/watch?v=dBxxi5XAm3U"
+        },
+        {
+          "id": "cRZOUcpiOxY",
+          "title": "Fever Feels Horrible, but is Actually Awesome!",
+          "thumbnail": "https://i.ytimg.com/vi/cRZOUcpiOxY/mqdefault.jpg",
+          "published_at": "2024-08-13T14:00:01Z",
+          "url": "https://www.youtube.com/watch?v=cRZOUcpiOxY"
+        },
+        {
+          "id": "fa8k8IQ1_X0",
+          "title": "A.I. \u2010 Humanity's Final Invention?",
+          "thumbnail": "https://i.ytimg.com/vi/fa8k8IQ1_X0/mqdefault.jpg",
+          "published_at": "2024-08-06T14:00:09Z",
+          "url": "https://www.youtube.com/watch?v=fa8k8IQ1_X0"
+        },
+        {
+          "id": "GFLb5h2O2Ww",
+          "title": "This Disease is Deadlier Than The Plague",
+          "thumbnail": "https://i.ytimg.com/vi/GFLb5h2O2Ww/mqdefault.jpg",
+          "published_at": "2024-06-25T14:00:01Z",
+          "url": "https://www.youtube.com/watch?v=GFLb5h2O2Ww"
+        },
+        {
+          "id": "UebSfjmQNvs",
+          "title": "Do You Have a Free Will?",
+          "thumbnail": "https://i.ytimg.com/vi/UebSfjmQNvs/mqdefault.jpg",
+          "published_at": "2024-06-11T14:00:01Z",
+          "url": "https://www.youtube.com/watch?v=UebSfjmQNvs"
+        },
+        {
+          "id": "71eUes30gwc",
+          "title": "This Black Hole Could be Bigger Than The Universe",
+          "thumbnail": "https://i.ytimg.com/vi/71eUes30gwc/mqdefault.jpg",
+          "published_at": "2024-05-21T14:00:02Z",
+          "url": "https://www.youtube.com/watch?v=71eUes30gwc"
+        },
+        {
+          "id": "_rBPwu2uS-w",
+          "title": "Smoking is Awesome",
+          "thumbnail": "https://i.ytimg.com/vi/_rBPwu2uS-w/mqdefault.jpg",
+          "published_at": "2024-05-07T14:00:02Z",
+          "url": "https://www.youtube.com/watch?v=_rBPwu2uS-w"
+        },
+        {
+          "id": "L_JQOH1tEEA",
+          "title": "There Are Thousands of Alien Empires in The Milky Way",
+          "thumbnail": "https://i.ytimg.com/vi/L_JQOH1tEEA/mqdefault.jpg",
+          "published_at": "2024-04-16T14:00:03Z",
+          "url": "https://www.youtube.com/watch?v=L_JQOH1tEEA"
+        },
+        {
+          "id": "pjoQdz0nxf4",
+          "title": "How The Dinosaurs Actually Died",
+          "thumbnail": "https://i.ytimg.com/vi/pjoQdz0nxf4/mqdefault.jpg",
+          "published_at": "2024-03-26T14:59:10Z",
+          "url": "https://www.youtube.com/watch?v=pjoQdz0nxf4"
+        },
+        {
+          "id": "isdLel273rQ",
+          "title": "The Paradox of an Infinite Universe",
+          "thumbnail": "https://i.ytimg.com/vi/isdLel273rQ/mqdefault.jpg",
+          "published_at": "2024-02-27T15:00:02Z",
+          "url": "https://www.youtube.com/watch?v=isdLel273rQ"
+        },
+        {
+          "id": "LrIRuqr_Ozg",
+          "title": "What Happens AFTER Nuclear War?",
+          "thumbnail": "https://i.ytimg.com/vi/LrIRuqr_Ozg/mqdefault.jpg",
+          "published_at": "2024-02-20T15:00:02Z",
+          "url": "https://www.youtube.com/watch?v=LrIRuqr_Ozg"
         }
       ]
     }
