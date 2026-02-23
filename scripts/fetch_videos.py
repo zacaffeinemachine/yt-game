@@ -2,6 +2,7 @@
 """Fetch latest videos from configured YouTube channels and save to data/videos.json."""
 
 import os
+import re
 import json
 import requests
 from datetime import datetime, timezone
@@ -14,6 +15,7 @@ BASE = 'https://www.googleapis.com/youtube/v3'
 CHANNELS_FILE = 'channels.txt'
 OUTPUT_FILE = 'data/videos.json'
 MAX_VIDEOS = 50
+SHORTS_MAX_SECONDS = 180  # videos <= 3 min are treated as Shorts and excluded
 
 
 def yt(endpoint, **params):
@@ -47,6 +49,28 @@ def resolve_channel(identifier):
     }
 
 
+def parse_duration(iso):
+    """Convert ISO 8601 duration (e.g. PT4M13S) to total seconds."""
+    m = re.fullmatch(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', iso or '')
+    if not m:
+        return 0
+    h, mins, s = (int(x or 0) for x in m.groups())
+    return h * 3600 + mins * 60 + s
+
+
+def get_durations(video_ids):
+    """Fetch durations for a list of video IDs, batched 50 at a time."""
+    durations = {}
+    for i in range(0, len(video_ids), 50):
+        batch = video_ids[i:i + 50]
+        data = yt('videos', part='contentDetails', id=','.join(batch))
+        for item in data.get('items', []):
+            durations[item['id']] = parse_duration(
+                item['contentDetails']['duration']
+            )
+    return durations
+
+
 def fetch_videos(playlist_id):
     data = yt('playlistItems', part='snippet', playlistId=playlist_id, maxResults=MAX_VIDEOS)
     videos = []
@@ -66,6 +90,10 @@ def fetch_videos(playlist_id):
             'published_at': snippet['publishedAt'],
             'url': f'https://www.youtube.com/watch?v={video_id}',
         })
+    # Filter out Shorts (videos <= 3 minutes)
+    durations = get_durations([v['id'] for v in videos])
+    videos = [v for v in videos if durations.get(v['id'], 9999) > SHORTS_MAX_SECONDS]
+
     return videos
 
 
