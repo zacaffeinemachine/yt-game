@@ -26,6 +26,7 @@ run(['git', 'add', '-A'])
 
 msg = input("\nCommit message (press Enter for 'update'): ").strip() or "update"
 run(['git', 'commit', '-m', msg])
+run(['git', 'pull', '--rebase'])
 run(['git', 'push'])
 
 print("Done. GitHub Action will fetch new videos shortly.")
