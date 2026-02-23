@@ -30,13 +30,30 @@ function toggleWatched(videoId, event) {
   render();
 }
 
-function openVideo(url, videoId) {
+function openVideo(url, videoId, title) {
+  // Mark as watched
   const map = getWatched();
   map[videoId] = Date.now();
   saveWatched(map);
-  window.open(url, '_blank', 'noopener,noreferrer');
+
+  // Open modal with embedded player
+  document.getElementById('modal-iframe').src =
+    `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+  document.getElementById('modal-title').textContent = title;
+  document.getElementById('modal-yt-link').href = url;
+  document.getElementById('modal').classList.remove('hidden');
+
   render();
 }
+
+function closeModal() {
+  document.getElementById('modal').classList.add('hidden');
+  document.getElementById('modal-iframe').src = ''; // stop playback
+}
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeModal();
+});
 
 /* ── Navigation ─────────────────────────────────────────────────── */
 
@@ -139,7 +156,7 @@ function renderCard(video, showChannel, channelName) {
   const url = esc(video.url);
 
   return `
-    <div class="card ${isWatched ? 'watched' : ''}" onclick="openVideo('${url}','${id}')">
+    <div class="card ${isWatched ? 'watched' : ''}" onclick="openVideo('${url}','${id}','${esc(video.title)}')">
       <div class="thumb-wrap">
         <img src="${esc(video.thumbnail)}" alt="" loading="lazy"
           onerror="this.style.visibility='hidden'">

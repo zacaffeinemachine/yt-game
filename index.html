@@ -30,6 +30,24 @@
     </div>
   </div>
 
+  <div id="modal" class="modal hidden">
+    <div class="modal-backdrop" onclick="closeModal()"></div>
+    <div class="modal-box">
+      <div class="modal-header">
+        <p id="modal-title"></p>
+        <div class="modal-actions">
+          <a id="modal-yt-link" href="#" target="_blank" rel="noopener noreferrer">Open in YouTube ↗</a>
+          <button class="modal-close" onclick="closeModal()">✕</button>
+        </div>
+      </div>
+      <div class="modal-player">
+        <iframe id="modal-iframe" src="" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
   <script src="app.js"></script>
 </body>
 </html>
