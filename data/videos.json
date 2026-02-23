@@ -1,25 +1,11 @@
 {
-  "last_updated": "2026-02-23T05:04:40.195431+00:00",
+  "last_updated": "2026-02-23T05:16:27.959300+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
       "name": "3Blue1Brown",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
-        {
-          "id": "d0ai33oqqDE",
-          "title": "The lattice bacteria puzzle",
-          "thumbnail": "https://i.ytimg.com/vi/d0ai33oqqDE/mqdefault.jpg",
-          "published_at": "2026-02-18T06:02:59Z",
-          "url": "https://www.youtube.com/watch?v=d0ai33oqqDE"
-        },
-        {
-          "id": "7gG91SZwBoE",
-          "title": "Solution to the ladybug clock puzzle",
-          "thumbnail": "https://i.ytimg.com/vi/7gG91SZwBoE/mqdefault.jpg",
-          "published_at": "2026-02-16T14:08:37Z",
-          "url": "https://www.youtube.com/watch?v=7gG91SZwBoE"
-        },
         {
           "id": "BHdbsHFs2P0",
           "title": "The Hairy Ball Theorem",
@@ -28,25 +14,11 @@
           "url": "https://www.youtube.com/watch?v=BHdbsHFs2P0"
         },
         {
-          "id": "t3jZ2xGOvYg",
-          "title": "The ladybug clock puzzle",
-          "thumbnail": "https://i.ytimg.com/vi/t3jZ2xGOvYg/mqdefault.jpg",
-          "published_at": "2026-01-16T14:16:12Z",
-          "url": "https://www.youtube.com/watch?v=t3jZ2xGOvYg"
-        },
-        {
           "id": "FE-hM1kRK4Y",
           "title": "Why Laplace transforms are so useful",
           "thumbnail": "https://i.ytimg.com/vi/FE-hM1kRK4Y/mqdefault.jpg",
           "published_at": "2025-11-05T13:09:45Z",
           "url": "https://www.youtube.com/watch?v=FE-hM1kRK4Y"
-        },
-        {
-          "id": "bnjKwiUg-kw",
-          "title": "The dynamics of e^(\u03c0i)",
-          "thumbnail": "https://i.ytimg.com/vi/bnjKwiUg-kw/mqdefault.jpg",
-          "published_at": "2025-10-12T12:40:46Z",
-          "url": "https://www.youtube.com/watch?v=bnjKwiUg-kw"
         },
         {
           "id": "j0wJBEZdwLs",
@@ -70,13 +42,6 @@
           "url": "https://www.youtube.com/watch?v=M-MgQC6z3VU"
         },
         {
-          "id": "1lZpowy21Gc",
-          "title": "Incomplete open cubes",
-          "thumbnail": "https://i.ytimg.com/vi/1lZpowy21Gc/mqdefault.jpg",
-          "published_at": "2025-09-07T12:25:58Z",
-          "url": "https://www.youtube.com/watch?v=1lZpowy21Gc"
-        },
-        {
           "id": "_BrFKp-U8GI",
           "title": "Exploration & Epiphany | Guest video by Paul Dancstep",
           "thumbnail": "https://i.ytimg.com/vi/_BrFKp-U8GI/mqdefault.jpg",
@@ -89,13 +54,6 @@
           "thumbnail": "https://i.ytimg.com/vi/itRV2jEtV8Q/mqdefault.jpg",
           "published_at": "2025-08-28T14:00:47Z",
           "url": "https://www.youtube.com/watch?v=itRV2jEtV8Q"
-        },
-        {
-          "id": "j5h9dBtWZXM",
-          "title": "How AI connects text and images",
-          "thumbnail": "https://i.ytimg.com/vi/j5h9dBtWZXM/mqdefault.jpg",
-          "published_at": "2025-08-21T18:24:11Z",
-          "url": "https://www.youtube.com/watch?v=j5h9dBtWZXM"
         },
         {
           "id": "4NlrfOl0l8U",
@@ -126,81 +84,11 @@
           "url": "https://www.youtube.com/watch?v=RQWpF2Gb-gU"
         },
         {
-          "id": "XX8mjBXBqz8",
-          "title": "Testing your intuition for quantum computing",
-          "thumbnail": "https://i.ytimg.com/vi/XX8mjBXBqz8/mqdefault.jpg",
-          "published_at": "2025-04-30T12:32:13Z",
-          "url": "https://www.youtube.com/watch?v=XX8mjBXBqz8"
-        },
-        {
-          "id": "aQwEJKWATlE",
-          "title": "How to measure nearby galaxies",
-          "thumbnail": "https://i.ytimg.com/vi/aQwEJKWATlE/mqdefault.jpg",
-          "published_at": "2025-04-20T19:36:10Z",
-          "url": "https://www.youtube.com/watch?v=aQwEJKWATlE"
-        },
-        {
-          "id": "aw-8BhCilj0",
-          "title": "Measuring the distance to Venus without radar",
-          "thumbnail": "https://i.ytimg.com/vi/aw-8BhCilj0/mqdefault.jpg",
-          "published_at": "2025-04-08T13:45:00Z",
-          "url": "https://www.youtube.com/watch?v=aw-8BhCilj0"
-        },
-        {
-          "id": "M6LUPYsjods",
-          "title": "Measuring the speed of light using Jupiter's moons",
-          "thumbnail": "https://i.ytimg.com/vi/M6LUPYsjods/mqdefault.jpg",
-          "published_at": "2025-04-07T15:57:13Z",
-          "url": "https://www.youtube.com/watch?v=M6LUPYsjods"
-        },
-        {
-          "id": "mHya9J9pkq4",
-          "title": "The tragic tale of Guillaume Le Gentil",
-          "thumbnail": "https://i.ytimg.com/vi/mHya9J9pkq4/mqdefault.jpg",
-          "published_at": "2025-03-27T16:01:04Z",
-          "url": "https://www.youtube.com/watch?v=mHya9J9pkq4"
-        },
-        {
-          "id": "C8baNzpnZ7o",
-          "title": "Zooming out by powers of 10",
-          "thumbnail": "https://i.ytimg.com/vi/C8baNzpnZ7o/mqdefault.jpg",
-          "published_at": "2025-03-26T18:37:29Z",
-          "url": "https://www.youtube.com/watch?v=C8baNzpnZ7o"
-        },
-        {
           "id": "6dTyOl1fmDo",
           "title": "Why colliding blocks compute pi",
           "thumbnail": "https://i.ytimg.com/vi/6dTyOl1fmDo/mqdefault.jpg",
           "published_at": "2025-03-13T15:36:52Z",
           "url": "https://www.youtube.com/watch?v=6dTyOl1fmDo"
-        },
-        {
-          "id": "TZAC0WFemvE",
-          "title": "When being beautifully wrong leads to discovery",
-          "thumbnail": "https://i.ytimg.com/vi/TZAC0WFemvE/mqdefault.jpg",
-          "published_at": "2025-02-28T15:00:44Z",
-          "url": "https://www.youtube.com/watch?v=TZAC0WFemvE"
-        },
-        {
-          "id": "YP1mMXRCnaI",
-          "title": "Why the ancient Greeks rejected heliocentrism",
-          "thumbnail": "https://i.ytimg.com/vi/YP1mMXRCnaI/mqdefault.jpg",
-          "published_at": "2025-02-27T15:00:48Z",
-          "url": "https://www.youtube.com/watch?v=YP1mMXRCnaI"
-        },
-        {
-          "id": "gzbFNnTCkqQ",
-          "title": "How to estimate the distance to the sun",
-          "thumbnail": "https://i.ytimg.com/vi/gzbFNnTCkqQ/mqdefault.jpg",
-          "published_at": "2025-02-26T15:01:03Z",
-          "url": "https://www.youtube.com/watch?v=gzbFNnTCkqQ"
-        },
-        {
-          "id": "drmphB3rdHY",
-          "title": "How Aristarchus deduced the distance to the moon",
-          "thumbnail": "https://i.ytimg.com/vi/drmphB3rdHY/mqdefault.jpg",
-          "published_at": "2025-02-25T15:00:57Z",
-          "url": "https://www.youtube.com/watch?v=drmphB3rdHY"
         },
         {
           "id": "hFMaT9oRbs4",
@@ -210,60 +98,11 @@
           "url": "https://www.youtube.com/watch?v=hFMaT9oRbs4"
         },
         {
-          "id": "9s0srZneJ38",
-          "title": "How Earth's size was computed by Eratosthenes",
-          "thumbnail": "https://i.ytimg.com/vi/9s0srZneJ38/mqdefault.jpg",
-          "published_at": "2025-02-12T15:00:17Z",
-          "url": "https://www.youtube.com/watch?v=9s0srZneJ38"
-        },
-        {
           "id": "YdOXS_9_P4U",
           "title": "Terence Tao on the cosmic distance ladder",
           "thumbnail": "https://i.ytimg.com/vi/YdOXS_9_P4U/mqdefault.jpg",
           "published_at": "2025-02-08T13:35:15Z",
           "url": "https://www.youtube.com/watch?v=YdOXS_9_P4U"
-        },
-        {
-          "id": "uT4-WVa-YfU",
-          "title": "Measuring the earth with Terence Tao",
-          "thumbnail": "https://i.ytimg.com/vi/uT4-WVa-YfU/mqdefault.jpg",
-          "published_at": "2025-02-08T13:35:06Z",
-          "url": "https://www.youtube.com/watch?v=uT4-WVa-YfU"
-        },
-        {
-          "id": "K-pGGb0f3tc",
-          "title": "The topology of two-note chords",
-          "thumbnail": "https://i.ytimg.com/vi/K-pGGb0f3tc/mqdefault.jpg",
-          "published_at": "2025-01-30T15:00:25Z",
-          "url": "https://www.youtube.com/watch?v=K-pGGb0f3tc"
-        },
-        {
-          "id": "0TdBP9m4R74",
-          "title": "The barber pole optical mystery",
-          "thumbnail": "https://i.ytimg.com/vi/0TdBP9m4R74/mqdefault.jpg",
-          "published_at": "2025-01-06T15:37:38Z",
-          "url": "https://www.youtube.com/watch?v=0TdBP9m4R74"
-        },
-        {
-          "id": "zxOK2vKVfQM",
-          "title": "Monge's Theorem",
-          "thumbnail": "https://i.ytimg.com/vi/zxOK2vKVfQM/mqdefault.jpg",
-          "published_at": "2024-12-29T16:00:54Z",
-          "url": "https://www.youtube.com/watch?v=zxOK2vKVfQM"
-        },
-        {
-          "id": "DgMhayP2NPU",
-          "title": "Thinking through double slits",
-          "thumbnail": "https://i.ytimg.com/vi/DgMhayP2NPU/mqdefault.jpg",
-          "published_at": "2024-12-26T16:48:04Z",
-          "url": "https://www.youtube.com/watch?v=DgMhayP2NPU"
-        },
-        {
-          "id": "LuVUnd0C07U",
-          "title": "The inscribed square problem",
-          "thumbnail": "https://i.ytimg.com/vi/LuVUnd0C07U/mqdefault.jpg",
-          "published_at": "2024-12-24T18:46:12Z",
-          "url": "https://www.youtube.com/watch?v=LuVUnd0C07U"
         },
         {
           "id": "IQqtsm-bBRU",
@@ -273,20 +112,6 @@
           "url": "https://www.youtube.com/watch?v=IQqtsm-bBRU"
         },
         {
-          "id": "y9BK--OxZpY",
-          "title": "The meaning within the Mandelbrot set",
-          "thumbnail": "https://i.ytimg.com/vi/y9BK--OxZpY/mqdefault.jpg",
-          "published_at": "2024-11-24T17:00:57Z",
-          "url": "https://www.youtube.com/watch?v=y9BK--OxZpY"
-        },
-        {
-          "id": "qSn8dVI9V5I",
-          "title": "The scale of training LLMs",
-          "thumbnail": "https://i.ytimg.com/vi/qSn8dVI9V5I/mqdefault.jpg",
-          "published_at": "2024-11-20T15:07:29Z",
-          "url": "https://www.youtube.com/watch?v=qSn8dVI9V5I"
-        },
-        {
           "id": "LPZh9BOjkQs",
           "title": "Large Language Models explained briefly",
           "thumbnail": "https://i.ytimg.com/vi/LPZh9BOjkQs/mqdefault.jpg",
@@ -294,60 +119,11 @@
           "url": "https://www.youtube.com/watch?v=LPZh9BOjkQs"
         },
         {
-          "id": "nAT-MCsJeik",
-          "title": "This puzzle is trickier than it seems",
-          "thumbnail": "https://i.ytimg.com/vi/nAT-MCsJeik/mqdefault.jpg",
-          "published_at": "2024-11-19T19:06:45Z",
-          "url": "https://www.youtube.com/watch?v=nAT-MCsJeik"
-        },
-        {
-          "id": "EPDZTLavmcg",
-          "title": "Sphere surface area proof sketch",
-          "thumbnail": "https://i.ytimg.com/vi/EPDZTLavmcg/mqdefault.jpg",
-          "published_at": "2024-11-17T16:00:10Z",
-          "url": "https://www.youtube.com/watch?v=EPDZTLavmcg"
-        },
-        {
-          "id": "LOulCFdVOGY",
-          "title": "Newton\u2019s Fractal is beautiful",
-          "thumbnail": "https://i.ytimg.com/vi/LOulCFdVOGY/mqdefault.jpg",
-          "published_at": "2024-11-16T16:53:52Z",
-          "url": "https://www.youtube.com/watch?v=LOulCFdVOGY"
-        },
-        {
-          "id": "JNVZK4ofW-Y",
-          "title": "The Triangle Of Power",
-          "thumbnail": "https://i.ytimg.com/vi/JNVZK4ofW-Y/mqdefault.jpg",
-          "published_at": "2024-11-15T15:58:23Z",
-          "url": "https://www.youtube.com/watch?v=JNVZK4ofW-Y"
-        },
-        {
-          "id": "0W243LGSJFU",
-          "title": "The twirling tiles puzzle",
-          "thumbnail": "https://i.ytimg.com/vi/0W243LGSJFU/mqdefault.jpg",
-          "published_at": "2024-11-13T18:01:06Z",
-          "url": "https://www.youtube.com/watch?v=0W243LGSJFU"
-        },
-        {
-          "id": "Pny70rNPJLk",
-          "title": "A bizarre probability fact",
-          "thumbnail": "https://i.ytimg.com/vi/Pny70rNPJLk/mqdefault.jpg",
-          "published_at": "2024-11-12T23:09:05Z",
-          "url": "https://www.youtube.com/watch?v=Pny70rNPJLk"
-        },
-        {
           "id": "piJkuavhV50",
           "title": "Five puzzles for thinking outside the box",
           "thumbnail": "https://i.ytimg.com/vi/piJkuavhV50/mqdefault.jpg",
           "published_at": "2024-11-08T13:34:50Z",
           "url": "https://www.youtube.com/watch?v=piJkuavhV50"
-        },
-        {
-          "id": "KHEtJUlpqcg",
-          "title": "LLMs are next-word predictors",
-          "thumbnail": "https://i.ytimg.com/vi/KHEtJUlpqcg/mqdefault.jpg",
-          "published_at": "2024-11-04T15:24:37Z",
-          "url": "https://www.youtube.com/watch?v=KHEtJUlpqcg"
         },
         {
           "id": "rbu7Zu5X1zI",
@@ -364,32 +140,11 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
-          "id": "qtPPfM7Tz1o",
-          "title": "The Crazy Physics of Jet Engines",
-          "thumbnail": "https://i.ytimg.com/vi/qtPPfM7Tz1o/mqdefault.jpg",
-          "published_at": "2026-02-22T03:00:53Z",
-          "url": "https://www.youtube.com/watch?v=qtPPfM7Tz1o"
-        },
-        {
           "id": "cMx139eTxoc",
           "title": "Asbestos is a bigger problem than we thought",
           "thumbnail": "https://i.ytimg.com/vi/cMx139eTxoc/mqdefault.jpg",
           "published_at": "2026-02-17T21:33:35Z",
           "url": "https://www.youtube.com/watch?v=cMx139eTxoc"
-        },
-        {
-          "id": "Bl0WZvAeDik",
-          "title": "Rubber used to be useless\u2026",
-          "thumbnail": "https://i.ytimg.com/vi/Bl0WZvAeDik/mqdefault.jpg",
-          "published_at": "2026-02-12T15:02:13Z",
-          "url": "https://www.youtube.com/watch?v=Bl0WZvAeDik"
-        },
-        {
-          "id": "Bt3boxwRF84",
-          "title": "World\u2019s Largest Spiderweb",
-          "thumbnail": "https://i.ytimg.com/vi/Bt3boxwRF84/mqdefault.jpg",
-          "published_at": "2026-02-07T14:00:16Z",
-          "url": "https://www.youtube.com/watch?v=Bt3boxwRF84"
         },
         {
           "id": "6HVYHNTDOFs",
@@ -406,32 +161,11 @@
           "url": "https://www.youtube.com/watch?v=XKSjCOKDtpk"
         },
         {
-          "id": "w2TLv30F6UU",
-          "title": "How They Prevented The Citicorp Disaster",
-          "thumbnail": "https://i.ytimg.com/vi/w2TLv30F6UU/mqdefault.jpg",
-          "published_at": "2026-01-22T14:01:23Z",
-          "url": "https://www.youtube.com/watch?v=w2TLv30F6UU"
-        },
-        {
           "id": "P-4pbFcERnk",
           "title": "What Happens If You Keep Slowing Down?",
           "thumbnail": "https://i.ytimg.com/vi/P-4pbFcERnk/mqdefault.jpg",
           "published_at": "2026-01-19T18:53:55Z",
           "url": "https://www.youtube.com/watch?v=P-4pbFcERnk"
-        },
-        {
-          "id": "itSkBESLZeY",
-          "title": "What happens if you cut the green rope?",
-          "thumbnail": "https://i.ytimg.com/vi/itSkBESLZeY/mqdefault.jpg",
-          "published_at": "2026-01-15T14:01:26Z",
-          "url": "https://www.youtube.com/watch?v=itSkBESLZeY"
-        },
-        {
-          "id": "fkxoaD47-Vo",
-          "title": "You're Only 6 Steps Away From Anyone On Earth",
-          "thumbnail": "https://i.ytimg.com/vi/fkxoaD47-Vo/mqdefault.jpg",
-          "published_at": "2026-01-09T14:01:13Z",
-          "url": "https://www.youtube.com/watch?v=fkxoaD47-Vo"
         },
         {
           "id": "MiUHjLxm3V0",
@@ -455,13 +189,6 @@
           "url": "https://www.youtube.com/watch?v=NIk_0AW5hFU"
         },
         {
-          "id": "nMqWWO6p7-c",
-          "title": "What is this strange pattern down the east coast of America?",
-          "thumbnail": "https://i.ytimg.com/vi/nMqWWO6p7-c/mqdefault.jpg",
-          "published_at": "2025-12-11T14:01:33Z",
-          "url": "https://www.youtube.com/watch?v=nMqWWO6p7-c"
-        },
-        {
           "id": "Y-W-w8yNiKU",
           "title": "The Man Who Accidentally Discovered Antimatter",
           "thumbnail": "https://i.ytimg.com/vi/Y-W-w8yNiKU/mqdefault.jpg",
@@ -469,25 +196,11 @@
           "url": "https://www.youtube.com/watch?v=Y-W-w8yNiKU"
         },
         {
-          "id": "Bb0uDpvitoE",
-          "title": "I Turned My Phone Into A Microscope",
-          "thumbnail": "https://i.ytimg.com/vi/Bb0uDpvitoE/mqdefault.jpg",
-          "published_at": "2025-11-27T15:04:19Z",
-          "url": "https://www.youtube.com/watch?v=Bb0uDpvitoE"
-        },
-        {
           "id": "HBluLfX2F_k",
           "title": "You've (Likely) Been Playing The Game of Life Wrong",
           "thumbnail": "https://i.ytimg.com/vi/HBluLfX2F_k/mqdefault.jpg",
           "published_at": "2025-11-26T21:45:00Z",
           "url": "https://www.youtube.com/watch?v=HBluLfX2F_k"
-        },
-        {
-          "id": "gGtuw7Rejtk",
-          "title": "How Strong Is Super Glue?",
-          "thumbnail": "https://i.ytimg.com/vi/gGtuw7Rejtk/mqdefault.jpg",
-          "published_at": "2025-11-21T14:47:27Z",
-          "url": "https://www.youtube.com/watch?v=gGtuw7Rejtk"
         },
         {
           "id": "QtxVdC7pBQM",
@@ -504,46 +217,11 @@
           "url": "https://www.youtube.com/watch?v=9M_QK4stCJU"
         },
         {
-          "id": "HVySQLuxLkI",
-          "title": "Seeing Inside A Thermite Reaction",
-          "thumbnail": "https://i.ytimg.com/vi/HVySQLuxLkI/mqdefault.jpg",
-          "published_at": "2025-11-10T14:07:17Z",
-          "url": "https://www.youtube.com/watch?v=HVySQLuxLkI"
-        },
-        {
           "id": "XX7PdJIGiCw",
           "title": "The Most Controversial Idea in Biology",
           "thumbnail": "https://i.ytimg.com/vi/XX7PdJIGiCw/mqdefault.jpg",
           "published_at": "2025-10-31T22:42:09Z",
           "url": "https://www.youtube.com/watch?v=XX7PdJIGiCw"
-        },
-        {
-          "id": "tWRyiCP17do",
-          "title": "Why didn't this skateboard stunt start from the top?",
-          "thumbnail": "https://i.ytimg.com/vi/tWRyiCP17do/mqdefault.jpg",
-          "published_at": "2025-10-29T16:03:24Z",
-          "url": "https://www.youtube.com/watch?v=tWRyiCP17do"
-        },
-        {
-          "id": "h830G5mkTF4",
-          "title": "How To Solve a Quadratic Equation",
-          "thumbnail": "https://i.ytimg.com/vi/h830G5mkTF4/mqdefault.jpg",
-          "published_at": "2025-10-26T13:32:19Z",
-          "url": "https://www.youtube.com/watch?v=h830G5mkTF4"
-        },
-        {
-          "id": "kh9OmFBg8qI",
-          "title": "How To See Atoms",
-          "thumbnail": "https://i.ytimg.com/vi/kh9OmFBg8qI/mqdefault.jpg",
-          "published_at": "2025-10-17T13:00:04Z",
-          "url": "https://www.youtube.com/watch?v=kh9OmFBg8qI"
-        },
-        {
-          "id": "S7xvqDUPoJo",
-          "title": "Renting A Helicopter To Settle A Physics Debate",
-          "thumbnail": "https://i.ytimg.com/vi/S7xvqDUPoJo/mqdefault.jpg",
-          "published_at": "2025-10-09T14:01:34Z",
-          "url": "https://www.youtube.com/watch?v=S7xvqDUPoJo"
         },
         {
           "id": "CYlon2tvywA",
@@ -560,20 +238,6 @@
           "url": "https://www.youtube.com/watch?v=onr80iOoEXs"
         },
         {
-          "id": "q6WlXhtVvkg",
-          "title": "How to solve any maze",
-          "thumbnail": "https://i.ytimg.com/vi/q6WlXhtVvkg/mqdefault.jpg",
-          "published_at": "2025-09-18T13:00:02Z",
-          "url": "https://www.youtube.com/watch?v=q6WlXhtVvkg"
-        },
-        {
-          "id": "b8XVCsXyIZs",
-          "title": "What Happens When You Spin a Football?",
-          "thumbnail": "https://i.ytimg.com/vi/b8XVCsXyIZs/mqdefault.jpg",
-          "published_at": "2025-09-14T13:00:10Z",
-          "url": "https://www.youtube.com/watch?v=b8XVCsXyIZs"
-        },
-        {
           "id": "tZ8ehplVFp4",
           "title": "The Most Dangerous Escalator in the World",
           "thumbnail": "https://i.ytimg.com/vi/tZ8ehplVFp4/mqdefault.jpg",
@@ -588,32 +252,11 @@
           "url": "https://www.youtube.com/watch?v=CxVXvFOPIyQ"
         },
         {
-          "id": "OW9Mq3wrEqY",
-          "title": "How aerogel can make the ocean drinkable",
-          "thumbnail": "https://i.ytimg.com/vi/OW9Mq3wrEqY/mqdefault.jpg",
-          "published_at": "2025-08-28T13:01:05Z",
-          "url": "https://www.youtube.com/watch?v=OW9Mq3wrEqY"
-        },
-        {
           "id": "AFXLZ7FEJc4",
           "title": "This is the natural disaster to worry about",
           "thumbnail": "https://i.ytimg.com/vi/AFXLZ7FEJc4/mqdefault.jpg",
           "published_at": "2025-08-22T17:11:23Z",
           "url": "https://www.youtube.com/watch?v=AFXLZ7FEJc4"
-        },
-        {
-          "id": "zQ2ZJuUJeyo",
-          "title": "Can you swim in shade balls?",
-          "thumbnail": "https://i.ytimg.com/vi/zQ2ZJuUJeyo/mqdefault.jpg",
-          "published_at": "2025-08-19T08:35:20Z",
-          "url": "https://www.youtube.com/watch?v=zQ2ZJuUJeyo"
-        },
-        {
-          "id": "y2y8ME02lX4",
-          "title": "Testing the US Military\u2019s worst idea",
-          "thumbnail": "https://i.ytimg.com/vi/y2y8ME02lX4/mqdefault.jpg",
-          "published_at": "2025-08-14T13:00:01Z",
-          "url": "https://www.youtube.com/watch?v=y2y8ME02lX4"
         },
         {
           "id": "AGglJehON5g",
@@ -623,13 +266,6 @@
           "url": "https://www.youtube.com/watch?v=AGglJehON5g"
         },
         {
-          "id": "UKfnXd3x-rw",
-          "title": "The blue LED was almost impossible to make",
-          "thumbnail": "https://i.ytimg.com/vi/UKfnXd3x-rw/mqdefault.jpg",
-          "published_at": "2025-08-02T13:09:26Z",
-          "url": "https://www.youtube.com/watch?v=UKfnXd3x-rw"
-        },
-        {
           "id": "KZeIEiBrT_w",
           "title": "The Strange Math That Predicts (Almost) Anything",
           "thumbnail": "https://i.ytimg.com/vi/KZeIEiBrT_w/mqdefault.jpg",
@@ -637,32 +273,11 @@
           "url": "https://www.youtube.com/watch?v=KZeIEiBrT_w"
         },
         {
-          "id": "za_HO2E3JEU",
-          "title": "Why do all animals jump to about the same height?",
-          "thumbnail": "https://i.ytimg.com/vi/za_HO2E3JEU/mqdefault.jpg",
-          "published_at": "2025-07-24T13:31:58Z",
-          "url": "https://www.youtube.com/watch?v=za_HO2E3JEU"
-        },
-        {
-          "id": "49NikeBCzWo",
-          "title": "Why did light bulb lifetimes get shorter?",
-          "thumbnail": "https://i.ytimg.com/vi/49NikeBCzWo/mqdefault.jpg",
-          "published_at": "2025-07-17T18:56:42Z",
-          "url": "https://www.youtube.com/watch?v=49NikeBCzWo"
-        },
-        {
           "id": "-QTkPfq7w1A",
           "title": "This mechanism shrinks when pulled",
           "thumbnail": "https://i.ytimg.com/vi/-QTkPfq7w1A/mqdefault.jpg",
           "published_at": "2025-06-30T18:02:42Z",
           "url": "https://www.youtube.com/watch?v=-QTkPfq7w1A"
-        },
-        {
-          "id": "Jqz_YuyXKJI",
-          "title": "There are 96 million black balls on this lake",
-          "thumbnail": "https://i.ytimg.com/vi/Jqz_YuyXKJI/mqdefault.jpg",
-          "published_at": "2025-06-24T16:40:05Z",
-          "url": "https://www.youtube.com/watch?v=Jqz_YuyXKJI"
         },
         {
           "id": "x32Zq-XvID4",
@@ -679,13 +294,6 @@
           "url": "https://www.youtube.com/watch?v=J3i3F2e4IYs"
         },
         {
-          "id": "zeZddwimLc8",
-          "title": "Why do planes fly so high?",
-          "thumbnail": "https://i.ytimg.com/vi/zeZddwimLc8/mqdefault.jpg",
-          "published_at": "2025-05-21T14:31:31Z",
-          "url": "https://www.youtube.com/watch?v=zeZddwimLc8"
-        },
-        {
           "id": "SC2eSujzrUY",
           "title": "How One Company Secretly Poisoned The Planet",
           "thumbnail": "https://i.ytimg.com/vi/SC2eSujzrUY/mqdefault.jpg",
@@ -698,13 +306,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Q56PMJbCFXQ/mqdefault.jpg",
           "published_at": "2025-04-26T20:07:58Z",
           "url": "https://www.youtube.com/watch?v=Q56PMJbCFXQ"
-        },
-        {
-          "id": "4LYlMqBXTJI",
-          "title": "Why we put spiders on soccer balls",
-          "thumbnail": "https://i.ytimg.com/vi/4LYlMqBXTJI/mqdefault.jpg",
-          "published_at": "2025-04-22T16:41:43Z",
-          "url": "https://www.youtube.com/watch?v=4LYlMqBXTJI"
         },
         {
           "id": "lcjdwSY2AzM",
