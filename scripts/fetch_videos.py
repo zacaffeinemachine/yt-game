@@ -3,40 +3,39 @@
 
 import os
 import json
+import requests
 from datetime import datetime, timezone
-from googleapiclient.discovery import build
 
 API_KEY = os.environ.get('YOUTUBE_API_KEY')
 if not API_KEY:
     raise SystemExit("ERROR: YOUTUBE_API_KEY environment variable is not set.")
 
+BASE = 'https://www.googleapis.com/youtube/v3'
 CHANNELS_FILE = 'channels.txt'
 OUTPUT_FILE = 'data/videos.json'
 MAX_VIDEOS = 50
 
-youtube = build('youtube', 'v3', developerKey=API_KEY)
+
+def yt(endpoint, **params):
+    params['key'] = API_KEY
+    r = requests.get(f'{BASE}/{endpoint}', params=params)
+    r.raise_for_status()
+    return r.json()
 
 
 def resolve_channel(identifier):
-    """Resolve a channel handle or ID to channel metadata."""
-    identifier = identifier.strip()
     if identifier.startswith('@'):
-        params = {'forHandle': identifier}
+        data = yt('channels', part='id,snippet,contentDetails', forHandle=identifier)
     elif identifier.startswith('UC'):
-        params = {'id': identifier}
+        data = yt('channels', part='id,snippet,contentDetails', id=identifier)
     else:
-        params = {'forUsername': identifier}
+        data = yt('channels', part='id,snippet,contentDetails', forUsername=identifier)
 
-    resp = youtube.channels().list(
-        part='id,snippet,contentDetails',
-        **params
-    ).execute()
-
-    if not resp.get('items'):
+    if not data.get('items'):
         print(f"  WARNING: Channel not found: {identifier}")
         return None
 
-    item = resp['items'][0]
+    item = data['items'][0]
     thumbs = item['snippet']['thumbnails']
     thumb = thumbs.get('default', {}).get('url', '')
 
@@ -49,25 +48,17 @@ def resolve_channel(identifier):
 
 
 def fetch_videos(playlist_id):
-    """Fetch the latest videos from an uploads playlist."""
-    resp = youtube.playlistItems().list(
-        part='snippet',
-        playlistId=playlist_id,
-        maxResults=MAX_VIDEOS,
-    ).execute()
-
+    data = yt('playlistItems', part='snippet', playlistId=playlist_id, maxResults=MAX_VIDEOS)
     videos = []
-    for item in resp.get('items', []):
+    for item in data.get('items', []):
         snippet = item['snippet']
         video_id = snippet['resourceId']['videoId']
         thumbs = snippet.get('thumbnails', {})
-        # Prefer medium, fall back to high or default
         thumb = (
             thumbs.get('medium') or
             thumbs.get('high') or
             thumbs.get('default') or {}
         ).get('url', '')
-
         videos.append({
             'id': video_id,
             'title': snippet['title'],
@@ -75,12 +66,10 @@ def fetch_videos(playlist_id):
             'published_at': snippet['publishedAt'],
             'url': f'https://www.youtube.com/watch?v={video_id}',
         })
-
     return videos
 
 
 def read_identifiers():
-    """Read channel identifiers from channels.txt."""
     try:
         with open(CHANNELS_FILE) as f:
             return [
