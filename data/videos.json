@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T05:16:27.959300+00:00",
+  "last_updated": "2026-02-23T05:25:11.944920+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -131,6 +131,230 @@
           "thumbnail": "https://i.ytimg.com/vi/rbu7Zu5X1zI/mqdefault.jpg",
           "published_at": "2024-10-12T13:00:39Z",
           "url": "https://www.youtube.com/watch?v=rbu7Zu5X1zI"
+        },
+        {
+          "id": "EmKQsSDlaa4",
+          "title": "How are holograms possible?",
+          "thumbnail": "https://i.ytimg.com/vi/EmKQsSDlaa4/mqdefault.jpg",
+          "published_at": "2024-10-05T15:31:58Z",
+          "url": "https://www.youtube.com/watch?v=EmKQsSDlaa4"
+        },
+        {
+          "id": "9-Jl0dxWQs8",
+          "title": "How might LLMs store facts | Deep Learning Chapter 7",
+          "thumbnail": "https://i.ytimg.com/vi/9-Jl0dxWQs8/mqdefault.jpg",
+          "published_at": "2024-08-31T12:11:19Z",
+          "url": "https://www.youtube.com/watch?v=9-Jl0dxWQs8"
+        },
+        {
+          "id": "W3I3kAg2J7w",
+          "title": "What \"Follow Your Dreams\" Misses | Harvey Mudd Commencement Speech 2024",
+          "thumbnail": "https://i.ytimg.com/vi/W3I3kAg2J7w/mqdefault.jpg",
+          "published_at": "2024-05-18T14:50:47Z",
+          "url": "https://www.youtube.com/watch?v=W3I3kAg2J7w"
+        },
+        {
+          "id": "eMlx5fFNoYc",
+          "title": "Attention in transformers, step-by-step | Deep Learning Chapter 6",
+          "thumbnail": "https://i.ytimg.com/vi/eMlx5fFNoYc/mqdefault.jpg",
+          "published_at": "2024-04-07T12:53:54Z",
+          "url": "https://www.youtube.com/watch?v=eMlx5fFNoYc"
+        },
+        {
+          "id": "wjZofJX0v4M",
+          "title": "Transformers, the tech behind LLMs | Deep Learning Chapter 5",
+          "thumbnail": "https://i.ytimg.com/vi/wjZofJX0v4M/mqdefault.jpg",
+          "published_at": "2024-04-01T19:13:57Z",
+          "url": "https://www.youtube.com/watch?v=wjZofJX0v4M"
+        },
+        {
+          "id": "Cz4Q4QOuoo8",
+          "title": "Answering viewer questions about refraction",
+          "thumbnail": "https://i.ytimg.com/vi/Cz4Q4QOuoo8/mqdefault.jpg",
+          "published_at": "2023-12-03T11:35:57Z",
+          "url": "https://www.youtube.com/watch?v=Cz4Q4QOuoo8"
+        },
+        {
+          "id": "KTzGBJPuJwM",
+          "title": "But why would light \"slow down\"? | Visualizing Feynman's lecture on the refractive index",
+          "thumbnail": "https://i.ytimg.com/vi/KTzGBJPuJwM/mqdefault.jpg",
+          "published_at": "2023-11-30T18:42:33Z",
+          "url": "https://www.youtube.com/watch?v=KTzGBJPuJwM"
+        },
+        {
+          "id": "6a1fLEToyvU",
+          "title": "25 Math explainers you may enjoy | SoME3 results",
+          "thumbnail": "https://i.ytimg.com/vi/6a1fLEToyvU/mqdefault.jpg",
+          "published_at": "2023-10-07T14:28:37Z",
+          "url": "https://www.youtube.com/watch?v=6a1fLEToyvU"
+        },
+        {
+          "id": "aXRTczANuIs",
+          "title": "How wiggling charges give rise to light",
+          "thumbnail": "https://i.ytimg.com/vi/aXRTczANuIs/mqdefault.jpg",
+          "published_at": "2023-09-01T13:39:37Z",
+          "url": "https://www.youtube.com/watch?v=aXRTczANuIs"
+        },
+        {
+          "id": "QCX62YJCmGk",
+          "title": "This tests your understanding of light | The barber pole effect",
+          "thumbnail": "https://i.ytimg.com/vi/QCX62YJCmGk/mqdefault.jpg",
+          "published_at": "2023-09-01T13:13:14Z",
+          "url": "https://www.youtube.com/watch?v=QCX62YJCmGk"
+        },
+        {
+          "id": "d_qvLDhkg00",
+          "title": "A pretty reason why Gaussian + Gaussian = Gaussian",
+          "thumbnail": "https://i.ytimg.com/vi/d_qvLDhkg00/mqdefault.jpg",
+          "published_at": "2023-07-11T15:53:09Z",
+          "url": "https://www.youtube.com/watch?v=d_qvLDhkg00"
+        },
+        {
+          "id": "YtkIWDE36qU",
+          "title": "This pattern breaks, but for a good reason | Moser's circle problem",
+          "thumbnail": "https://i.ytimg.com/vi/YtkIWDE36qU/mqdefault.jpg",
+          "published_at": "2023-07-02T04:41:01Z",
+          "url": "https://www.youtube.com/watch?v=YtkIWDE36qU"
+        },
+        {
+          "id": "NOCsdhzo6Jg",
+          "title": "How They Fool Ya (live) | Math parody of Hallelujah",
+          "thumbnail": "https://i.ytimg.com/vi/NOCsdhzo6Jg/mqdefault.jpg",
+          "published_at": "2023-06-28T19:17:11Z",
+          "url": "https://www.youtube.com/watch?v=NOCsdhzo6Jg"
+        },
+        {
+          "id": "IaSGqQa5O-M",
+          "title": "Convolutions | Why X+Y in probability is a beautiful mess",
+          "thumbnail": "https://i.ytimg.com/vi/IaSGqQa5O-M/mqdefault.jpg",
+          "published_at": "2023-06-27T15:08:14Z",
+          "url": "https://www.youtube.com/watch?v=IaSGqQa5O-M"
+        },
+        {
+          "id": "cy8r7WSuT1I",
+          "title": "Why \u03c0 is in the normal distribution (beyond integral tricks)",
+          "thumbnail": "https://i.ytimg.com/vi/cy8r7WSuT1I/mqdefault.jpg",
+          "published_at": "2023-04-02T15:30:13Z",
+          "url": "https://www.youtube.com/watch?v=cy8r7WSuT1I"
+        },
+        {
+          "id": "zeJD6dqJ5lo",
+          "title": "But what is the Central Limit Theorem?",
+          "thumbnail": "https://i.ytimg.com/vi/zeJD6dqJ5lo/mqdefault.jpg",
+          "published_at": "2023-03-14T18:36:36Z",
+          "url": "https://www.youtube.com/watch?v=zeJD6dqJ5lo"
+        },
+        {
+          "id": "KuXjwB4LzSA",
+          "title": "But what is a convolution?",
+          "thumbnail": "https://i.ytimg.com/vi/KuXjwB4LzSA/mqdefault.jpg",
+          "published_at": "2022-11-18T16:00:39Z",
+          "url": "https://www.youtube.com/watch?v=KuXjwB4LzSA"
+        },
+        {
+          "id": "851U557j6HE",
+          "title": "Researchers thought this was a bug (Borwein integrals)",
+          "thumbnail": "https://i.ytimg.com/vi/851U557j6HE/mqdefault.jpg",
+          "published_at": "2022-11-04T15:54:19Z",
+          "url": "https://www.youtube.com/watch?v=851U557j6HE"
+        },
+        {
+          "id": "cDofhN-RJqg",
+          "title": "What makes a great math explanation? | SoME2 results",
+          "thumbnail": "https://i.ytimg.com/vi/cDofhN-RJqg/mqdefault.jpg",
+          "published_at": "2022-10-01T19:23:52Z",
+          "url": "https://www.youtube.com/watch?v=cDofhN-RJqg"
+        },
+        {
+          "id": "VYQVlVoWoPY",
+          "title": "How to lie using visual proofs",
+          "thumbnail": "https://i.ytimg.com/vi/VYQVlVoWoPY/mqdefault.jpg",
+          "published_at": "2022-07-03T15:03:56Z",
+          "url": "https://www.youtube.com/watch?v=VYQVlVoWoPY"
+        },
+        {
+          "id": "bOXCLR3Wric",
+          "title": "Olympiad level counting  (Generating functions)",
+          "thumbnail": "https://i.ytimg.com/vi/bOXCLR3Wric/mqdefault.jpg",
+          "published_at": "2022-05-23T15:55:10Z",
+          "url": "https://www.youtube.com/watch?v=bOXCLR3Wric"
+        },
+        {
+          "id": "fRed0Xmc2Wg",
+          "title": "Oh, wait, actually the best Wordle opener is not \u201ccrane\u201d\u2026",
+          "thumbnail": "https://i.ytimg.com/vi/fRed0Xmc2Wg/mqdefault.jpg",
+          "published_at": "2022-02-13T18:33:24Z",
+          "url": "https://www.youtube.com/watch?v=fRed0Xmc2Wg"
+        },
+        {
+          "id": "v68zYyaEmEA",
+          "title": "Solving Wordle using information theory",
+          "thumbnail": "https://i.ytimg.com/vi/v68zYyaEmEA/mqdefault.jpg",
+          "published_at": "2022-02-06T13:28:52Z",
+          "url": "https://www.youtube.com/watch?v=v68zYyaEmEA"
+        },
+        {
+          "id": "ltLUadnCyi0",
+          "title": "A tale of two problem solvers | Average cube shadow area",
+          "thumbnail": "https://i.ytimg.com/vi/ltLUadnCyi0/mqdefault.jpg",
+          "published_at": "2021-12-20T15:02:30Z",
+          "url": "https://www.youtube.com/watch?v=ltLUadnCyi0"
+        },
+        {
+          "id": "F3Qixy-r_rQ",
+          "title": "2021 Summer of Math Exposition results",
+          "thumbnail": "https://i.ytimg.com/vi/F3Qixy-r_rQ/mqdefault.jpg",
+          "published_at": "2021-10-23T20:25:56Z",
+          "url": "https://www.youtube.com/watch?v=F3Qixy-r_rQ"
+        },
+        {
+          "id": "LqbZpur38nw",
+          "title": "Beyond the Mandelbrot set, an intro to holomorphic dynamics",
+          "thumbnail": "https://i.ytimg.com/vi/LqbZpur38nw/mqdefault.jpg",
+          "published_at": "2021-10-16T12:39:12Z",
+          "url": "https://www.youtube.com/watch?v=LqbZpur38nw"
+        },
+        {
+          "id": "-RdOwhmqP5s",
+          "title": "Newton\u2019s fractal (which Newton knew nothing about)",
+          "thumbnail": "https://i.ytimg.com/vi/-RdOwhmqP5s/mqdefault.jpg",
+          "published_at": "2021-10-12T18:57:07Z",
+          "url": "https://www.youtube.com/watch?v=-RdOwhmqP5s"
+        },
+        {
+          "id": "ojjzXyQCzso",
+          "title": "Make math videos! | Summer of Math Exposition announcement",
+          "thumbnail": "https://i.ytimg.com/vi/ojjzXyQCzso/mqdefault.jpg",
+          "published_at": "2021-07-16T18:39:08Z",
+          "url": "https://www.youtube.com/watch?v=ojjzXyQCzso"
+        },
+        {
+          "id": "e50Bj7jn9IQ",
+          "title": "A quick trick for computing eigenvalues | Chapter 15, Essence of linear algebra",
+          "thumbnail": "https://i.ytimg.com/vi/e50Bj7jn9IQ/mqdefault.jpg",
+          "published_at": "2021-05-07T21:39:22Z",
+          "url": "https://www.youtube.com/watch?v=e50Bj7jn9IQ"
+        },
+        {
+          "id": "O85OWBJ2ayo",
+          "title": "How (and why) to raise e to the power of a matrix | DE6",
+          "thumbnail": "https://i.ytimg.com/vi/O85OWBJ2ayo/mqdefault.jpg",
+          "published_at": "2021-04-01T15:50:30Z",
+          "url": "https://www.youtube.com/watch?v=O85OWBJ2ayo"
+        },
+        {
+          "id": "lG4VkPoG3ko",
+          "title": "The medical test paradox, and redesigning Bayes' rule",
+          "thumbnail": "https://i.ytimg.com/vi/lG4VkPoG3ko/mqdefault.jpg",
+          "published_at": "2020-12-22T17:42:00Z",
+          "url": "https://www.youtube.com/watch?v=lG4VkPoG3ko"
+        },
+        {
+          "id": "b3NxrZOu_CE",
+          "title": "Hamming codes part 2: The one-line implementation",
+          "thumbnail": "https://i.ytimg.com/vi/b3NxrZOu_CE/mqdefault.jpg",
+          "published_at": "2020-09-04T15:36:24Z",
+          "url": "https://www.youtube.com/watch?v=b3NxrZOu_CE"
         }
       ]
     },
@@ -313,6 +537,181 @@
           "thumbnail": "https://i.ytimg.com/vi/lcjdwSY2AzM/mqdefault.jpg",
           "published_at": "2025-04-14T16:31:04Z",
           "url": "https://www.youtube.com/watch?v=lcjdwSY2AzM"
+        },
+        {
+          "id": "_cr46G2K5Fo",
+          "title": "The Man Who Almost Broke Math (And Himself...) - Axiom of Choice",
+          "thumbnail": "https://i.ytimg.com/vi/_cr46G2K5Fo/mqdefault.jpg",
+          "published_at": "2025-04-02T10:31:01Z",
+          "url": "https://www.youtube.com/watch?v=_cr46G2K5Fo"
+        },
+        {
+          "id": "20vUNgRdB4o",
+          "title": "How this helicopter survived 1004 days on Mars, then disappeared...",
+          "thumbnail": "https://i.ytimg.com/vi/20vUNgRdB4o/mqdefault.jpg",
+          "published_at": "2025-03-20T22:41:55Z",
+          "url": "https://www.youtube.com/watch?v=20vUNgRdB4o"
+        },
+        {
+          "id": "qJZ1Ez28C-A",
+          "title": "Something Strange Happens When You Trust Quantum Mechanics",
+          "thumbnail": "https://i.ytimg.com/vi/qJZ1Ez28C-A/mqdefault.jpg",
+          "published_at": "2025-03-05T02:22:56Z",
+          "url": "https://www.youtube.com/watch?v=qJZ1Ez28C-A"
+        },
+        {
+          "id": "dFVrncgIvos",
+          "title": "The Blender Question Everyone Gets Wrong",
+          "thumbnail": "https://i.ytimg.com/vi/dFVrncgIvos/mqdefault.jpg",
+          "published_at": "2025-02-18T16:03:35Z",
+          "url": "https://www.youtube.com/watch?v=dFVrncgIvos"
+        },
+        {
+          "id": "P_fHJIYENdI",
+          "title": "AlphaFold - The Most Useful Thing AI Has Ever Done",
+          "thumbnail": "https://i.ytimg.com/vi/P_fHJIYENdI/mqdefault.jpg",
+          "published_at": "2025-02-10T14:03:41Z",
+          "url": "https://www.youtube.com/watch?v=P_fHJIYENdI"
+        },
+        {
+          "id": "88bMVbx1dzM",
+          "title": "Can you keep zooming in forever?",
+          "thumbnail": "https://i.ytimg.com/vi/88bMVbx1dzM/mqdefault.jpg",
+          "published_at": "2025-02-05T15:02:34Z",
+          "url": "https://www.youtube.com/watch?v=88bMVbx1dzM"
+        },
+        {
+          "id": "Ni82f1-cAXg",
+          "title": "Why Super Glue Is Perfect For Gluing Skin",
+          "thumbnail": "https://i.ytimg.com/vi/Ni82f1-cAXg/mqdefault.jpg",
+          "published_at": "2025-01-28T19:17:22Z",
+          "url": "https://www.youtube.com/watch?v=Ni82f1-cAXg"
+        },
+        {
+          "id": "H6q6pYZ9Fho",
+          "title": "Why Is MIT Making Robot Insects?",
+          "thumbnail": "https://i.ytimg.com/vi/H6q6pYZ9Fho/mqdefault.jpg",
+          "published_at": "2025-01-21T16:58:06Z",
+          "url": "https://www.youtube.com/watch?v=H6q6pYZ9Fho"
+        },
+        {
+          "id": "Rdj5-6t6QI8",
+          "title": "Why Don\u2019t Railroads Need Expansion Joints?",
+          "thumbnail": "https://i.ytimg.com/vi/Rdj5-6t6QI8/mqdefault.jpg",
+          "published_at": "2025-01-01T07:00:06Z",
+          "url": "https://www.youtube.com/watch?v=Rdj5-6t6QI8"
+        },
+        {
+          "id": "zaXKQ70q4KQ",
+          "title": "The Man Who Took LSD and Changed The World",
+          "thumbnail": "https://i.ytimg.com/vi/zaXKQ70q4KQ/mqdefault.jpg",
+          "published_at": "2024-12-26T14:11:09Z",
+          "url": "https://www.youtube.com/watch?v=zaXKQ70q4KQ"
+        },
+        {
+          "id": "rjXZzB5bUAo",
+          "title": "This Is the Oldest, Weirdest Instrument On Earth",
+          "thumbnail": "https://i.ytimg.com/vi/rjXZzB5bUAo/mqdefault.jpg",
+          "published_at": "2024-12-19T18:40:28Z",
+          "url": "https://www.youtube.com/watch?v=rjXZzB5bUAo"
+        },
+        {
+          "id": "IFaAjR_RRJs",
+          "title": "34 Years Of Strandbeest Evolution",
+          "thumbnail": "https://i.ytimg.com/vi/IFaAjR_RRJs/mqdefault.jpg",
+          "published_at": "2024-12-07T00:58:14Z",
+          "url": "https://www.youtube.com/watch?v=IFaAjR_RRJs"
+        },
+        {
+          "id": "24GfgNtnjXc",
+          "title": "What They (Probably) Don't Teach You About Rainbows At School",
+          "thumbnail": "https://i.ytimg.com/vi/24GfgNtnjXc/mqdefault.jpg",
+          "published_at": "2024-12-01T11:19:12Z",
+          "url": "https://www.youtube.com/watch?v=24GfgNtnjXc"
+        },
+        {
+          "id": "zTDFhWWPZ4Q",
+          "title": "What Actually Happened To Amelia Earhart?",
+          "thumbnail": "https://i.ytimg.com/vi/zTDFhWWPZ4Q/mqdefault.jpg",
+          "published_at": "2024-11-20T18:27:03Z",
+          "url": "https://www.youtube.com/watch?v=zTDFhWWPZ4Q"
+        },
+        {
+          "id": "2oDXbFcHliM",
+          "title": "The Most Important Material Ever Made",
+          "thumbnail": "https://i.ytimg.com/vi/2oDXbFcHliM/mqdefault.jpg",
+          "published_at": "2024-11-13T20:21:24Z",
+          "url": "https://www.youtube.com/watch?v=2oDXbFcHliM"
+        },
+        {
+          "id": "zB_OApdxcno",
+          "title": "On These Math Problems, Smarter People Do Worse",
+          "thumbnail": "https://i.ytimg.com/vi/zB_OApdxcno/mqdefault.jpg",
+          "published_at": "2024-11-04T16:48:03Z",
+          "url": "https://www.youtube.com/watch?v=zB_OApdxcno"
+        },
+        {
+          "id": "Q10_srZ-pbs",
+          "title": "The Closest We\u2019ve Come to a Theory of Everything",
+          "thumbnail": "https://i.ytimg.com/vi/Q10_srZ-pbs/mqdefault.jpg",
+          "published_at": "2024-10-29T12:09:04Z",
+          "url": "https://www.youtube.com/watch?v=Q10_srZ-pbs"
+        },
+        {
+          "id": "DJO_9auJhJQ",
+          "title": "We Might Find Alien Life In 1854 Days",
+          "thumbnail": "https://i.ytimg.com/vi/DJO_9auJhJQ/mqdefault.jpg",
+          "published_at": "2024-10-11T18:25:50Z",
+          "url": "https://www.youtube.com/watch?v=DJO_9auJhJQ"
+        },
+        {
+          "id": "cUBz04LlLVk",
+          "title": "People said this experiment was impossible, so I tried it - Thermite Part 1",
+          "thumbnail": "https://i.ytimg.com/vi/cUBz04LlLVk/mqdefault.jpg",
+          "published_at": "2024-10-05T17:27:38Z",
+          "url": "https://www.youtube.com/watch?v=cUBz04LlLVk"
+        },
+        {
+          "id": "w5ebcowAJD8",
+          "title": "I built a QR code with my bare hands to see how it works",
+          "thumbnail": "https://i.ytimg.com/vi/w5ebcowAJD8/mqdefault.jpg",
+          "published_at": "2024-09-30T18:51:21Z",
+          "url": "https://www.youtube.com/watch?v=w5ebcowAJD8"
+        },
+        {
+          "id": "wVyu7NB7W6Y",
+          "title": "Exposing The Flaw In Our Phone System",
+          "thumbnail": "https://i.ytimg.com/vi/wVyu7NB7W6Y/mqdefault.jpg",
+          "published_at": "2024-09-21T23:10:47Z",
+          "url": "https://www.youtube.com/watch?v=wVyu7NB7W6Y"
+        },
+        {
+          "id": "vjDYfvPW4mA",
+          "title": "What Everyone Gets Wrong About Planes",
+          "thumbnail": "https://i.ytimg.com/vi/vjDYfvPW4mA/mqdefault.jpg",
+          "published_at": "2024-08-31T23:50:38Z",
+          "url": "https://www.youtube.com/watch?v=vjDYfvPW4mA"
+        },
+        {
+          "id": "qf7ws2DF-zk",
+          "title": "Why Democracy Is Mathematically Impossible",
+          "thumbnail": "https://i.ytimg.com/vi/qf7ws2DF-zk/mqdefault.jpg",
+          "published_at": "2024-08-27T21:04:56Z",
+          "url": "https://www.youtube.com/watch?v=qf7ws2DF-zk"
+        },
+        {
+          "id": "Sn07AMCfaAI",
+          "title": "These Illusions Fool Almost Everyone",
+          "thumbnail": "https://i.ytimg.com/vi/Sn07AMCfaAI/mqdefault.jpg",
+          "published_at": "2024-08-14T17:05:19Z",
+          "url": "https://www.youtube.com/watch?v=Sn07AMCfaAI"
+        },
+        {
+          "id": "eLVAMG_3fLg",
+          "title": "The Real Reason Robots Shouldn\u2019t Look Like Humans | Supercut",
+          "thumbnail": "https://i.ytimg.com/vi/eLVAMG_3fLg/mqdefault.jpg",
+          "published_at": "2024-07-31T18:55:46Z",
+          "url": "https://www.youtube.com/watch?v=eLVAMG_3fLg"
         }
       ]
     }
