@@ -14,7 +14,8 @@ if not API_KEY:
 BASE = 'https://www.googleapis.com/youtube/v3'
 CHANNELS_FILE = 'channels.txt'
 OUTPUT_FILE = 'data/videos.json'
-MAX_VIDEOS = 50
+MAX_VIDEOS = 50           # target number of non-Short videos per channel
+MAX_PAGES = 4             # fetch at most this many pages (50 videos each) per channel
 SHORTS_MAX_SECONDS = 180  # videos <= 3 min are treated as Shorts and excluded
 
 
@@ -72,29 +73,41 @@ def get_durations(video_ids):
 
 
 def fetch_videos(playlist_id):
-    data = yt('playlistItems', part='snippet', playlistId=playlist_id, maxResults=MAX_VIDEOS)
-    videos = []
-    for item in data.get('items', []):
-        snippet = item['snippet']
-        video_id = snippet['resourceId']['videoId']
-        thumbs = snippet.get('thumbnails', {})
-        thumb = (
-            thumbs.get('medium') or
-            thumbs.get('high') or
-            thumbs.get('default') or {}
-        ).get('url', '')
-        videos.append({
-            'id': video_id,
-            'title': snippet['title'],
-            'thumbnail': thumb,
-            'published_at': snippet['publishedAt'],
-            'url': f'https://www.youtube.com/watch?v={video_id}',
-        })
-    # Filter out Shorts (videos <= 3 minutes)
-    durations = get_durations([v['id'] for v in videos])
-    videos = [v for v in videos if durations.get(v['id'], 9999) > SHORTS_MAX_SECONDS]
+    raw = []
+    page_token = None
 
-    return videos
+    for _ in range(MAX_PAGES):
+        params = dict(part='snippet', playlistId=playlist_id, maxResults=50)
+        if page_token:
+            params['pageToken'] = page_token
+        data = yt('playlistItems', **params)
+
+        for item in data.get('items', []):
+            snippet = item['snippet']
+            video_id = snippet['resourceId']['videoId']
+            thumbs = snippet.get('thumbnails', {})
+            thumb = (
+                thumbs.get('medium') or
+                thumbs.get('high') or
+                thumbs.get('default') or {}
+            ).get('url', '')
+            raw.append({
+                'id': video_id,
+                'title': snippet['title'],
+                'thumbnail': thumb,
+                'published_at': snippet['publishedAt'],
+                'url': f'https://www.youtube.com/watch?v={video_id}',
+            })
+
+        page_token = data.get('nextPageToken')
+        if not page_token:
+            break
+
+    # Filter out Shorts (videos <= 3 minutes)
+    durations = get_durations([v['id'] for v in raw])
+    videos = [v for v in raw if durations.get(v['id'], 9999) > SHORTS_MAX_SECONDS]
+
+    return videos[:MAX_VIDEOS]
 
 
 def read_identifiers():
