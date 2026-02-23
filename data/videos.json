@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T05:58:40.688508+00:00",
+  "last_updated": "2026-02-23T08:33:10.365516+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -712,6 +712,62 @@
           "thumbnail": "https://i.ytimg.com/vi/eLVAMG_3fLg/mqdefault.jpg",
           "published_at": "2024-07-31T18:55:46Z",
           "url": "https://www.youtube.com/watch?v=eLVAMG_3fLg"
+        }
+      ]
+    },
+    {
+      "id": "UCWQ7rdjjB-ujwQl0ErJ01eg",
+      "name": "Ben Syversen",
+      "thumbnail": "https://yt3.ggpht.com/IzvmoGBQrnlrMIhtldJg7Xy_AMXqFamxO4H76XqvZlWL-PiAX7P3DPPy-SyaNcK9MSSPuCcEgw=s88-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "96LbF8nn05c",
+          "title": "The Simplest Ancient Math Problem No One Could Solve",
+          "thumbnail": "https://i.ytimg.com/vi/96LbF8nn05c/mqdefault.jpg",
+          "published_at": "2025-12-17T20:56:04Z",
+          "url": "https://www.youtube.com/watch?v=96LbF8nn05c"
+        },
+        {
+          "id": "lhdmMqSmg5g",
+          "title": "The Invention That Saved Science",
+          "thumbnail": "https://i.ytimg.com/vi/lhdmMqSmg5g/mqdefault.jpg",
+          "published_at": "2025-06-17T15:10:38Z",
+          "url": "https://www.youtube.com/watch?v=lhdmMqSmg5g"
+        },
+        {
+          "id": "shkcVDHOvAI",
+          "title": "The Ancient Mathematician Who Measured the Sun",
+          "thumbnail": "https://i.ytimg.com/vi/shkcVDHOvAI/mqdefault.jpg",
+          "published_at": "2025-02-28T17:10:19Z",
+          "url": "https://www.youtube.com/watch?v=shkcVDHOvAI"
+        },
+        {
+          "id": "ZXNIgHov0Nk",
+          "title": "The $2 Million Lost Book of Archimedes",
+          "thumbnail": "https://i.ytimg.com/vi/ZXNIgHov0Nk/mqdefault.jpg",
+          "published_at": "2024-10-31T18:42:03Z",
+          "url": "https://www.youtube.com/watch?v=ZXNIgHov0Nk"
+        },
+        {
+          "id": "V2S39AgjFpQ",
+          "title": "Did Archimedes Write a Problem That Took 2,200 Years to Solve?",
+          "thumbnail": "https://i.ytimg.com/vi/V2S39AgjFpQ/mqdefault.jpg",
+          "published_at": "2024-05-24T15:38:29Z",
+          "url": "https://www.youtube.com/watch?v=V2S39AgjFpQ"
+        },
+        {
+          "id": "32zg2FGX4cA",
+          "title": "The Childhood Proof That Led Einstein to Reshape the Universe",
+          "thumbnail": "https://i.ytimg.com/vi/32zg2FGX4cA/mqdefault.jpg",
+          "published_at": "2024-03-30T14:00:03Z",
+          "url": "https://www.youtube.com/watch?v=32zg2FGX4cA"
+        },
+        {
+          "id": "XfeuCfOUuXg",
+          "title": "How Archimedes Almost Broke Math with Circles",
+          "thumbnail": "https://i.ytimg.com/vi/XfeuCfOUuXg/mqdefault.jpg",
+          "published_at": "2023-11-22T19:52:30Z",
+          "url": "https://www.youtube.com/watch?v=XfeuCfOUuXg"
         }
       ]
     }
