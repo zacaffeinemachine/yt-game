@@ -1,0 +1,9 @@
+# YouTube channels to track — one per line.
+# Supported formats:
+#   @handle      (e.g. @3blue1brown)
+#   Channel ID   (e.g. UCHnyfMqiRRG1u-2MsSQLbXA)
+#
+# Lines starting with # are ignored.
+
+@3blue1brown
+@veritasium

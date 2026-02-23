@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YT Feed</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar">
+      <div class="sidebar-header">
+        <span class="logo">&#9654; YT Feed</span>
+      </div>
+      <nav id="channel-list"></nav>
+    </aside>
+
+    <div id="content">
+      <header id="topbar">
+        <div class="filters">
+          <button class="filter-btn active" onclick="setFilter('all')">All</button>
+          <button class="filter-btn" onclick="setFilter('unwatched')">Unwatched</button>
+          <button class="filter-btn" onclick="setFilter('watched')">Watched</button>
+        </div>
+        <span id="last-updated"></span>
+      </header>
+      <main id="main">
+        <div class="status-msg">Loading&hellip;</div>
+      </main>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
