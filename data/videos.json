@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-25T05:54:10.377690+00:00",
+  "last_updated": "2026-02-26T05:49:51.910029+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -364,6 +364,13 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "aoag03mSuXQ",
+          "title": "The Internet Was Weeks Away From Disaster and No One Knew",
+          "thumbnail": "https://i.ytimg.com/vi/aoag03mSuXQ/mqdefault.jpg",
+          "published_at": "2026-02-25T20:28:23Z",
+          "url": "https://www.youtube.com/watch?v=aoag03mSuXQ"
+        },
+        {
           "id": "cMx139eTxoc",
           "title": "Asbestos is a bigger problem than we thought",
           "thumbnail": "https://i.ytimg.com/vi/cMx139eTxoc/mqdefault.jpg",
@@ -540,7 +547,7 @@
         },
         {
           "id": "_cr46G2K5Fo",
-          "title": "The Most Controversial Theory In Math",
+          "title": "The Most Controversial Idea In Math",
           "thumbnail": "https://i.ytimg.com/vi/_cr46G2K5Fo/mqdefault.jpg",
           "published_at": "2025-04-02T10:31:01Z",
           "url": "https://www.youtube.com/watch?v=_cr46G2K5Fo"
@@ -705,13 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Sn07AMCfaAI/mqdefault.jpg",
           "published_at": "2024-08-14T17:05:19Z",
           "url": "https://www.youtube.com/watch?v=Sn07AMCfaAI"
-        },
-        {
-          "id": "eLVAMG_3fLg",
-          "title": "The Real Reason Robots Shouldn\u2019t Look Like Humans | Supercut",
-          "thumbnail": "https://i.ytimg.com/vi/eLVAMG_3fLg/mqdefault.jpg",
-          "published_at": "2024-07-31T18:55:46Z",
-          "url": "https://www.youtube.com/watch?v=eLVAMG_3fLg"
         }
       ]
     },
@@ -3696,6 +3696,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "QELZH98jNOQ",
+          "title": "Unreal Calculation || Nodirbek Abdusattorov vs Aravindh Chithambaram || Prague Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/QELZH98jNOQ/mqdefault.jpg",
+          "published_at": "2026-02-25T20:05:48Z",
+          "url": "https://www.youtube.com/watch?v=QELZH98jNOQ"
+        },
+        {
+          "id": "-aRBoIzrHjs",
+          "title": "Rubinstein and Capablanca || The First Game They Ever Played || San Sebastian (1911)",
+          "thumbnail": "https://i.ytimg.com/vi/-aRBoIzrHjs/mqdefault.jpg",
+          "published_at": "2026-02-25T12:00:40Z",
+          "url": "https://www.youtube.com/watch?v=-aRBoIzrHjs"
+        },
+        {
           "id": "QpjtW0-8XdU",
           "title": "No Moustache no Power? || Magnus vs Javokhir || Titled Tuesday FINAL ROUND",
           "thumbnail": "https://i.ytimg.com/vi/QpjtW0-8XdU/mqdefault.jpg",
@@ -4030,20 +4044,6 @@
           "thumbnail": "https://i.ytimg.com/vi/S8-4cHYg0Cg/mqdefault.jpg",
           "published_at": "2026-01-24T19:05:38Z",
           "url": "https://www.youtube.com/watch?v=S8-4cHYg0Cg"
-        },
-        {
-          "id": "YgcmxaW88N4",
-          "title": "The Mind Games || Vincent Keymer vs Nodirbek Abdusattorov || Tata Steel Masters 2026",
-          "thumbnail": "https://i.ytimg.com/vi/YgcmxaW88N4/mqdefault.jpg",
-          "published_at": "2026-01-24T17:36:21Z",
-          "url": "https://www.youtube.com/watch?v=YgcmxaW88N4"
-        },
-        {
-          "id": "UqmyDCaET8w",
-          "title": "Bishop of Legends || Hans vs Vincent || Tata Steel Masters 2026",
-          "thumbnail": "https://i.ytimg.com/vi/UqmyDCaET8w/mqdefault.jpg",
-          "published_at": "2026-01-23T19:12:55Z",
-          "url": "https://www.youtube.com/watch?v=UqmyDCaET8w"
         }
       ]
     }
