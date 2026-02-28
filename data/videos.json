@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-02-27T05:43:48.853182+00:00",
+  "last_updated": "2026-02-28T05:25:41.990904+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
       "name": "3Blue1Brown",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "fsLh-NYhOoU",
+          "title": "The most beautiful formula not enough people understand",
+          "thumbnail": "https://i.ytimg.com/vi/fsLh-NYhOoU/mqdefault.jpg",
+          "published_at": "2026-02-27T15:14:23Z",
+          "url": "https://www.youtube.com/watch?v=fsLh-NYhOoU"
+        },
         {
           "id": "BHdbsHFs2P0",
           "title": "The Hairy Ball Theorem",
@@ -348,13 +355,6 @@
           "thumbnail": "https://i.ytimg.com/vi/lG4VkPoG3ko/mqdefault.jpg",
           "published_at": "2020-12-22T17:42:00Z",
           "url": "https://www.youtube.com/watch?v=lG4VkPoG3ko"
-        },
-        {
-          "id": "b3NxrZOu_CE",
-          "title": "Hamming codes part 2: The one-line implementation",
-          "thumbnail": "https://i.ytimg.com/vi/b3NxrZOu_CE/mqdefault.jpg",
-          "published_at": "2020-09-04T15:36:24Z",
-          "url": "https://www.youtube.com/watch?v=b3NxrZOu_CE"
         }
       ]
     },
@@ -666,7 +666,7 @@
         },
         {
           "id": "DJO_9auJhJQ",
-          "title": "We Might Find Alien Life In 1854 Days",
+          "title": "We Might Find Alien Life In 1847 Days",
           "thumbnail": "https://i.ytimg.com/vi/DJO_9auJhJQ/mqdefault.jpg",
           "published_at": "2024-10-11T18:25:50Z",
           "url": "https://www.youtube.com/watch?v=DJO_9auJhJQ"
@@ -3311,6 +3311,13 @@
       "thumbnail": "https://yt3.ggpht.com/eXEBNg6ggwrJopuwMkvxi-ZZhlTOAo8juTk5FBWDoE8qvoLPXWInWKtVKJN5SKiOpheZyudT=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "3lO0Jc1hQnE",
+          "title": "How the Greed of One Man Changed The World",
+          "thumbnail": "https://i.ytimg.com/vi/3lO0Jc1hQnE/mqdefault.jpg",
+          "published_at": "2026-02-27T15:00:01Z",
+          "url": "https://www.youtube.com/watch?v=3lO0Jc1hQnE"
+        },
+        {
           "id": "bIwX4QuL90k",
           "title": "The Final Days of Louis XIV",
           "thumbnail": "https://i.ytimg.com/vi/bIwX4QuL90k/mqdefault.jpg",
@@ -3696,6 +3703,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "g87VXy7ufL8",
+          "title": "\"First\" Move and Already a Blunder! || Jorden vs Gukesh || Prague Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/g87VXy7ufL8/mqdefault.jpg",
+          "published_at": "2026-02-27T19:51:15Z",
+          "url": "https://www.youtube.com/watch?v=g87VXy7ufL8"
+        },
+        {
+          "id": "dYHP9QH8UeU",
+          "title": "Chess is Cruel! || Hans Moke Niemann vs Aravindh Chithambaram || Prague Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/dYHP9QH8UeU/mqdefault.jpg",
+          "published_at": "2026-02-27T11:25:45Z",
+          "url": "https://www.youtube.com/watch?v=dYHP9QH8UeU"
+        },
+        {
           "id": "XBS-Wm0ESPY",
           "title": "It's Always the Zwischenzug || David Anton vs Jorden van Foreest || Prague Chess Festival 2026",
           "thumbnail": "https://i.ytimg.com/vi/XBS-Wm0ESPY/mqdefault.jpg",
@@ -4030,20 +4051,6 @@
           "thumbnail": "https://i.ytimg.com/vi/-vycIwEtfS8/mqdefault.jpg",
           "published_at": "2026-01-27T18:05:54Z",
           "url": "https://www.youtube.com/watch?v=-vycIwEtfS8"
-        },
-        {
-          "id": "LlJL-fXR4yU",
-          "title": "When Humans Adopt the Silicon Strategy || Van Foreest vs Keymer || Tata Steel Masters 2026",
-          "thumbnail": "https://i.ytimg.com/vi/LlJL-fXR4yU/mqdefault.jpg",
-          "published_at": "2026-01-27T17:28:42Z",
-          "url": "https://www.youtube.com/watch?v=LlJL-fXR4yU"
-        },
-        {
-          "id": "3IbgtPO68Xk",
-          "title": "Black With a Vengeance || Vladimir Fedoseev vs Gukesh D || Tata Steel Masters 2026",
-          "thumbnail": "https://i.ytimg.com/vi/3IbgtPO68Xk/mqdefault.jpg",
-          "published_at": "2026-01-26T15:00:00Z",
-          "url": "https://www.youtube.com/watch?v=3IbgtPO68Xk"
         }
       ]
     }
