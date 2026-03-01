@@ -152,11 +152,13 @@ function renderSidebar() {
 function renderCard(video, showChannel, channelName) {
   const watched = getWatched();
   const isWatched = !!watched[video.id];
-  const id  = esc(video.id);
-  const url = esc(video.url);
 
   return `
-    <div class="card ${isWatched ? 'watched' : ''}" onclick="openVideo('${url}','${id}','${esc(video.title).replace(/'/g, '&#39;')}')">
+    <div class="card ${isWatched ? 'watched' : ''}"
+      data-url="${esc(video.url)}"
+      data-id="${esc(video.id)}"
+      data-title="${esc(video.title)}"
+      onclick="openVideo(this.dataset.url,this.dataset.id,this.dataset.title)">
       <div class="thumb-wrap">
         <img src="${esc(video.thumbnail)}" alt="" loading="lazy"
           onerror="this.style.visibility='hidden'">
@@ -170,7 +172,7 @@ function renderCard(video, showChannel, channelName) {
         </div>
       </div>
       <button class="toggle-btn ${isWatched ? 'marked' : ''}"
-        onclick="toggleWatched('${id}',event)"
+        onclick="toggleWatched(this.closest('.card').dataset.id,event)"
         title="${isWatched ? 'Mark unwatched' : 'Mark watched'}">&#10003;</button>
     </div>
   `;
