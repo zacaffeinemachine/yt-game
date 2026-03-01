@@ -52,6 +52,10 @@ Designed to replace mindless YouTube browsing.
 - **Watched state is browser-local:** clearing `localStorage` or switching browsers
   resets watched history. A future improvement could use a small backend or
   export/import feature.
+- **Video card onclick and special characters in titles:** titles are passed to the
+  click handler via `data-url`/`data-id`/`data-title` HTML attributes (read back
+  with `this.dataset.*`), not inline in the `onclick` string. This avoids quoting
+  issues with apostrophes and other special characters that break inline JS strings.
 
 ## Live site
 
