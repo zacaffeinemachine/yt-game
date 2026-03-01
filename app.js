@@ -156,7 +156,7 @@ function renderCard(video, showChannel, channelName) {
   const url = esc(video.url);
 
   return `
-    <div class="card ${isWatched ? 'watched' : ''}" onclick="openVideo('${url}','${id}','${esc(video.title)}')">
+    <div class="card ${isWatched ? 'watched' : ''}" onclick="openVideo('${url}','${id}','${esc(video.title).replace(/'/g, '&#39;')}')">
       <div class="thumb-wrap">
         <img src="${esc(video.thumbnail)}" alt="" loading="lazy"
           onerror="this.style.visibility='hidden'">
