@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T05:43:38.081970+00:00",
+  "last_updated": "2026-03-02T05:44:17.765936+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3703,6 +3703,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "Ei7qcBUMZZg",
+          "title": "Call The Ambulance! || Jorden vs Hans || Prague Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/Ei7qcBUMZZg/mqdefault.jpg",
+          "published_at": "2026-03-01T19:22:25Z",
+          "url": "https://www.youtube.com/watch?v=Ei7qcBUMZZg"
+        },
+        {
+          "id": "cDC8aIYzqu8",
+          "title": "Good Things Come In Small Packages, But So Does Poison || Vincent vs Aravindh || Prague Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/cDC8aIYzqu8/mqdefault.jpg",
+          "published_at": "2026-03-01T13:39:32Z",
+          "url": "https://www.youtube.com/watch?v=cDC8aIYzqu8"
+        },
+        {
           "id": "Vszo10iebM4",
           "title": "\"literally a perfect game\" || Nodirbek Yakubboev vs Jorden van Foreest || Prague Chess Festival 2026",
           "thumbnail": "https://i.ytimg.com/vi/Vszo10iebM4/mqdefault.jpg",
@@ -4037,20 +4051,6 @@
           "thumbnail": "https://i.ytimg.com/vi/PKZLIw4XOV8/mqdefault.jpg",
           "published_at": "2026-01-28T18:59:13Z",
           "url": "https://www.youtube.com/watch?v=PKZLIw4XOV8"
-        },
-        {
-          "id": "y9g9A_lThoA",
-          "title": "A True Candidate Appears! || Matthias Bl\u00fcbaum vs Anish Giri || Tata Steel 2026",
-          "thumbnail": "https://i.ytimg.com/vi/y9g9A_lThoA/mqdefault.jpg",
-          "published_at": "2026-01-28T17:07:57Z",
-          "url": "https://www.youtube.com/watch?v=y9g9A_lThoA"
-        },
-        {
-          "id": "m9puQQ-7ei0",
-          "title": "The Candidates... They're Coming || Gukesh D vs Matthias Bl\u00fcbaum || Tata Steel 2026",
-          "thumbnail": "https://i.ytimg.com/vi/m9puQQ-7ei0/mqdefault.jpg",
-          "published_at": "2026-01-27T19:53:45Z",
-          "url": "https://www.youtube.com/watch?v=m9puQQ-7ei0"
         }
       ]
     }
