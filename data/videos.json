@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T05:40:08.654516+00:00",
+  "last_updated": "2026-03-06T05:38:26.507609+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3312,7 +3312,7 @@
       "videos": [
         {
           "id": "3lO0Jc1hQnE",
-          "title": "The Rise and Fall of the Richest Man In California",
+          "title": "The Gold Nugget That Changed America Forever",
           "thumbnail": "https://i.ytimg.com/vi/3lO0Jc1hQnE/mqdefault.jpg",
           "published_at": "2026-02-27T15:00:01Z",
           "url": "https://www.youtube.com/watch?v=3lO0Jc1hQnE"
@@ -3703,6 +3703,27 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "NIQfp1UUVPg",
+          "title": "The Cruelty of Chess || David Navara vs Nodirbek Abdusattorov || Prague Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/NIQfp1UUVPg/mqdefault.jpg",
+          "published_at": "2026-03-05T20:04:50Z",
+          "url": "https://www.youtube.com/watch?v=NIQfp1UUVPg"
+        },
+        {
+          "id": "78a6q14fk6A",
+          "title": "Still Theory! || Vincent Keymer vs David Ant\u00f3n || Prague Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/78a6q14fk6A/mqdefault.jpg",
+          "published_at": "2026-03-05T12:43:02Z",
+          "url": "https://www.youtube.com/watch?v=78a6q14fk6A"
+        },
+        {
+          "id": "WFPFPk83Gyw",
+          "title": "This is The Game You're Looking For! || Nodirbek vs Jorden || Prague Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/WFPFPk83Gyw/mqdefault.jpg",
+          "published_at": "2026-03-05T10:23:46Z",
+          "url": "https://www.youtube.com/watch?v=WFPFPk83Gyw"
+        },
+        {
           "id": "3qi9Pi0q-aY",
           "title": "If The King Does Not Lead... || Hans vs Vincent || Prague Chess Festival 2026",
           "thumbnail": "https://i.ytimg.com/vi/3qi9Pi0q-aY/mqdefault.jpg",
@@ -4030,27 +4051,6 @@
           "thumbnail": "https://i.ytimg.com/vi/51Mx0H1ny0s/mqdefault.jpg",
           "published_at": "2026-01-31T19:37:04Z",
           "url": "https://www.youtube.com/watch?v=51Mx0H1ny0s"
-        },
-        {
-          "id": "jNGtfKW6HbI",
-          "title": "Simply Fischeresque! || Nodirbek Abdusattorov vs Matthias Bl\u00fcbaum || Tata Steel 2026",
-          "thumbnail": "https://i.ytimg.com/vi/jNGtfKW6HbI/mqdefault.jpg",
-          "published_at": "2026-01-31T18:11:52Z",
-          "url": "https://www.youtube.com/watch?v=jNGtfKW6HbI"
-        },
-        {
-          "id": "p47EXxSSK9g",
-          "title": "Even His Mistakes are Brilliant || Aydin Suleymanli vs Vasyl Ivanchuk || Tata Steel Masters 2026",
-          "thumbnail": "https://i.ytimg.com/vi/p47EXxSSK9g/mqdefault.jpg",
-          "published_at": "2026-01-31T10:31:53Z",
-          "url": "https://www.youtube.com/watch?v=p47EXxSSK9g"
-        },
-        {
-          "id": "gUHiUK02j9k",
-          "title": "Beyond Defeat || Arjun Erigaisi vs Javokhir Sindarov || Tata Steel Masters 2026",
-          "thumbnail": "https://i.ytimg.com/vi/gUHiUK02j9k/mqdefault.jpg",
-          "published_at": "2026-01-30T19:58:23Z",
-          "url": "https://www.youtube.com/watch?v=gUHiUK02j9k"
         }
       ]
     },
