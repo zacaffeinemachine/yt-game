@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T05:38:26.507609+00:00",
+  "last_updated": "2026-03-07T05:31:25.596337+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3703,6 +3703,27 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "T9ZRe3AIsw0",
+          "title": "The Master of Prague! || Nodirbek Abdusattorov vs Hans Niemann || Prague Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/T9ZRe3AIsw0/mqdefault.jpg",
+          "published_at": "2026-03-06T19:05:37Z",
+          "url": "https://www.youtube.com/watch?v=T9ZRe3AIsw0"
+        },
+        {
+          "id": "hCj2xXtrZn0",
+          "title": "The Conclusion! || Parham vs Jorden || Prague Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/hCj2xXtrZn0/mqdefault.jpg",
+          "published_at": "2026-03-06T15:04:48Z",
+          "url": "https://www.youtube.com/watch?v=hCj2xXtrZn0"
+        },
+        {
+          "id": "nu0TYosIo-E",
+          "title": "Architect of His Own Demise || Jorden vs Aravindh || Prague Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/nu0TYosIo-E/mqdefault.jpg",
+          "published_at": "2026-03-06T10:31:56Z",
+          "url": "https://www.youtube.com/watch?v=nu0TYosIo-E"
+        },
+        {
           "id": "NIQfp1UUVPg",
           "title": "The Cruelty of Chess || David Navara vs Nodirbek Abdusattorov || Prague Chess Festival 2026",
           "thumbnail": "https://i.ytimg.com/vi/NIQfp1UUVPg/mqdefault.jpg",
@@ -4030,27 +4051,6 @@
           "thumbnail": "https://i.ytimg.com/vi/BjBlbWHXDUs/mqdefault.jpg",
           "published_at": "2026-02-02T14:11:27Z",
           "url": "https://www.youtube.com/watch?v=BjBlbWHXDUs"
-        },
-        {
-          "id": "U9wJdPPKQb4",
-          "title": "I Thought They Were Friends || Gukesh vs Vincent || Tata Steel 2026",
-          "thumbnail": "https://i.ytimg.com/vi/U9wJdPPKQb4/mqdefault.jpg",
-          "published_at": "2026-02-01T17:55:46Z",
-          "url": "https://www.youtube.com/watch?v=U9wJdPPKQb4"
-        },
-        {
-          "id": "RunCRxQYG3U",
-          "title": "The Evans Gambit is on The Board!! || Arjun Erigaisi vs Nodirbek Abdusattorov || Tata Steel 2026",
-          "thumbnail": "https://i.ytimg.com/vi/RunCRxQYG3U/mqdefault.jpg",
-          "published_at": "2026-02-01T15:52:20Z",
-          "url": "https://www.youtube.com/watch?v=RunCRxQYG3U"
-        },
-        {
-          "id": "51Mx0H1ny0s",
-          "title": "Anything to Win! || Hans Niemann vs Gukesh D || Tata Steel 2026",
-          "thumbnail": "https://i.ytimg.com/vi/51Mx0H1ny0s/mqdefault.jpg",
-          "published_at": "2026-01-31T19:37:04Z",
-          "url": "https://www.youtube.com/watch?v=51Mx0H1ny0s"
         }
       ]
     },
@@ -4059,6 +4059,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "kNVUwiwahZQ",
+          "title": "Headlines: Vegans Have HIGHER Cancer Now? Let\u2019s Check the Science",
+          "thumbnail": "https://i.ytimg.com/vi/kNVUwiwahZQ/mqdefault.jpg",
+          "published_at": "2026-03-07T01:06:28Z",
+          "url": "https://www.youtube.com/watch?v=kNVUwiwahZQ"
+        },
         {
           "id": "WYqif9H3-o8",
           "title": "A Surgeon General Warning: Our Next One is a Wellness Influencer?",
@@ -4401,13 +4408,6 @@
           "thumbnail": "https://i.ytimg.com/vi/eaQgr4CFtjc/mqdefault.jpg",
           "published_at": "2025-04-18T18:10:09Z",
           "url": "https://www.youtube.com/watch?v=eaQgr4CFtjc"
-        },
-        {
-          "id": "4BaX0_5KPHQ",
-          "title": "New Study: Oats Detox Forever Chemicals",
-          "thumbnail": "https://i.ytimg.com/vi/4BaX0_5KPHQ/mqdefault.jpg",
-          "published_at": "2025-04-11T23:08:11Z",
-          "url": "https://www.youtube.com/watch?v=4BaX0_5KPHQ"
         }
       ]
     },
