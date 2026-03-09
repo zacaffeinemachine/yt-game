@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:36:04.553904+00:00",
+  "last_updated": "2026-03-09T05:49:34.452378+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -386,7 +386,7 @@
         },
         {
           "id": "XKSjCOKDtpk",
-          "title": "We still don't understand magnetism",
+          "title": "The Tiny Donut That Proved We Still Don't Understand Magnetism",
           "thumbnail": "https://i.ytimg.com/vi/XKSjCOKDtpk/mqdefault.jpg",
           "published_at": "2026-01-29T22:20:55Z",
           "url": "https://www.youtube.com/watch?v=XKSjCOKDtpk"
@@ -3703,6 +3703,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "rmlRxFn6tNM",
+          "title": "Play Like You Never Want the Game to End || Fabi vs Wesley So || The American Cup 2026",
+          "thumbnail": "https://i.ytimg.com/vi/rmlRxFn6tNM/mqdefault.jpg",
+          "published_at": "2026-03-08T12:10:42Z",
+          "url": "https://www.youtube.com/watch?v=rmlRxFn6tNM"
+        },
+        {
           "id": "N2ffxNcVemc",
           "title": "Sharpening His Blade for the Candidates || Fabi vs Abhimanyu Mishra || The American Cup 2026",
           "thumbnail": "https://i.ytimg.com/vi/N2ffxNcVemc/mqdefault.jpg",
@@ -4044,13 +4051,6 @@
           "thumbnail": "https://i.ytimg.com/vi/s2t0oGzsyoQ/mqdefault.jpg",
           "published_at": "2026-02-03T14:52:35Z",
           "url": "https://www.youtube.com/watch?v=s2t0oGzsyoQ"
-        },
-        {
-          "id": "iKqIoBlicz8",
-          "title": "The Challenger Becometh the Master | Andy Woodward vs Marc'Andria Maurizzi | Tata Steel 2026",
-          "thumbnail": "https://i.ytimg.com/vi/iKqIoBlicz8/mqdefault.jpg",
-          "published_at": "2026-02-02T17:00:00Z",
-          "url": "https://www.youtube.com/watch?v=iKqIoBlicz8"
         }
       ]
     },
