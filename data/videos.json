@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10T05:39:12.090101+00:00",
+  "last_updated": "2026-03-11T05:40:51.782446+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "Ol18JoeXlVI",
-          "title": "This Paradox Splits Smart People 50/50",
+          "title": "The Obvious Problem That No One Can Agree On",
           "thumbnail": "https://i.ytimg.com/vi/Ol18JoeXlVI/mqdefault.jpg",
           "published_at": "2026-03-09T16:02:39Z",
           "url": "https://www.youtube.com/watch?v=Ol18JoeXlVI"
@@ -3346,6 +3346,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "yDAAlojz8NU",
+          "title": "Let\u2019s Travel to the Scariest Place in The Universe",
+          "thumbnail": "https://i.ytimg.com/vi/yDAAlojz8NU/mqdefault.jpg",
+          "published_at": "2026-03-10T15:00:01Z",
+          "url": "https://www.youtube.com/watch?v=yDAAlojz8NU"
+        },
+        {
           "id": "9t5m33ccUYA",
           "title": "The Uncomfortable Truth About Ozempic",
           "thumbnail": "https://i.ytimg.com/vi/9t5m33ccUYA/mqdefault.jpg",
@@ -3687,13 +3694,6 @@
           "thumbnail": "https://i.ytimg.com/vi/isdLel273rQ/mqdefault.jpg",
           "published_at": "2024-02-27T15:00:02Z",
           "url": "https://www.youtube.com/watch?v=isdLel273rQ"
-        },
-        {
-          "id": "LrIRuqr_Ozg",
-          "title": "What Happens AFTER Nuclear War?",
-          "thumbnail": "https://i.ytimg.com/vi/LrIRuqr_Ozg/mqdefault.jpg",
-          "published_at": "2024-02-20T15:00:02Z",
-          "url": "https://www.youtube.com/watch?v=LrIRuqr_Ozg"
         }
       ]
     },
@@ -3702,6 +3702,20 @@
       "name": "agadmator's Chess Channel",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "mL9sj-5G8vA",
+          "title": "The Perfect Game || Sina Movahed vs Magnus Carlsen",
+          "thumbnail": "https://i.ytimg.com/vi/mL9sj-5G8vA/mqdefault.jpg",
+          "published_at": "2026-03-10T19:32:41Z",
+          "url": "https://www.youtube.com/watch?v=mL9sj-5G8vA"
+        },
+        {
+          "id": "o5dJflgN5II",
+          "title": "Embrace the Chaos || Fabiano Caruana vs Levon Aronian || The American Cup 2026",
+          "thumbnail": "https://i.ytimg.com/vi/o5dJflgN5II/mqdefault.jpg",
+          "published_at": "2026-03-10T14:41:15Z",
+          "url": "https://www.youtube.com/watch?v=o5dJflgN5II"
+        },
         {
           "id": "HmWZpoR1_Nw",
           "title": "Patzer Sees a Check... || Keres vs Fischer || Cura\u00e7ao Candidates Tournament 1962",
@@ -4037,20 +4051,6 @@
           "thumbnail": "https://i.ytimg.com/vi/yy6XimAALws/mqdefault.jpg",
           "published_at": "2026-02-06T18:11:46Z",
           "url": "https://www.youtube.com/watch?v=yy6XimAALws"
-        },
-        {
-          "id": "fRFEFYvrw74",
-          "title": "He Calculated Like An Engine || Akiba Rubinstein vs Eugene Znosko-Borovsky || St. Petersburg 1909",
-          "thumbnail": "https://i.ytimg.com/vi/fRFEFYvrw74/mqdefault.jpg",
-          "published_at": "2026-02-06T14:37:06Z",
-          "url": "https://www.youtube.com/watch?v=fRFEFYvrw74"
-        },
-        {
-          "id": "_YCSNloGPRw",
-          "title": "First Meeting Of Akiba Rubinstein and World Champion Emanuel Lasker || St. Petersburg 1909",
-          "thumbnail": "https://i.ytimg.com/vi/_YCSNloGPRw/mqdefault.jpg",
-          "published_at": "2026-02-05T14:38:58Z",
-          "url": "https://www.youtube.com/watch?v=_YCSNloGPRw"
         }
       ]
     },
