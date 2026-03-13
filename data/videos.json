@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T05:42:39.691630+00:00",
+  "last_updated": "2026-03-13T05:40:45.483754+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -589,7 +589,7 @@
         },
         {
           "id": "88bMVbx1dzM",
-          "title": "Can you keep zooming in forever?",
+          "title": "Can You Keep Zooming In Infinitely?",
           "thumbnail": "https://i.ytimg.com/vi/88bMVbx1dzM/mqdefault.jpg",
           "published_at": "2025-02-05T15:02:34Z",
           "url": "https://www.youtube.com/watch?v=88bMVbx1dzM"
@@ -3703,6 +3703,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "cj7rzeBS1kY",
+          "title": "Magnus Plays Without Honor",
+          "thumbnail": "https://i.ytimg.com/vi/cj7rzeBS1kY/mqdefault.jpg",
+          "published_at": "2026-03-12T14:22:13Z",
+          "url": "https://www.youtube.com/watch?v=cj7rzeBS1kY"
+        },
+        {
           "id": "f-TTNIfi6-I",
           "title": "The Devil is in the Details || Wesley So vs Levon Aronian || The American Cup Superfinal 2026",
           "thumbnail": "https://i.ytimg.com/vi/f-TTNIfi6-I/mqdefault.jpg",
@@ -4044,13 +4051,6 @@
           "thumbnail": "https://i.ytimg.com/vi/W3hbNgEXpIQ/mqdefault.jpg",
           "published_at": "2026-02-09T12:29:54Z",
           "url": "https://www.youtube.com/watch?v=W3hbNgEXpIQ"
-        },
-        {
-          "id": "bmIVVaIJb0Y",
-          "title": "The Original Pirate? || Akiba Rubinstein vs Fyodor Duz-Khotimirsky || St. Petersburg (1909)",
-          "thumbnail": "https://i.ytimg.com/vi/bmIVVaIJb0Y/mqdefault.jpg",
-          "published_at": "2026-02-07T13:46:37Z",
-          "url": "https://www.youtube.com/watch?v=bmIVVaIJb0Y"
         }
       ]
     },
