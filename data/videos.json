@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T05:38:22.485362+00:00",
+  "last_updated": "2026-03-15T05:59:51.749293+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -2954,8 +2954,15 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "dSgwNvydXhI",
+          "title": "Why everyone hates Lego now",
+          "thumbnail": "https://i.ytimg.com/vi/dSgwNvydXhI/mqdefault.jpg",
+          "published_at": "2026-03-14T15:00:58Z",
+          "url": "https://www.youtube.com/watch?v=dSgwNvydXhI"
+        },
+        {
           "id": "TjBc7kD5ffM",
-          "title": "The Strange Attack on Flight 103",
+          "title": "The 13-Year Investigation Into Flight 103",
           "thumbnail": "https://i.ytimg.com/vi/TjBc7kD5ffM/mqdefault.jpg",
           "published_at": "2026-03-09T15:59:25Z",
           "url": "https://www.youtube.com/watch?v=TjBc7kD5ffM"
@@ -3295,13 +3302,6 @@
           "thumbnail": "https://i.ytimg.com/vi/REIlo713ulU/mqdefault.jpg",
           "published_at": "2025-03-12T14:02:25Z",
           "url": "https://www.youtube.com/watch?v=REIlo713ulU"
-        },
-        {
-          "id": "oAlP8IzWghs",
-          "title": "The World's Craziest Prison Escape",
-          "thumbnail": "https://i.ytimg.com/vi/oAlP8IzWghs/mqdefault.jpg",
-          "published_at": "2025-03-03T17:06:28Z",
-          "url": "https://www.youtube.com/watch?v=oAlP8IzWghs"
         }
       ]
     },
@@ -3312,7 +3312,7 @@
       "videos": [
         {
           "id": "RSIsGomGZcc",
-          "title": "Why History Forgot About This Extraordinary Emperor",
+          "title": "The Bloody Origins of the Number Zero",
           "thumbnail": "https://i.ytimg.com/vi/RSIsGomGZcc/mqdefault.jpg",
           "published_at": "2026-03-13T15:00:02Z",
           "url": "https://www.youtube.com/watch?v=RSIsGomGZcc"
@@ -3710,6 +3710,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "szb3DG6d7zs",
+          "title": "The Candidates Tournament Approaches! || Hikaru vs Awonder || Training Match 2026",
+          "thumbnail": "https://i.ytimg.com/vi/szb3DG6d7zs/mqdefault.jpg",
+          "published_at": "2026-03-14T12:22:24Z",
+          "url": "https://www.youtube.com/watch?v=szb3DG6d7zs"
+        },
+        {
           "id": "diIidXz6ytY",
           "title": "When Chess Becomes Art || Mamedyarov vs Predke || Bundesliga 2026",
           "thumbnail": "https://i.ytimg.com/vi/diIidXz6ytY/mqdefault.jpg",
@@ -4051,13 +4058,6 @@
           "thumbnail": "https://i.ytimg.com/vi/eULS_GhQZIk/mqdefault.jpg",
           "published_at": "2026-02-09T19:12:44Z",
           "url": "https://www.youtube.com/watch?v=eULS_GhQZIk"
-        },
-        {
-          "id": "UTLcnJaMwrA",
-          "title": "Ultimate Example: Passive vs Active Defense || Erich Cohn vs Akiba Rubinstein || St. Petersburg 1909",
-          "thumbnail": "https://i.ytimg.com/vi/UTLcnJaMwrA/mqdefault.jpg",
-          "published_at": "2026-02-09T14:50:24Z",
-          "url": "https://www.youtube.com/watch?v=UTLcnJaMwrA"
         }
       ]
     },
