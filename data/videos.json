@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T05:56:26.425033+00:00",
+  "last_updated": "2026-03-19T05:50:17.411102+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3710,6 +3710,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "mq03kVeptFI",
+          "title": "Only He Could See Such a Move || Vasyl Ivanchuk vs Veselin Topalov || Novgorod (1996)",
+          "thumbnail": "https://i.ytimg.com/vi/mq03kVeptFI/mqdefault.jpg",
+          "published_at": "2026-03-18T17:34:44Z",
+          "url": "https://www.youtube.com/watch?v=mq03kVeptFI"
+        },
+        {
+          "id": "gziGjRQwwf8",
+          "title": "Even Engines Fear This Man || Veselin Topalov vs Vasyl Ivanchuk || Linares (1999)",
+          "thumbnail": "https://i.ytimg.com/vi/gziGjRQwwf8/mqdefault.jpg",
+          "published_at": "2026-03-18T14:06:20Z",
+          "url": "https://www.youtube.com/watch?v=gziGjRQwwf8"
+        },
+        {
           "id": "BQmxXxWp28U",
           "title": "Absolute Carnage || Hans vs Nihal || Titled Tuesday 2026",
           "thumbnail": "https://i.ytimg.com/vi/BQmxXxWp28U/mqdefault.jpg",
@@ -4044,20 +4058,6 @@
           "thumbnail": "https://i.ytimg.com/vi/tCdSu97HYQ8/mqdefault.jpg",
           "published_at": "2026-02-13T15:10:31Z",
           "url": "https://www.youtube.com/watch?v=tCdSu97HYQ8"
-        },
-        {
-          "id": "8pI0Da_LBnQ",
-          "title": "Lasker Described it as Witchcraft || Rudolf Spielmann vs Akiba Rubinstein || St. Petersburg (1909)",
-          "thumbnail": "https://i.ytimg.com/vi/8pI0Da_LBnQ/mqdefault.jpg",
-          "published_at": "2026-02-13T13:47:30Z",
-          "url": "https://www.youtube.com/watch?v=8pI0Da_LBnQ"
-        },
-        {
-          "id": "SUJF_22fAoU",
-          "title": "\"Opening Fiasco\" || Akiba Rubinstein vs Sergey von Freymann || St. Petersburg (1909)",
-          "thumbnail": "https://i.ytimg.com/vi/SUJF_22fAoU/mqdefault.jpg",
-          "published_at": "2026-02-12T15:07:14Z",
-          "url": "https://www.youtube.com/watch?v=SUJF_22fAoU"
         }
       ]
     },
