@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T05:43:26.557935+00:00",
+  "last_updated": "2026-03-20T17:03:59.744210+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3710,6 +3710,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "fn2fzibVSsw",
+          "title": "One of The Greatest Attacks Ever Unleashed || Topalov vs Anand || MTel Masters (2005)",
+          "thumbnail": "https://i.ytimg.com/vi/fn2fzibVSsw/mqdefault.jpg",
+          "published_at": "2026-03-20T16:00:00Z",
+          "url": "https://www.youtube.com/watch?v=fn2fzibVSsw"
+        },
+        {
+          "id": "pGF5UI5_U_8",
+          "title": "A Test Before The Candidates || Levon Aronian vs Matthias Bluebaum || Chess.com Open 2026",
+          "thumbnail": "https://i.ytimg.com/vi/pGF5UI5_U_8/mqdefault.jpg",
+          "published_at": "2026-03-20T13:28:36Z",
+          "url": "https://www.youtube.com/watch?v=pGF5UI5_U_8"
+        },
+        {
           "id": "0pSV2Pr31pg",
           "title": "Chess Really Was Art Before Engines || Topalov vs Kasparov || Euwe Memorial (1996)",
           "thumbnail": "https://i.ytimg.com/vi/0pSV2Pr31pg/mqdefault.jpg",
@@ -4044,20 +4058,6 @@
           "thumbnail": "https://i.ytimg.com/vi/_bA28XuTzVI/mqdefault.jpg",
           "published_at": "2026-02-15T19:02:04Z",
           "url": "https://www.youtube.com/watch?v=_bA28XuTzVI"
-        },
-        {
-          "id": "wipPYRPAVkw",
-          "title": "Beyond Human Level || Nodirbek vs Magnus || FIDE Freestyle Chess World Championship",
-          "thumbnail": "https://i.ytimg.com/vi/wipPYRPAVkw/mqdefault.jpg",
-          "published_at": "2026-02-15T11:53:28Z",
-          "url": "https://www.youtube.com/watch?v=wipPYRPAVkw"
-        },
-        {
-          "id": "-P1JcWJccCQ",
-          "title": "9 Pawn Moves In a Row! || Arjun vs Magnus || FIDE Freestyle Chess World Championship",
-          "thumbnail": "https://i.ytimg.com/vi/-P1JcWJccCQ/mqdefault.jpg",
-          "published_at": "2026-02-13T19:31:18Z",
-          "url": "https://www.youtube.com/watch?v=-P1JcWJccCQ"
         }
       ]
     },
@@ -4772,6 +4772,181 @@
           "thumbnail": "https://i.ytimg.com/vi/69zi7lZydZ8/mqdefault.jpg",
           "published_at": "2024-08-17T04:30:02Z",
           "url": "https://www.youtube.com/watch?v=69zi7lZydZ8"
+        }
+      ]
+    },
+    {
+      "id": "UCGudGqToOw9hWGR88W9Jutg",
+      "name": "Howtown",
+      "thumbnail": "https://yt3.ggpht.com/WPr50X5C9Hyvd21TyVKWsfsuaxkuyH-gOErQbuPMmDo-g0urjzsKLF9VDmnaPxzB6_xM_5LNNQ=s88-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "ghW7BEC0byg",
+          "title": "The big problem with the moon's origin story",
+          "thumbnail": "https://i.ytimg.com/vi/ghW7BEC0byg/mqdefault.jpg",
+          "published_at": "2026-03-20T12:44:05Z",
+          "url": "https://www.youtube.com/watch?v=ghW7BEC0byg"
+        },
+        {
+          "id": "5Zhim-mHzZI",
+          "title": "The honest truth about lie detectors",
+          "thumbnail": "https://i.ytimg.com/vi/5Zhim-mHzZI/mqdefault.jpg",
+          "published_at": "2026-02-05T15:28:46Z",
+          "url": "https://www.youtube.com/watch?v=5Zhim-mHzZI"
+        },
+        {
+          "id": "tdIUMkXxtHg",
+          "title": "What the actual science says about \"brain rot\"",
+          "thumbnail": "https://i.ytimg.com/vi/tdIUMkXxtHg/mqdefault.jpg",
+          "published_at": "2025-12-30T13:01:50Z",
+          "url": "https://www.youtube.com/watch?v=tdIUMkXxtHg"
+        },
+        {
+          "id": "xtx7x_WaZhI",
+          "title": "Too many people? Or not enough?",
+          "thumbnail": "https://i.ytimg.com/vi/xtx7x_WaZhI/mqdefault.jpg",
+          "published_at": "2025-11-20T13:02:05Z",
+          "url": "https://www.youtube.com/watch?v=xtx7x_WaZhI"
+        },
+        {
+          "id": "zAfoNtADtoI",
+          "title": "Did we just unfreeze a pandemic?",
+          "thumbnail": "https://i.ytimg.com/vi/zAfoNtADtoI/mqdefault.jpg",
+          "published_at": "2025-10-16T12:01:53Z",
+          "url": "https://www.youtube.com/watch?v=zAfoNtADtoI"
+        },
+        {
+          "id": "BkA9AkYBvQ0",
+          "title": "The only good nuclear accident",
+          "thumbnail": "https://i.ytimg.com/vi/BkA9AkYBvQ0/mqdefault.jpg",
+          "published_at": "2025-09-23T12:00:18Z",
+          "url": "https://www.youtube.com/watch?v=BkA9AkYBvQ0"
+        },
+        {
+          "id": "WTbpdzMC20I",
+          "title": "Can we really blame social media? A research showdown.",
+          "thumbnail": "https://i.ytimg.com/vi/WTbpdzMC20I/mqdefault.jpg",
+          "published_at": "2025-08-28T12:01:04Z",
+          "url": "https://www.youtube.com/watch?v=WTbpdzMC20I"
+        },
+        {
+          "id": "vm_1XLKtGpI",
+          "title": "How half the US lost part of their minds",
+          "thumbnail": "https://i.ytimg.com/vi/vm_1XLKtGpI/mqdefault.jpg",
+          "published_at": "2025-07-18T13:56:45Z",
+          "url": "https://www.youtube.com/watch?v=vm_1XLKtGpI"
+        },
+        {
+          "id": "5vea06e6x_E",
+          "title": "What Quetzalcoatlus was really like",
+          "thumbnail": "https://i.ytimg.com/vi/5vea06e6x_E/mqdefault.jpg",
+          "published_at": "2025-06-26T14:35:13Z",
+          "url": "https://www.youtube.com/watch?v=5vea06e6x_E"
+        },
+        {
+          "id": "Y6DokoApPVA",
+          "title": "What's really down in the deep",
+          "thumbnail": "https://i.ytimg.com/vi/Y6DokoApPVA/mqdefault.jpg",
+          "published_at": "2025-05-15T12:00:57Z",
+          "url": "https://www.youtube.com/watch?v=Y6DokoApPVA"
+        },
+        {
+          "id": "--WuD_2BijM",
+          "title": "The forest was full of cities we couldn\u2019t see",
+          "thumbnail": "https://i.ytimg.com/vi/--WuD_2BijM/mqdefault.jpg",
+          "published_at": "2025-04-17T12:00:01Z",
+          "url": "https://www.youtube.com/watch?v=--WuD_2BijM"
+        },
+        {
+          "id": "t1hOdm0RJlY",
+          "title": "4 billion years of tectonics in 17 minutes",
+          "thumbnail": "https://i.ytimg.com/vi/t1hOdm0RJlY/mqdefault.jpg",
+          "published_at": "2025-03-31T17:11:32Z",
+          "url": "https://www.youtube.com/watch?v=t1hOdm0RJlY"
+        },
+        {
+          "id": "qO0WvudbO04",
+          "title": "I tried to prove I'm not AI",
+          "thumbnail": "https://i.ytimg.com/vi/qO0WvudbO04/mqdefault.jpg",
+          "published_at": "2025-02-21T14:06:34Z",
+          "url": "https://www.youtube.com/watch?v=qO0WvudbO04"
+        },
+        {
+          "id": "gAK58BIUgdk",
+          "title": "How dangerous could one beer be?",
+          "thumbnail": "https://i.ytimg.com/vi/gAK58BIUgdk/mqdefault.jpg",
+          "published_at": "2025-01-10T12:32:27Z",
+          "url": "https://www.youtube.com/watch?v=gAK58BIUgdk"
+        },
+        {
+          "id": "dutpBSKj8JY",
+          "title": "The truth about Hot Ones sauces",
+          "thumbnail": "https://i.ytimg.com/vi/dutpBSKj8JY/mqdefault.jpg",
+          "published_at": "2024-12-19T13:00:54Z",
+          "url": "https://www.youtube.com/watch?v=dutpBSKj8JY"
+        },
+        {
+          "id": "oa7tcuE2TP0",
+          "title": "Is it easy to steal an election?",
+          "thumbnail": "https://i.ytimg.com/vi/oa7tcuE2TP0/mqdefault.jpg",
+          "published_at": "2024-10-25T11:52:24Z",
+          "url": "https://www.youtube.com/watch?v=oa7tcuE2TP0"
+        },
+        {
+          "id": "eg1--c2r8HE",
+          "title": "One weird metric picks the world's \"happiest country\"",
+          "thumbnail": "https://i.ytimg.com/vi/eg1--c2r8HE/mqdefault.jpg",
+          "published_at": "2024-09-26T12:00:51Z",
+          "url": "https://www.youtube.com/watch?v=eg1--c2r8HE"
+        },
+        {
+          "id": "1YlKoGbp_kQ",
+          "title": "The ancient hook-up that changed humanity",
+          "thumbnail": "https://i.ytimg.com/vi/1YlKoGbp_kQ/mqdefault.jpg",
+          "published_at": "2024-09-05T12:00:03Z",
+          "url": "https://www.youtube.com/watch?v=1YlKoGbp_kQ"
+        },
+        {
+          "id": "UuN5HXctmYk",
+          "title": "Why they can't actually count the Calories",
+          "thumbnail": "https://i.ytimg.com/vi/UuN5HXctmYk/mqdefault.jpg",
+          "published_at": "2024-08-15T12:00:35Z",
+          "url": "https://www.youtube.com/watch?v=UuN5HXctmYk"
+        },
+        {
+          "id": "C27PlV_zijk",
+          "title": "How X broke the news",
+          "thumbnail": "https://i.ytimg.com/vi/C27PlV_zijk/mqdefault.jpg",
+          "published_at": "2024-07-25T20:00:05Z",
+          "url": "https://www.youtube.com/watch?v=C27PlV_zijk"
+        },
+        {
+          "id": "1IliV9aNXPE",
+          "title": "Which animals are sentient?",
+          "thumbnail": "https://i.ytimg.com/vi/1IliV9aNXPE/mqdefault.jpg",
+          "published_at": "2024-07-11T12:00:01Z",
+          "url": "https://www.youtube.com/watch?v=1IliV9aNXPE"
+        },
+        {
+          "id": "CzncKN2AO30",
+          "title": "How do we know Earth's circumference?",
+          "thumbnail": "https://i.ytimg.com/vi/CzncKN2AO30/mqdefault.jpg",
+          "published_at": "2024-06-27T12:00:17Z",
+          "url": "https://www.youtube.com/watch?v=CzncKN2AO30"
+        },
+        {
+          "id": "JS2rCjvjYLU",
+          "title": "How accurate was the Covid death count? (w/ Hank Green)",
+          "thumbnail": "https://i.ytimg.com/vi/JS2rCjvjYLU/mqdefault.jpg",
+          "published_at": "2024-06-13T12:00:30Z",
+          "url": "https://www.youtube.com/watch?v=JS2rCjvjYLU"
+        },
+        {
+          "id": "EJXG-5mZfJM",
+          "title": "Dog vision, explained",
+          "thumbnail": "https://i.ytimg.com/vi/EJXG-5mZfJM/mqdefault.jpg",
+          "published_at": "2024-05-30T12:00:25Z",
+          "url": "https://www.youtube.com/watch?v=EJXG-5mZfJM"
         }
       ]
     }
