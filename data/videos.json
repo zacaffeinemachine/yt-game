@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T05:50:17.411102+00:00",
+  "last_updated": "2026-03-20T05:43:26.557935+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -364,6 +364,13 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "9szhjhO9epA",
+          "title": "Making A Giant Zipper To Explain How It Works",
+          "thumbnail": "https://i.ytimg.com/vi/9szhjhO9epA/mqdefault.jpg",
+          "published_at": "2026-03-19T21:12:24Z",
+          "url": "https://www.youtube.com/watch?v=9szhjhO9epA"
+        },
+        {
           "id": "Ol18JoeXlVI",
           "title": "This Paradox Splits Smart People 50/50",
           "thumbnail": "https://i.ytimg.com/vi/Ol18JoeXlVI/mqdefault.jpg",
@@ -673,7 +680,7 @@
         },
         {
           "id": "DJO_9auJhJQ",
-          "title": "We Might Find Alien Life In 1847 Days",
+          "title": "We Might Find Alien Life In 1827 Days",
           "thumbnail": "https://i.ytimg.com/vi/DJO_9auJhJQ/mqdefault.jpg",
           "published_at": "2024-10-11T18:25:50Z",
           "url": "https://www.youtube.com/watch?v=DJO_9auJhJQ"
@@ -705,13 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/vjDYfvPW4mA/mqdefault.jpg",
           "published_at": "2024-08-31T23:50:38Z",
           "url": "https://www.youtube.com/watch?v=vjDYfvPW4mA"
-        },
-        {
-          "id": "qf7ws2DF-zk",
-          "title": "Why Democracy Is Mathematically Impossible",
-          "thumbnail": "https://i.ytimg.com/vi/qf7ws2DF-zk/mqdefault.jpg",
-          "published_at": "2024-08-27T21:04:56Z",
-          "url": "https://www.youtube.com/watch?v=qf7ws2DF-zk"
         }
       ]
     },
@@ -3710,6 +3710,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "0pSV2Pr31pg",
+          "title": "Chess Really Was Art Before Engines || Topalov vs Kasparov || Euwe Memorial (1996)",
+          "thumbnail": "https://i.ytimg.com/vi/0pSV2Pr31pg/mqdefault.jpg",
+          "published_at": "2026-03-19T14:03:34Z",
+          "url": "https://www.youtube.com/watch?v=0pSV2Pr31pg"
+        },
+        {
           "id": "mq03kVeptFI",
           "title": "Only He Could See Such a Move || Vasyl Ivanchuk vs Veselin Topalov || Novgorod (1996)",
           "thumbnail": "https://i.ytimg.com/vi/mq03kVeptFI/mqdefault.jpg",
@@ -4051,13 +4058,6 @@
           "thumbnail": "https://i.ytimg.com/vi/-P1JcWJccCQ/mqdefault.jpg",
           "published_at": "2026-02-13T19:31:18Z",
           "url": "https://www.youtube.com/watch?v=-P1JcWJccCQ"
-        },
-        {
-          "id": "tCdSu97HYQ8",
-          "title": "HANS VS MAGNUS || FIDE Freestyle Chess World Championship",
-          "thumbnail": "https://i.ytimg.com/vi/tCdSu97HYQ8/mqdefault.jpg",
-          "published_at": "2026-02-13T15:10:31Z",
-          "url": "https://www.youtube.com/watch?v=tCdSu97HYQ8"
         }
       ]
     },
