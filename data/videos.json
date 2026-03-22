@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T05:35:04.660887+00:00",
+  "last_updated": "2026-03-22T05:45:26.010872+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3710,6 +3710,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "lM8AxMmfhbw",
+          "title": "The Perfect Attack || Topalov vs Naiditsch || Dortmund Sparkassen (2005)",
+          "thumbnail": "https://i.ytimg.com/vi/lM8AxMmfhbw/mqdefault.jpg",
+          "published_at": "2026-03-21T15:33:20Z",
+          "url": "https://www.youtube.com/watch?v=lM8AxMmfhbw"
+        },
+        {
           "id": "fn2fzibVSsw",
           "title": "One of The Greatest Attacks Ever Unleashed || Topalov vs Anand || MTel Masters (2005)",
           "thumbnail": "https://i.ytimg.com/vi/fn2fzibVSsw/mqdefault.jpg",
@@ -4051,13 +4058,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ecC9gwcEMRE/mqdefault.jpg",
           "published_at": "2026-02-16T13:58:06Z",
           "url": "https://www.youtube.com/watch?v=ecC9gwcEMRE"
-        },
-        {
-          "id": "_bA28XuTzVI",
-          "title": "Fischer Random World Champion! || Fabi vs Magnus || Freestyle Chess World Championship",
-          "thumbnail": "https://i.ytimg.com/vi/_bA28XuTzVI/mqdefault.jpg",
-          "published_at": "2026-02-15T19:02:04Z",
-          "url": "https://www.youtube.com/watch?v=_bA28XuTzVI"
         }
       ]
     },
