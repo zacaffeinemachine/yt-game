@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-03-22T05:45:26.010872+00:00",
+  "last_updated": "2026-03-23T06:03:44.046937+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
       "name": "3Blue1Brown",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "ldxFjLJ3rVY",
+          "title": "This picture broke my brain",
+          "thumbnail": "https://i.ytimg.com/vi/ldxFjLJ3rVY/mqdefault.jpg",
+          "published_at": "2026-03-22T12:59:00Z",
+          "url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY"
+        },
         {
           "id": "fsLh-NYhOoU",
           "title": "The most beautiful formula not enough people understand",
@@ -348,13 +355,6 @@
           "thumbnail": "https://i.ytimg.com/vi/O85OWBJ2ayo/mqdefault.jpg",
           "published_at": "2021-04-01T15:50:30Z",
           "url": "https://www.youtube.com/watch?v=O85OWBJ2ayo"
-        },
-        {
-          "id": "lG4VkPoG3ko",
-          "title": "The medical test paradox, and redesigning Bayes' rule",
-          "thumbnail": "https://i.ytimg.com/vi/lG4VkPoG3ko/mqdefault.jpg",
-          "published_at": "2020-12-22T17:42:00Z",
-          "url": "https://www.youtube.com/watch?v=lG4VkPoG3ko"
         }
       ]
     },
@@ -2954,6 +2954,13 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "PSHQ_MuxxNw",
+          "title": "The Craziest Bank Robbery of all Time",
+          "thumbnail": "https://i.ytimg.com/vi/PSHQ_MuxxNw/mqdefault.jpg",
+          "published_at": "2026-03-22T15:00:38Z",
+          "url": "https://www.youtube.com/watch?v=PSHQ_MuxxNw"
+        },
+        {
           "id": "dSgwNvydXhI",
           "title": "Why everyone hates Lego now",
           "thumbnail": "https://i.ytimg.com/vi/dSgwNvydXhI/mqdefault.jpg",
@@ -3295,13 +3302,6 @@
           "thumbnail": "https://i.ytimg.com/vi/nJr8rFbXTy0/mqdefault.jpg",
           "published_at": "2025-03-19T16:01:06Z",
           "url": "https://www.youtube.com/watch?v=nJr8rFbXTy0"
-        },
-        {
-          "id": "REIlo713ulU",
-          "title": "The World's Most Dangerous Woman",
-          "thumbnail": "https://i.ytimg.com/vi/REIlo713ulU/mqdefault.jpg",
-          "published_at": "2025-03-12T14:02:25Z",
-          "url": "https://www.youtube.com/watch?v=REIlo713ulU"
         }
       ]
     },
@@ -4067,6 +4067,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "J696qzlHi-U",
+          "title": "New Study: A Bacteria that Increases Muscle Strength?",
+          "thumbnail": "https://i.ytimg.com/vi/J696qzlHi-U/mqdefault.jpg",
+          "published_at": "2026-03-22T20:09:39Z",
+          "url": "https://www.youtube.com/watch?v=J696qzlHi-U"
+        },
+        {
           "id": "AYwM96nukHI",
           "title": "\"Ice Cream Has Surprising Health Benefits\" Debunked",
           "thumbnail": "https://i.ytimg.com/vi/AYwM96nukHI/mqdefault.jpg",
@@ -4408,13 +4415,6 @@
           "thumbnail": "https://i.ytimg.com/vi/x0lzfIETMMI/mqdefault.jpg",
           "published_at": "2025-05-02T23:21:36Z",
           "url": "https://www.youtube.com/watch?v=x0lzfIETMMI"
-        },
-        {
-          "id": "hSKuVeJJuWI",
-          "title": "The Keto Coverup: Why Scientists Buried New Heart Plaque Data",
-          "thumbnail": "https://i.ytimg.com/vi/hSKuVeJJuWI/mqdefault.jpg",
-          "published_at": "2025-04-25T23:36:21Z",
-          "url": "https://www.youtube.com/watch?v=hSKuVeJJuWI"
         }
       ]
     },
