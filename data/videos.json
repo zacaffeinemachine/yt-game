@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T06:05:43.211317+00:00",
+  "last_updated": "2026-03-30T06:24:04.252559+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -2954,6 +2954,13 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "H33dcy-2r_U",
+          "title": "How Teenagers Steal Cocaine Out of Ports",
+          "thumbnail": "https://i.ytimg.com/vi/H33dcy-2r_U/mqdefault.jpg",
+          "published_at": "2026-03-29T14:00:29Z",
+          "url": "https://www.youtube.com/watch?v=H33dcy-2r_U"
+        },
+        {
           "id": "PSHQ_MuxxNw",
           "title": "The Bank Heist of the Century",
           "thumbnail": "https://i.ytimg.com/vi/PSHQ_MuxxNw/mqdefault.jpg",
@@ -3295,13 +3302,6 @@
           "thumbnail": "https://i.ytimg.com/vi/NDeWmvJ2AOs/mqdefault.jpg",
           "published_at": "2025-03-26T15:00:35Z",
           "url": "https://www.youtube.com/watch?v=NDeWmvJ2AOs"
-        },
-        {
-          "id": "nJr8rFbXTy0",
-          "title": "The Forgotten Attack on the Twin Towers",
-          "thumbnail": "https://i.ytimg.com/vi/nJr8rFbXTy0/mqdefault.jpg",
-          "published_at": "2025-03-19T16:01:06Z",
-          "url": "https://www.youtube.com/watch?v=nJr8rFbXTy0"
         }
       ]
     },
@@ -3710,6 +3710,27 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "gnfhjd7wbPw",
+          "title": "\u201cMy Win Would Be A Huge Boost for Chess\u201d || Fabiano vs Hikaru || FIDE Candidates Tournament 2026",
+          "thumbnail": "https://i.ytimg.com/vi/gnfhjd7wbPw/mqdefault.jpg",
+          "published_at": "2026-03-29T19:57:41Z",
+          "url": "https://www.youtube.com/watch?v=gnfhjd7wbPw"
+        },
+        {
+          "id": "LpKlPC9shbk",
+          "title": "This Time No Draws! || Praggnanandhaa vs Anish Giri || FIDE Candidates Tournament 2026",
+          "thumbnail": "https://i.ytimg.com/vi/LpKlPC9shbk/mqdefault.jpg",
+          "published_at": "2026-03-29T18:57:36Z",
+          "url": "https://www.youtube.com/watch?v=LpKlPC9shbk"
+        },
+        {
+          "id": "njpD7QDNR5c",
+          "title": "THE TIME IS NOW! || Javokhir Sindarov vs Andrey Esipenko || FIDE Candidates Tournament 2026",
+          "thumbnail": "https://i.ytimg.com/vi/njpD7QDNR5c/mqdefault.jpg",
+          "published_at": "2026-03-29T18:04:56Z",
+          "url": "https://www.youtube.com/watch?v=njpD7QDNR5c"
+        },
+        {
           "id": "I1nh9Uk_xR8",
           "title": "No One REALLY Understands The French || Amin Tabatabaei vs Vasyl Ivanchuk || Reykjavik Open 2026",
           "thumbnail": "https://i.ytimg.com/vi/I1nh9Uk_xR8/mqdefault.jpg",
@@ -4037,27 +4058,6 @@
           "thumbnail": "https://i.ytimg.com/vi/-aRBoIzrHjs/mqdefault.jpg",
           "published_at": "2026-02-25T12:00:40Z",
           "url": "https://www.youtube.com/watch?v=-aRBoIzrHjs"
-        },
-        {
-          "id": "QpjtW0-8XdU",
-          "title": "No Moustache no Power? || Magnus vs Javokhir || Titled Tuesday FINAL ROUND",
-          "thumbnail": "https://i.ytimg.com/vi/QpjtW0-8XdU/mqdefault.jpg",
-          "published_at": "2026-02-24T20:10:12Z",
-          "url": "https://www.youtube.com/watch?v=QpjtW0-8XdU"
-        },
-        {
-          "id": "6zwJF3Po2_E",
-          "title": "The Ultimate Fighter || Akiba Rubinstein vs Old\u0159ich Duras || San Sebastian (1911)",
-          "thumbnail": "https://i.ytimg.com/vi/6zwJF3Po2_E/mqdefault.jpg",
-          "published_at": "2026-02-24T14:40:52Z",
-          "url": "https://www.youtube.com/watch?v=6zwJF3Po2_E"
-        },
-        {
-          "id": "ffYkpl7mAxQ",
-          "title": "It's All About the b Pawn!  || Paul Leonhardt vs Akiba Rubinstein || San Sebastian (1911)",
-          "thumbnail": "https://i.ytimg.com/vi/ffYkpl7mAxQ/mqdefault.jpg",
-          "published_at": "2026-02-23T17:55:05Z",
-          "url": "https://www.youtube.com/watch?v=ffYkpl7mAxQ"
         }
       ]
     },
