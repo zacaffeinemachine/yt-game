@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T06:05:39.732720+00:00",
+  "last_updated": "2026-04-04T05:48:51.863194+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3717,6 +3717,27 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "3GUFNWq1xFw",
+          "title": "Checkmate on the Board! || Fabiano Caruana vs Matthias Bl\u00fcbaum || FIDE Candidates Tournament 2026 R5",
+          "thumbnail": "https://i.ytimg.com/vi/3GUFNWq1xFw/mqdefault.jpg",
+          "published_at": "2026-04-03T17:52:24Z",
+          "url": "https://www.youtube.com/watch?v=3GUFNWq1xFw"
+        },
+        {
+          "id": "4IgOWGH_1pc",
+          "title": "The DIVINE Line || Hikaru Nakamura vs Javokhir Sindarov || FIDE Candidates Tournament 2026 R5",
+          "thumbnail": "https://i.ytimg.com/vi/4IgOWGH_1pc/mqdefault.jpg",
+          "published_at": "2026-04-03T17:02:46Z",
+          "url": "https://www.youtube.com/watch?v=4IgOWGH_1pc"
+        },
+        {
+          "id": "f7SApEK0goo",
+          "title": "REPORTED! || Alua Nurman vs Magnus Carlsen ||  Grenke Festival 2026 R2",
+          "thumbnail": "https://i.ytimg.com/vi/f7SApEK0goo/mqdefault.jpg",
+          "published_at": "2026-04-03T12:37:12Z",
+          "url": "https://www.youtube.com/watch?v=f7SApEK0goo"
+        },
+        {
           "id": "Omg9_L_wLJo",
           "title": "Can Magnus Repeat the Mythic 9/9? || Grenke Chess Festival 2026 R1",
           "thumbnail": "https://i.ytimg.com/vi/Omg9_L_wLJo/mqdefault.jpg",
@@ -4044,27 +4065,6 @@
           "thumbnail": "https://i.ytimg.com/vi/C5XpLDm_0Qw/mqdefault.jpg",
           "published_at": "2026-03-03T19:33:20Z",
           "url": "https://www.youtube.com/watch?v=C5XpLDm_0Qw"
-        },
-        {
-          "id": "PtDrjGw1uwQ",
-          "title": "\"Immortal-Like!\" || David Navara vs Nodirbek Yakubboev || Prague Chess Festival 2026",
-          "thumbnail": "https://i.ytimg.com/vi/PtDrjGw1uwQ/mqdefault.jpg",
-          "published_at": "2026-03-02T14:43:04Z",
-          "url": "https://www.youtube.com/watch?v=PtDrjGw1uwQ"
-        },
-        {
-          "id": "rldNEysorOw",
-          "title": "Remember The Storm of The Century? || Nodirbek Abdusattorov vs Gukesh || Prague Chess Festival 2026",
-          "thumbnail": "https://i.ytimg.com/vi/rldNEysorOw/mqdefault.jpg",
-          "published_at": "2026-03-02T12:21:36Z",
-          "url": "https://www.youtube.com/watch?v=rldNEysorOw"
-        },
-        {
-          "id": "Ei7qcBUMZZg",
-          "title": "Call The Ambulance! || Jorden vs Hans || Prague Chess Festival 2026",
-          "thumbnail": "https://i.ytimg.com/vi/Ei7qcBUMZZg/mqdefault.jpg",
-          "published_at": "2026-03-01T19:22:25Z",
-          "url": "https://www.youtube.com/watch?v=Ei7qcBUMZZg"
         }
       ]
     },
@@ -4073,6 +4073,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "0AflQr7vj3o",
+          "title": "New Vegan Studies: Lower Cancer, Food Cost, Aging Epigenetics, and More",
+          "thumbnail": "https://i.ytimg.com/vi/0AflQr7vj3o/mqdefault.jpg",
+          "published_at": "2026-04-03T22:51:05Z",
+          "url": "https://www.youtube.com/watch?v=0AflQr7vj3o"
+        },
         {
           "id": "VzWyTrgfFyY",
           "title": "The Population is Rusting On the Inside",
@@ -4415,13 +4422,6 @@
           "thumbnail": "https://i.ytimg.com/vi/JZ5f2BiA2go/mqdefault.jpg",
           "published_at": "2025-05-16T20:56:00Z",
           "url": "https://www.youtube.com/watch?v=JZ5f2BiA2go"
-        },
-        {
-          "id": "5Q8PtgBa9k8",
-          "title": "It's Official, Vegans Absorb More Iron From Plants",
-          "thumbnail": "https://i.ytimg.com/vi/5Q8PtgBa9k8/mqdefault.jpg",
-          "published_at": "2025-05-10T01:01:05Z",
-          "url": "https://www.youtube.com/watch?v=5Q8PtgBa9k8"
         }
       ]
     },
