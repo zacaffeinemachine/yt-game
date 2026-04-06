@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T06:08:15.979383+00:00",
+  "last_updated": "2026-04-06T06:24:03.914392+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -364,6 +364,13 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "jjp3WC8Unj8",
+          "title": "Why Is CERN Making Antimatter?",
+          "thumbnail": "https://i.ytimg.com/vi/jjp3WC8Unj8/mqdefault.jpg",
+          "published_at": "2026-04-05T20:07:08Z",
+          "url": "https://www.youtube.com/watch?v=jjp3WC8Unj8"
+        },
+        {
           "id": "YSJY3DvnybE",
           "title": "The Secret Spy Tech Inside Every Credit Card",
           "thumbnail": "https://i.ytimg.com/vi/YSJY3DvnybE/mqdefault.jpg",
@@ -705,13 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/w5ebcowAJD8/mqdefault.jpg",
           "published_at": "2024-09-30T18:51:21Z",
           "url": "https://www.youtube.com/watch?v=w5ebcowAJD8"
-        },
-        {
-          "id": "wVyu7NB7W6Y",
-          "title": "Exposing The Flaw In Our Phone System",
-          "thumbnail": "https://i.ytimg.com/vi/wVyu7NB7W6Y/mqdefault.jpg",
-          "published_at": "2024-09-21T23:10:47Z",
-          "url": "https://www.youtube.com/watch?v=wVyu7NB7W6Y"
         }
       ]
     },
@@ -2954,6 +2954,13 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "j7vnAq3_TVs",
+          "title": "How Cops Robbed the Dark Web King",
+          "thumbnail": "https://i.ytimg.com/vi/j7vnAq3_TVs/mqdefault.jpg",
+          "published_at": "2026-04-05T14:01:05Z",
+          "url": "https://www.youtube.com/watch?v=j7vnAq3_TVs"
+        },
+        {
           "id": "H33dcy-2r_U",
           "title": "The Most Dangerous Job in Crime",
           "thumbnail": "https://i.ytimg.com/vi/H33dcy-2r_U/mqdefault.jpg",
@@ -3295,13 +3302,6 @@
           "thumbnail": "https://i.ytimg.com/vi/KfONbvTukPA/mqdefault.jpg",
           "published_at": "2025-04-01T18:54:50Z",
           "url": "https://www.youtube.com/watch?v=KfONbvTukPA"
-        },
-        {
-          "id": "NDeWmvJ2AOs",
-          "title": "The Insane Story of Japan's Chernobyl",
-          "thumbnail": "https://i.ytimg.com/vi/NDeWmvJ2AOs/mqdefault.jpg",
-          "published_at": "2025-03-26T15:00:35Z",
-          "url": "https://www.youtube.com/watch?v=NDeWmvJ2AOs"
         }
       ]
     },
