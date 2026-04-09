@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T06:14:34.308629+00:00",
+  "last_updated": "2026-04-09T06:13:48.096026+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "jjp3WC8Unj8",
-          "title": "This Factory Makes The World's Most Expensive Stuff",
+          "title": "The World's Only Antimatter Factory",
           "thumbnail": "https://i.ytimg.com/vi/jjp3WC8Unj8/mqdefault.jpg",
           "published_at": "2026-04-05T20:07:08Z",
           "url": "https://www.youtube.com/watch?v=jjp3WC8Unj8"
@@ -1848,6 +1848,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nYFWjG64F27JNXiQXMCKYB0umXlsvIxNxkHzaBByxxeDk=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "pLIatO-RA1c",
+          "title": "The Grid Doesn't Need More Power Plants (It Needs This)",
+          "thumbnail": "https://i.ytimg.com/vi/pLIatO-RA1c/mqdefault.jpg",
+          "published_at": "2026-04-08T12:16:53Z",
+          "url": "https://www.youtube.com/watch?v=pLIatO-RA1c"
+        },
+        {
           "id": "8sOEB2m0m9Y",
           "title": "Why This Vertical Farm is 500x More Efficient Than Farming",
           "thumbnail": "https://i.ytimg.com/vi/8sOEB2m0m9Y/mqdefault.jpg",
@@ -2189,13 +2196,6 @@
           "thumbnail": "https://i.ytimg.com/vi/qZ8z5tFzuIw/mqdefault.jpg",
           "published_at": "2025-02-25T13:16:51Z",
           "url": "https://www.youtube.com/watch?v=qZ8z5tFzuIw"
-        },
-        {
-          "id": "rKPYy8RF1RU",
-          "title": "The Hidden Work Behind Wind Energy",
-          "thumbnail": "https://i.ytimg.com/vi/rKPYy8RF1RU/mqdefault.jpg",
-          "published_at": "2025-02-18T13:16:49Z",
-          "url": "https://www.youtube.com/watch?v=rKPYy8RF1RU"
         }
       ]
     },
@@ -3717,6 +3717,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "5xVPviwze98",
+          "title": "The Elevator Blessing || Fabiano Caruana vs Anish Giri || FIDE Candidates Tournament 2026 R9",
+          "thumbnail": "https://i.ytimg.com/vi/5xVPviwze98/mqdefault.jpg",
+          "published_at": "2026-04-08T18:45:49Z",
+          "url": "https://www.youtube.com/watch?v=5xVPviwze98"
+        },
+        {
+          "id": "SdEnb3RGvKg",
+          "title": "\u201cIt\u2019s Quite Nice to Shut up all the Idiots Who Think That I can\u2019t Play Chess Anymore\u201d",
+          "thumbnail": "https://i.ytimg.com/vi/SdEnb3RGvKg/mqdefault.jpg",
+          "published_at": "2026-04-08T09:26:34Z",
+          "url": "https://www.youtube.com/watch?v=SdEnb3RGvKg"
+        },
+        {
           "id": "otbLq0jigeA",
           "title": "The Plot Thickens! || Anish Giri vs Praggnanandhaa || FIDE Candidates Tournament 2026 R8",
           "thumbnail": "https://i.ytimg.com/vi/otbLq0jigeA/mqdefault.jpg",
@@ -4051,20 +4065,6 @@
           "thumbnail": "https://i.ytimg.com/vi/nu0TYosIo-E/mqdefault.jpg",
           "published_at": "2026-03-06T10:31:56Z",
           "url": "https://www.youtube.com/watch?v=nu0TYosIo-E"
-        },
-        {
-          "id": "NIQfp1UUVPg",
-          "title": "The Cruelty of Chess || David Navara vs Nodirbek Abdusattorov || Prague Chess Festival 2026",
-          "thumbnail": "https://i.ytimg.com/vi/NIQfp1UUVPg/mqdefault.jpg",
-          "published_at": "2026-03-05T20:04:50Z",
-          "url": "https://www.youtube.com/watch?v=NIQfp1UUVPg"
-        },
-        {
-          "id": "78a6q14fk6A",
-          "title": "Still Theory! || Vincent Keymer vs David Ant\u00f3n || Prague Chess Festival 2026",
-          "thumbnail": "https://i.ytimg.com/vi/78a6q14fk6A/mqdefault.jpg",
-          "published_at": "2026-03-05T12:43:02Z",
-          "url": "https://www.youtube.com/watch?v=78a6q14fk6A"
         }
       ]
     },
