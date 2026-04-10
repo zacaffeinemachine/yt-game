@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09T06:13:48.096026+00:00",
+  "last_updated": "2026-04-10T06:25:41.361614+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "jjp3WC8Unj8",
-          "title": "The World's Only Antimatter Factory",
+          "title": "How We Make Antimatter",
           "thumbnail": "https://i.ytimg.com/vi/jjp3WC8Unj8/mqdefault.jpg",
           "published_at": "2026-04-05T20:07:08Z",
           "url": "https://www.youtube.com/watch?v=jjp3WC8Unj8"
@@ -3717,6 +3717,27 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "IPhfCOWvOO8",
+          "title": "\"Why??!\" || Sindarov vs Praggnanandhaa || FIDE Candidates Tournament 2026 R10",
+          "thumbnail": "https://i.ytimg.com/vi/IPhfCOWvOO8/mqdefault.jpg",
+          "published_at": "2026-04-09T17:14:39Z",
+          "url": "https://www.youtube.com/watch?v=IPhfCOWvOO8"
+        },
+        {
+          "id": "4DgWoW-lvPE",
+          "title": "He is THE ONE!",
+          "thumbnail": "https://i.ytimg.com/vi/4DgWoW-lvPE/mqdefault.jpg",
+          "published_at": "2026-04-09T09:36:30Z",
+          "url": "https://www.youtube.com/watch?v=4DgWoW-lvPE"
+        },
+        {
+          "id": "sU9NWh-sGNQ",
+          "title": "The Unbreakable Will || Praggnanandhaa vs Wei Yi || FIDE Candidates Tournament 2026 R9",
+          "thumbnail": "https://i.ytimg.com/vi/sU9NWh-sGNQ/mqdefault.jpg",
+          "published_at": "2026-04-09T08:47:10Z",
+          "url": "https://www.youtube.com/watch?v=sU9NWh-sGNQ"
+        },
+        {
           "id": "5xVPviwze98",
           "title": "The Elevator Blessing || Fabiano Caruana vs Anish Giri || FIDE Candidates Tournament 2026 R9",
           "thumbnail": "https://i.ytimg.com/vi/5xVPviwze98/mqdefault.jpg",
@@ -4044,27 +4065,6 @@
           "thumbnail": "https://i.ytimg.com/vi/N2ffxNcVemc/mqdefault.jpg",
           "published_at": "2026-03-07T17:11:31Z",
           "url": "https://www.youtube.com/watch?v=N2ffxNcVemc"
-        },
-        {
-          "id": "T9ZRe3AIsw0",
-          "title": "The Master of Prague! || Nodirbek Abdusattorov vs Hans Niemann || Prague Chess Festival 2026",
-          "thumbnail": "https://i.ytimg.com/vi/T9ZRe3AIsw0/mqdefault.jpg",
-          "published_at": "2026-03-06T19:05:37Z",
-          "url": "https://www.youtube.com/watch?v=T9ZRe3AIsw0"
-        },
-        {
-          "id": "hCj2xXtrZn0",
-          "title": "The Conclusion! || Parham vs Jorden || Prague Chess Festival 2026",
-          "thumbnail": "https://i.ytimg.com/vi/hCj2xXtrZn0/mqdefault.jpg",
-          "published_at": "2026-03-06T15:04:48Z",
-          "url": "https://www.youtube.com/watch?v=hCj2xXtrZn0"
-        },
-        {
-          "id": "nu0TYosIo-E",
-          "title": "Architect of His Own Demise || Jorden vs Aravindh || Prague Chess Festival 2026",
-          "thumbnail": "https://i.ytimg.com/vi/nu0TYosIo-E/mqdefault.jpg",
-          "published_at": "2026-03-06T10:31:56Z",
-          "url": "https://www.youtube.com/watch?v=nu0TYosIo-E"
         }
       ]
     },
