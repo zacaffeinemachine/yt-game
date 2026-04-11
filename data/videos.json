@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T06:25:41.361614+00:00",
+  "last_updated": "2026-04-11T05:53:44.996236+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3717,6 +3717,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "JX2ZrA0qyg0",
+          "title": "\"I just Wanted to Resign\" || Bl\u00fcbaum vs Sindarov || FIDE Candidates Tournament 2026 R9",
+          "thumbnail": "https://i.ytimg.com/vi/JX2ZrA0qyg0/mqdefault.jpg",
+          "published_at": "2026-04-10T08:32:08Z",
+          "url": "https://www.youtube.com/watch?v=JX2ZrA0qyg0"
+        },
+        {
           "id": "IPhfCOWvOO8",
           "title": "\"Why??!\" || Sindarov vs Praggnanandhaa || FIDE Candidates Tournament 2026 R10",
           "thumbnail": "https://i.ytimg.com/vi/IPhfCOWvOO8/mqdefault.jpg",
@@ -4058,13 +4065,6 @@
           "thumbnail": "https://i.ytimg.com/vi/rmlRxFn6tNM/mqdefault.jpg",
           "published_at": "2026-03-08T12:10:42Z",
           "url": "https://www.youtube.com/watch?v=rmlRxFn6tNM"
-        },
-        {
-          "id": "N2ffxNcVemc",
-          "title": "Sharpening His Blade for the Candidates || Fabi vs Abhimanyu Mishra || The American Cup 2026",
-          "thumbnail": "https://i.ytimg.com/vi/N2ffxNcVemc/mqdefault.jpg",
-          "published_at": "2026-03-07T17:11:31Z",
-          "url": "https://www.youtube.com/watch?v=N2ffxNcVemc"
         }
       ]
     },
@@ -4073,6 +4073,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "ObvMeSJlBtw",
+          "title": "PETROFOODS: Surprising Ways We Eat Petroleum",
+          "thumbnail": "https://i.ytimg.com/vi/ObvMeSJlBtw/mqdefault.jpg",
+          "published_at": "2026-04-11T02:01:03Z",
+          "url": "https://www.youtube.com/watch?v=ObvMeSJlBtw"
+        },
         {
           "id": "0AflQr7vj3o",
           "title": "New Vegan Studies: Lower Cancer, Food Cost, Aging Epigenetics, and More",
@@ -4415,13 +4422,6 @@
           "thumbnail": "https://i.ytimg.com/vi/c-miEae6kss/mqdefault.jpg",
           "published_at": "2025-05-24T02:10:27Z",
           "url": "https://www.youtube.com/watch?v=c-miEae6kss"
-        },
-        {
-          "id": "JZ5f2BiA2go",
-          "title": "Are Low Fat Vegans Wrong?",
-          "thumbnail": "https://i.ytimg.com/vi/JZ5f2BiA2go/mqdefault.jpg",
-          "published_at": "2025-05-16T20:56:00Z",
-          "url": "https://www.youtube.com/watch?v=JZ5f2BiA2go"
         }
       ]
     },
@@ -5320,6 +5320,13 @@
       "thumbnail": "https://yt3.ggpht.com/J-mQZ7gIHpil3l78nqzKNPSYqeU9fkzg8xxeQP0WVEKxEG8-puK1Hf-sJURo-lKtK8ykLPekaAE=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "DLPFE91pXak",
+          "title": "Is AI sentient? Professor breaks down the evidence around AI, plant, fish and insect sentience",
+          "thumbnail": "https://i.ytimg.com/vi/DLPFE91pXak/mqdefault.jpg",
+          "published_at": "2026-04-10T17:13:37Z",
+          "url": "https://www.youtube.com/watch?v=DLPFE91pXak"
+        },
+        {
           "id": "z5RQXErCWLs",
           "title": "He eats meat. I'm vegan. We debate who's morally right.",
           "thumbnail": "https://i.ytimg.com/vi/z5RQXErCWLs/mqdefault.jpg",
@@ -5661,13 +5668,6 @@
           "thumbnail": "https://i.ytimg.com/vi/tcLpvHTICE4/mqdefault.jpg",
           "published_at": "2024-02-29T18:17:34Z",
           "url": "https://www.youtube.com/watch?v=tcLpvHTICE4"
-        },
-        {
-          "id": "Lpn32JSrwUA",
-          "title": "Harvard student shocks vegan with disturbing moral argument",
-          "thumbnail": "https://i.ytimg.com/vi/Lpn32JSrwUA/mqdefault.jpg",
-          "published_at": "2024-02-28T18:35:29Z",
-          "url": "https://www.youtube.com/watch?v=Lpn32JSrwUA"
         }
       ]
     }
