@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T05:53:44.996236+00:00",
+  "last_updated": "2026-04-12T06:17:57.366965+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -484,7 +484,7 @@
         },
         {
           "id": "CYlon2tvywA",
-          "title": "Can you really reach anyone in 6 steps?",
+          "title": "Something Strange Happens When You Trace How Connected We Are",
           "thumbnail": "https://i.ytimg.com/vi/CYlon2tvywA/mqdefault.jpg",
           "published_at": "2025-09-30T22:00:54Z",
           "url": "https://www.youtube.com/watch?v=CYlon2tvywA"
@@ -3717,6 +3717,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "RmRi0u2ZU1w",
+          "title": "\"Vacation Mode\" || Fabiano Caruana vs Javokhir Sindarov || FIDE Candidates Tournament 2026 R11",
+          "thumbnail": "https://i.ytimg.com/vi/RmRi0u2ZU1w/mqdefault.jpg",
+          "published_at": "2026-04-11T18:38:20Z",
+          "url": "https://www.youtube.com/watch?v=RmRi0u2ZU1w"
+        },
+        {
           "id": "JX2ZrA0qyg0",
           "title": "\"I just Wanted to Resign\" || Bl\u00fcbaum vs Sindarov || FIDE Candidates Tournament 2026 R9",
           "thumbnail": "https://i.ytimg.com/vi/JX2ZrA0qyg0/mqdefault.jpg",
@@ -4058,13 +4065,6 @@
           "thumbnail": "https://i.ytimg.com/vi/mP9uUIU5BJw/mqdefault.jpg",
           "published_at": "2026-03-09T10:53:41Z",
           "url": "https://www.youtube.com/watch?v=mP9uUIU5BJw"
-        },
-        {
-          "id": "rmlRxFn6tNM",
-          "title": "Play Like You Never Want the Game to End || Fabi vs Wesley So || The American Cup 2026",
-          "thumbnail": "https://i.ytimg.com/vi/rmlRxFn6tNM/mqdefault.jpg",
-          "published_at": "2026-03-08T12:10:42Z",
-          "url": "https://www.youtube.com/watch?v=rmlRxFn6tNM"
         }
       ]
     },
