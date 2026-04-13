@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T06:17:57.366965+00:00",
+  "last_updated": "2026-04-13T07:07:44.816796+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -400,7 +400,7 @@
         },
         {
           "id": "cMx139eTxoc",
-          "title": "Asbestos is a bigger problem than we thought",
+          "title": "How one rock secretly poisoned the planet",
           "thumbnail": "https://i.ytimg.com/vi/cMx139eTxoc/mqdefault.jpg",
           "published_at": "2026-02-17T21:33:35Z",
           "url": "https://www.youtube.com/watch?v=cMx139eTxoc"
@@ -791,13 +791,6 @@
           "url": "https://www.youtube.com/watch?v=HwgKepDZUmo"
         },
         {
-          "id": "0vsh7iL_r5Q",
-          "title": "Dhirendra Shastri : The Visit",
-          "thumbnail": "https://i.ytimg.com/vi/0vsh7iL_r5Q/mqdefault.jpg",
-          "published_at": "2026-01-30T11:24:18Z",
-          "url": "https://www.youtube.com/watch?v=0vsh7iL_r5Q"
-        },
-        {
           "id": "iGFyV-gPNJc",
           "title": "Kabir Singh :  Revisit Extras",
           "thumbnail": "https://i.ytimg.com/vi/iGFyV-gPNJc/mqdefault.jpg",
@@ -1125,6 +1118,13 @@
           "thumbnail": "https://i.ytimg.com/vi/8ZLqU7Jsimk/mqdefault.jpg",
           "published_at": "2022-06-30T09:48:12Z",
           "url": "https://www.youtube.com/watch?v=8ZLqU7Jsimk"
+        },
+        {
+          "id": "h2EdN9o9EhM",
+          "title": "Raja Hindustani : The Revisit",
+          "thumbnail": "https://i.ytimg.com/vi/h2EdN9o9EhM/mqdefault.jpg",
+          "published_at": "2022-06-24T06:34:55Z",
+          "url": "https://www.youtube.com/watch?v=h2EdN9o9EhM"
         }
       ]
     },
@@ -2954,8 +2954,15 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "9ABD2t4K2wQ",
+          "title": "Who Will Rule North Korea Next?",
+          "thumbnail": "https://i.ytimg.com/vi/9ABD2t4K2wQ/mqdefault.jpg",
+          "published_at": "2026-04-12T14:00:12Z",
+          "url": "https://www.youtube.com/watch?v=9ABD2t4K2wQ"
+        },
+        {
           "id": "j7vnAq3_TVs",
-          "title": "How Cops Robbed the Dark Web King",
+          "title": "The Hunt for the First Dark Web King",
           "thumbnail": "https://i.ytimg.com/vi/j7vnAq3_TVs/mqdefault.jpg",
           "published_at": "2026-04-05T14:01:05Z",
           "url": "https://www.youtube.com/watch?v=j7vnAq3_TVs"
@@ -3295,13 +3302,6 @@
           "thumbnail": "https://i.ytimg.com/vi/AuHCS-BfgRU/mqdefault.jpg",
           "published_at": "2025-04-13T12:00:16Z",
           "url": "https://www.youtube.com/watch?v=AuHCS-BfgRU"
-        },
-        {
-          "id": "KfONbvTukPA",
-          "title": "The Most Genius Cannabis Scam Ever",
-          "thumbnail": "https://i.ytimg.com/vi/KfONbvTukPA/mqdefault.jpg",
-          "published_at": "2025-04-01T18:54:50Z",
-          "url": "https://www.youtube.com/watch?v=KfONbvTukPA"
         }
       ]
     },
