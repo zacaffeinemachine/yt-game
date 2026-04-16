@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T06:26:18.355394+00:00",
+  "last_updated": "2026-04-16T06:27:53.086361+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -364,6 +364,13 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "PPJ6NJkmDAo",
+          "title": "Can you steal $10,000 from a locked iPhone?",
+          "thumbnail": "https://i.ytimg.com/vi/PPJ6NJkmDAo/mqdefault.jpg",
+          "published_at": "2026-04-15T16:40:38Z",
+          "url": "https://www.youtube.com/watch?v=PPJ6NJkmDAo"
+        },
+        {
           "id": "jjp3WC8Unj8",
           "title": "How We Make Antimatter",
           "thumbnail": "https://i.ytimg.com/vi/jjp3WC8Unj8/mqdefault.jpg",
@@ -484,7 +491,7 @@
         },
         {
           "id": "CYlon2tvywA",
-          "title": "Something Strange Happens When You Trace How Connected We Are",
+          "title": "Can you really reach anyone in 6 steps?",
           "thumbnail": "https://i.ytimg.com/vi/CYlon2tvywA/mqdefault.jpg",
           "published_at": "2025-09-30T22:00:54Z",
           "url": "https://www.youtube.com/watch?v=CYlon2tvywA"
@@ -705,13 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/cUBz04LlLVk/mqdefault.jpg",
           "published_at": "2024-10-05T17:27:38Z",
           "url": "https://www.youtube.com/watch?v=cUBz04LlLVk"
-        },
-        {
-          "id": "w5ebcowAJD8",
-          "title": "I built a QR code with my bare hands to see how it works",
-          "thumbnail": "https://i.ytimg.com/vi/w5ebcowAJD8/mqdefault.jpg",
-          "published_at": "2024-09-30T18:51:21Z",
-          "url": "https://www.youtube.com/watch?v=w5ebcowAJD8"
         }
       ]
     },
@@ -1849,7 +1849,7 @@
       "videos": [
         {
           "id": "TboSBAnmJKI",
-          "title": "Why China\u2019s Supercritical CO\u2082 Turbine Matters",
+          "title": "Why Steam Power's 200-Year Reign Might Be Over",
           "thumbnail": "https://i.ytimg.com/vi/TboSBAnmJKI/mqdefault.jpg",
           "published_at": "2026-04-14T12:16:48Z",
           "url": "https://www.youtube.com/watch?v=TboSBAnmJKI"
@@ -3724,6 +3724,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "FX9RjPGkLaA",
+          "title": "\"The First 2900 Player ||\" Veselin Topalov vs Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f || Clash of Generations III G3",
+          "thumbnail": "https://i.ytimg.com/vi/FX9RjPGkLaA/mqdefault.jpg",
+          "published_at": "2026-04-15T10:04:51Z",
+          "url": "https://www.youtube.com/watch?v=FX9RjPGkLaA"
+        },
+        {
           "id": "U4V_PwOnLpQ",
           "title": "\"THE GAME\" || Anish Giri vs Javokhir Sindarov || FIDE Candidates Tournament 2026 R13",
           "thumbnail": "https://i.ytimg.com/vi/U4V_PwOnLpQ/mqdefault.jpg",
@@ -4065,13 +4072,6 @@
           "thumbnail": "https://i.ytimg.com/vi/f-TTNIfi6-I/mqdefault.jpg",
           "published_at": "2026-03-11T11:56:02Z",
           "url": "https://www.youtube.com/watch?v=f-TTNIfi6-I"
-        },
-        {
-          "id": "mL9sj-5G8vA",
-          "title": "The Perfect Game || Sina Movahed vs Magnus Carlsen",
-          "thumbnail": "https://i.ytimg.com/vi/mL9sj-5G8vA/mqdefault.jpg",
-          "published_at": "2026-03-10T19:32:41Z",
-          "url": "https://www.youtube.com/watch?v=mL9sj-5G8vA"
         }
       ]
     },
