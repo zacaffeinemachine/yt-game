@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T06:28:15.316360+00:00",
+  "last_updated": "2026-04-18T06:06:13.834852+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,14 +365,14 @@
       "videos": [
         {
           "id": "PPJ6NJkmDAo",
-          "title": "How Secure Is Tap To Pay?",
+          "title": "Exposing the flaw in tap to pay",
           "thumbnail": "https://i.ytimg.com/vi/PPJ6NJkmDAo/mqdefault.jpg",
           "published_at": "2026-04-15T16:40:38Z",
           "url": "https://www.youtube.com/watch?v=PPJ6NJkmDAo"
         },
         {
           "id": "jjp3WC8Unj8",
-          "title": "How We Make Antimatter",
+          "title": "The (Almost) Impossible Task of Transporting Antimatter",
           "thumbnail": "https://i.ytimg.com/vi/jjp3WC8Unj8/mqdefault.jpg",
           "published_at": "2026-04-05T20:07:08Z",
           "url": "https://www.youtube.com/watch?v=jjp3WC8Unj8"
@@ -3724,6 +3724,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "PM1ytXrJ-T8",
+          "title": "A Legend Is Born! || Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f vs Veselin Topalov || Clash of Generations III G6",
+          "thumbnail": "https://i.ytimg.com/vi/PM1ytXrJ-T8/mqdefault.jpg",
+          "published_at": "2026-04-17T17:04:03Z",
+          "url": "https://www.youtube.com/watch?v=PM1ytXrJ-T8"
+        },
+        {
+          "id": "Jslb1Ik-eos",
+          "title": "The Challenger! || Vaishali vs Kateryna Lagno || FIDE Women's Candidates Tournament 2026 R14",
+          "thumbnail": "https://i.ytimg.com/vi/Jslb1Ik-eos/mqdefault.jpg",
+          "published_at": "2026-04-17T12:37:49Z",
+          "url": "https://www.youtube.com/watch?v=Jslb1Ik-eos"
+        },
+        {
           "id": "LAkcMJIoTxg",
           "title": "History is Made! || Veselin Topalov vs Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f || Clash of Generations III G5",
           "thumbnail": "https://i.ytimg.com/vi/LAkcMJIoTxg/mqdefault.jpg",
@@ -4058,20 +4072,6 @@
           "thumbnail": "https://i.ytimg.com/vi/B8vY7x7-UI4/mqdefault.jpg",
           "published_at": "2026-03-15T15:39:26Z",
           "url": "https://www.youtube.com/watch?v=B8vY7x7-UI4"
-        },
-        {
-          "id": "PSJB2tzeJzk",
-          "title": "It's Either Winning or It's Not || Awonder vs Hikaru || Training Match 2026",
-          "thumbnail": "https://i.ytimg.com/vi/PSJB2tzeJzk/mqdefault.jpg",
-          "published_at": "2026-03-15T12:46:58Z",
-          "url": "https://www.youtube.com/watch?v=PSJB2tzeJzk"
-        },
-        {
-          "id": "szb3DG6d7zs",
-          "title": "The Candidates Tournament Approaches! || Hikaru vs Awonder || Training Match 2026",
-          "thumbnail": "https://i.ytimg.com/vi/szb3DG6d7zs/mqdefault.jpg",
-          "published_at": "2026-03-14T12:22:24Z",
-          "url": "https://www.youtube.com/watch?v=szb3DG6d7zs"
         }
       ]
     },
@@ -4080,6 +4080,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "cn04C_OxR6A",
+          "title": "Dr. Klaper: Is Vegan Failing? Omegas, High Vegan LDL, and More",
+          "thumbnail": "https://i.ytimg.com/vi/cn04C_OxR6A/mqdefault.jpg",
+          "published_at": "2026-04-17T22:56:43Z",
+          "url": "https://www.youtube.com/watch?v=cn04C_OxR6A"
+        },
         {
           "id": "7alukHzCwPU",
           "title": "A Single Dose of Brazil Nuts Lowers Cholesterol for a Month?!",
@@ -4422,13 +4429,6 @@
           "thumbnail": "https://i.ytimg.com/vi/e4EnBHfeApg/mqdefault.jpg",
           "published_at": "2025-06-07T00:35:03Z",
           "url": "https://www.youtube.com/watch?v=e4EnBHfeApg"
-        },
-        {
-          "id": "YejTv22sqeY",
-          "title": "Seaspiracy Director Quits Veganism cuz Marshmallows?",
-          "thumbnail": "https://i.ytimg.com/vi/YejTv22sqeY/mqdefault.jpg",
-          "published_at": "2025-05-31T01:11:56Z",
-          "url": "https://www.youtube.com/watch?v=YejTv22sqeY"
         }
       ]
     },
