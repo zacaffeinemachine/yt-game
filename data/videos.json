@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T06:06:13.834852+00:00",
+  "last_updated": "2026-04-19T06:23:08.987778+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -498,14 +498,14 @@
         },
         {
           "id": "onr80iOoEXs",
-          "title": "The Man Who Fooled The World",
+          "title": "Alfred Nobel: The Man Who Fooled The World",
           "thumbnail": "https://i.ytimg.com/vi/onr80iOoEXs/mqdefault.jpg",
           "published_at": "2025-09-21T14:13:30Z",
           "url": "https://www.youtube.com/watch?v=onr80iOoEXs"
         },
         {
           "id": "tZ8ehplVFp4",
-          "title": "Why Do Escalator Steps Have Teeth?",
+          "title": "The Most Dangerous Escalator in the World",
           "thumbnail": "https://i.ytimg.com/vi/tZ8ehplVFp4/mqdefault.jpg",
           "published_at": "2025-09-11T14:22:52Z",
           "url": "https://www.youtube.com/watch?v=tZ8ehplVFp4"
@@ -3724,6 +3724,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "kMqWi0ISj64",
+          "title": "Welcome To Paris! || Awonder Liang vs Hans Moke Niemann || 12 GAME Classical Match",
+          "thumbnail": "https://i.ytimg.com/vi/kMqWi0ISj64/mqdefault.jpg",
+          "published_at": "2026-04-18T13:39:38Z",
+          "url": "https://www.youtube.com/watch?v=kMqWi0ISj64"
+        },
+        {
           "id": "PM1ytXrJ-T8",
           "title": "A Legend Is Born! || Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f vs Veselin Topalov || Clash of Generations III G6",
           "thumbnail": "https://i.ytimg.com/vi/PM1ytXrJ-T8/mqdefault.jpg",
@@ -4065,13 +4072,6 @@
           "thumbnail": "https://i.ytimg.com/vi/QALL6vAnuWo/mqdefault.jpg",
           "published_at": "2026-03-16T15:22:40Z",
           "url": "https://www.youtube.com/watch?v=QALL6vAnuWo"
-        },
-        {
-          "id": "B8vY7x7-UI4",
-          "title": "Single Square Makes All the Difference",
-          "thumbnail": "https://i.ytimg.com/vi/B8vY7x7-UI4/mqdefault.jpg",
-          "published_at": "2026-03-15T15:39:26Z",
-          "url": "https://www.youtube.com/watch?v=B8vY7x7-UI4"
         }
       ]
     },
