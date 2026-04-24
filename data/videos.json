@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T06:54:31.375757+00:00",
+  "last_updated": "2026-04-24T06:57:20.175571+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -407,7 +407,7 @@
         },
         {
           "id": "cMx139eTxoc",
-          "title": "How one rock secretly poisoned the planet",
+          "title": "Asbestos is a bigger problem than we thought",
           "thumbnail": "https://i.ytimg.com/vi/cMx139eTxoc/mqdefault.jpg",
           "published_at": "2026-02-17T21:33:35Z",
           "url": "https://www.youtube.com/watch?v=cMx139eTxoc"
@@ -3318,6 +3318,13 @@
       "thumbnail": "https://yt3.ggpht.com/eXEBNg6ggwrJopuwMkvxi-ZZhlTOAo8juTk5FBWDoE8qvoLPXWInWKtVKJN5SKiOpheZyudT=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "WajgNhbbeHM",
+          "title": "How the Last Queen of Egypt Lost EVERYTHING",
+          "thumbnail": "https://i.ytimg.com/vi/WajgNhbbeHM/mqdefault.jpg",
+          "published_at": "2026-04-23T14:00:01Z",
+          "url": "https://www.youtube.com/watch?v=WajgNhbbeHM"
+        },
+        {
           "id": "mHeMzf-N7Rc",
           "title": "The Crazy Story of the Opium Wars",
           "thumbnail": "https://i.ytimg.com/vi/mHeMzf-N7Rc/mqdefault.jpg",
@@ -3368,7 +3375,7 @@
       "videos": [
         {
           "id": "dl0-TveDDGA",
-          "title": "Do Animals Have Minds like Humans?",
+          "title": "Our Minds Are Weirder than You Think",
           "thumbnail": "https://i.ytimg.com/vi/dl0-TveDDGA/mqdefault.jpg",
           "published_at": "2026-04-21T14:00:01Z",
           "url": "https://www.youtube.com/watch?v=dl0-TveDDGA"
@@ -3724,6 +3731,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "B0Bad3STpSg",
+          "title": "The Perfect Giuoco Piano Game",
+          "thumbnail": "https://i.ytimg.com/vi/B0Bad3STpSg/mqdefault.jpg",
+          "published_at": "2026-04-23T14:34:42Z",
+          "url": "https://www.youtube.com/watch?v=B0Bad3STpSg"
+        },
+        {
+          "id": "Fr811F8xqcc",
+          "title": "Will The Chess Speak For Itself?",
+          "thumbnail": "https://i.ytimg.com/vi/Fr811F8xqcc/mqdefault.jpg",
+          "published_at": "2026-04-23T11:00:40Z",
+          "url": "https://www.youtube.com/watch?v=Fr811F8xqcc"
+        },
+        {
           "id": "s4y2w7asIZc",
           "title": "Ding Returns, Magnus Returns! Long Live Classical Chess!",
           "thumbnail": "https://i.ytimg.com/vi/s4y2w7asIZc/mqdefault.jpg",
@@ -4058,20 +4079,6 @@
           "thumbnail": "https://i.ytimg.com/vi/fn2fzibVSsw/mqdefault.jpg",
           "published_at": "2026-03-20T16:00:00Z",
           "url": "https://www.youtube.com/watch?v=fn2fzibVSsw"
-        },
-        {
-          "id": "pGF5UI5_U_8",
-          "title": "A Test Before The Candidates || Levon Aronian vs Matthias Bluebaum || Chess.com Open 2026",
-          "thumbnail": "https://i.ytimg.com/vi/pGF5UI5_U_8/mqdefault.jpg",
-          "published_at": "2026-03-20T13:28:36Z",
-          "url": "https://www.youtube.com/watch?v=pGF5UI5_U_8"
-        },
-        {
-          "id": "0pSV2Pr31pg",
-          "title": "Chess Really Was Art Before Engines || Topalov vs Kasparov || Euwe Memorial (1996)",
-          "thumbnail": "https://i.ytimg.com/vi/0pSV2Pr31pg/mqdefault.jpg",
-          "published_at": "2026-03-19T14:03:34Z",
-          "url": "https://www.youtube.com/watch?v=0pSV2Pr31pg"
         }
       ]
     },
