@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T06:14:33.257060+00:00",
+  "last_updated": "2026-04-26T06:53:42.039627+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3731,6 +3731,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "l16N-DJ_gyQ",
+          "title": "The King of Comebacks || Jan-Krzysztof Duda vs Magnus Carlsen || Chess.com Open 2026",
+          "thumbnail": "https://i.ytimg.com/vi/l16N-DJ_gyQ/mqdefault.jpg",
+          "published_at": "2026-04-25T12:48:10Z",
+          "url": "https://www.youtube.com/watch?v=l16N-DJ_gyQ"
+        },
+        {
           "id": "OZ5VRyIUwQc",
           "title": "\"There are Levels to This\" || Dubov vs Sindarov (Winner vs Secret Boss!) || Chess.com Open 2026",
           "thumbnail": "https://i.ytimg.com/vi/OZ5VRyIUwQc/mqdefault.jpg",
@@ -4072,13 +4079,6 @@
           "thumbnail": "https://i.ytimg.com/vi/pesZreGz1lw/mqdefault.jpg",
           "published_at": "2026-03-23T14:09:20Z",
           "url": "https://www.youtube.com/watch?v=pesZreGz1lw"
-        },
-        {
-          "id": "lM8AxMmfhbw",
-          "title": "The Perfect Attack || Topalov vs Naiditsch || Dortmund Sparkassen (2005)",
-          "thumbnail": "https://i.ytimg.com/vi/lM8AxMmfhbw/mqdefault.jpg",
-          "published_at": "2026-03-21T15:33:20Z",
-          "url": "https://www.youtube.com/watch?v=lM8AxMmfhbw"
         }
       ]
     },
