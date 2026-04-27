@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T06:53:42.039627+00:00",
+  "last_updated": "2026-04-27T07:29:23.760299+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -2961,6 +2961,13 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "SOQynHuWPeI",
+          "title": "The Most Dangerous VPN of All Time",
+          "thumbnail": "https://i.ytimg.com/vi/SOQynHuWPeI/mqdefault.jpg",
+          "published_at": "2026-04-26T15:00:44Z",
+          "url": "https://www.youtube.com/watch?v=SOQynHuWPeI"
+        },
+        {
           "id": "uI8oJYmCaz0",
           "title": "The Tragic Story of the Air India Survivor",
           "thumbnail": "https://i.ytimg.com/vi/uI8oJYmCaz0/mqdefault.jpg",
@@ -3302,13 +3309,6 @@
           "thumbnail": "https://i.ytimg.com/vi/lic7BqQFMm8/mqdefault.jpg",
           "published_at": "2025-04-29T19:41:58Z",
           "url": "https://www.youtube.com/watch?v=lic7BqQFMm8"
-        },
-        {
-          "id": "wkVygetgeRY",
-          "title": "The Hunt for America's Smartest Killer",
-          "thumbnail": "https://i.ytimg.com/vi/wkVygetgeRY/mqdefault.jpg",
-          "published_at": "2025-04-17T16:00:05Z",
-          "url": "https://www.youtube.com/watch?v=wkVygetgeRY"
         }
       ]
     },
