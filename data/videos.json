@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T07:25:51.571423+00:00",
+  "last_updated": "2026-04-29T07:14:53.974281+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -1848,6 +1848,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nYFWjG64F27JNXiQXMCKYB0umXlsvIxNxkHzaBByxxeDk=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "N-gSE_eHKHg",
+          "title": "Why Your Water Heater Should Be a Battery",
+          "thumbnail": "https://i.ytimg.com/vi/N-gSE_eHKHg/mqdefault.jpg",
+          "published_at": "2026-04-28T12:16:54Z",
+          "url": "https://www.youtube.com/watch?v=N-gSE_eHKHg"
+        },
+        {
           "id": "Rqpfnj7dAgw",
           "title": "The Truth About Ocean Plastic",
           "thumbnail": "https://i.ytimg.com/vi/Rqpfnj7dAgw/mqdefault.jpg",
@@ -2189,13 +2196,6 @@
           "thumbnail": "https://i.ytimg.com/vi/2S5NdYso73M/mqdefault.jpg",
           "published_at": "2025-03-18T12:16:58Z",
           "url": "https://www.youtube.com/watch?v=2S5NdYso73M"
-        },
-        {
-          "id": "3_NCnxO1KLY",
-          "title": "Why Isn\u2019t This Revolutionary Battery Everywhere?",
-          "thumbnail": "https://i.ytimg.com/vi/3_NCnxO1KLY/mqdefault.jpg",
-          "published_at": "2025-03-11T13:16:49Z",
-          "url": "https://www.youtube.com/watch?v=3_NCnxO1KLY"
         }
       ]
     },
