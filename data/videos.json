@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T07:13:39.357706+00:00",
+  "last_updated": "2026-05-04T07:42:28.904955+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -364,6 +364,13 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "SVTPv4sI_Jc",
+          "title": "Can a quantum sensor detect your heartbeat from 60 km away?",
+          "thumbnail": "https://i.ytimg.com/vi/SVTPv4sI_Jc/mqdefault.jpg",
+          "published_at": "2026-05-03T19:26:56Z",
+          "url": "https://www.youtube.com/watch?v=SVTPv4sI_Jc"
+        },
+        {
           "id": "ksn5yrsC3Wg",
           "title": "The Disaster I Never Imagined Having To Worry About",
           "thumbnail": "https://i.ytimg.com/vi/ksn5yrsC3Wg/mqdefault.jpg",
@@ -705,13 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Q10_srZ-pbs/mqdefault.jpg",
           "published_at": "2024-10-29T12:09:04Z",
           "url": "https://www.youtube.com/watch?v=Q10_srZ-pbs"
-        },
-        {
-          "id": "DJO_9auJhJQ",
-          "title": "We Might Find Alien Life In 1,796 Days",
-          "thumbnail": "https://i.ytimg.com/vi/DJO_9auJhJQ/mqdefault.jpg",
-          "published_at": "2024-10-11T18:25:50Z",
-          "url": "https://www.youtube.com/watch?v=DJO_9auJhJQ"
         }
       ]
     },
@@ -2205,41 +2205,6 @@
       "thumbnail": "https://yt3.ggpht.com/IQFvQUlLc-op-bgmK66CAvkR0-RmqL8d-63WkvvKI2xbjhNEBfo3kUjv8_66z_VFaezf2Jt1-w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
-          "id": "ca06blnGxvc",
-          "title": "Marcus Aurelius - Meditations | Philosophy Lecture (Hindi/\u0939\u093f\u0902\u0926\u0940)",
-          "thumbnail": "https://i.ytimg.com/vi/ca06blnGxvc/mqdefault.jpg",
-          "published_at": "2025-12-21T05:56:44Z",
-          "url": "https://www.youtube.com/watch?v=ca06blnGxvc"
-        },
-        {
-          "id": "Eko9HLoLxWA",
-          "title": "Alan Watts: \u0906\u092a \u0915\u0941\u091b \u0928\u0939\u0940\u0902 \u0915\u0930 \u0938\u0915\u0924\u0947!",
-          "thumbnail": "https://i.ytimg.com/vi/Eko9HLoLxWA/mqdefault.jpg",
-          "published_at": "2025-11-24T06:06:18Z",
-          "url": "https://www.youtube.com/watch?v=Eko9HLoLxWA"
-        },
-        {
-          "id": "_KpKescXcK8",
-          "title": "Bertrand Russell Interview \u2014 1960 (\u0939\u093f\u0902\u0926\u0940/Hindi)",
-          "thumbnail": "https://i.ytimg.com/vi/_KpKescXcK8/mqdefault.jpg",
-          "published_at": "2025-11-22T13:01:26Z",
-          "url": "https://www.youtube.com/watch?v=_KpKescXcK8"
-        },
-        {
-          "id": "wzGLgcMYFGE",
-          "title": "Stoicism \u2014 Philosophy Lecture (Hindi/\u0939\u093f\u0902\u0926\u0940)",
-          "thumbnail": "https://i.ytimg.com/vi/wzGLgcMYFGE/mqdefault.jpg",
-          "published_at": "2025-11-19T11:00:02Z",
-          "url": "https://www.youtube.com/watch?v=wzGLgcMYFGE"
-        },
-        {
-          "id": "Qs_bui6ni30",
-          "title": "Niccolo Machiavelli \u2014 Philosophy Lecture (\u0939\u093f\u0902\u0926\u0940/Hindi)",
-          "thumbnail": "https://i.ytimg.com/vi/Qs_bui6ni30/mqdefault.jpg",
-          "published_at": "2025-11-14T18:09:12Z",
-          "url": "https://www.youtube.com/watch?v=Qs_bui6ni30"
-        },
-        {
           "id": "Sqv6uxqP2BU",
           "title": "Friedrich Nietzsche: Life and Philosophy | \u092b\u094d\u0930\u0947\u0921\u0930\u093f\u0915 \u0928\u0940\u0924\u094d\u0936\u0947: \u091c\u0940\u0935\u0928 \u0914\u0930 \u0926\u0930\u094d\u0936\u0928",
           "thumbnail": "https://i.ytimg.com/vi/Sqv6uxqP2BU/mqdefault.jpg",
@@ -2961,6 +2926,13 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "MqCk9APctNk",
+          "title": "The World's Deadliest Company",
+          "thumbnail": "https://i.ytimg.com/vi/MqCk9APctNk/mqdefault.jpg",
+          "published_at": "2026-05-03T14:00:35Z",
+          "url": "https://www.youtube.com/watch?v=MqCk9APctNk"
+        },
+        {
           "id": "SOQynHuWPeI",
           "title": "Facebook's Most Dangerous Product",
           "thumbnail": "https://i.ytimg.com/vi/SOQynHuWPeI/mqdefault.jpg",
@@ -3302,13 +3274,6 @@
           "thumbnail": "https://i.ytimg.com/vi/RzEJqbsFK8U/mqdefault.jpg",
           "published_at": "2025-05-04T13:00:45Z",
           "url": "https://www.youtube.com/watch?v=RzEJqbsFK8U"
-        },
-        {
-          "id": "lic7BqQFMm8",
-          "title": "The Kid Who Ruled 33% of the World",
-          "thumbnail": "https://i.ytimg.com/vi/lic7BqQFMm8/mqdefault.jpg",
-          "published_at": "2025-04-29T19:41:58Z",
-          "url": "https://www.youtube.com/watch?v=lic7BqQFMm8"
         }
       ]
     },
@@ -3731,6 +3696,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "ZdiD_RL4_UI",
+          "title": "Ticking Clock Tactics || Zhu Jiner vs Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f || TePe Sigeman & Co 2026",
+          "thumbnail": "https://i.ytimg.com/vi/ZdiD_RL4_UI/mqdefault.jpg",
+          "published_at": "2026-05-03T18:53:23Z",
+          "url": "https://www.youtube.com/watch?v=ZdiD_RL4_UI"
+        },
+        {
+          "id": "Pa1P2rO5zMs",
+          "title": "T\u00fcrkiye #1 vs India #1 || Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f vs Arjun Erigaisi || TePe Sigeman & Co2026",
+          "thumbnail": "https://i.ytimg.com/vi/Pa1P2rO5zMs/mqdefault.jpg",
+          "published_at": "2026-05-03T12:37:58Z",
+          "url": "https://www.youtube.com/watch?v=Pa1P2rO5zMs"
+        },
+        {
           "id": "npos72kFnpA",
           "title": "Energy vs Matter || Nils Grandelius vs Magnus Carlsen || TePe Sigeman & Co2026",
           "thumbnail": "https://i.ytimg.com/vi/npos72kFnpA/mqdefault.jpg",
@@ -4065,20 +4044,6 @@
           "thumbnail": "https://i.ytimg.com/vi/njpD7QDNR5c/mqdefault.jpg",
           "published_at": "2026-03-29T18:04:56Z",
           "url": "https://www.youtube.com/watch?v=njpD7QDNR5c"
-        },
-        {
-          "id": "I1nh9Uk_xR8",
-          "title": "No One REALLY Understands The French || Amin Tabatabaei vs Vasyl Ivanchuk || Reykjavik Open 2026",
-          "thumbnail": "https://i.ytimg.com/vi/I1nh9Uk_xR8/mqdefault.jpg",
-          "published_at": "2026-03-28T13:42:09Z",
-          "url": "https://www.youtube.com/watch?v=I1nh9Uk_xR8"
-        },
-        {
-          "id": "pzdzNAnABek",
-          "title": "\"The Better Player is Always Better\" || Vasyl Ivanchuk vs Christophe Sochacki || Reykjavik Open 2026",
-          "thumbnail": "https://i.ytimg.com/vi/pzdzNAnABek/mqdefault.jpg",
-          "published_at": "2026-03-27T20:37:16Z",
-          "url": "https://www.youtube.com/watch?v=pzdzNAnABek"
         }
       ]
     },
