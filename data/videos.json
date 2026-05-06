@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T07:10:34.433271+00:00",
+  "last_updated": "2026-05-06T07:29:44.098932+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3339,6 +3339,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "n-gYFcVx-8Y",
+          "title": "GERMANY IS OVER",
+          "thumbnail": "https://i.ytimg.com/vi/n-gYFcVx-8Y/mqdefault.jpg",
+          "published_at": "2026-05-05T14:00:01Z",
+          "url": "https://www.youtube.com/watch?v=n-gYFcVx-8Y"
+        },
+        {
           "id": "dl0-TveDDGA",
           "title": "Our Minds Are Weirder than You Think",
           "thumbnail": "https://i.ytimg.com/vi/dl0-TveDDGA/mqdefault.jpg",
@@ -3680,13 +3687,6 @@
           "thumbnail": "https://i.ytimg.com/vi/L_JQOH1tEEA/mqdefault.jpg",
           "published_at": "2024-04-16T14:00:03Z",
           "url": "https://www.youtube.com/watch?v=L_JQOH1tEEA"
-        },
-        {
-          "id": "pjoQdz0nxf4",
-          "title": "How The Dinosaurs Actually Died",
-          "thumbnail": "https://i.ytimg.com/vi/pjoQdz0nxf4/mqdefault.jpg",
-          "published_at": "2024-03-26T14:59:10Z",
-          "url": "https://www.youtube.com/watch?v=pjoQdz0nxf4"
         }
       ]
     },
@@ -3695,6 +3695,27 @@
       "name": "agadmator's Chess Channel",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "ZN7K3K_sDh4",
+          "title": "First Game Against a Woman in 8 Years || Magnus Carlsen vs Zhu Jiner || TePe Sigeman & Co 2026",
+          "thumbnail": "https://i.ytimg.com/vi/ZN7K3K_sDh4/mqdefault.jpg",
+          "published_at": "2026-05-05T17:26:17Z",
+          "url": "https://www.youtube.com/watch?v=ZN7K3K_sDh4"
+        },
+        {
+          "id": "ph9eJ-foOGo",
+          "title": "Long Think Wrong Think || Zhu Jiner vs Andy Woodward || TePe Sigeman & Co 2026",
+          "thumbnail": "https://i.ytimg.com/vi/ph9eJ-foOGo/mqdefault.jpg",
+          "published_at": "2026-05-05T12:19:06Z",
+          "url": "https://www.youtube.com/watch?v=ph9eJ-foOGo"
+        },
+        {
+          "id": "OXyPUl00Mv8",
+          "title": "A Slip in the Heavens || Jorden van Foreest vs Magnus Carlsen || TePe Sigeman & Co 2026",
+          "thumbnail": "https://i.ytimg.com/vi/OXyPUl00Mv8/mqdefault.jpg",
+          "published_at": "2026-05-05T09:10:32Z",
+          "url": "https://www.youtube.com/watch?v=OXyPUl00Mv8"
+        },
         {
           "id": "DBQc0W7366c",
           "title": "Are You Starting To Believe? || Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f vs Nils Grandelius || TePe Sigeman & Co 2026",
@@ -4023,27 +4044,6 @@
           "thumbnail": "https://i.ytimg.com/vi/B71jKXsgyiQ/mqdefault.jpg",
           "published_at": "2026-03-31T16:04:20Z",
           "url": "https://www.youtube.com/watch?v=B71jKXsgyiQ"
-        },
-        {
-          "id": "3meettjr5A0",
-          "title": "\"Don't Move Until You See It!\" || Divya vs Vaishali || FIDE Candidates Tournament 2026",
-          "thumbnail": "https://i.ytimg.com/vi/3meettjr5A0/mqdefault.jpg",
-          "published_at": "2026-03-31T11:19:17Z",
-          "url": "https://www.youtube.com/watch?v=3meettjr5A0"
-        },
-        {
-          "id": "cVH8EYQu-jE",
-          "title": "The Cost of Precision || Andrey Esipenko vs Hikaru Nakamura|| FIDE Candidates Tournament 2026",
-          "thumbnail": "https://i.ytimg.com/vi/cVH8EYQu-jE/mqdefault.jpg",
-          "published_at": "2026-03-30T19:15:43Z",
-          "url": "https://www.youtube.com/watch?v=cVH8EYQu-jE"
-        },
-        {
-          "id": "gnfhjd7wbPw",
-          "title": "\u201cMy Win Would Be A Huge Boost for Chess\u201d || Fabiano vs Hikaru || FIDE Candidates Tournament 2026",
-          "thumbnail": "https://i.ytimg.com/vi/gnfhjd7wbPw/mqdefault.jpg",
-          "published_at": "2026-03-29T19:57:41Z",
-          "url": "https://www.youtube.com/watch?v=gnfhjd7wbPw"
         }
       ]
     },
