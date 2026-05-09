@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T06:26:57.048283+00:00",
+  "last_updated": "2026-05-09T07:01:24.978885+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "SVTPv4sI_Jc",
-          "title": "Debunking a fake news article, because the science is surprisingly satisfying",
+          "title": "Can a quantum sensor detect your heartbeat from 60 km away?",
           "thumbnail": "https://i.ytimg.com/vi/SVTPv4sI_Jc/mqdefault.jpg",
           "published_at": "2026-05-03T19:26:56Z",
           "url": "https://www.youtube.com/watch?v=SVTPv4sI_Jc"
@@ -3696,6 +3696,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "kDB-_4cgyPM",
+          "title": "Lotus Chess May Arena - lichess.org",
+          "thumbnail": "https://i.ytimg.com/vi/kDB-_4cgyPM/mqdefault.jpg",
+          "published_at": "2026-05-08T18:41:59Z",
+          "url": "https://www.youtube.com/watch?v=kDB-_4cgyPM"
+        },
+        {
+          "id": "QIdwBiJdeiY",
+          "title": "Luc Winants takes on Kamsky, Karpov and Carlsen",
+          "thumbnail": "https://i.ytimg.com/vi/QIdwBiJdeiY/mqdefault.jpg",
+          "published_at": "2026-05-08T12:49:51Z",
+          "url": "https://www.youtube.com/watch?v=QIdwBiJdeiY"
+        },
+        {
           "id": "U6mBQ0JzvyM",
           "title": "The Moment You've All Been Waiting For || Magnus Carlsen vs Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f || TePe Sigeman 2026",
           "thumbnail": "https://i.ytimg.com/vi/U6mBQ0JzvyM/mqdefault.jpg",
@@ -4030,20 +4044,6 @@
           "thumbnail": "https://i.ytimg.com/vi/4IgOWGH_1pc/mqdefault.jpg",
           "published_at": "2026-04-03T17:02:46Z",
           "url": "https://www.youtube.com/watch?v=4IgOWGH_1pc"
-        },
-        {
-          "id": "f7SApEK0goo",
-          "title": "REPORTED! || Alua Nurman vs Magnus Carlsen ||  Grenke Festival 2026 R2",
-          "thumbnail": "https://i.ytimg.com/vi/f7SApEK0goo/mqdefault.jpg",
-          "published_at": "2026-04-03T12:37:12Z",
-          "url": "https://www.youtube.com/watch?v=f7SApEK0goo"
-        },
-        {
-          "id": "Omg9_L_wLJo",
-          "title": "Can Magnus Repeat the Mythic 9/9? || Grenke Chess Festival 2026 R1",
-          "thumbnail": "https://i.ytimg.com/vi/Omg9_L_wLJo/mqdefault.jpg",
-          "published_at": "2026-04-02T21:07:52Z",
-          "url": "https://www.youtube.com/watch?v=Omg9_L_wLJo"
         }
       ]
     },
@@ -4052,6 +4052,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "q7D5N5MUcrA",
+          "title": "Hantavirus vs COVID: What is the Pandemic Potential?",
+          "thumbnail": "https://i.ytimg.com/vi/q7D5N5MUcrA/mqdefault.jpg",
+          "published_at": "2026-05-08T23:30:20Z",
+          "url": "https://www.youtube.com/watch?v=q7D5N5MUcrA"
+        },
         {
           "id": "uA5lW8PQNB8",
           "title": "Whilst You Were Distracted By The War, The FDA Did This - Max German Response",
@@ -4394,13 +4401,6 @@
           "thumbnail": "https://i.ytimg.com/vi/HJwWd4cDUOw/mqdefault.jpg",
           "published_at": "2025-06-28T00:15:53Z",
           "url": "https://www.youtube.com/watch?v=HJwWd4cDUOw"
-        },
-        {
-          "id": "ok54ZC7DLB0",
-          "title": "Do Vegan Collagen Products Work for Skin Aging?",
-          "thumbnail": "https://i.ytimg.com/vi/ok54ZC7DLB0/mqdefault.jpg",
-          "published_at": "2025-06-21T03:25:30Z",
-          "url": "https://www.youtube.com/watch?v=ok54ZC7DLB0"
         }
       ]
     },
@@ -4950,7 +4950,7 @@
       "videos": [
         {
           "id": "o1zhcj6SVYY",
-          "title": "Nature Documentaries Are Lying To You",
+          "title": "We Need to Talk about David Attenborough",
           "thumbnail": "https://i.ytimg.com/vi/o1zhcj6SVYY/mqdefault.jpg",
           "published_at": "2026-05-07T17:00:10Z",
           "url": "https://www.youtube.com/watch?v=o1zhcj6SVYY"
