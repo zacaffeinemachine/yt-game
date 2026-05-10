@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T07:01:24.978885+00:00",
+  "last_updated": "2026-05-10T07:20:38.325452+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3696,6 +3696,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "Z5WDOb3rfd8",
+          "title": "World Champion vs Challenger || Gukesh vs Sindarov || Super Rapid & Blitz Poland 2026",
+          "thumbnail": "https://i.ytimg.com/vi/Z5WDOb3rfd8/mqdefault.jpg",
+          "published_at": "2026-05-09T14:26:02Z",
+          "url": "https://www.youtube.com/watch?v=Z5WDOb3rfd8"
+        },
+        {
           "id": "kDB-_4cgyPM",
           "title": "Lotus Chess May Arena - lichess.org",
           "thumbnail": "https://i.ytimg.com/vi/kDB-_4cgyPM/mqdefault.jpg",
@@ -4037,13 +4044,6 @@
           "thumbnail": "https://i.ytimg.com/vi/3GUFNWq1xFw/mqdefault.jpg",
           "published_at": "2026-04-03T17:52:24Z",
           "url": "https://www.youtube.com/watch?v=3GUFNWq1xFw"
-        },
-        {
-          "id": "4IgOWGH_1pc",
-          "title": "The DIVINE Line || Hikaru Nakamura vs Javokhir Sindarov || FIDE Candidates Tournament 2026 R5",
-          "thumbnail": "https://i.ytimg.com/vi/4IgOWGH_1pc/mqdefault.jpg",
-          "published_at": "2026-04-03T17:02:46Z",
-          "url": "https://www.youtube.com/watch?v=4IgOWGH_1pc"
         }
       ]
     },
