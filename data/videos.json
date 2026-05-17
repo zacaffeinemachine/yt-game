@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T07:09:14.819978+00:00",
+  "last_updated": "2026-05-17T07:29:46.663723+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3703,6 +3703,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "lHlI1ECftuc",
+          "title": "Annihilation || Bogdan-Daniel Deac vs Jorden van Foreest || Super Chess Classic Romania 2026",
+          "thumbnail": "https://i.ytimg.com/vi/lHlI1ECftuc/mqdefault.jpg",
+          "published_at": "2026-05-16T19:23:38Z",
+          "url": "https://www.youtube.com/watch?v=lHlI1ECftuc"
+        },
+        {
+          "id": "_EAGmaUDVQ4",
+          "title": "Starting From Scratch! || Javokhir Sindarov vs Praggnanandhaa || Super Chess Classic Romania 2026",
+          "thumbnail": "https://i.ytimg.com/vi/_EAGmaUDVQ4/mqdefault.jpg",
+          "published_at": "2026-05-16T11:11:39Z",
+          "url": "https://www.youtube.com/watch?v=_EAGmaUDVQ4"
+        },
+        {
           "id": "peqQCC4Yl1M",
           "title": "The Stuborn Defender || Praggnanandhaa vs Alireza Firouzja || Super Chess Classic Romania 2026",
           "thumbnail": "https://i.ytimg.com/vi/peqQCC4Yl1M/mqdefault.jpg",
@@ -4037,20 +4051,6 @@
           "thumbnail": "https://i.ytimg.com/vi/sU9NWh-sGNQ/mqdefault.jpg",
           "published_at": "2026-04-09T08:47:10Z",
           "url": "https://www.youtube.com/watch?v=sU9NWh-sGNQ"
-        },
-        {
-          "id": "5xVPviwze98",
-          "title": "The Elevator Blessing || Fabiano Caruana vs Anish Giri || FIDE Candidates Tournament 2026 R9",
-          "thumbnail": "https://i.ytimg.com/vi/5xVPviwze98/mqdefault.jpg",
-          "published_at": "2026-04-08T18:45:49Z",
-          "url": "https://www.youtube.com/watch?v=5xVPviwze98"
-        },
-        {
-          "id": "SdEnb3RGvKg",
-          "title": "\u201cIt\u2019s Quite Nice to Shut up all the Idiots Who Think That I can\u2019t Play Chess Anymore\u201d",
-          "thumbnail": "https://i.ytimg.com/vi/SdEnb3RGvKg/mqdefault.jpg",
-          "published_at": "2026-04-08T09:26:34Z",
-          "url": "https://www.youtube.com/watch?v=SdEnb3RGvKg"
         }
       ]
     },
@@ -4417,6 +4417,13 @@
       "thumbnail": "https://yt3.ggpht.com/LFpn27KHrUL3n0iCnEpHQrTSjN0TaCkt8_snLT7IdfvFu_OWLfJCu1jdefNoxwhlysdwEz2w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "rSnhY5B7_ls",
+          "title": "New Indian Vegan Arguments or Lazy old SAGA feat Rumbutan | Hard Response | Voice of Vegans",
+          "thumbnail": "https://i.ytimg.com/vi/rSnhY5B7_ls/mqdefault.jpg",
+          "published_at": "2026-05-17T05:00:43Z",
+          "url": "https://www.youtube.com/watch?v=rSnhY5B7_ls"
+        },
+        {
           "id": "rlCR6Jix8bU",
           "title": "The Indian Dairy Truth Report!",
           "thumbnail": "https://i.ytimg.com/vi/rlCR6Jix8bU/mqdefault.jpg",
@@ -4758,13 +4765,6 @@
           "thumbnail": "https://i.ytimg.com/vi/0AjAcSVvPSU/mqdefault.jpg",
           "published_at": "2024-08-24T05:00:00Z",
           "url": "https://www.youtube.com/watch?v=0AjAcSVvPSU"
-        },
-        {
-          "id": "69zi7lZydZ8",
-          "title": "Locked Inside Cages | Freedom Struggle | We have become \"Britishers to them\" | Independence Day",
-          "thumbnail": "https://i.ytimg.com/vi/69zi7lZydZ8/mqdefault.jpg",
-          "published_at": "2024-08-17T04:30:02Z",
-          "url": "https://www.youtube.com/watch?v=69zi7lZydZ8"
         }
       ]
     },
@@ -4957,7 +4957,7 @@
       "videos": [
         {
           "id": "3qb-9Q0YhVA",
-          "title": "I Exposed My Father's Evil Industry",
+          "title": "The Dying Trade | Full Documentary",
           "thumbnail": "https://i.ytimg.com/vi/3qb-9Q0YhVA/mqdefault.jpg",
           "published_at": "2026-05-13T16:59:16Z",
           "url": "https://www.youtube.com/watch?v=3qb-9Q0YhVA"
