@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T07:29:46.663723+00:00",
+  "last_updated": "2026-05-18T08:39:45.032753+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -470,7 +470,7 @@
         },
         {
           "id": "Y-W-w8yNiKU",
-          "title": "The Man Who Accidentally Discovered Antimatter",
+          "title": "Can energy be negative?",
           "thumbnail": "https://i.ytimg.com/vi/Y-W-w8yNiKU/mqdefault.jpg",
           "published_at": "2025-12-05T09:47:19Z",
           "url": "https://www.youtube.com/watch?v=Y-W-w8yNiKU"
@@ -3703,6 +3703,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "OYuGHqvgKV0",
+          "title": "First Clash Against the Maestro || Vincent vs MVL || Super Chess Classic Romania 2026",
+          "thumbnail": "https://i.ytimg.com/vi/OYuGHqvgKV0/mqdefault.jpg",
+          "published_at": "2026-05-17T17:47:53Z",
+          "url": "https://www.youtube.com/watch?v=OYuGHqvgKV0"
+        },
+        {
+          "id": "zs774ife5ks",
+          "title": "Everything To Win || Anish Giri vs Alireza Firouzja || Super Chess Classic Romania 2026",
+          "thumbnail": "https://i.ytimg.com/vi/zs774ife5ks/mqdefault.jpg",
+          "published_at": "2026-05-17T11:41:40Z",
+          "url": "https://www.youtube.com/watch?v=zs774ife5ks"
+        },
+        {
           "id": "lHlI1ECftuc",
           "title": "Annihilation || Bogdan-Daniel Deac vs Jorden van Foreest || Super Chess Classic Romania 2026",
           "thumbnail": "https://i.ytimg.com/vi/lHlI1ECftuc/mqdefault.jpg",
@@ -3718,7 +3732,7 @@
         },
         {
           "id": "peqQCC4Yl1M",
-          "title": "The Stuborn Defender || Praggnanandhaa vs Alireza Firouzja || Super Chess Classic Romania 2026",
+          "title": "The Stubborn Defender || Praggnanandhaa vs Alireza Firouzja || Super Chess Classic Romania 2026",
           "thumbnail": "https://i.ytimg.com/vi/peqQCC4Yl1M/mqdefault.jpg",
           "published_at": "2026-05-15T11:19:36Z",
           "url": "https://www.youtube.com/watch?v=peqQCC4Yl1M"
@@ -4037,20 +4051,6 @@
           "thumbnail": "https://i.ytimg.com/vi/IPhfCOWvOO8/mqdefault.jpg",
           "published_at": "2026-04-09T17:14:39Z",
           "url": "https://www.youtube.com/watch?v=IPhfCOWvOO8"
-        },
-        {
-          "id": "4DgWoW-lvPE",
-          "title": "He is THE ONE!",
-          "thumbnail": "https://i.ytimg.com/vi/4DgWoW-lvPE/mqdefault.jpg",
-          "published_at": "2026-04-09T09:36:30Z",
-          "url": "https://www.youtube.com/watch?v=4DgWoW-lvPE"
-        },
-        {
-          "id": "sU9NWh-sGNQ",
-          "title": "The Unbreakable Will || Praggnanandhaa vs Wei Yi || FIDE Candidates Tournament 2026 R9",
-          "thumbnail": "https://i.ytimg.com/vi/sU9NWh-sGNQ/mqdefault.jpg",
-          "published_at": "2026-04-09T08:47:10Z",
-          "url": "https://www.youtube.com/watch?v=sU9NWh-sGNQ"
         }
       ]
     },
