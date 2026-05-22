@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T08:25:42.079965+00:00",
+  "last_updated": "2026-05-22T08:16:24.377147+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3703,6 +3703,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "M4qWxEyTd2g",
+          "title": "The Move That Wins Every Game || Javokhir vs Vincent || Super Chess Classic Romania 2026",
+          "thumbnail": "https://i.ytimg.com/vi/M4qWxEyTd2g/mqdefault.jpg",
+          "published_at": "2026-05-21T18:35:21Z",
+          "url": "https://www.youtube.com/watch?v=M4qWxEyTd2g"
+        },
+        {
           "id": "h6uhFRX2Lqc",
           "title": "\"Poor Guy, and Such a Hero...\" || Fabi vs Alireza || Super Chess Classic Romania 2026",
           "thumbnail": "https://i.ytimg.com/vi/h6uhFRX2Lqc/mqdefault.jpg",
@@ -4044,13 +4051,6 @@
           "thumbnail": "https://i.ytimg.com/vi/7qyLqKnvfk0/mqdefault.jpg",
           "published_at": "2026-04-13T10:11:45Z",
           "url": "https://www.youtube.com/watch?v=7qyLqKnvfk0"
-        },
-        {
-          "id": "RmRi0u2ZU1w",
-          "title": "\"Vacation Mode\" || Fabiano Caruana vs Javokhir Sindarov || FIDE Candidates Tournament 2026 R11",
-          "thumbnail": "https://i.ytimg.com/vi/RmRi0u2ZU1w/mqdefault.jpg",
-          "published_at": "2026-04-11T18:38:20Z",
-          "url": "https://www.youtube.com/watch?v=RmRi0u2ZU1w"
         }
       ]
     },
