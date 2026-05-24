@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T07:24:43.763304+00:00",
+  "last_updated": "2026-05-24T07:44:45.385258+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3703,6 +3703,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "xorOIBUisqQ",
+          "title": "Simply ELITE || Vincent vs Jorden || Super Chess Classic Romania 2026",
+          "thumbnail": "https://i.ytimg.com/vi/xorOIBUisqQ/mqdefault.jpg",
+          "published_at": "2026-05-23T17:41:32Z",
+          "url": "https://www.youtube.com/watch?v=xorOIBUisqQ"
+        },
+        {
+          "id": "VITTSuFirm0",
+          "title": "A Beautiful Game To Improve Your Day || Deac vs Giri || Super Chess Classic Romania 2026",
+          "thumbnail": "https://i.ytimg.com/vi/VITTSuFirm0/mqdefault.jpg",
+          "published_at": "2026-05-23T10:44:18Z",
+          "url": "https://www.youtube.com/watch?v=VITTSuFirm0"
+        },
+        {
           "id": "yst4sc2nXpA",
           "title": "World Championship Match Will Be Fun! || Jorden vs Javokhir || Super Chess Classic Romania 2026",
           "thumbnail": "https://i.ytimg.com/vi/yst4sc2nXpA/mqdefault.jpg",
@@ -4037,20 +4051,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Dp-aE5Uu6EU/mqdefault.jpg",
           "published_at": "2026-04-16T11:54:43Z",
           "url": "https://www.youtube.com/watch?v=Dp-aE5Uu6EU"
-        },
-        {
-          "id": "FX9RjPGkLaA",
-          "title": "\"The First 2900 Player ||\" Veselin Topalov vs Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f || Clash of Generations III G3",
-          "thumbnail": "https://i.ytimg.com/vi/FX9RjPGkLaA/mqdefault.jpg",
-          "published_at": "2026-04-15T10:04:51Z",
-          "url": "https://www.youtube.com/watch?v=FX9RjPGkLaA"
-        },
-        {
-          "id": "U4V_PwOnLpQ",
-          "title": "\"THE GAME\" || Anish Giri vs Javokhir Sindarov || FIDE Candidates Tournament 2026 R13",
-          "thumbnail": "https://i.ytimg.com/vi/U4V_PwOnLpQ/mqdefault.jpg",
-          "published_at": "2026-04-14T17:05:23Z",
-          "url": "https://www.youtube.com/watch?v=U4V_PwOnLpQ"
         }
       ]
     },
