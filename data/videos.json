@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T08:25:27.233534+00:00",
+  "last_updated": "2026-05-27T08:33:30.937615+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "SVTPv4sI_Jc",
-          "title": "The CIA's Worst New Tech Idea?",
+          "title": "Can the CIA secretly detect your heartbeat from 60 km away?",
           "thumbnail": "https://i.ytimg.com/vi/SVTPv4sI_Jc/mqdefault.jpg",
           "published_at": "2026-05-03T19:26:56Z",
           "url": "https://www.youtube.com/watch?v=SVTPv4sI_Jc"
@@ -720,6 +720,13 @@
       "name": "Ben Syversen",
       "thumbnail": "https://yt3.ggpht.com/IzvmoGBQrnlrMIhtldJg7Xy_AMXqFamxO4H76XqvZlWL-PiAX7P3DPPy-SyaNcK9MSSPuCcEgw=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "vBwaWRZyIBM",
+          "title": "The Tangled Origin of \"Solving for X\"",
+          "thumbnail": "https://i.ytimg.com/vi/vBwaWRZyIBM/mqdefault.jpg",
+          "published_at": "2026-05-27T03:30:29Z",
+          "url": "https://www.youtube.com/watch?v=vBwaWRZyIBM"
+        },
         {
           "id": "96LbF8nn05c",
           "title": "The Simplest Ancient Math Problem No One Could Solve",
@@ -1848,6 +1855,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nYFWjG64F27JNXiQXMCKYB0umXlsvIxNxkHzaBByxxeDk=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "rAduhmW5ZO8",
+          "title": "Why This Mars Battery Could Beat Lithium-Ion",
+          "thumbnail": "https://i.ytimg.com/vi/rAduhmW5ZO8/mqdefault.jpg",
+          "published_at": "2026-05-26T12:16:51Z",
+          "url": "https://www.youtube.com/watch?v=rAduhmW5ZO8"
+        },
+        {
           "id": "xC4v9tyxNgU",
           "title": "How the Worst Oil Crisis in History is Backfiring",
           "thumbnail": "https://i.ytimg.com/vi/xC4v9tyxNgU/mqdefault.jpg",
@@ -2189,13 +2203,6 @@
           "thumbnail": "https://i.ytimg.com/vi/7yhcyn_4cUc/mqdefault.jpg",
           "published_at": "2025-04-08T12:16:57Z",
           "url": "https://www.youtube.com/watch?v=7yhcyn_4cUc"
-        },
-        {
-          "id": "R31v28uS_8k",
-          "title": "How Paper is the Future of Energy Storage",
-          "thumbnail": "https://i.ytimg.com/vi/R31v28uS_8k/mqdefault.jpg",
-          "published_at": "2025-04-01T12:16:46Z",
-          "url": "https://www.youtube.com/watch?v=R31v28uS_8k"
         }
       ]
     },
@@ -3346,6 +3353,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "8qQW4LTWgtc",
+          "title": "Why Earth Sucks Compared to the Planet Hestia",
+          "thumbnail": "https://i.ytimg.com/vi/8qQW4LTWgtc/mqdefault.jpg",
+          "published_at": "2026-05-26T14:00:08Z",
+          "url": "https://www.youtube.com/watch?v=8qQW4LTWgtc"
+        },
+        {
           "id": "TYhNHX372ek",
           "title": "The Uncomfortable Truth About Ozempic (Updated Version)",
           "thumbnail": "https://i.ytimg.com/vi/TYhNHX372ek/mqdefault.jpg",
@@ -3687,13 +3701,6 @@
           "thumbnail": "https://i.ytimg.com/vi/71eUes30gwc/mqdefault.jpg",
           "published_at": "2024-05-21T14:00:02Z",
           "url": "https://www.youtube.com/watch?v=71eUes30gwc"
-        },
-        {
-          "id": "_rBPwu2uS-w",
-          "title": "Smoking is Awesome",
-          "thumbnail": "https://i.ytimg.com/vi/_rBPwu2uS-w/mqdefault.jpg",
-          "published_at": "2024-05-07T14:00:02Z",
-          "url": "https://www.youtube.com/watch?v=_rBPwu2uS-w"
         }
       ]
     },
@@ -3702,6 +3709,20 @@
       "name": "agadmator's Chess Channel",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "BV98m0lhAL8",
+          "title": "Is This The Same Person? || Alireza vs Praggnanandhaa || Norway Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/BV98m0lhAL8/mqdefault.jpg",
+          "published_at": "2026-05-26T19:51:27Z",
+          "url": "https://www.youtube.com/watch?v=BV98m0lhAL8"
+        },
+        {
+          "id": "4h89j5pggvA",
+          "title": "The Prince and The King || Norway Chess 2026 Starts With A Big Bang!",
+          "thumbnail": "https://i.ytimg.com/vi/4h89j5pggvA/mqdefault.jpg",
+          "published_at": "2026-05-26T10:03:25Z",
+          "url": "https://www.youtube.com/watch?v=4h89j5pggvA"
+        },
         {
           "id": "xorOIBUisqQ",
           "title": "Simply ELITE || Vincent vs Jorden || Super Chess Classic Romania 2026",
@@ -4037,20 +4058,6 @@
           "thumbnail": "https://i.ytimg.com/vi/LAkcMJIoTxg/mqdefault.jpg",
           "published_at": "2026-04-16T18:58:07Z",
           "url": "https://www.youtube.com/watch?v=LAkcMJIoTxg"
-        },
-        {
-          "id": "Djeq6jmikvk",
-          "title": "\"Not.Good.Enough.\" || Matthias Bl\u00fcbaum vs Anish Giri || FIDE Candidates Tournament 2026 R14",
-          "thumbnail": "https://i.ytimg.com/vi/Djeq6jmikvk/mqdefault.jpg",
-          "published_at": "2026-04-16T13:17:53Z",
-          "url": "https://www.youtube.com/watch?v=Djeq6jmikvk"
-        },
-        {
-          "id": "Dp-aE5Uu6EU",
-          "title": "The 2900 Move || Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f vs Veselin Topalov || Clash of Generations III G4",
-          "thumbnail": "https://i.ytimg.com/vi/Dp-aE5Uu6EU/mqdefault.jpg",
-          "published_at": "2026-04-16T11:54:43Z",
-          "url": "https://www.youtube.com/watch?v=Dp-aE5Uu6EU"
         }
       ]
     },
