@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T08:33:30.937615+00:00",
+  "last_updated": "2026-05-28T08:36:56.523197+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -512,7 +512,7 @@
         },
         {
           "id": "onr80iOoEXs",
-          "title": "Alfred Nobel: The Man Who Fooled The World",
+          "title": "The Man Who Fooled The World",
           "thumbnail": "https://i.ytimg.com/vi/onr80iOoEXs/mqdefault.jpg",
           "published_at": "2025-09-21T14:13:30Z",
           "url": "https://www.youtube.com/watch?v=onr80iOoEXs"
@@ -722,7 +722,7 @@
       "videos": [
         {
           "id": "vBwaWRZyIBM",
-          "title": "The Tangled Origin of \"Solving for X\"",
+          "title": "The Book That Started It All",
           "thumbnail": "https://i.ytimg.com/vi/vBwaWRZyIBM/mqdefault.jpg",
           "published_at": "2026-05-27T03:30:29Z",
           "url": "https://www.youtube.com/watch?v=vBwaWRZyIBM"
@@ -783,6 +783,13 @@
       "name": "Only Desi",
       "thumbnail": "https://yt3.ggpht.com/2syNrbo0YVfXvAYIwA3hQ8jUFPTj3pyootPeForoT3ZDjfrFpCE3LUN5F-Tpn15t6KdYBvTu5sI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "Psb-CKUQLI8",
+          "title": "MURDER : The Revisit (Hawas ka nasha)",
+          "thumbnail": "https://i.ytimg.com/vi/Psb-CKUQLI8/mqdefault.jpg",
+          "published_at": "2026-05-27T14:26:55Z",
+          "url": "https://www.youtube.com/watch?v=Psb-CKUQLI8"
+        },
         {
           "id": "jZB5juA5-pc",
           "title": "Are YOU the red flag in your relationship?",
@@ -1125,13 +1132,6 @@
           "thumbnail": "https://i.ytimg.com/vi/AP9ps3CUQds/mqdefault.jpg",
           "published_at": "2022-09-06T08:16:26Z",
           "url": "https://www.youtube.com/watch?v=AP9ps3CUQds"
-        },
-        {
-          "id": "FHWP3c3UQ60",
-          "title": "Hum Tumhare Hai Sanam :  The Revisit",
-          "thumbnail": "https://i.ytimg.com/vi/FHWP3c3UQ60/mqdefault.jpg",
-          "published_at": "2022-08-31T10:38:11Z",
-          "url": "https://www.youtube.com/watch?v=FHWP3c3UQ60"
         }
       ]
     },
@@ -3710,6 +3710,27 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "tdQ8bXE5-Us",
+          "title": "This Game Means Everything || Pragg vs Magnus || Norway Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/tdQ8bXE5-Us/mqdefault.jpg",
+          "published_at": "2026-05-27T20:11:53Z",
+          "url": "https://www.youtube.com/watch?v=tdQ8bXE5-Us"
+        },
+        {
+          "id": "RarkivxexfQ",
+          "title": "The Prince and The World Champion || Gukesh vs Alireza || Norway Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/RarkivxexfQ/mqdefault.jpg",
+          "published_at": "2026-05-27T19:22:37Z",
+          "url": "https://www.youtube.com/watch?v=RarkivxexfQ"
+        },
+        {
+          "id": "W78ittt4OA0",
+          "title": "Pure Chess Pleasure || Magnus vs Vincent || Norway Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/W78ittt4OA0/mqdefault.jpg",
+          "published_at": "2026-05-27T08:58:32Z",
+          "url": "https://www.youtube.com/watch?v=W78ittt4OA0"
+        },
+        {
           "id": "BV98m0lhAL8",
           "title": "Is This The Same Person? || Alireza vs Praggnanandhaa || Norway Chess 2026",
           "thumbnail": "https://i.ytimg.com/vi/BV98m0lhAL8/mqdefault.jpg",
@@ -4037,27 +4058,6 @@
           "thumbnail": "https://i.ytimg.com/vi/kMqWi0ISj64/mqdefault.jpg",
           "published_at": "2026-04-18T13:39:38Z",
           "url": "https://www.youtube.com/watch?v=kMqWi0ISj64"
-        },
-        {
-          "id": "PM1ytXrJ-T8",
-          "title": "A Legend Is Born! || Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f vs Veselin Topalov || Clash of Generations III G6",
-          "thumbnail": "https://i.ytimg.com/vi/PM1ytXrJ-T8/mqdefault.jpg",
-          "published_at": "2026-04-17T17:04:03Z",
-          "url": "https://www.youtube.com/watch?v=PM1ytXrJ-T8"
-        },
-        {
-          "id": "Jslb1Ik-eos",
-          "title": "The Challenger! || Vaishali vs Kateryna Lagno || FIDE Women's Candidates Tournament 2026 R14",
-          "thumbnail": "https://i.ytimg.com/vi/Jslb1Ik-eos/mqdefault.jpg",
-          "published_at": "2026-04-17T12:37:49Z",
-          "url": "https://www.youtube.com/watch?v=Jslb1Ik-eos"
-        },
-        {
-          "id": "LAkcMJIoTxg",
-          "title": "History is Made! || Veselin Topalov vs Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f || Clash of Generations III G5",
-          "thumbnail": "https://i.ytimg.com/vi/LAkcMJIoTxg/mqdefault.jpg",
-          "published_at": "2026-04-16T18:58:07Z",
-          "url": "https://www.youtube.com/watch?v=LAkcMJIoTxg"
         }
       ]
     },
@@ -5320,6 +5320,13 @@
       "thumbnail": "https://yt3.ggpht.com/J-mQZ7gIHpil3l78nqzKNPSYqeU9fkzg8xxeQP0WVEKxEG8-puK1Hf-sJURo-lKtK8ykLPekaAE=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "KDLNanDEJbI",
+          "title": "Meat eater does 180 when debating a vegan",
+          "thumbnail": "https://i.ytimg.com/vi/KDLNanDEJbI/mqdefault.jpg",
+          "published_at": "2026-05-27T17:24:56Z",
+          "url": "https://www.youtube.com/watch?v=KDLNanDEJbI"
+        },
+        {
           "id": "EFZlo_5Kfgo",
           "title": "Texan meat eater takes on British vegan",
           "thumbnail": "https://i.ytimg.com/vi/EFZlo_5Kfgo/mqdefault.jpg",
@@ -5661,13 +5668,6 @@
           "thumbnail": "https://i.ytimg.com/vi/mqXmuQ5rXh0/mqdefault.jpg",
           "published_at": "2024-03-31T17:30:44Z",
           "url": "https://www.youtube.com/watch?v=mqXmuQ5rXh0"
-        },
-        {
-          "id": "CkD3aeO6gL0",
-          "title": "We need to talk about the demise of veganism.",
-          "thumbnail": "https://i.ytimg.com/vi/CkD3aeO6gL0/mqdefault.jpg",
-          "published_at": "2024-03-18T18:05:53Z",
-          "url": "https://www.youtube.com/watch?v=CkD3aeO6gL0"
         }
       ]
     }
