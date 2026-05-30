@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T08:36:44.724897+00:00",
+  "last_updated": "2026-05-30T07:34:46.579307+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3710,6 +3710,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "6jRaRjKyH3M",
+          "title": "Enough is Enough! || Wesley So vs Alireza || Norway Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/6jRaRjKyH3M/mqdefault.jpg",
+          "published_at": "2026-05-29T19:28:31Z",
+          "url": "https://www.youtube.com/watch?v=6jRaRjKyH3M"
+        },
+        {
+          "id": "g5dtWbfXKHA",
+          "title": "Hans vs Nepo || Belgrade Match 2026 || GAME 1",
+          "thumbnail": "https://i.ytimg.com/vi/g5dtWbfXKHA/mqdefault.jpg",
+          "published_at": "2026-05-29T12:18:08Z",
+          "url": "https://www.youtube.com/watch?v=g5dtWbfXKHA"
+        },
+        {
           "id": "GCUmcs_zIYs",
           "title": "World Champions || Gukesh vs Magnus || Norway Chess 2026",
           "thumbnail": "https://i.ytimg.com/vi/GCUmcs_zIYs/mqdefault.jpg",
@@ -4044,20 +4058,6 @@
           "thumbnail": "https://i.ytimg.com/vi/rIcO5ZSoQ2k/mqdefault.jpg",
           "published_at": "2026-04-21T13:20:52Z",
           "url": "https://www.youtube.com/watch?v=rIcO5ZSoQ2k"
-        },
-        {
-          "id": "5WRWgVW3EtQ",
-          "title": "Seed 126: The Unlikely Champion!",
-          "thumbnail": "https://i.ytimg.com/vi/5WRWgVW3EtQ/mqdefault.jpg",
-          "published_at": "2026-04-20T11:35:14Z",
-          "url": "https://www.youtube.com/watch?v=5WRWgVW3EtQ"
-        },
-        {
-          "id": "ri-yC46J2zE",
-          "title": "Return of the Ding!",
-          "thumbnail": "https://i.ytimg.com/vi/ri-yC46J2zE/mqdefault.jpg",
-          "published_at": "2026-04-19T12:41:31Z",
-          "url": "https://www.youtube.com/watch?v=ri-yC46J2zE"
         }
       ]
     },
@@ -4066,6 +4066,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "BOF1uNE6XmE",
+          "title": "BBC: Woman died after vegan diet made her delusional | My response",
+          "thumbnail": "https://i.ytimg.com/vi/BOF1uNE6XmE/mqdefault.jpg",
+          "published_at": "2026-05-30T00:28:28Z",
+          "url": "https://www.youtube.com/watch?v=BOF1uNE6XmE"
+        },
         {
           "id": "hy1AA7bxhgg",
           "title": "Are Vegans Slipping on Antioxidant Levels? New Advanced Study Released",
@@ -4408,13 +4415,6 @@
           "thumbnail": "https://i.ytimg.com/vi/hETJBEo5tlQ/mqdefault.jpg",
           "published_at": "2025-07-18T21:52:39Z",
           "url": "https://www.youtube.com/watch?v=hETJBEo5tlQ"
-        },
-        {
-          "id": "jG2zQPyqEDk",
-          "title": "Top 5 Plants for Wound Healing",
-          "thumbnail": "https://i.ytimg.com/vi/jG2zQPyqEDk/mqdefault.jpg",
-          "published_at": "2025-07-12T00:51:00Z",
-          "url": "https://www.youtube.com/watch?v=jG2zQPyqEDk"
         }
       ]
     },
