@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T08:37:19.317330+00:00",
+  "last_updated": "2026-06-06T07:39:17.814397+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "tz23G_UXCGA",
-          "title": "What Is Disrupting GPS Over The Whole Of Europe?",
+          "title": "Something is jamming GPS over Europe. Here's what we found",
           "thumbnail": "https://i.ytimg.com/vi/tz23G_UXCGA/mqdefault.jpg",
           "published_at": "2026-06-05T07:09:17Z",
           "url": "https://www.youtube.com/watch?v=tz23G_UXCGA"
@@ -3717,6 +3717,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "wZoeDgQEjvE",
+          "title": "The Actual Chosen One || Praggnanandhaa vs Vincent || Norway Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/wZoeDgQEjvE/mqdefault.jpg",
+          "published_at": "2026-06-05T19:57:51Z",
+          "url": "https://www.youtube.com/watch?v=wZoeDgQEjvE"
+        },
+        {
+          "id": "Bm7dlvKlY7U",
+          "title": "\"Never Play f6\" || Wesley vs Magnus || Norway Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/Bm7dlvKlY7U/mqdefault.jpg",
+          "published_at": "2026-06-05T10:50:45Z",
+          "url": "https://www.youtube.com/watch?v=Bm7dlvKlY7U"
+        },
+        {
           "id": "WYYYs9D3KuM",
           "title": "Romantic Chess Making a Comeback! || Gukesh vs Praggnanandhaa || Norway Chess 2026",
           "thumbnail": "https://i.ytimg.com/vi/WYYYs9D3KuM/mqdefault.jpg",
@@ -4051,20 +4065,6 @@
           "thumbnail": "https://i.ytimg.com/vi/mEcfYkYlxik/mqdefault.jpg",
           "published_at": "2026-04-30T15:14:20Z",
           "url": "https://www.youtube.com/watch?v=mEcfYkYlxik"
-        },
-        {
-          "id": "aQX3dXPcHvY",
-          "title": "Brilliancy From the Unknown || Jan-Krzysztof Duda vs Matthias Bl\u00fcbaum || Titled Tuesday 2026",
-          "thumbnail": "https://i.ytimg.com/vi/aQX3dXPcHvY/mqdefault.jpg",
-          "published_at": "2026-04-29T10:22:42Z",
-          "url": "https://www.youtube.com/watch?v=aQX3dXPcHvY"
-        },
-        {
-          "id": "aSG5PSwXsUc",
-          "title": "6 Brilliant Moves in a Row!",
-          "thumbnail": "https://i.ytimg.com/vi/aSG5PSwXsUc/mqdefault.jpg",
-          "published_at": "2026-04-27T16:15:04Z",
-          "url": "https://www.youtube.com/watch?v=aSG5PSwXsUc"
         }
       ]
     },
@@ -4073,6 +4073,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "6I6TnOpsOvM",
+          "title": "Gaz Oakley No Longer Vegan",
+          "thumbnail": "https://i.ytimg.com/vi/6I6TnOpsOvM/mqdefault.jpg",
+          "published_at": "2026-06-05T23:05:00Z",
+          "url": "https://www.youtube.com/watch?v=6I6TnOpsOvM"
+        },
         {
           "id": "BOF1uNE6XmE",
           "title": "BBC: Woman died after vegan diet made her delusional | My response",
@@ -4415,13 +4422,6 @@
           "thumbnail": "https://i.ytimg.com/vi/3-ADPFFu8_w/mqdefault.jpg",
           "published_at": "2025-07-26T00:06:50Z",
           "url": "https://www.youtube.com/watch?v=3-ADPFFu8_w"
-        },
-        {
-          "id": "hETJBEo5tlQ",
-          "title": "ChatGPT Destroys the Vegan Diet | Ken Berry Response",
-          "thumbnail": "https://i.ytimg.com/vi/hETJBEo5tlQ/mqdefault.jpg",
-          "published_at": "2025-07-18T21:52:39Z",
-          "url": "https://www.youtube.com/watch?v=hETJBEo5tlQ"
         }
       ]
     },
