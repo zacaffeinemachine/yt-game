@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-06-07T08:17:57.840777+00:00",
+  "last_updated": "2026-06-08T09:16:20.559550+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
       "name": "3Blue1Brown",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "l6DKRf-fAAM",
+          "title": "Reinventing Entropy | Compression & Intelligence Part 1",
+          "thumbnail": "https://i.ytimg.com/vi/l6DKRf-fAAM/mqdefault.jpg",
+          "published_at": "2026-06-07T11:49:51Z",
+          "url": "https://www.youtube.com/watch?v=l6DKRf-fAAM"
+        },
         {
           "id": "ldxFjLJ3rVY",
           "title": "How (and why) to take a logarithm of an image",
@@ -348,13 +355,6 @@
           "thumbnail": "https://i.ytimg.com/vi/e50Bj7jn9IQ/mqdefault.jpg",
           "published_at": "2021-05-07T21:39:22Z",
           "url": "https://www.youtube.com/watch?v=e50Bj7jn9IQ"
-        },
-        {
-          "id": "O85OWBJ2ayo",
-          "title": "How (and why) to raise e to the power of a matrix | DE6",
-          "thumbnail": "https://i.ytimg.com/vi/O85OWBJ2ayo/mqdefault.jpg",
-          "published_at": "2021-04-01T15:50:30Z",
-          "url": "https://www.youtube.com/watch?v=O85OWBJ2ayo"
         }
       ]
     },
@@ -3717,6 +3717,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "fwkE1ftSkhM",
+          "title": "All Hans Were Shaken... Except One! || UzChess Cup 2026",
+          "thumbnail": "https://i.ytimg.com/vi/fwkE1ftSkhM/mqdefault.jpg",
+          "published_at": "2026-06-07T14:30:44Z",
+          "url": "https://www.youtube.com/watch?v=fwkE1ftSkhM"
+        },
+        {
+          "id": "qsIkN_Z4GAA",
+          "title": "Hans vs Nepo || Belgrade Match 2026 || GAME 8 (+drama)",
+          "thumbnail": "https://i.ytimg.com/vi/qsIkN_Z4GAA/mqdefault.jpg",
+          "published_at": "2026-06-07T11:11:21Z",
+          "url": "https://www.youtube.com/watch?v=qsIkN_Z4GAA"
+        },
+        {
           "id": "n4tYk_s517E",
           "title": "A Game Worthy Of World Champions || Magnus vs Gukesh || Norway Chess 2026",
           "thumbnail": "https://i.ytimg.com/vi/n4tYk_s517E/mqdefault.jpg",
@@ -4051,20 +4065,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Pa1P2rO5zMs/mqdefault.jpg",
           "published_at": "2026-05-03T12:37:58Z",
           "url": "https://www.youtube.com/watch?v=Pa1P2rO5zMs"
-        },
-        {
-          "id": "npos72kFnpA",
-          "title": "Energy vs Matter || Nils Grandelius vs Magnus Carlsen || TePe Sigeman & Co2026",
-          "thumbnail": "https://i.ytimg.com/vi/npos72kFnpA/mqdefault.jpg",
-          "published_at": "2026-05-02T17:21:35Z",
-          "url": "https://www.youtube.com/watch?v=npos72kFnpA"
-        },
-        {
-          "id": "_kYT6I9C_NY",
-          "title": "One Mistake is Enough || Zhu Jiner vs Nodirbek Abdusattorov || TePe Sigeman & Co2026",
-          "thumbnail": "https://i.ytimg.com/vi/_kYT6I9C_NY/mqdefault.jpg",
-          "published_at": "2026-05-02T10:57:44Z",
-          "url": "https://www.youtube.com/watch?v=_kYT6I9C_NY"
         }
       ]
     },
