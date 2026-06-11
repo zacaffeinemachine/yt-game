@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T08:41:53.807731+00:00",
+  "last_updated": "2026-06-11T09:06:22.536656+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -2933,6 +2933,13 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "OWykKXo1k7w",
+          "title": "The Man Who Went Undercover in Auschwitz",
+          "thumbnail": "https://i.ytimg.com/vi/OWykKXo1k7w/mqdefault.jpg",
+          "published_at": "2026-06-10T17:20:14Z",
+          "url": "https://www.youtube.com/watch?v=OWykKXo1k7w"
+        },
+        {
           "id": "euePG4NgpUo",
           "title": "The Dark Web\u2019s New Deadliest Drug",
           "thumbnail": "https://i.ytimg.com/vi/euePG4NgpUo/mqdefault.jpg",
@@ -3274,13 +3281,6 @@
           "thumbnail": "https://i.ytimg.com/vi/pEhSmaqVNd8/mqdefault.jpg",
           "published_at": "2025-06-11T16:01:29Z",
           "url": "https://www.youtube.com/watch?v=pEhSmaqVNd8"
-        },
-        {
-          "id": "Uz-lKdeazaU",
-          "title": "The Hunt for El Chapo",
-          "thumbnail": "https://i.ytimg.com/vi/Uz-lKdeazaU/mqdefault.jpg",
-          "published_at": "2025-06-05T16:00:51Z",
-          "url": "https://www.youtube.com/watch?v=Uz-lKdeazaU"
         }
       ]
     },
@@ -3717,6 +3717,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "P365NxzAVFk",
+          "title": "Like finding a Needle in a Haystack || Nikolas Theodorou vs Shamsiddin Vokhidov || UzChess Cup 2026",
+          "thumbnail": "https://i.ytimg.com/vi/P365NxzAVFk/mqdefault.jpg",
+          "published_at": "2026-06-10T18:42:44Z",
+          "url": "https://www.youtube.com/watch?v=P365NxzAVFk"
+        },
+        {
           "id": "v9SxTkgrxug",
           "title": "Everything and Anything to Win! || Hans Niemann vs Shamsiddin Vokhidov || UzChess Cup 2026",
           "thumbnail": "https://i.ytimg.com/vi/v9SxTkgrxug/mqdefault.jpg",
@@ -4058,13 +4065,6 @@
           "thumbnail": "https://i.ytimg.com/vi/DBQc0W7366c/mqdefault.jpg",
           "published_at": "2026-05-04T19:11:32Z",
           "url": "https://www.youtube.com/watch?v=DBQc0W7366c"
-        },
-        {
-          "id": "Y7W4_EKTboQ",
-          "title": "The Dragon Never Disappoints || Arjun Erigaisi vs Nils Grandelius || TePe Sigeman & Co 2026",
-          "thumbnail": "https://i.ytimg.com/vi/Y7W4_EKTboQ/mqdefault.jpg",
-          "published_at": "2026-05-04T08:18:03Z",
-          "url": "https://www.youtube.com/watch?v=Y7W4_EKTboQ"
         }
       ]
     },
