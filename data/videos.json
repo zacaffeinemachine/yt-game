@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T08:52:32.813599+00:00",
+  "last_updated": "2026-06-13T08:15:13.872471+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3717,6 +3717,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "5eSphIgjIDc",
+          "title": "There He is! || Nepo vs Arjun || UzChess Cup 2026",
+          "thumbnail": "https://i.ytimg.com/vi/5eSphIgjIDc/mqdefault.jpg",
+          "published_at": "2026-06-12T18:57:59Z",
+          "url": "https://www.youtube.com/watch?v=5eSphIgjIDc"
+        },
+        {
+          "id": "FzO_Mly4ijg",
+          "title": "This is How You Face a Giant || Shakhriyar Mamedyarov vs Mukhiddin Madaminov || UzChess Cup 2026",
+          "thumbnail": "https://i.ytimg.com/vi/FzO_Mly4ijg/mqdefault.jpg",
+          "published_at": "2026-06-12T09:14:09Z",
+          "url": "https://www.youtube.com/watch?v=FzO_Mly4ijg"
+        },
+        {
           "id": "_zgdXJnjyXo",
           "title": "Unlikely Leader Emerges! || Shamsiddin Vokhidov vs Ian Nepomniachtchi || UzChess Cup 2026",
           "thumbnail": "https://i.ytimg.com/vi/_zgdXJnjyXo/mqdefault.jpg",
@@ -4051,20 +4065,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ZN7K3K_sDh4/mqdefault.jpg",
           "published_at": "2026-05-05T17:26:17Z",
           "url": "https://www.youtube.com/watch?v=ZN7K3K_sDh4"
-        },
-        {
-          "id": "ph9eJ-foOGo",
-          "title": "Long Think Wrong Think || Zhu Jiner vs Andy Woodward || TePe Sigeman & Co 2026",
-          "thumbnail": "https://i.ytimg.com/vi/ph9eJ-foOGo/mqdefault.jpg",
-          "published_at": "2026-05-05T12:19:06Z",
-          "url": "https://www.youtube.com/watch?v=ph9eJ-foOGo"
-        },
-        {
-          "id": "OXyPUl00Mv8",
-          "title": "A Slip in the Heavens || Jorden van Foreest vs Magnus Carlsen || TePe Sigeman & Co 2026",
-          "thumbnail": "https://i.ytimg.com/vi/OXyPUl00Mv8/mqdefault.jpg",
-          "published_at": "2026-05-05T09:10:32Z",
-          "url": "https://www.youtube.com/watch?v=OXyPUl00Mv8"
         }
       ]
     },
@@ -4073,6 +4073,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "Aac-a1tj8o0",
+          "title": "\"Bill Gates Tick\" Meat Allergy Now Affects 450,000 People?",
+          "thumbnail": "https://i.ytimg.com/vi/Aac-a1tj8o0/mqdefault.jpg",
+          "published_at": "2026-06-13T01:13:17Z",
+          "url": "https://www.youtube.com/watch?v=Aac-a1tj8o0"
+        },
         {
           "id": "6I6TnOpsOvM",
           "title": "Gaz Oakley No Longer Vegan",
@@ -4415,13 +4422,6 @@
           "thumbnail": "https://i.ytimg.com/vi/cHYfA0IM0Ms/mqdefault.jpg",
           "published_at": "2025-08-01T22:42:52Z",
           "url": "https://www.youtube.com/watch?v=cHYfA0IM0Ms"
-        },
-        {
-          "id": "3-ADPFFu8_w",
-          "title": "\"Veganism won't survive the AI era\" Debunked",
-          "thumbnail": "https://i.ytimg.com/vi/3-ADPFFu8_w/mqdefault.jpg",
-          "published_at": "2025-07-26T00:06:50Z",
-          "url": "https://www.youtube.com/watch?v=3-ADPFFu8_w"
         }
       ]
     },
