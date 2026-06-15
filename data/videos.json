@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T08:36:35.885361+00:00",
+  "last_updated": "2026-06-15T10:48:39.502676+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -364,6 +364,13 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "8HBDE-msUjw",
+          "title": "The Man Who Worked At Subway, Then Solved An \"Impossible\" Problem",
+          "thumbnail": "https://i.ytimg.com/vi/8HBDE-msUjw/mqdefault.jpg",
+          "published_at": "2026-06-14T15:18:45Z",
+          "url": "https://www.youtube.com/watch?v=8HBDE-msUjw"
+        },
+        {
           "id": "tz23G_UXCGA",
           "title": "Something is jamming GPS over Europe. Here's what we found",
           "thumbnail": "https://i.ytimg.com/vi/tz23G_UXCGA/mqdefault.jpg",
@@ -400,7 +407,7 @@
         },
         {
           "id": "jjp3WC8Unj8",
-          "title": "If dropping 0.1 grams of antimatter destroys a city, then why are we making it?",
+          "title": "What happens if you drop 0.125 grams of antimatter?",
           "thumbnail": "https://i.ytimg.com/vi/jjp3WC8Unj8/mqdefault.jpg",
           "published_at": "2026-04-05T20:07:08Z",
           "url": "https://www.youtube.com/watch?v=jjp3WC8Unj8"
@@ -705,13 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/zTDFhWWPZ4Q/mqdefault.jpg",
           "published_at": "2024-11-20T18:27:03Z",
           "url": "https://www.youtube.com/watch?v=zTDFhWWPZ4Q"
-        },
-        {
-          "id": "2oDXbFcHliM",
-          "title": "The Most Important Material Ever Made",
-          "thumbnail": "https://i.ytimg.com/vi/2oDXbFcHliM/mqdefault.jpg",
-          "published_at": "2024-11-13T20:21:24Z",
-          "url": "https://www.youtube.com/watch?v=2oDXbFcHliM"
         }
       ]
     },
@@ -3717,6 +3717,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "oHaIuFWRUbM",
+          "title": "Sound of Silence || Nikolas Theodorou vs Nodirbek Abdusattorov || UzChess Cup 2026",
+          "thumbnail": "https://i.ytimg.com/vi/oHaIuFWRUbM/mqdefault.jpg",
+          "published_at": "2026-06-14T19:00:28Z",
+          "url": "https://www.youtube.com/watch?v=oHaIuFWRUbM"
+        },
+        {
+          "id": "i-kYjsgus5Q",
+          "title": "\"He Premoved an Entire Classical Game\" || Nepo vs Hans || UzChess Cup 2026",
+          "thumbnail": "https://i.ytimg.com/vi/i-kYjsgus5Q/mqdefault.jpg",
+          "published_at": "2026-06-14T13:08:18Z",
+          "url": "https://www.youtube.com/watch?v=i-kYjsgus5Q"
+        },
+        {
           "id": "S9a7Dxli1s8",
           "title": "Shades of 2800 || Nikolas Theodorou vs Shakhriyar Mamedyarov || UzChess Cup 2026",
           "thumbnail": "https://i.ytimg.com/vi/S9a7Dxli1s8/mqdefault.jpg",
@@ -4051,20 +4065,6 @@
           "thumbnail": "https://i.ytimg.com/vi/UqgeKqnK2PI/mqdefault.jpg",
           "published_at": "2026-05-06T17:51:52Z",
           "url": "https://www.youtube.com/watch?v=UqgeKqnK2PI"
-        },
-        {
-          "id": "dS3MzjXq8zY",
-          "title": "Challenger vs World Champion || Javokhir Sindarov vs Gukesh || Super Rapid & Blitz Poland 2026",
-          "thumbnail": "https://i.ytimg.com/vi/dS3MzjXq8zY/mqdefault.jpg",
-          "published_at": "2026-05-06T15:36:14Z",
-          "url": "https://www.youtube.com/watch?v=dS3MzjXq8zY"
-        },
-        {
-          "id": "YKwZKSI8RZ8",
-          "title": "Strategy is Just Tactics You Can't Calculate || Arjun vs Jorden || TePe Sigeman & Co 2026",
-          "thumbnail": "https://i.ytimg.com/vi/YKwZKSI8RZ8/mqdefault.jpg",
-          "published_at": "2026-05-06T09:49:26Z",
-          "url": "https://www.youtube.com/watch?v=YKwZKSI8RZ8"
         }
       ]
     },
