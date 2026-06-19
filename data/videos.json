@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T09:08:06.302752+00:00",
+  "last_updated": "2026-06-19T09:23:53.851400+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3724,6 +3724,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "JMJ_NXiMv9c",
+          "title": "Wow! || Magnus vs Arjun || FIDE World Rapid Team Championships 2026",
+          "thumbnail": "https://i.ytimg.com/vi/JMJ_NXiMv9c/mqdefault.jpg",
+          "published_at": "2026-06-18T10:18:22Z",
+          "url": "https://www.youtube.com/watch?v=JMJ_NXiMv9c"
+        },
+        {
+          "id": "VlQ9C2omd3U",
+          "title": "MOTMA x Challenger || Rapport vs Sindarov || FIDE World Rapid Team Championships 2026",
+          "thumbnail": "https://i.ytimg.com/vi/VlQ9C2omd3U/mqdefault.jpg",
+          "published_at": "2026-06-18T09:31:40Z",
+          "url": "https://www.youtube.com/watch?v=VlQ9C2omd3U"
+        },
+        {
           "id": "XiC0e8SljNU",
           "title": "The Actual Game Between Magnus Carlsen and Vasyl Ivanchuk | FIDE World Rapid Team Championships 2026",
           "thumbnail": "https://i.ytimg.com/vi/XiC0e8SljNU/mqdefault.jpg",
@@ -4058,20 +4072,6 @@
           "thumbnail": "https://i.ytimg.com/vi/iYcyUwGpsvc/mqdefault.jpg",
           "published_at": "2026-05-13T13:05:12Z",
           "url": "https://www.youtube.com/watch?v=iYcyUwGpsvc"
-        },
-        {
-          "id": "ZM7LsyTywvY",
-          "title": "The Perfect Attacking Game || Hans Niemann vs Jan-Krzysztof Duda || Super Rapid & Blitz Poland 2026",
-          "thumbnail": "https://i.ytimg.com/vi/ZM7LsyTywvY/mqdefault.jpg",
-          "published_at": "2026-05-11T12:22:18Z",
-          "url": "https://www.youtube.com/watch?v=ZM7LsyTywvY"
-        },
-        {
-          "id": "p9bKvjhPqac",
-          "title": "Chess Still Speaking! || Hans Niemann vs Alireza Firouzja || Super Rapid & Blitz Poland 2026",
-          "thumbnail": "https://i.ytimg.com/vi/p9bKvjhPqac/mqdefault.jpg",
-          "published_at": "2026-05-10T12:40:16Z",
-          "url": "https://www.youtube.com/watch?v=p9bKvjhPqac"
         }
       ]
     },
