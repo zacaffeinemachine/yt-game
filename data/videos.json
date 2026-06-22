@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T08:53:13.783420+00:00",
+  "last_updated": "2026-06-22T10:31:27.740875+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -29,7 +29,7 @@
         },
         {
           "id": "BHdbsHFs2P0",
-          "title": "The Hairy Ball Theorem",
+          "title": "Why you can't comb a hairy ball, and why we care",
           "thumbnail": "https://i.ytimg.com/vi/BHdbsHFs2P0/mqdefault.jpg",
           "published_at": "2026-01-31T14:57:42Z",
           "url": "https://www.youtube.com/watch?v=BHdbsHFs2P0"
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "8HBDE-msUjw",
-          "title": "He Once Worked at Subway. At 58, He Solved An \"Impossible\" Problem",
+          "title": "We're 99.9% sure this pattern is true, but no one can prove it",
           "thumbnail": "https://i.ytimg.com/vi/8HBDE-msUjw/mqdefault.jpg",
           "published_at": "2026-06-14T15:18:45Z",
           "url": "https://www.youtube.com/watch?v=8HBDE-msUjw"
@@ -3724,6 +3724,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "VQC-uvC0b-g",
+          "title": "A Blitz Battle for the Ages || Magnus vs Nodirbek || FIDE World Blitz Team Championships 2026",
+          "thumbnail": "https://i.ytimg.com/vi/VQC-uvC0b-g/mqdefault.jpg",
+          "published_at": "2026-06-21T11:58:24Z",
+          "url": "https://www.youtube.com/watch?v=VQC-uvC0b-g"
+        },
+        {
           "id": "mZlndce9EmY",
           "title": "Viswanathan Anand (+Kasparov) vs Magnus Carlsen || FIDE World Blitz Team Championships 2026",
           "thumbnail": "https://i.ytimg.com/vi/mZlndce9EmY/mqdefault.jpg",
@@ -4065,13 +4072,6 @@
           "thumbnail": "https://i.ytimg.com/vi/zs774ife5ks/mqdefault.jpg",
           "published_at": "2026-05-17T11:41:40Z",
           "url": "https://www.youtube.com/watch?v=zs774ife5ks"
-        },
-        {
-          "id": "lHlI1ECftuc",
-          "title": "Annihilation || Bogdan-Daniel Deac vs Jorden van Foreest || Super Chess Classic Romania 2026",
-          "thumbnail": "https://i.ytimg.com/vi/lHlI1ECftuc/mqdefault.jpg",
-          "published_at": "2026-05-16T19:23:38Z",
-          "url": "https://www.youtube.com/watch?v=lHlI1ECftuc"
         }
       ]
     },
