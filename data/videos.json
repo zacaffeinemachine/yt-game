@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T10:31:27.740875+00:00",
+  "last_updated": "2026-06-23T08:22:58.774466+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -364,6 +364,13 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "mvcesPWvUIc",
+          "title": "Forensic Science Is Not As Accurate As You Think",
+          "thumbnail": "https://i.ytimg.com/vi/mvcesPWvUIc/mqdefault.jpg",
+          "published_at": "2026-06-22T14:40:50Z",
+          "url": "https://www.youtube.com/watch?v=mvcesPWvUIc"
+        },
+        {
           "id": "8HBDE-msUjw",
           "title": "We're 99.9% sure this pattern is true, but no one can prove it",
           "thumbnail": "https://i.ytimg.com/vi/8HBDE-msUjw/mqdefault.jpg",
@@ -705,13 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/24GfgNtnjXc/mqdefault.jpg",
           "published_at": "2024-12-01T11:19:12Z",
           "url": "https://www.youtube.com/watch?v=24GfgNtnjXc"
-        },
-        {
-          "id": "zTDFhWWPZ4Q",
-          "title": "What Actually Happened To Amelia Earhart?",
-          "thumbnail": "https://i.ytimg.com/vi/zTDFhWWPZ4Q/mqdefault.jpg",
-          "published_at": "2024-11-20T18:27:03Z",
-          "url": "https://www.youtube.com/watch?v=zTDFhWWPZ4Q"
         }
       ]
     },
@@ -908,6 +908,13 @@
           "thumbnail": "https://i.ytimg.com/vi/uKr6inHg9mc/mqdefault.jpg",
           "published_at": "2025-02-25T15:12:31Z",
           "url": "https://www.youtube.com/watch?v=uKr6inHg9mc"
+        },
+        {
+          "id": "CwrNgLU4KvE",
+          "title": "Om Jai Jagdish : The Revisit",
+          "thumbnail": "https://i.ytimg.com/vi/CwrNgLU4KvE/mqdefault.jpg",
+          "published_at": "2025-02-17T13:12:49Z",
+          "url": "https://www.youtube.com/watch?v=CwrNgLU4KvE"
         },
         {
           "id": "hVj2ektpj4M",
@@ -1125,13 +1132,6 @@
           "thumbnail": "https://i.ytimg.com/vi/U6BekDyWL08/mqdefault.jpg",
           "published_at": "2022-10-06T02:51:51Z",
           "url": "https://www.youtube.com/watch?v=U6BekDyWL08"
-        },
-        {
-          "id": "AP9ps3CUQds",
-          "title": "Hum Tumhare Hai Sanam : Revisit Extras",
-          "thumbnail": "https://i.ytimg.com/vi/AP9ps3CUQds/mqdefault.jpg",
-          "published_at": "2022-09-06T08:16:26Z",
-          "url": "https://www.youtube.com/watch?v=AP9ps3CUQds"
         }
       ]
     },
@@ -3724,6 +3724,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "mRjJiKoT_NM",
+          "title": "Chaos is Served! || Hans Niemann vs Ding Liren || FIDE World Blitz Team Championships 2026",
+          "thumbnail": "https://i.ytimg.com/vi/mRjJiKoT_NM/mqdefault.jpg",
+          "published_at": "2026-06-22T11:57:34Z",
+          "url": "https://www.youtube.com/watch?v=mRjJiKoT_NM"
+        },
+        {
           "id": "VQC-uvC0b-g",
           "title": "A Blitz Battle for the Ages || Magnus vs Nodirbek || FIDE World Blitz Team Championships 2026",
           "thumbnail": "https://i.ytimg.com/vi/VQC-uvC0b-g/mqdefault.jpg",
@@ -4065,13 +4072,6 @@
           "thumbnail": "https://i.ytimg.com/vi/OYuGHqvgKV0/mqdefault.jpg",
           "published_at": "2026-05-17T17:47:53Z",
           "url": "https://www.youtube.com/watch?v=OYuGHqvgKV0"
-        },
-        {
-          "id": "zs774ife5ks",
-          "title": "Everything To Win || Anish Giri vs Alireza Firouzja || Super Chess Classic Romania 2026",
-          "thumbnail": "https://i.ytimg.com/vi/zs774ife5ks/mqdefault.jpg",
-          "published_at": "2026-05-17T11:41:40Z",
-          "url": "https://www.youtube.com/watch?v=zs774ife5ks"
         }
       ]
     },
