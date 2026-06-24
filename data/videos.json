@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T08:22:58.774466+00:00",
+  "last_updated": "2026-06-24T08:17:28.275007+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "mvcesPWvUIc",
-          "title": "Forensic Science Is Not As Accurate As You Think",
+          "title": "The Problem With Fingerprint Analysis",
           "thumbnail": "https://i.ytimg.com/vi/mvcesPWvUIc/mqdefault.jpg",
           "published_at": "2026-06-22T14:40:50Z",
           "url": "https://www.youtube.com/watch?v=mvcesPWvUIc"
@@ -1855,6 +1855,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nYFWjG64F27JNXiQXMCKYB0umXlsvIxNxkHzaBByxxeDk=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "jl-rwZjdD3Y",
+          "title": "Can a $1,500 Battery Replace a Powerwall?",
+          "thumbnail": "https://i.ytimg.com/vi/jl-rwZjdD3Y/mqdefault.jpg",
+          "published_at": "2026-06-23T12:16:56Z",
+          "url": "https://www.youtube.com/watch?v=jl-rwZjdD3Y"
+        },
+        {
           "id": "j-C7A8kmJuQ",
           "title": "This 10\u00a2 Battery Turns Seawater Into Freshwater",
           "thumbnail": "https://i.ytimg.com/vi/j-C7A8kmJuQ/mqdefault.jpg",
@@ -2196,13 +2203,6 @@
           "thumbnail": "https://i.ytimg.com/vi/l1pxV7Nro34/mqdefault.jpg",
           "published_at": "2025-05-06T12:17:00Z",
           "url": "https://www.youtube.com/watch?v=l1pxV7Nro34"
-        },
-        {
-          "id": "-0rnORXGwpE",
-          "title": "The Strangest Battery Breakthrough Yet",
-          "thumbnail": "https://i.ytimg.com/vi/-0rnORXGwpE/mqdefault.jpg",
-          "published_at": "2025-04-22T12:16:51Z",
-          "url": "https://www.youtube.com/watch?v=-0rnORXGwpE"
         }
       ]
     },
@@ -4081,6 +4081,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "ieSaIGqFPVQ",
+          "title": "New Vegan vs Omnivore Oral Health Study Results",
+          "thumbnail": "https://i.ytimg.com/vi/ieSaIGqFPVQ/mqdefault.jpg",
+          "published_at": "2026-06-23T22:54:03Z",
+          "url": "https://www.youtube.com/watch?v=ieSaIGqFPVQ"
+        },
+        {
           "id": "J_BKZ8TqCx0",
           "title": "Are we \"Screwed?\"",
           "thumbnail": "https://i.ytimg.com/vi/J_BKZ8TqCx0/mqdefault.jpg",
@@ -4422,13 +4429,6 @@
           "thumbnail": "https://i.ytimg.com/vi/SedMVv5EqaM/mqdefault.jpg",
           "published_at": "2025-08-15T23:12:31Z",
           "url": "https://www.youtube.com/watch?v=SedMVv5EqaM"
-        },
-        {
-          "id": "mr5AWlBDLBM",
-          "title": "There is a Time When Calories Don't Count the Same?!",
-          "thumbnail": "https://i.ytimg.com/vi/mr5AWlBDLBM/mqdefault.jpg",
-          "published_at": "2025-08-08T23:30:10Z",
-          "url": "https://www.youtube.com/watch?v=mr5AWlBDLBM"
         }
       ]
     },
