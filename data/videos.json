@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T09:20:25.403723+00:00",
+  "last_updated": "2026-06-30T08:23:38.582645+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -784,6 +784,13 @@
       "thumbnail": "https://yt3.ggpht.com/2syNrbo0YVfXvAYIwA3hQ8jUFPTj3pyootPeForoT3ZDjfrFpCE3LUN5F-Tpn15t6KdYBvTu5sI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "jCeorIl1fu8",
+          "title": "Dil Ka Rishta : The Revisit",
+          "thumbnail": "https://i.ytimg.com/vi/jCeorIl1fu8/mqdefault.jpg",
+          "published_at": "2026-06-29T15:52:57Z",
+          "url": "https://www.youtube.com/watch?v=jCeorIl1fu8"
+        },
+        {
           "id": "wPHNr2e3whQ",
           "title": "Murder was a weird movie",
           "thumbnail": "https://i.ytimg.com/vi/wPHNr2e3whQ/mqdefault.jpg",
@@ -1125,13 +1132,6 @@
           "thumbnail": "https://i.ytimg.com/vi/orI5-8Qz2Io/mqdefault.jpg",
           "published_at": "2022-10-11T06:33:43Z",
           "url": "https://www.youtube.com/watch?v=orI5-8Qz2Io"
-        },
-        {
-          "id": "U6BekDyWL08",
-          "title": "Ajnabee : The Revisit",
-          "thumbnail": "https://i.ytimg.com/vi/U6BekDyWL08/mqdefault.jpg",
-          "published_at": "2022-10-06T02:51:51Z",
-          "url": "https://www.youtube.com/watch?v=U6BekDyWL08"
         }
       ]
     },
