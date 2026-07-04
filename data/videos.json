@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T07:53:47.676307+00:00",
+  "last_updated": "2026-07-04T07:35:21.517917+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3731,6 +3731,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "9cB30jPNIb8",
+          "title": "PERFECTION || Anish vs Praggnanandhaa || Super Rapid & Blitz Croatia 2026",
+          "thumbnail": "https://i.ytimg.com/vi/9cB30jPNIb8/mqdefault.jpg",
+          "published_at": "2026-07-03T18:50:13Z",
+          "url": "https://www.youtube.com/watch?v=9cB30jPNIb8"
+        },
+        {
+          "id": "qhEDEVl_Q0s",
+          "title": "It's about the King, Not The Queen! || Nodirbek vs Vincent || Super Rapid & Blitz Croatia 2026",
+          "thumbnail": "https://i.ytimg.com/vi/qhEDEVl_Q0s/mqdefault.jpg",
+          "published_at": "2026-07-03T09:59:03Z",
+          "url": "https://www.youtube.com/watch?v=qhEDEVl_Q0s"
+        },
+        {
           "id": "W1FoCthWl10",
           "title": "No One is Above The Endgame || Pragg vs Alireza || Super Rapid & Blitz Croatia 2026",
           "thumbnail": "https://i.ytimg.com/vi/W1FoCthWl10/mqdefault.jpg",
@@ -4065,20 +4079,6 @@
           "thumbnail": "https://i.ytimg.com/vi/tdQ8bXE5-Us/mqdefault.jpg",
           "published_at": "2026-05-27T20:11:53Z",
           "url": "https://www.youtube.com/watch?v=tdQ8bXE5-Us"
-        },
-        {
-          "id": "RarkivxexfQ",
-          "title": "The Prince and The World Champion || Gukesh vs Alireza || Norway Chess 2026",
-          "thumbnail": "https://i.ytimg.com/vi/RarkivxexfQ/mqdefault.jpg",
-          "published_at": "2026-05-27T19:22:37Z",
-          "url": "https://www.youtube.com/watch?v=RarkivxexfQ"
-        },
-        {
-          "id": "W78ittt4OA0",
-          "title": "Pure Chess Pleasure || Magnus vs Vincent || Norway Chess 2026",
-          "thumbnail": "https://i.ytimg.com/vi/W78ittt4OA0/mqdefault.jpg",
-          "published_at": "2026-05-27T08:58:32Z",
-          "url": "https://www.youtube.com/watch?v=W78ittt4OA0"
         }
       ]
     },
@@ -4087,6 +4087,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "OvznO8iEQkA",
+          "title": "The War on Oatmeal",
+          "thumbnail": "https://i.ytimg.com/vi/OvznO8iEQkA/mqdefault.jpg",
+          "published_at": "2026-07-04T00:43:31Z",
+          "url": "https://www.youtube.com/watch?v=OvznO8iEQkA"
+        },
         {
           "id": "-hKZPtJtdFQ",
           "title": "Can Vegans Win a Strength Competition Against Cocky Meat Eaters?",
@@ -4429,13 +4436,6 @@
           "thumbnail": "https://i.ytimg.com/vi/F5j8jH1Mavg/mqdefault.jpg",
           "published_at": "2025-08-29T23:45:25Z",
           "url": "https://www.youtube.com/watch?v=F5j8jH1Mavg"
-        },
-        {
-          "id": "um7PQ8ebdVs",
-          "title": "VO2 Maxxing for Longevity",
-          "thumbnail": "https://i.ytimg.com/vi/um7PQ8ebdVs/mqdefault.jpg",
-          "published_at": "2025-08-23T00:27:24Z",
-          "url": "https://www.youtube.com/watch?v=um7PQ8ebdVs"
         }
       ]
     },
