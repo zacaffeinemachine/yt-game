@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T08:13:20.974826+00:00",
+  "last_updated": "2026-07-08T07:21:48.854716+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -1855,6 +1855,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nYFWjG64F27JNXiQXMCKYB0umXlsvIxNxkHzaBByxxeDk=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "YjoOBTO6Gtg",
+          "title": "How IKEA-Style Wind Turbines Could Change Offshore Energy",
+          "thumbnail": "https://i.ytimg.com/vi/YjoOBTO6Gtg/mqdefault.jpg",
+          "published_at": "2026-07-07T12:16:49Z",
+          "url": "https://www.youtube.com/watch?v=YjoOBTO6Gtg"
+        },
+        {
           "id": "MuQRxatte5g",
           "title": "How the Super Soaker Inventor Just Killed the Steam Engine",
           "thumbnail": "https://i.ytimg.com/vi/MuQRxatte5g/mqdefault.jpg",
@@ -2196,13 +2203,6 @@
           "thumbnail": "https://i.ytimg.com/vi/hBfhd88DCZA/mqdefault.jpg",
           "published_at": "2025-05-20T12:16:46Z",
           "url": "https://www.youtube.com/watch?v=hBfhd88DCZA"
-        },
-        {
-          "id": "Bu_IcFpEkg0",
-          "title": "How Deep Sea Water is Now Drinkable",
-          "thumbnail": "https://i.ytimg.com/vi/Bu_IcFpEkg0/mqdefault.jpg",
-          "published_at": "2025-05-13T12:16:58Z",
-          "url": "https://www.youtube.com/watch?v=Bu_IcFpEkg0"
         }
       ]
     },
@@ -3374,6 +3374,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "Xf-uUy5pdUI",
+          "title": "What\u2019s It Like to Be Killed by Nature\u2019s Most Brutal Predator",
+          "thumbnail": "https://i.ytimg.com/vi/Xf-uUy5pdUI/mqdefault.jpg",
+          "published_at": "2026-07-07T14:00:16Z",
+          "url": "https://www.youtube.com/watch?v=Xf-uUy5pdUI"
+        },
+        {
           "id": "PqtggjVAi8M",
           "title": "How Are Memories Stored Inside Your Brain?",
           "thumbnail": "https://i.ytimg.com/vi/PqtggjVAi8M/mqdefault.jpg",
@@ -3715,13 +3722,6 @@
           "thumbnail": "https://i.ytimg.com/vi/GFLb5h2O2Ww/mqdefault.jpg",
           "published_at": "2024-06-25T14:00:01Z",
           "url": "https://www.youtube.com/watch?v=GFLb5h2O2Ww"
-        },
-        {
-          "id": "UebSfjmQNvs",
-          "title": "Do You Have a Free Will?",
-          "thumbnail": "https://i.ytimg.com/vi/UebSfjmQNvs/mqdefault.jpg",
-          "published_at": "2024-06-11T14:00:01Z",
-          "url": "https://www.youtube.com/watch?v=UebSfjmQNvs"
         }
       ]
     },
@@ -5069,7 +5069,7 @@
         },
         {
           "id": "ypnS87xv2hY",
-          "title": "The Insane Fish Situation in South Korea",
+          "title": "South Korea's fish situation is crazy",
           "thumbnail": "https://i.ytimg.com/vi/ypnS87xv2hY/mqdefault.jpg",
           "published_at": "2025-01-11T15:08:55Z",
           "url": "https://www.youtube.com/watch?v=ypnS87xv2hY"
