@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T08:22:38.165115+00:00",
+  "last_updated": "2026-07-10T08:14:47.266811+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3731,6 +3731,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "H40t7QxU1dg",
+          "title": "A Glorious Batlle || Nodirbek Abdusattorov vs Anish Giri || GCT Croatia 2026",
+          "thumbnail": "https://i.ytimg.com/vi/H40t7QxU1dg/mqdefault.jpg",
+          "published_at": "2026-07-09T13:28:52Z",
+          "url": "https://www.youtube.com/watch?v=H40t7QxU1dg"
+        },
+        {
           "id": "jdAGss71hrg",
           "title": "I HAVE RETURNED!",
           "thumbnail": "https://i.ytimg.com/vi/jdAGss71hrg/mqdefault.jpg",
@@ -4072,13 +4079,6 @@
           "thumbnail": "https://i.ytimg.com/vi/g5dtWbfXKHA/mqdefault.jpg",
           "published_at": "2026-05-29T12:18:08Z",
           "url": "https://www.youtube.com/watch?v=g5dtWbfXKHA"
-        },
-        {
-          "id": "GCUmcs_zIYs",
-          "title": "World Champions || Gukesh vs Magnus || Norway Chess 2026",
-          "thumbnail": "https://i.ytimg.com/vi/GCUmcs_zIYs/mqdefault.jpg",
-          "published_at": "2026-05-28T19:39:19Z",
-          "url": "https://www.youtube.com/watch?v=GCUmcs_zIYs"
         }
       ]
     },
