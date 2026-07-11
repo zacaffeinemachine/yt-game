@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T08:14:47.266811+00:00",
+  "last_updated": "2026-07-11T07:04:16.841865+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -442,7 +442,7 @@
         },
         {
           "id": "aoag03mSuXQ",
-          "title": "The Internet Was Weeks Away From Disaster and No One Knew",
+          "title": "The Internet Was Weeks Away From Disaster And No One Knew",
           "thumbnail": "https://i.ytimg.com/vi/aoag03mSuXQ/mqdefault.jpg",
           "published_at": "2026-02-25T20:28:23Z",
           "url": "https://www.youtube.com/watch?v=aoag03mSuXQ"
@@ -505,14 +505,14 @@
         },
         {
           "id": "HBluLfX2F_k",
-          "title": "You've (Likely) Been Playing The Game of Life Wrong",
+          "title": "You've (Likely) Been Playing The Game Of Life Wrong",
           "thumbnail": "https://i.ytimg.com/vi/HBluLfX2F_k/mqdefault.jpg",
           "published_at": "2025-11-26T21:45:00Z",
           "url": "https://www.youtube.com/watch?v=HBluLfX2F_k"
         },
         {
           "id": "QtxVdC7pBQM",
-          "title": "The Ridiculous Engineering of Jet Engines",
+          "title": "The Ridiculous Engineering Of Jet Engines",
           "thumbnail": "https://i.ytimg.com/vi/QtxVdC7pBQM/mqdefault.jpg",
           "published_at": "2025-11-17T07:58:31Z",
           "url": "https://www.youtube.com/watch?v=QtxVdC7pBQM"
@@ -526,7 +526,7 @@
         },
         {
           "id": "XX7PdJIGiCw",
-          "title": "The Most Controversial Idea in Biology",
+          "title": "The Most Controversial Idea In Biology",
           "thumbnail": "https://i.ytimg.com/vi/XX7PdJIGiCw/mqdefault.jpg",
           "published_at": "2025-10-31T22:42:09Z",
           "url": "https://www.youtube.com/watch?v=XX7PdJIGiCw"
@@ -3731,8 +3731,15 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "oCMmFiWeHs0",
+          "title": "World Champion Mentality || Volodar Murzin vs Arjun Erigaisi || 3+0 Thursday",
+          "thumbnail": "https://i.ytimg.com/vi/oCMmFiWeHs0/mqdefault.jpg",
+          "published_at": "2026-07-10T14:07:57Z",
+          "url": "https://www.youtube.com/watch?v=oCMmFiWeHs0"
+        },
+        {
           "id": "H40t7QxU1dg",
-          "title": "A Glorious Batlle || Nodirbek Abdusattorov vs Anish Giri || GCT Croatia 2026",
+          "title": "A Glorious Battle || Nodirbek Abdusattorov vs Anish Giri || GCT Croatia 2026",
           "thumbnail": "https://i.ytimg.com/vi/H40t7QxU1dg/mqdefault.jpg",
           "published_at": "2026-07-09T13:28:52Z",
           "url": "https://www.youtube.com/watch?v=H40t7QxU1dg"
@@ -4072,13 +4079,6 @@
           "thumbnail": "https://i.ytimg.com/vi/6jRaRjKyH3M/mqdefault.jpg",
           "published_at": "2026-05-29T19:28:31Z",
           "url": "https://www.youtube.com/watch?v=6jRaRjKyH3M"
-        },
-        {
-          "id": "g5dtWbfXKHA",
-          "title": "Hans vs Nepo || Belgrade Match 2026 || GAME 1",
-          "thumbnail": "https://i.ytimg.com/vi/g5dtWbfXKHA/mqdefault.jpg",
-          "published_at": "2026-05-29T12:18:08Z",
-          "url": "https://www.youtube.com/watch?v=g5dtWbfXKHA"
         }
       ]
     },
@@ -4087,6 +4087,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "DVDFMs2jsjo",
+          "title": "Biohacker Bryan Johnson's New Disease from Vegan Diet?",
+          "thumbnail": "https://i.ytimg.com/vi/DVDFMs2jsjo/mqdefault.jpg",
+          "published_at": "2026-07-10T23:02:39Z",
+          "url": "https://www.youtube.com/watch?v=DVDFMs2jsjo"
+        },
         {
           "id": "OvznO8iEQkA",
           "title": "The War on Oatmeal vs The Science on Oatmeal",
@@ -4429,13 +4436,6 @@
           "thumbnail": "https://i.ytimg.com/vi/A7w23byVTGk/mqdefault.jpg",
           "published_at": "2025-09-06T00:25:23Z",
           "url": "https://www.youtube.com/watch?v=A7w23byVTGk"
-        },
-        {
-          "id": "F5j8jH1Mavg",
-          "title": "Andrew Huberman Gets Schooled by Researcher on Vegan Nutrition",
-          "thumbnail": "https://i.ytimg.com/vi/F5j8jH1Mavg/mqdefault.jpg",
-          "published_at": "2025-08-29T23:45:25Z",
-          "url": "https://www.youtube.com/watch?v=F5j8jH1Mavg"
         }
       ]
     },
@@ -4444,6 +4444,13 @@
       "name": "Shivam Nandi | Critical Thinking Space",
       "thumbnail": "https://yt3.ggpht.com/LFpn27KHrUL3n0iCnEpHQrTSjN0TaCkt8_snLT7IdfvFu_OWLfJCu1jdefNoxwhlysdwEz2w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "KVeXmd5UzGI",
+          "title": "I Couldn't Finish a Single Philosophy Book \u2014 Turns Out I Was Starting Wrong",
+          "thumbnail": "https://i.ytimg.com/vi/KVeXmd5UzGI/mqdefault.jpg",
+          "published_at": "2026-07-11T06:21:45Z",
+          "url": "https://www.youtube.com/watch?v=KVeXmd5UzGI"
+        },
         {
           "id": "KtQpV36d9es",
           "title": "Feminist Destroys Conservative Guy in Debate \u2014 Logic vs Ego Breakdown",
@@ -4786,13 +4793,6 @@
           "thumbnail": "https://i.ytimg.com/vi/310qzkev68M/mqdefault.jpg",
           "published_at": "2024-09-21T04:45:00Z",
           "url": "https://www.youtube.com/watch?v=310qzkev68M"
-        },
-        {
-          "id": "_tFzN8afaLI",
-          "title": "Can a poor person become Vegan? | Most Nuanced Answer on Youtube | with @LogicalAayaam",
-          "thumbnail": "https://i.ytimg.com/vi/_tFzN8afaLI/mqdefault.jpg",
-          "published_at": "2024-09-14T04:45:03Z",
-          "url": "https://www.youtube.com/watch?v=_tFzN8afaLI"
         }
       ]
     },
