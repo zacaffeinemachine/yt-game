@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T08:01:10.989008+00:00",
+  "last_updated": "2026-07-14T07:01:45.603556+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -784,6 +784,13 @@
       "thumbnail": "https://yt3.ggpht.com/2syNrbo0YVfXvAYIwA3hQ8jUFPTj3pyootPeForoT3ZDjfrFpCE3LUN5F-Tpn15t6KdYBvTu5sI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "PfxJB7JTPWs",
+          "title": "A propaganda (Dil Ka Rishta)",
+          "thumbnail": "https://i.ytimg.com/vi/PfxJB7JTPWs/mqdefault.jpg",
+          "published_at": "2026-07-13T14:12:27Z",
+          "url": "https://www.youtube.com/watch?v=PfxJB7JTPWs"
+        },
+        {
           "id": "jCeorIl1fu8",
           "title": "Dil Ka Rishta : The Revisit",
           "thumbnail": "https://i.ytimg.com/vi/jCeorIl1fu8/mqdefault.jpg",
@@ -1125,13 +1132,6 @@
           "thumbnail": "https://i.ytimg.com/vi/yducb2sOYwQ/mqdefault.jpg",
           "published_at": "2022-10-28T07:55:50Z",
           "url": "https://www.youtube.com/watch?v=yducb2sOYwQ"
-        },
-        {
-          "id": "orI5-8Qz2Io",
-          "title": "Ajnabee : Revisit Extras",
-          "thumbnail": "https://i.ytimg.com/vi/orI5-8Qz2Io/mqdefault.jpg",
-          "published_at": "2022-10-11T06:33:43Z",
-          "url": "https://www.youtube.com/watch?v=orI5-8Qz2Io"
         }
       ]
     },
@@ -3298,7 +3298,7 @@
       "videos": [
         {
           "id": "4Tz3kj8RgPg",
-          "title": "Why Being a Renaissance Queen SUCKS",
+          "title": "Why Being a Renaissance Queen SUCKS (18+ Version) | History Nugget",
           "thumbnail": "https://i.ytimg.com/vi/4Tz3kj8RgPg/mqdefault.jpg",
           "published_at": "2026-06-30T14:00:04Z",
           "url": "https://www.youtube.com/watch?v=4Tz3kj8RgPg"
@@ -3731,6 +3731,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "rPIPYby-zko",
+          "title": "Test Your Might! || Jos\u00e9 Mart\u00ednez vs Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f || Biel Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/rPIPYby-zko/mqdefault.jpg",
+          "published_at": "2026-07-13T17:13:12Z",
+          "url": "https://www.youtube.com/watch?v=rPIPYby-zko"
+        },
+        {
+          "id": "H7uJj-TUIeI",
+          "title": "No One Speaks French! || Levon Aronian vs Matthias Bl\u00fcbaum || Biel Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/H7uJj-TUIeI/mqdefault.jpg",
+          "published_at": "2026-07-13T11:23:32Z",
+          "url": "https://www.youtube.com/watch?v=H7uJj-TUIeI"
+        },
+        {
           "id": "4vbbQ3W70w0",
           "title": "The Moment Hope Disappeared || Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f vs Levon Aronian || Biel Chess Festival 2026",
           "thumbnail": "https://i.ytimg.com/vi/4vbbQ3W70w0/mqdefault.jpg",
@@ -4065,20 +4079,6 @@
           "thumbnail": "https://i.ytimg.com/vi/IiPzPa1Yf2U/mqdefault.jpg",
           "published_at": "2026-06-03T12:34:57Z",
           "url": "https://www.youtube.com/watch?v=IiPzPa1Yf2U"
-        },
-        {
-          "id": "G2B5bvY2DhE",
-          "title": "He is The One! || Magnus vs Praggnanandhaa || Norway Chess 2026",
-          "thumbnail": "https://i.ytimg.com/vi/G2B5bvY2DhE/mqdefault.jpg",
-          "published_at": "2026-06-02T20:20:50Z",
-          "url": "https://www.youtube.com/watch?v=G2B5bvY2DhE"
-        },
-        {
-          "id": "cBUXbzO2ob0",
-          "title": "Not Interested in Draws || Praggnanandhaa vs Alireza  || Norway Chess 2026",
-          "thumbnail": "https://i.ytimg.com/vi/cBUXbzO2ob0/mqdefault.jpg",
-          "published_at": "2026-06-01T20:33:15Z",
-          "url": "https://www.youtube.com/watch?v=cBUXbzO2ob0"
         }
       ]
     },
