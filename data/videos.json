@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T07:04:54.193614+00:00",
+  "last_updated": "2026-07-16T07:13:43.141618+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -2940,6 +2940,13 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "xV82vkJ5Pjw",
+          "title": "Why Is There (Almost) No McDonald\u2018s in Africa?",
+          "thumbnail": "https://i.ytimg.com/vi/xV82vkJ5Pjw/mqdefault.jpg",
+          "published_at": "2026-07-15T15:22:56Z",
+          "url": "https://www.youtube.com/watch?v=xV82vkJ5Pjw"
+        },
+        {
           "id": "EkLmxmUfgBU",
           "title": "Inside the Dark World of Poker Cheating",
           "thumbnail": "https://i.ytimg.com/vi/EkLmxmUfgBU/mqdefault.jpg",
@@ -3281,13 +3288,6 @@
           "thumbnail": "https://i.ytimg.com/vi/X9BblS3qGaU/mqdefault.jpg",
           "published_at": "2025-07-18T16:45:53Z",
           "url": "https://www.youtube.com/watch?v=X9BblS3qGaU"
-        },
-        {
-          "id": "ZhfI0EboPU0",
-          "title": "Russia\u2019s Most Wanted Hackers",
-          "thumbnail": "https://i.ytimg.com/vi/ZhfI0EboPU0/mqdefault.jpg",
-          "published_at": "2025-07-11T13:01:11Z",
-          "url": "https://www.youtube.com/watch?v=ZhfI0EboPU0"
         }
       ]
     },
@@ -3731,6 +3731,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "_AjcPJhYOac",
+          "title": "The Kaan Effect? || Levon Aronian vs Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f || Biel Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/_AjcPJhYOac/mqdefault.jpg",
+          "published_at": "2026-07-15T18:10:23Z",
+          "url": "https://www.youtube.com/watch?v=_AjcPJhYOac"
+        },
+        {
+          "id": "-SQxIPpai5s",
+          "title": "Every Game is A Thriller || Matthias Bl\u00fcbaum vs Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f || Biel Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/-SQxIPpai5s/mqdefault.jpg",
+          "published_at": "2026-07-15T11:24:50Z",
+          "url": "https://www.youtube.com/watch?v=-SQxIPpai5s"
+        },
+        {
           "id": "inKqXFelIXI",
           "title": "Classical is King! || Jos\u00e9 Mart\u00ednez vs Liem Le || Biel Chess Festival 2026",
           "thumbnail": "https://i.ytimg.com/vi/inKqXFelIXI/mqdefault.jpg",
@@ -4065,20 +4079,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Bm7dlvKlY7U/mqdefault.jpg",
           "published_at": "2026-06-05T10:50:45Z",
           "url": "https://www.youtube.com/watch?v=Bm7dlvKlY7U"
-        },
-        {
-          "id": "WYYYs9D3KuM",
-          "title": "Romantic Chess Making a Comeback! || Gukesh vs Praggnanandhaa || Norway Chess 2026",
-          "thumbnail": "https://i.ytimg.com/vi/WYYYs9D3KuM/mqdefault.jpg",
-          "published_at": "2026-06-04T19:34:13Z",
-          "url": "https://www.youtube.com/watch?v=WYYYs9D3KuM"
-        },
-        {
-          "id": "yvggy6LI2OY",
-          "title": "Lotus Chess June Arena - lichess.org",
-          "thumbnail": "https://i.ytimg.com/vi/yvggy6LI2OY/mqdefault.jpg",
-          "published_at": "2026-06-03T18:39:57Z",
-          "url": "https://www.youtube.com/watch?v=yvggy6LI2OY"
         }
       ]
     },
