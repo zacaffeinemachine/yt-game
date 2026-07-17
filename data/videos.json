@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-07-16T07:13:43.141618+00:00",
+  "last_updated": "2026-07-17T07:08:34.951028+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
       "name": "3Blue1Brown",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "GlYgs6v2YfU",
+          "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+          "thumbnail": "https://i.ytimg.com/vi/GlYgs6v2YfU/mqdefault.jpg",
+          "published_at": "2026-07-16T11:56:04Z",
+          "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU"
+        },
         {
           "id": "l6DKRf-fAAM",
           "title": "Reinventing Entropy | Compression is Intelligence Part 1",
@@ -348,13 +355,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ojjzXyQCzso/mqdefault.jpg",
           "published_at": "2021-07-16T18:39:08Z",
           "url": "https://www.youtube.com/watch?v=ojjzXyQCzso"
-        },
-        {
-          "id": "e50Bj7jn9IQ",
-          "title": "A quick trick for computing eigenvalues | Chapter 15, Essence of linear algebra",
-          "thumbnail": "https://i.ytimg.com/vi/e50Bj7jn9IQ/mqdefault.jpg",
-          "published_at": "2021-05-07T21:39:22Z",
-          "url": "https://www.youtube.com/watch?v=e50Bj7jn9IQ"
         }
       ]
     },
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "GK2pZ_oVU1o",
-          "title": "The Scariest Chart In Electrical Engineering",
+          "title": "The Scariest Chart in Electrical Engineering",
           "thumbnail": "https://i.ytimg.com/vi/GK2pZ_oVU1o/mqdefault.jpg",
           "published_at": "2026-07-14T18:03:28Z",
           "url": "https://www.youtube.com/watch?v=GK2pZ_oVU1o"
@@ -505,7 +505,7 @@
         },
         {
           "id": "Y-W-w8yNiKU",
-          "title": "Weird Things Happen When Energy Goes Negative",
+          "title": "Understanding The Most Beautiful Equation In Physics",
           "thumbnail": "https://i.ytimg.com/vi/Y-W-w8yNiKU/mqdefault.jpg",
           "published_at": "2025-12-05T09:47:19Z",
           "url": "https://www.youtube.com/watch?v=Y-W-w8yNiKU"
@@ -2226,6 +2226,13 @@
       "thumbnail": "https://yt3.ggpht.com/UA49UqXeNmPQQpfO41F9aFiAzJjCQETaPHCGbJrjW4u9snhqGIQyskZPK99hrhk0Ur9AoMTFVw=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "yG3NIaZT7YM",
+          "title": "Just 13 SECONDS made the difference!? | USAir 405",
+          "thumbnail": "https://i.ytimg.com/vi/yG3NIaZT7YM/mqdefault.jpg",
+          "published_at": "2026-07-16T20:10:26Z",
+          "url": "https://www.youtube.com/watch?v=yG3NIaZT7YM"
+        },
+        {
           "id": "oweeXH4f81s",
           "title": "Total confusion! | Air China 129",
           "thumbnail": "https://i.ytimg.com/vi/oweeXH4f81s/mqdefault.jpg",
@@ -2567,13 +2574,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dVDOenE761Q/mqdefault.jpg",
           "published_at": "2023-01-22T22:37:22Z",
           "url": "https://www.youtube.com/watch?v=dVDOenE761Q"
-        },
-        {
-          "id": "D35CfoDc9ps",
-          "title": "SECONDS after takeoff | Air Florida flight 90",
-          "thumbnail": "https://i.ytimg.com/vi/D35CfoDc9ps/mqdefault.jpg",
-          "published_at": "2023-01-07T14:05:49Z",
-          "url": "https://www.youtube.com/watch?v=D35CfoDc9ps"
         }
       ]
     },
@@ -2941,7 +2941,7 @@
       "videos": [
         {
           "id": "xV82vkJ5Pjw",
-          "title": "Why Is There (Almost) No McDonald\u2018s in Africa?",
+          "title": "Why Is McDonald's Failing in Africa?",
           "thumbnail": "https://i.ytimg.com/vi/xV82vkJ5Pjw/mqdefault.jpg",
           "published_at": "2026-07-15T15:22:56Z",
           "url": "https://www.youtube.com/watch?v=xV82vkJ5Pjw"
@@ -3731,6 +3731,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "B1tNfrLnll4",
+          "title": "Lotus Chess July Arena - lichess.org",
+          "thumbnail": "https://i.ytimg.com/vi/B1tNfrLnll4/mqdefault.jpg",
+          "published_at": "2026-07-16T18:43:37Z",
+          "url": "https://www.youtube.com/watch?v=B1tNfrLnll4"
+        },
+        {
+          "id": "MT0IDMea4yM",
+          "title": "Executed to Perfection! || Liem Le vs Matthias Bl\u00fcbaum || Biel Chess Festival 2026",
+          "thumbnail": "https://i.ytimg.com/vi/MT0IDMea4yM/mqdefault.jpg",
+          "published_at": "2026-07-16T11:36:35Z",
+          "url": "https://www.youtube.com/watch?v=MT0IDMea4yM"
+        },
+        {
           "id": "_AjcPJhYOac",
           "title": "The Kaan Effect? || Levon Aronian vs Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f || Biel Chess Festival 2026",
           "thumbnail": "https://i.ytimg.com/vi/_AjcPJhYOac/mqdefault.jpg",
@@ -4065,20 +4079,6 @@
           "thumbnail": "https://i.ytimg.com/vi/n4tYk_s517E/mqdefault.jpg",
           "published_at": "2026-06-06T11:00:10Z",
           "url": "https://www.youtube.com/watch?v=n4tYk_s517E"
-        },
-        {
-          "id": "wZoeDgQEjvE",
-          "title": "The Actual Chosen One || Praggnanandhaa vs Vincent || Norway Chess 2026",
-          "thumbnail": "https://i.ytimg.com/vi/wZoeDgQEjvE/mqdefault.jpg",
-          "published_at": "2026-06-05T19:57:51Z",
-          "url": "https://www.youtube.com/watch?v=wZoeDgQEjvE"
-        },
-        {
-          "id": "Bm7dlvKlY7U",
-          "title": "\"Never Play f6\" || Wesley vs Magnus || Norway Chess 2026",
-          "thumbnail": "https://i.ytimg.com/vi/Bm7dlvKlY7U/mqdefault.jpg",
-          "published_at": "2026-06-05T10:50:45Z",
-          "url": "https://www.youtube.com/watch?v=Bm7dlvKlY7U"
         }
       ]
     },
