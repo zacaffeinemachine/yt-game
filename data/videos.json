@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T07:08:34.951028+00:00",
+  "last_updated": "2026-07-18T06:51:48.451339+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -435,7 +435,7 @@
         },
         {
           "id": "9szhjhO9epA",
-          "title": "Making A Giant Zipper To Explain How They Work",
+          "title": "We Made A Giant Zipper To Explain How It Works",
           "thumbnail": "https://i.ytimg.com/vi/9szhjhO9epA/mqdefault.jpg",
           "published_at": "2026-03-19T21:12:24Z",
           "url": "https://www.youtube.com/watch?v=9szhjhO9epA"
@@ -645,7 +645,7 @@
         },
         {
           "id": "qJZ1Ez28C-A",
-          "title": "Something Strange Happens When You Trust Quantum Mechanics",
+          "title": "The Strangest Implication of Quantum Mechanics",
           "thumbnail": "https://i.ytimg.com/vi/qJZ1Ez28C-A/mqdefault.jpg",
           "published_at": "2025-03-05T02:22:56Z",
           "url": "https://www.youtube.com/watch?v=qJZ1Ez28C-A"
@@ -2962,7 +2962,7 @@
         },
         {
           "id": "5pO-MTDW6nU",
-          "title": "Why Putin Is So Hard to Kill",
+          "title": "How Putin Can Survive Anything",
           "thumbnail": "https://i.ytimg.com/vi/5pO-MTDW6nU/mqdefault.jpg",
           "published_at": "2026-06-24T16:56:32Z",
           "url": "https://www.youtube.com/watch?v=5pO-MTDW6nU"
@@ -3731,6 +3731,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "6pjRglwj0Gw",
+          "title": "World Champion vs The Chosen One || Chennai Grand Masters 2026",
+          "thumbnail": "https://i.ytimg.com/vi/6pjRglwj0Gw/mqdefault.jpg",
+          "published_at": "2026-07-17T14:28:40Z",
+          "url": "https://www.youtube.com/watch?v=6pjRglwj0Gw"
+        },
+        {
+          "id": "4CDE-bafq7Q",
+          "title": "2800 Power || Pranesh vs Alireza || Chennai Grand Masters 2026",
+          "thumbnail": "https://i.ytimg.com/vi/4CDE-bafq7Q/mqdefault.jpg",
+          "published_at": "2026-07-17T09:57:41Z",
+          "url": "https://www.youtube.com/watch?v=4CDE-bafq7Q"
+        },
+        {
           "id": "B1tNfrLnll4",
           "title": "Lotus Chess July Arena - lichess.org",
           "thumbnail": "https://i.ytimg.com/vi/B1tNfrLnll4/mqdefault.jpg",
@@ -4065,20 +4079,6 @@
           "thumbnail": "https://i.ytimg.com/vi/fwkE1ftSkhM/mqdefault.jpg",
           "published_at": "2026-06-07T14:30:44Z",
           "url": "https://www.youtube.com/watch?v=fwkE1ftSkhM"
-        },
-        {
-          "id": "qsIkN_Z4GAA",
-          "title": "Hans vs Nepo || Belgrade Match 2026 || GAME 8 (+drama)",
-          "thumbnail": "https://i.ytimg.com/vi/qsIkN_Z4GAA/mqdefault.jpg",
-          "published_at": "2026-06-07T11:11:21Z",
-          "url": "https://www.youtube.com/watch?v=qsIkN_Z4GAA"
-        },
-        {
-          "id": "n4tYk_s517E",
-          "title": "A Game Worthy Of World Champions || Magnus vs Gukesh || Norway Chess 2026",
-          "thumbnail": "https://i.ytimg.com/vi/n4tYk_s517E/mqdefault.jpg",
-          "published_at": "2026-06-06T11:00:10Z",
-          "url": "https://www.youtube.com/watch?v=n4tYk_s517E"
         }
       ]
     },
@@ -4087,6 +4087,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "Ib-8sucYHGE",
+          "title": "Does Nattokinase Really Shrink Artery Plaque?",
+          "thumbnail": "https://i.ytimg.com/vi/Ib-8sucYHGE/mqdefault.jpg",
+          "published_at": "2026-07-18T00:18:21Z",
+          "url": "https://www.youtube.com/watch?v=Ib-8sucYHGE"
+        },
         {
           "id": "DVDFMs2jsjo",
           "title": "Biohacker Bryan Johnson's New Disease from Vegan Diet?",
@@ -4429,13 +4436,6 @@
           "thumbnail": "https://i.ytimg.com/vi/AYXXUU79xPE/mqdefault.jpg",
           "published_at": "2025-09-09T22:07:33Z",
           "url": "https://www.youtube.com/watch?v=AYXXUU79xPE"
-        },
-        {
-          "id": "A7w23byVTGk",
-          "title": "New Study: Psychedelics Increase Lifespan?",
-          "thumbnail": "https://i.ytimg.com/vi/A7w23byVTGk/mqdefault.jpg",
-          "published_at": "2025-09-06T00:25:23Z",
-          "url": "https://www.youtube.com/watch?v=A7w23byVTGk"
         }
       ]
     },
