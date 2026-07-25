@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T07:24:03.870476+00:00",
+  "last_updated": "2026-07-25T07:08:17.247138+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -791,13 +791,6 @@
           "url": "https://www.youtube.com/watch?v=PfxJB7JTPWs"
         },
         {
-          "id": "jCeorIl1fu8",
-          "title": "Dil Ka Rishta : The Revisit",
-          "thumbnail": "https://i.ytimg.com/vi/jCeorIl1fu8/mqdefault.jpg",
-          "published_at": "2026-06-29T15:52:57Z",
-          "url": "https://www.youtube.com/watch?v=jCeorIl1fu8"
-        },
-        {
           "id": "wPHNr2e3whQ",
           "title": "Murder was a weird movie",
           "thumbnail": "https://i.ytimg.com/vi/wPHNr2e3whQ/mqdefault.jpg",
@@ -1132,6 +1125,13 @@
           "thumbnail": "https://i.ytimg.com/vi/yducb2sOYwQ/mqdefault.jpg",
           "published_at": "2022-10-28T07:55:50Z",
           "url": "https://www.youtube.com/watch?v=yducb2sOYwQ"
+        },
+        {
+          "id": "orI5-8Qz2Io",
+          "title": "Ajnabee : Revisit Extras",
+          "thumbnail": "https://i.ytimg.com/vi/orI5-8Qz2Io/mqdefault.jpg",
+          "published_at": "2022-10-11T06:33:43Z",
+          "url": "https://www.youtube.com/watch?v=orI5-8Qz2Io"
         }
       ]
     },
@@ -2948,7 +2948,7 @@
         },
         {
           "id": "xV82vkJ5Pjw",
-          "title": "Why Most of Africa Rejected McDonald\u2019s",
+          "title": "Why McDonald\u2019s Never Conquered Africa",
           "thumbnail": "https://i.ytimg.com/vi/xV82vkJ5Pjw/mqdefault.jpg",
           "published_at": "2026-07-15T15:22:56Z",
           "url": "https://www.youtube.com/watch?v=xV82vkJ5Pjw"
@@ -3738,6 +3738,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "ZbXwH8Cy-T4",
+          "title": "A Norwegian - But A Different One || Ian Nepomniachtchi vs Aksel Bu Kval\u00f8y || Dole Open 2026",
+          "thumbnail": "https://i.ytimg.com/vi/ZbXwH8Cy-T4/mqdefault.jpg",
+          "published_at": "2026-07-24T13:54:36Z",
+          "url": "https://www.youtube.com/watch?v=ZbXwH8Cy-T4"
+        },
+        {
           "id": "kJ5tRqm_Sdg",
           "title": "The 2900 Winning Move || L\u00ea Quang Li\u00eam vs Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f || Biel Chess Festival 2026",
           "thumbnail": "https://i.ytimg.com/vi/kJ5tRqm_Sdg/mqdefault.jpg",
@@ -4079,13 +4086,6 @@
           "thumbnail": "https://i.ytimg.com/vi/i-kYjsgus5Q/mqdefault.jpg",
           "published_at": "2026-06-14T13:08:18Z",
           "url": "https://www.youtube.com/watch?v=i-kYjsgus5Q"
-        },
-        {
-          "id": "S9a7Dxli1s8",
-          "title": "Shades of 2800 || Nikolas Theodorou vs Shakhriyar Mamedyarov || UzChess Cup 2026",
-          "thumbnail": "https://i.ytimg.com/vi/S9a7Dxli1s8/mqdefault.jpg",
-          "published_at": "2026-06-13T18:42:48Z",
-          "url": "https://www.youtube.com/watch?v=S9a7Dxli1s8"
         }
       ]
     },
@@ -4094,6 +4094,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "NCJDorIdwhg",
+          "title": "Unbelievable Cancer Survival in Whole Food Vegan Subjects",
+          "thumbnail": "https://i.ytimg.com/vi/NCJDorIdwhg/mqdefault.jpg",
+          "published_at": "2026-07-24T22:52:57Z",
+          "url": "https://www.youtube.com/watch?v=NCJDorIdwhg"
+        },
         {
           "id": "Ib-8sucYHGE",
           "title": "Does Nattokinase Really Shrink Artery Plaque?",
@@ -4436,13 +4443,6 @@
           "thumbnail": "https://i.ytimg.com/vi/AAHuvnQ8BwM/mqdefault.jpg",
           "published_at": "2025-09-12T23:58:32Z",
           "url": "https://www.youtube.com/watch?v=AAHuvnQ8BwM"
-        },
-        {
-          "id": "AYXXUU79xPE",
-          "title": "Are Prebiotic Sodas Like OLIPOP Healthy?",
-          "thumbnail": "https://i.ytimg.com/vi/AYXXUU79xPE/mqdefault.jpg",
-          "published_at": "2025-09-09T22:07:33Z",
-          "url": "https://www.youtube.com/watch?v=AYXXUU79xPE"
         }
       ]
     },
