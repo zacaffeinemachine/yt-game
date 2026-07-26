@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T07:08:17.247138+00:00",
+  "last_updated": "2026-07-26T07:29:15.460898+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -364,6 +364,13 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "tL9Lw250spc",
+          "title": "Why does every mammal get 1 billion heartbeats in their life?",
+          "thumbnail": "https://i.ytimg.com/vi/tL9Lw250spc/mqdefault.jpg",
+          "published_at": "2026-07-25T17:29:09Z",
+          "url": "https://www.youtube.com/watch?v=tL9Lw250spc"
+        },
+        {
           "id": "GK2pZ_oVU1o",
           "title": "The Scariest Chart in Electrical Engineering",
           "thumbnail": "https://i.ytimg.com/vi/GK2pZ_oVU1o/mqdefault.jpg",
@@ -705,13 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/rjXZzB5bUAo/mqdefault.jpg",
           "published_at": "2024-12-19T18:40:28Z",
           "url": "https://www.youtube.com/watch?v=rjXZzB5bUAo"
-        },
-        {
-          "id": "IFaAjR_RRJs",
-          "title": "34 Years Of Strandbeest Evolution",
-          "thumbnail": "https://i.ytimg.com/vi/IFaAjR_RRJs/mqdefault.jpg",
-          "published_at": "2024-12-07T00:58:14Z",
-          "url": "https://www.youtube.com/watch?v=IFaAjR_RRJs"
         }
       ]
     },
@@ -1142,7 +1142,7 @@
       "videos": [
         {
           "id": "3_pf34T4In0",
-          "title": "What 30 Years of Internet Did to Humans",
+          "title": "The Internet Is Running an Experiment on Your Brain",
           "thumbnail": "https://i.ytimg.com/vi/3_pf34T4In0/mqdefault.jpg",
           "published_at": "2026-07-23T05:00:22Z",
           "url": "https://www.youtube.com/watch?v=3_pf34T4In0"
@@ -3298,7 +3298,7 @@
       "videos": [
         {
           "id": "Qv5qQu0yMaU",
-          "title": "That One Time We Went to War Against Giant Birds",
+          "title": "The Most Ridiculous War Humans Ever Fought",
           "thumbnail": "https://i.ytimg.com/vi/Qv5qQu0yMaU/mqdefault.jpg",
           "published_at": "2026-07-21T14:00:12Z",
           "url": "https://www.youtube.com/watch?v=Qv5qQu0yMaU"
@@ -3738,6 +3738,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "2Mc2JIWaqoE",
+          "title": "Chess is Eternal || Leon Luke Mendonca vs Ido Gorshtein || Dole Open 2026",
+          "thumbnail": "https://i.ytimg.com/vi/2Mc2JIWaqoE/mqdefault.jpg",
+          "published_at": "2026-07-25T14:26:21Z",
+          "url": "https://www.youtube.com/watch?v=2Mc2JIWaqoE"
+        },
+        {
           "id": "ZbXwH8Cy-T4",
           "title": "A Norwegian - But A Different One || Ian Nepomniachtchi vs Aksel Bu Kval\u00f8y || Dole Open 2026",
           "thumbnail": "https://i.ytimg.com/vi/ZbXwH8Cy-T4/mqdefault.jpg",
@@ -4079,13 +4086,6 @@
           "thumbnail": "https://i.ytimg.com/vi/oHaIuFWRUbM/mqdefault.jpg",
           "published_at": "2026-06-14T19:00:28Z",
           "url": "https://www.youtube.com/watch?v=oHaIuFWRUbM"
-        },
-        {
-          "id": "i-kYjsgus5Q",
-          "title": "\"He Premoved an Entire Classical Game\" || Nepo vs Hans || UzChess Cup 2026",
-          "thumbnail": "https://i.ytimg.com/vi/i-kYjsgus5Q/mqdefault.jpg",
-          "published_at": "2026-06-14T13:08:18Z",
-          "url": "https://www.youtube.com/watch?v=i-kYjsgus5Q"
         }
       ]
     },
