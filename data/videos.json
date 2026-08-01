@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T07:43:35.935309+00:00",
+  "last_updated": "2026-08-01T07:22:28.933846+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -2226,6 +2226,13 @@
       "thumbnail": "https://yt3.ggpht.com/UA49UqXeNmPQQpfO41F9aFiAzJjCQETaPHCGbJrjW4u9snhqGIQyskZPK99hrhk0Ur9AoMTFVw=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "QkdWNzsPJ9U",
+          "title": "The Horrifying story of Delta Flight 1080",
+          "thumbnail": "https://i.ytimg.com/vi/QkdWNzsPJ9U/mqdefault.jpg",
+          "published_at": "2026-08-01T02:45:45Z",
+          "url": "https://www.youtube.com/watch?v=QkdWNzsPJ9U"
+        },
+        {
           "id": "yG3NIaZT7YM",
           "title": "Shocking failure | USAir 405",
           "thumbnail": "https://i.ytimg.com/vi/yG3NIaZT7YM/mqdefault.jpg",
@@ -2567,13 +2574,6 @@
           "thumbnail": "https://i.ytimg.com/vi/aBbR0Z1KXoQ/mqdefault.jpg",
           "published_at": "2023-02-09T01:31:07Z",
           "url": "https://www.youtube.com/watch?v=aBbR0Z1KXoQ"
-        },
-        {
-          "id": "dVDOenE761Q",
-          "title": "Plane SNAPS in half over the ocean | The REAL story of South African 295",
-          "thumbnail": "https://i.ytimg.com/vi/dVDOenE761Q/mqdefault.jpg",
-          "published_at": "2023-01-22T22:37:22Z",
-          "url": "https://www.youtube.com/watch?v=dVDOenE761Q"
         }
       ]
     },
@@ -4095,6 +4095,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "3vntGhFNqvM",
+          "title": "New Heavy Metal Analysis Results on Vegans vs Omnivores",
+          "thumbnail": "https://i.ytimg.com/vi/3vntGhFNqvM/mqdefault.jpg",
+          "published_at": "2026-07-31T22:38:00Z",
+          "url": "https://www.youtube.com/watch?v=3vntGhFNqvM"
+        },
+        {
           "id": "NCJDorIdwhg",
           "title": "Unbelievable Cancer Survival in Whole Food Vegan Subjects",
           "thumbnail": "https://i.ytimg.com/vi/NCJDorIdwhg/mqdefault.jpg",
@@ -4436,13 +4443,6 @@
           "thumbnail": "https://i.ytimg.com/vi/E4cxvw0xYOc/mqdefault.jpg",
           "published_at": "2025-09-19T22:53:40Z",
           "url": "https://www.youtube.com/watch?v=E4cxvw0xYOc"
-        },
-        {
-          "id": "AAHuvnQ8BwM",
-          "title": "Dr. Mike Israetel: \"In the End the Vegans Win\" But...",
-          "thumbnail": "https://i.ytimg.com/vi/AAHuvnQ8BwM/mqdefault.jpg",
-          "published_at": "2025-09-12T23:58:32Z",
-          "url": "https://www.youtube.com/watch?v=AAHuvnQ8BwM"
         }
       ]
     },
