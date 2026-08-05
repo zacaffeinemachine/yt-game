@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T07:29:47.757015+00:00",
+  "last_updated": "2026-08-05T07:30:40.667543+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -484,7 +484,7 @@
         },
         {
           "id": "XKSjCOKDtpk",
-          "title": "The Tiny Donut That Proved We Still Don't Understand Magnetism",
+          "title": "Do we know how magnets work yet?",
           "thumbnail": "https://i.ytimg.com/vi/XKSjCOKDtpk/mqdefault.jpg",
           "published_at": "2026-01-29T22:20:55Z",
           "url": "https://www.youtube.com/watch?v=XKSjCOKDtpk"
@@ -1855,6 +1855,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nYFWjG64F27JNXiQXMCKYB0umXlsvIxNxkHzaBByxxeDk=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "UGxebJSUrTs",
+          "title": "Are Rare Earth Magnets About to Become Obsolete?",
+          "thumbnail": "https://i.ytimg.com/vi/UGxebJSUrTs/mqdefault.jpg",
+          "published_at": "2026-08-04T12:16:52Z",
+          "url": "https://www.youtube.com/watch?v=UGxebJSUrTs"
+        },
+        {
           "id": "d50tSWgXDtw",
           "title": "How Quantum Batteries Break Every Rule of Charging",
           "thumbnail": "https://i.ytimg.com/vi/d50tSWgXDtw/mqdefault.jpg",
@@ -2196,13 +2203,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Lglick8bCPc/mqdefault.jpg",
           "published_at": "2025-06-17T12:16:46Z",
           "url": "https://www.youtube.com/watch?v=Lglick8bCPc"
-        },
-        {
-          "id": "bz4aTO6M4Ho",
-          "title": "Why Thorium is About to Change the World",
-          "thumbnail": "https://i.ytimg.com/vi/bz4aTO6M4Ho/mqdefault.jpg",
-          "published_at": "2025-06-10T12:22:47Z",
-          "url": "https://www.youtube.com/watch?v=bz4aTO6M4Ho"
         }
       ]
     },
@@ -3381,6 +3381,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "Cyl3X88KEgg",
+          "title": "Why Humanity Will Never Leave The Solar System",
+          "thumbnail": "https://i.ytimg.com/vi/Cyl3X88KEgg/mqdefault.jpg",
+          "published_at": "2026-08-04T13:59:53Z",
+          "url": "https://www.youtube.com/watch?v=Cyl3X88KEgg"
+        },
+        {
           "id": "PqtggjVAi8M",
           "title": "How Are Memories Stored Inside Your Brain?",
           "thumbnail": "https://i.ytimg.com/vi/PqtggjVAi8M/mqdefault.jpg",
@@ -3722,13 +3729,6 @@
           "thumbnail": "https://i.ytimg.com/vi/GFLb5h2O2Ww/mqdefault.jpg",
           "published_at": "2024-06-25T14:00:01Z",
           "url": "https://www.youtube.com/watch?v=GFLb5h2O2Ww"
-        },
-        {
-          "id": "UebSfjmQNvs",
-          "title": "Do You Have a Free Will?",
-          "thumbnail": "https://i.ytimg.com/vi/UebSfjmQNvs/mqdefault.jpg",
-          "published_at": "2024-06-11T14:00:01Z",
-          "url": "https://www.youtube.com/watch?v=UebSfjmQNvs"
         }
       ]
     },
@@ -3737,6 +3737,13 @@
       "name": "agadmator's Chess Channel",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "XxKjIHyAFW4",
+          "title": "He is Too Strong || Awonder Liang vs Praggnanandhaa || Saint Louis Rapid & Blitz 2026",
+          "thumbnail": "https://i.ytimg.com/vi/XxKjIHyAFW4/mqdefault.jpg",
+          "published_at": "2026-08-04T12:39:40Z",
+          "url": "https://www.youtube.com/watch?v=XxKjIHyAFW4"
+        },
         {
           "id": "p8aESP_EV90",
           "title": "The Giant-Killer",
@@ -4079,13 +4086,6 @@
           "thumbnail": "https://i.ytimg.com/vi/balWa7rjNMQ/mqdefault.jpg",
           "published_at": "2026-06-17T12:37:56Z",
           "url": "https://www.youtube.com/watch?v=balWa7rjNMQ"
-        },
-        {
-          "id": "sQHS4Qst2Bo",
-          "title": "This is Not The Magnus - Vasyl Game!! || FIDE World Rapid Team Championships 2026",
-          "thumbnail": "https://i.ytimg.com/vi/sQHS4Qst2Bo/mqdefault.jpg",
-          "published_at": "2026-06-17T11:00:26Z",
-          "url": "https://www.youtube.com/watch?v=sQHS4Qst2Bo"
         }
       ]
     },
