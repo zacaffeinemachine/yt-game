@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T07:30:44.029745+00:00",
+  "last_updated": "2026-08-07T06:03:17.129947+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3738,6 +3738,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "vnxzsRrL5V0",
+          "title": "Morphy Reborn || Levon Aronian vs Anish Giri || Saint Louis Rapid & Blitz 2026",
+          "thumbnail": "https://i.ytimg.com/vi/vnxzsRrL5V0/mqdefault.jpg",
+          "published_at": "2026-08-06T15:51:16Z",
+          "url": "https://www.youtube.com/watch?v=vnxzsRrL5V0"
+        },
+        {
           "id": "3674Qzp203E",
           "title": "5 Years After Emailing Keanu Reeves, Bianca Mitchell-Avila Faces Him At Chess!",
           "thumbnail": "https://i.ytimg.com/vi/3674Qzp203E/mqdefault.jpg",
@@ -4079,13 +4086,6 @@
           "thumbnail": "https://i.ytimg.com/vi/JMJ_NXiMv9c/mqdefault.jpg",
           "published_at": "2026-06-18T10:18:22Z",
           "url": "https://www.youtube.com/watch?v=JMJ_NXiMv9c"
-        },
-        {
-          "id": "VlQ9C2omd3U",
-          "title": "MOTMA x Challenger || Rapport vs Sindarov || FIDE World Rapid Team Championships 2026",
-          "thumbnail": "https://i.ytimg.com/vi/VlQ9C2omd3U/mqdefault.jpg",
-          "published_at": "2026-06-18T09:31:40Z",
-          "url": "https://www.youtube.com/watch?v=VlQ9C2omd3U"
         }
       ]
     },
@@ -4808,6 +4808,13 @@
       "name": "Howtown",
       "thumbnail": "https://yt3.ggpht.com/WPr50X5C9Hyvd21TyVKWsfsuaxkuyH-gOErQbuPMmDo-g0urjzsKLF9VDmnaPxzB6_xM_5LNNQ=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "zvCgC1yA7_w",
+          "title": "We might have found aliens. Then we ran out of money.",
+          "thumbnail": "https://i.ytimg.com/vi/zvCgC1yA7_w/mqdefault.jpg",
+          "published_at": "2026-08-06T13:41:25Z",
+          "url": "https://www.youtube.com/watch?v=zvCgC1yA7_w"
+        },
         {
           "id": "pTDKkOy2KcA",
           "title": "How to catch an arsonist",
