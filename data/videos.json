@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T06:05:10.455094+00:00",
+  "last_updated": "2026-08-11T05:45:22.414186+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3738,6 +3738,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "vstI37XsG6U",
+          "title": "The New British Chess Champion! || Shreyas Royal vs Harry Grieve",
+          "thumbnail": "https://i.ytimg.com/vi/vstI37XsG6U/mqdefault.jpg",
+          "published_at": "2026-08-10T11:34:37Z",
+          "url": "https://www.youtube.com/watch?v=vstI37XsG6U"
+        },
+        {
           "id": "fghaYatKvSM",
           "title": "The Golden Line! || Shreyas Royal vs Luke McShane || British Chess Championships 2026",
           "thumbnail": "https://i.ytimg.com/vi/fghaYatKvSM/mqdefault.jpg",
@@ -4079,13 +4086,6 @@
           "thumbnail": "https://i.ytimg.com/vi/VQC-uvC0b-g/mqdefault.jpg",
           "published_at": "2026-06-21T11:58:24Z",
           "url": "https://www.youtube.com/watch?v=VQC-uvC0b-g"
-        },
-        {
-          "id": "mZlndce9EmY",
-          "title": "Viswanathan Anand (+Kasparov) vs Magnus Carlsen || FIDE World Blitz Team Championships 2026",
-          "thumbnail": "https://i.ytimg.com/vi/mZlndce9EmY/mqdefault.jpg",
-          "published_at": "2026-06-20T11:33:12Z",
-          "url": "https://www.youtube.com/watch?v=mZlndce9EmY"
         }
       ]
     },
