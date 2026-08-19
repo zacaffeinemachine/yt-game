@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T05:18:38.258159+00:00",
+  "last_updated": "2026-08-19T05:18:55.517587+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "J1WoNuemKOg",
-          "title": "Total Solar Eclipse From Space",
+          "title": "Total Solar Eclipse from 92,000 Feet",
           "thumbnail": "https://i.ytimg.com/vi/J1WoNuemKOg/mqdefault.jpg",
           "published_at": "2026-08-17T14:30:16Z",
           "url": "https://www.youtube.com/watch?v=J1WoNuemKOg"
@@ -1855,6 +1855,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nYFWjG64F27JNXiQXMCKYB0umXlsvIxNxkHzaBByxxeDk=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "Y1AfP4IXMeE",
+          "title": "Why CATL Is Already Looking Beyond Solid State Batteries",
+          "thumbnail": "https://i.ytimg.com/vi/Y1AfP4IXMeE/mqdefault.jpg",
+          "published_at": "2026-08-18T12:16:49Z",
+          "url": "https://www.youtube.com/watch?v=Y1AfP4IXMeE"
+        },
+        {
           "id": "jjKnDdsWoG8",
           "title": "The Battery the US Government Forgot",
           "thumbnail": "https://i.ytimg.com/vi/jjKnDdsWoG8/mqdefault.jpg",
@@ -2196,13 +2203,6 @@
           "thumbnail": "https://i.ytimg.com/vi/6TCmjSIj9Jw/mqdefault.jpg",
           "published_at": "2025-07-08T12:17:10Z",
           "url": "https://www.youtube.com/watch?v=6TCmjSIj9Jw"
-        },
-        {
-          "id": "jI2LC3WTryw",
-          "title": "Why Mushrooms are Starting to Replace Everything",
-          "thumbnail": "https://i.ytimg.com/vi/jI2LC3WTryw/mqdefault.jpg",
-          "published_at": "2025-06-24T12:16:54Z",
-          "url": "https://www.youtube.com/watch?v=jI2LC3WTryw"
         }
       ]
     },
@@ -3738,6 +3738,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "cZIm99F2vKQ",
+          "title": "Where he Goes, The Storm Follows || Javokhir vs Jorden || Sinquefield Cup 2026 R8",
+          "thumbnail": "https://i.ytimg.com/vi/cZIm99F2vKQ/mqdefault.jpg",
+          "published_at": "2026-08-18T21:44:55Z",
+          "url": "https://www.youtube.com/watch?v=cZIm99F2vKQ"
+        },
+        {
+          "id": "gQxsQ8-D4WA",
+          "title": "The Price of Victory || Vincent vs Javokhir || Sinquefield Cup 2026 R7",
+          "thumbnail": "https://i.ytimg.com/vi/gQxsQ8-D4WA/mqdefault.jpg",
+          "published_at": "2026-08-18T12:48:53Z",
+          "url": "https://www.youtube.com/watch?v=gQxsQ8-D4WA"
+        },
+        {
           "id": "0W7Xfl8gpEs",
           "title": "There Can Be Only One Dutchman! || Anish vs Jorden || Sinquefield Cup 2026 R6",
           "thumbnail": "https://i.ytimg.com/vi/0W7Xfl8gpEs/mqdefault.jpg",
@@ -4072,20 +4086,6 @@
           "thumbnail": "https://i.ytimg.com/vi/9cB30jPNIb8/mqdefault.jpg",
           "published_at": "2026-07-03T18:50:13Z",
           "url": "https://www.youtube.com/watch?v=9cB30jPNIb8"
-        },
-        {
-          "id": "qhEDEVl_Q0s",
-          "title": "It's about the King, Not The Queen! || Nodirbek vs Vincent || Super Rapid & Blitz Croatia 2026",
-          "thumbnail": "https://i.ytimg.com/vi/qhEDEVl_Q0s/mqdefault.jpg",
-          "published_at": "2026-07-03T09:59:03Z",
-          "url": "https://www.youtube.com/watch?v=qhEDEVl_Q0s"
-        },
-        {
-          "id": "W1FoCthWl10",
-          "title": "No One is Above The Endgame || Pragg vs Alireza || Super Rapid & Blitz Croatia 2026",
-          "thumbnail": "https://i.ytimg.com/vi/W1FoCthWl10/mqdefault.jpg",
-          "published_at": "2026-07-02T19:03:58Z",
-          "url": "https://www.youtube.com/watch?v=W1FoCthWl10"
         }
       ]
     },
