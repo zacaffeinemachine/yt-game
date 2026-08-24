@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T05:18:43.151731+00:00",
+  "last_updated": "2026-08-24T05:28:07.387706+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3731,6 +3731,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "7DyOTUGRw9g",
+          "title": "Grand Chess Tour 2026 Finals",
+          "thumbnail": "https://i.ytimg.com/vi/7DyOTUGRw9g/mqdefault.jpg",
+          "published_at": "2026-08-23T13:53:00Z",
+          "url": "https://www.youtube.com/watch?v=7DyOTUGRw9g"
+        },
+        {
           "id": "vlpRAsZbJM0",
           "title": "Lotus Chess August Arena - lichess.org",
           "thumbnail": "https://i.ytimg.com/vi/vlpRAsZbJM0/mqdefault.jpg",
@@ -4072,13 +4079,6 @@
           "thumbnail": "https://i.ytimg.com/vi/xfUkfDeym-U/mqdefault.jpg",
           "published_at": "2026-07-11T15:44:03Z",
           "url": "https://www.youtube.com/watch?v=xfUkfDeym-U"
-        },
-        {
-          "id": "eed1DN1SgOk",
-          "title": "Sometimes Your Opponent Does Everything For You",
-          "thumbnail": "https://i.ytimg.com/vi/eed1DN1SgOk/mqdefault.jpg",
-          "published_at": "2026-07-11T13:21:11Z",
-          "url": "https://www.youtube.com/watch?v=eed1DN1SgOk"
         }
       ]
     },
