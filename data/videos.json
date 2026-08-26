@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T05:21:40.612293+00:00",
+  "last_updated": "2026-08-26T05:22:03.011805+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "J1WoNuemKOg",
-          "title": "Total Solar Eclipse from 92,000 Feet",
+          "title": "We sent a balloon to space to film the solar eclipse",
           "thumbnail": "https://i.ytimg.com/vi/J1WoNuemKOg/mqdefault.jpg",
           "published_at": "2026-08-17T14:30:16Z",
           "url": "https://www.youtube.com/watch?v=J1WoNuemKOg"
@@ -1855,6 +1855,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nYFWjG64F27JNXiQXMCKYB0umXlsvIxNxkHzaBByxxeDk=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "R3eEzdpi12I",
+          "title": "Why Australia\u2019s Solar Is So Cheap (And Ours Isn\u2019t)",
+          "thumbnail": "https://i.ytimg.com/vi/R3eEzdpi12I/mqdefault.jpg",
+          "published_at": "2026-08-25T12:16:57Z",
+          "url": "https://www.youtube.com/watch?v=R3eEzdpi12I"
+        },
+        {
           "id": "Y1AfP4IXMeE",
           "title": "Why The Biggest Battery Company Is Betting On Lithium Air",
           "thumbnail": "https://i.ytimg.com/vi/Y1AfP4IXMeE/mqdefault.jpg",
@@ -2196,13 +2203,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Aubi3cK8Ym0/mqdefault.jpg",
           "published_at": "2025-07-15T12:17:01Z",
           "url": "https://www.youtube.com/watch?v=Aubi3cK8Ym0"
-        },
-        {
-          "id": "6TCmjSIj9Jw",
-          "title": "The Strongest Concrete Made From Human Urine?",
-          "thumbnail": "https://i.ytimg.com/vi/6TCmjSIj9Jw/mqdefault.jpg",
-          "published_at": "2025-07-08T12:17:10Z",
-          "url": "https://www.youtube.com/watch?v=6TCmjSIj9Jw"
         }
       ]
     },
@@ -2225,6 +2225,13 @@
       "name": "Green Dot Aviation",
       "thumbnail": "https://yt3.ggpht.com/UA49UqXeNmPQQpfO41F9aFiAzJjCQETaPHCGbJrjW4u9snhqGIQyskZPK99hrhk0Ur9AoMTFVw=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "-dJZCzaeHxY",
+          "title": "They brought it on themselves? | Jet 555",
+          "thumbnail": "https://i.ytimg.com/vi/-dJZCzaeHxY/mqdefault.jpg",
+          "published_at": "2026-08-25T19:58:14Z",
+          "url": "https://www.youtube.com/watch?v=-dJZCzaeHxY"
+        },
         {
           "id": "QkdWNzsPJ9U",
           "title": "The Horrifying story of Delta Flight 1080",
@@ -2567,13 +2574,6 @@
           "thumbnail": "https://i.ytimg.com/vi/WZCXxCVqwuY/mqdefault.jpg",
           "published_at": "2023-02-26T04:00:10Z",
           "url": "https://www.youtube.com/watch?v=WZCXxCVqwuY"
-        },
-        {
-          "id": "aBbR0Z1KXoQ",
-          "title": "WHY was this Captain SILENT?? | Iberia 610",
-          "thumbnail": "https://i.ytimg.com/vi/aBbR0Z1KXoQ/mqdefault.jpg",
-          "published_at": "2023-02-09T01:31:07Z",
-          "url": "https://www.youtube.com/watch?v=aBbR0Z1KXoQ"
         }
       ]
     },
@@ -3731,6 +3731,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "pHfBmRBO6qk",
+          "title": "Fabiano Caruana vs Praggnanandhaa || Grand Chess Tour 2026 Finals || GAME 1",
+          "thumbnail": "https://i.ytimg.com/vi/pHfBmRBO6qk/mqdefault.jpg",
+          "published_at": "2026-08-25T21:44:17Z",
+          "url": "https://www.youtube.com/watch?v=pHfBmRBO6qk"
+        },
+        {
+          "id": "0mVo65Nw8MI",
+          "title": "From Engine Moves To Premoves || Praggnanandhaa vs Vincent Keymer || Grand Chess Tour 2026 Finals",
+          "thumbnail": "https://i.ytimg.com/vi/0mVo65Nw8MI/mqdefault.jpg",
+          "published_at": "2026-08-25T12:09:58Z",
+          "url": "https://www.youtube.com/watch?v=0mVo65Nw8MI"
+        },
+        {
           "id": "Anitoxq0Lww",
           "title": "Pragg, Vincent, Fabi & Wesley || Grand Chess Tour 2026 Finals || DAY 2",
           "thumbnail": "https://i.ytimg.com/vi/Anitoxq0Lww/mqdefault.jpg",
@@ -4065,20 +4079,6 @@
           "thumbnail": "https://i.ytimg.com/vi/rPIPYby-zko/mqdefault.jpg",
           "published_at": "2026-07-13T17:13:12Z",
           "url": "https://www.youtube.com/watch?v=rPIPYby-zko"
-        },
-        {
-          "id": "H7uJj-TUIeI",
-          "title": "No One Speaks French! || Levon Aronian vs Matthias Bl\u00fcbaum || Biel Chess Festival 2026",
-          "thumbnail": "https://i.ytimg.com/vi/H7uJj-TUIeI/mqdefault.jpg",
-          "published_at": "2026-07-13T11:23:32Z",
-          "url": "https://www.youtube.com/watch?v=H7uJj-TUIeI"
-        },
-        {
-          "id": "4vbbQ3W70w0",
-          "title": "The Moment Hope Disappeared || Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f vs Levon Aronian || Biel Chess Festival 2026",
-          "thumbnail": "https://i.ytimg.com/vi/4vbbQ3W70w0/mqdefault.jpg",
-          "published_at": "2026-07-12T14:43:54Z",
-          "url": "https://www.youtube.com/watch?v=4vbbQ3W70w0"
         }
       ]
     },
