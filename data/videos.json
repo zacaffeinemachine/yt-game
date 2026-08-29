@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T16:58:48.703017+00:00",
+  "last_updated": "2026-08-29T11:24:01.887051+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3738,6 +3738,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "_wmYfZZ9SFU",
+          "title": "THE END || Praggnanandhaa vs Fabiano Caruana || Grand Chess Tour 2026 Finals | DAY 3",
+          "thumbnail": "https://i.ytimg.com/vi/_wmYfZZ9SFU/mqdefault.jpg",
+          "published_at": "2026-08-28T17:51:27Z",
+          "url": "https://www.youtube.com/watch?v=_wmYfZZ9SFU"
+        },
+        {
           "id": "IszhI9xlQdM",
           "title": "A Bolt From The Blue || Praggnanandhaa vs Fabiano Caruana || Grand Chess Tour 2026 Finals | DAY 3",
           "thumbnail": "https://i.ytimg.com/vi/IszhI9xlQdM/mqdefault.jpg",
@@ -4079,13 +4086,6 @@
           "thumbnail": "https://i.ytimg.com/vi/_AjcPJhYOac/mqdefault.jpg",
           "published_at": "2026-07-15T18:10:23Z",
           "url": "https://www.youtube.com/watch?v=_AjcPJhYOac"
-        },
-        {
-          "id": "-SQxIPpai5s",
-          "title": "Every Game is A Thriller || Matthias Bl\u00fcbaum vs Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f || Biel Chess Festival 2026",
-          "thumbnail": "https://i.ytimg.com/vi/-SQxIPpai5s/mqdefault.jpg",
-          "published_at": "2026-07-15T11:24:50Z",
-          "url": "https://www.youtube.com/watch?v=-SQxIPpai5s"
         }
       ]
     },
@@ -4094,6 +4094,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "E77fYixnfqQ",
+          "title": "The US Food Supply is a Minefield and Here\u2019s Why",
+          "thumbnail": "https://i.ytimg.com/vi/E77fYixnfqQ/mqdefault.jpg",
+          "published_at": "2026-08-28T22:30:05Z",
+          "url": "https://www.youtube.com/watch?v=E77fYixnfqQ"
+        },
         {
           "id": "yMyBx9GkUh8",
           "title": "The Great Carnivore Crash",
@@ -4436,13 +4443,6 @@
           "thumbnail": "https://i.ytimg.com/vi/JRbWRbUwQ2U/mqdefault.jpg",
           "published_at": "2025-10-18T15:39:25Z",
           "url": "https://www.youtube.com/watch?v=JRbWRbUwQ2U"
-        },
-        {
-          "id": "-2vvZYWmGqk",
-          "title": "The Newest Vegan Studies: Creatine, Mental Health, Cognitive Decline & More!",
-          "thumbnail": "https://i.ytimg.com/vi/-2vvZYWmGqk/mqdefault.jpg",
-          "published_at": "2025-10-11T23:55:02Z",
-          "url": "https://www.youtube.com/watch?v=-2vvZYWmGqk"
         }
       ]
     },
