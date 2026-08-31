@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T10:10:02.385999+00:00",
+  "last_updated": "2026-08-31T11:12:35.997810+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -673,7 +673,7 @@
         },
         {
           "id": "dFVrncgIvos",
-          "title": "The Blender Question Everyone Gets Wrong",
+          "title": "The Interview Question Everyone Gets Wrong",
           "thumbnail": "https://i.ytimg.com/vi/dFVrncgIvos/mqdefault.jpg",
           "published_at": "2025-02-18T16:03:35Z",
           "url": "https://www.youtube.com/watch?v=dFVrncgIvos"
@@ -3738,6 +3738,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "1p9ZxmBMt7s",
+          "title": "Alireza, The Wizard",
+          "thumbnail": "https://i.ytimg.com/vi/1p9ZxmBMt7s/mqdefault.jpg",
+          "published_at": "2026-08-30T14:30:54Z",
+          "url": "https://www.youtube.com/watch?v=1p9ZxmBMt7s"
+        },
+        {
           "id": "cFT5wj3mhaA",
           "title": "Much to Learn, You Still Have! || Wesley So vs Vincent Keymer || Grand Chess Tour 2026 Finals",
           "thumbnail": "https://i.ytimg.com/vi/cFT5wj3mhaA/mqdefault.jpg",
@@ -4079,13 +4086,6 @@
           "thumbnail": "https://i.ytimg.com/vi/B1tNfrLnll4/mqdefault.jpg",
           "published_at": "2026-07-16T18:43:37Z",
           "url": "https://www.youtube.com/watch?v=B1tNfrLnll4"
-        },
-        {
-          "id": "MT0IDMea4yM",
-          "title": "Executed to Perfection! || Liem Le vs Matthias Bl\u00fcbaum || Biel Chess Festival 2026",
-          "thumbnail": "https://i.ytimg.com/vi/MT0IDMea4yM/mqdefault.jpg",
-          "published_at": "2026-07-16T11:36:35Z",
-          "url": "https://www.youtube.com/watch?v=MT0IDMea4yM"
         }
       ]
     },
