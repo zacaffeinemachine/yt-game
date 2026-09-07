@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T09:00:39.941368+00:00",
+  "last_updated": "2026-09-07T09:48:55.689012+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3752,6 +3752,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "F_fNV2zXwos",
+          "title": "Even Steven || Nepo vs Javokhir Sindarov || Tech Mahindra Global Chess League 2026",
+          "thumbnail": "https://i.ytimg.com/vi/F_fNV2zXwos/mqdefault.jpg",
+          "published_at": "2026-09-06T14:35:20Z",
+          "url": "https://www.youtube.com/watch?v=F_fNV2zXwos"
+        },
+        {
+          "id": "6TKyMYkjWLM",
+          "title": "No One Else Could Pull This Off || Nepo vs Magnus || Tech Mahindra Global Chess League 2026",
+          "thumbnail": "https://i.ytimg.com/vi/6TKyMYkjWLM/mqdefault.jpg",
+          "published_at": "2026-09-06T12:31:38Z",
+          "url": "https://www.youtube.com/watch?v=6TKyMYkjWLM"
+        },
+        {
           "id": "T_epaI9JCSo",
           "title": "Lord Commander Wizard Returns! || Aravindh vs Dubov || Tech Mahindra Global Chess League 2026",
           "thumbnail": "https://i.ytimg.com/vi/T_epaI9JCSo/mqdefault.jpg",
@@ -4086,20 +4100,6 @@
           "thumbnail": "https://i.ytimg.com/vi/kJ5tRqm_Sdg/mqdefault.jpg",
           "published_at": "2026-07-23T17:07:44Z",
           "url": "https://www.youtube.com/watch?v=kJ5tRqm_Sdg"
-        },
-        {
-          "id": "zPfvqw0JZp0",
-          "title": "Can You Find the Crazy Checkmate? || Andreikin vs Abdusattorov || Chennai Grand Masters 2026",
-          "thumbnail": "https://i.ytimg.com/vi/zPfvqw0JZp0/mqdefault.jpg",
-          "published_at": "2026-07-22T14:00:04Z",
-          "url": "https://www.youtube.com/watch?v=zPfvqw0JZp0"
-        },
-        {
-          "id": "JvKjaau1ds0",
-          "title": "Is It Possible? || Pranesh vs Gukesh || Chennai Grand Masters 2026",
-          "thumbnail": "https://i.ytimg.com/vi/JvKjaau1ds0/mqdefault.jpg",
-          "published_at": "2026-07-21T13:54:38Z",
-          "url": "https://www.youtube.com/watch?v=JvKjaau1ds0"
         }
       ]
     },
