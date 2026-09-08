@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T09:48:55.689012+00:00",
+  "last_updated": "2026-09-08T09:13:23.380341+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3752,6 +3752,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "SQ_DH83TR3Y",
+          "title": "Seriously? || Javokhir Sindarov vs Magnus  Carlsen || Tech Mahindra Global Chess League 2026",
+          "thumbnail": "https://i.ytimg.com/vi/SQ_DH83TR3Y/mqdefault.jpg",
+          "published_at": "2026-09-07T14:38:24Z",
+          "url": "https://www.youtube.com/watch?v=SQ_DH83TR3Y"
+        },
+        {
+          "id": "A7LBPVaCc3E",
+          "title": "Faster than Lightning || Vishy vs Magnus || Tech Mahindra Global Chess League 2026",
+          "thumbnail": "https://i.ytimg.com/vi/A7LBPVaCc3E/mqdefault.jpg",
+          "published_at": "2026-09-07T12:14:55Z",
+          "url": "https://www.youtube.com/watch?v=A7LBPVaCc3E"
+        },
+        {
           "id": "F_fNV2zXwos",
           "title": "Even Steven || Nepo vs Javokhir Sindarov || Tech Mahindra Global Chess League 2026",
           "thumbnail": "https://i.ytimg.com/vi/F_fNV2zXwos/mqdefault.jpg",
@@ -4086,20 +4100,6 @@
           "thumbnail": "https://i.ytimg.com/vi/2Mc2JIWaqoE/mqdefault.jpg",
           "published_at": "2026-07-25T14:26:21Z",
           "url": "https://www.youtube.com/watch?v=2Mc2JIWaqoE"
-        },
-        {
-          "id": "ZbXwH8Cy-T4",
-          "title": "A Norwegian - But A Different One || Ian Nepomniachtchi vs Aksel Bu Kval\u00f8y || Dole Open 2026",
-          "thumbnail": "https://i.ytimg.com/vi/ZbXwH8Cy-T4/mqdefault.jpg",
-          "published_at": "2026-07-24T13:54:36Z",
-          "url": "https://www.youtube.com/watch?v=ZbXwH8Cy-T4"
-        },
-        {
-          "id": "kJ5tRqm_Sdg",
-          "title": "The 2900 Winning Move || L\u00ea Quang Li\u00eam vs Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f || Biel Chess Festival 2026",
-          "thumbnail": "https://i.ytimg.com/vi/kJ5tRqm_Sdg/mqdefault.jpg",
-          "published_at": "2026-07-23T17:07:44Z",
-          "url": "https://www.youtube.com/watch?v=kJ5tRqm_Sdg"
         }
       ]
     },
@@ -5390,6 +5390,13 @@
       "thumbnail": "https://yt3.ggpht.com/J-mQZ7gIHpil3l78nqzKNPSYqeU9fkzg8xxeQP0WVEKxEG8-puK1Hf-sJURo-lKtK8ykLPekaAE=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "dy55smEWHD0",
+          "title": "Meat eater accuses vegan of forcing him into a corner",
+          "thumbnail": "https://i.ytimg.com/vi/dy55smEWHD0/mqdefault.jpg",
+          "published_at": "2026-09-07T17:14:41Z",
+          "url": "https://www.youtube.com/watch?v=dy55smEWHD0"
+        },
+        {
           "id": "WCqVr-Lc0hA",
           "title": "What happens when an open-minded meat eater meets a vegan?",
           "thumbnail": "https://i.ytimg.com/vi/WCqVr-Lc0hA/mqdefault.jpg",
@@ -5731,13 +5738,6 @@
           "thumbnail": "https://i.ytimg.com/vi/nlZ0EBBnR2c/mqdefault.jpg",
           "published_at": "2024-05-14T17:38:45Z",
           "url": "https://www.youtube.com/watch?v=nlZ0EBBnR2c"
-        },
-        {
-          "id": "_ZM3WCQuTe4",
-          "title": "My struggles with veganism.",
-          "thumbnail": "https://i.ytimg.com/vi/_ZM3WCQuTe4/mqdefault.jpg",
-          "published_at": "2024-04-30T17:01:56Z",
-          "url": "https://www.youtube.com/watch?v=_ZM3WCQuTe4"
         }
       ]
     }
