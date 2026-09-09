@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T09:13:23.380341+00:00",
+  "last_updated": "2026-09-09T09:16:45.546887+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -875,6 +875,13 @@
           "url": "https://www.youtube.com/watch?v=Rj7TEpOchZg"
         },
         {
+          "id": "IME2iLjUToU",
+          "title": "Kabir Singh : The Revisit",
+          "thumbnail": "https://i.ytimg.com/vi/IME2iLjUToU/mqdefault.jpg",
+          "published_at": "2025-11-22T14:34:15Z",
+          "url": "https://www.youtube.com/watch?v=IME2iLjUToU"
+        },
+        {
           "id": "TT4wZwtEe-Y",
           "title": "Titanic : The Re-Dub",
           "thumbnail": "https://i.ytimg.com/vi/TT4wZwtEe-Y/mqdefault.jpg",
@@ -1132,13 +1139,6 @@
           "thumbnail": "https://i.ytimg.com/vi/PvfWjfhtJjQ/mqdefault.jpg",
           "published_at": "2023-02-17T10:30:11Z",
           "url": "https://www.youtube.com/watch?v=PvfWjfhtJjQ"
-        },
-        {
-          "id": "EyKytLshZ2c",
-          "title": "Devdas : The Revisit",
-          "thumbnail": "https://i.ytimg.com/vi/EyKytLshZ2c/mqdefault.jpg",
-          "published_at": "2022-11-26T14:28:57Z",
-          "url": "https://www.youtube.com/watch?v=EyKytLshZ2c"
         }
       ]
     },
@@ -1862,6 +1862,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nYFWjG64F27JNXiQXMCKYB0umXlsvIxNxkHzaBByxxeDk=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "YrO9TArSK6o",
+          "title": "The Hidden Problem With Home Batteries",
+          "thumbnail": "https://i.ytimg.com/vi/YrO9TArSK6o/mqdefault.jpg",
+          "published_at": "2026-09-08T12:16:52Z",
+          "url": "https://www.youtube.com/watch?v=YrO9TArSK6o"
+        },
+        {
           "id": "R3eEzdpi12I",
           "title": "Why Australia\u2019s Solar Is So Cheap (And Ours Isn\u2019t)",
           "thumbnail": "https://i.ytimg.com/vi/R3eEzdpi12I/mqdefault.jpg",
@@ -2203,13 +2210,6 @@
           "thumbnail": "https://i.ytimg.com/vi/gO_LLqZfNdY/mqdefault.jpg",
           "published_at": "2025-07-22T12:17:01Z",
           "url": "https://www.youtube.com/watch?v=gO_LLqZfNdY"
-        },
-        {
-          "id": "Aubi3cK8Ym0",
-          "title": "The Most Overlooked Clean Energy Source\u2026 is Under Your Feet",
-          "thumbnail": "https://i.ytimg.com/vi/Aubi3cK8Ym0/mqdefault.jpg",
-          "published_at": "2025-07-15T12:17:01Z",
-          "url": "https://www.youtube.com/watch?v=Aubi3cK8Ym0"
         }
       ]
     },
@@ -3312,7 +3312,7 @@
         },
         {
           "id": "205swuI0JlY",
-          "title": "The Most Brutal Witch Prison in History",
+          "title": "When Death Was a Relief",
           "thumbnail": "https://i.ytimg.com/vi/205swuI0JlY/mqdefault.jpg",
           "published_at": "2026-08-28T14:00:35Z",
           "url": "https://www.youtube.com/watch?v=205swuI0JlY"
@@ -3752,6 +3752,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "Pc5R83JUmDw",
+          "title": "Lotus Chess September Arena - lichess.org",
+          "thumbnail": "https://i.ytimg.com/vi/Pc5R83JUmDw/mqdefault.jpg",
+          "published_at": "2026-09-08T18:43:18Z",
+          "url": "https://www.youtube.com/watch?v=Pc5R83JUmDw"
+        },
+        {
+          "id": "dt22Dn0CgG8",
+          "title": "A Bolt From the Blue || Nepo vs Anand || Tech Mahindra Global Chess League 2026",
+          "thumbnail": "https://i.ytimg.com/vi/dt22Dn0CgG8/mqdefault.jpg",
+          "published_at": "2026-09-08T14:20:15Z",
+          "url": "https://www.youtube.com/watch?v=dt22Dn0CgG8"
+        },
+        {
           "id": "SQ_DH83TR3Y",
           "title": "Seriously? || Javokhir Sindarov vs Magnus  Carlsen || Tech Mahindra Global Chess League 2026",
           "thumbnail": "https://i.ytimg.com/vi/SQ_DH83TR3Y/mqdefault.jpg",
@@ -4086,20 +4100,6 @@
           "thumbnail": "https://i.ytimg.com/vi/eJg5dPsxn1o/mqdefault.jpg",
           "published_at": "2026-07-30T13:49:20Z",
           "url": "https://www.youtube.com/watch?v=eJg5dPsxn1o"
-        },
-        {
-          "id": "B-ssiIOwO1Q",
-          "title": "He is Ready || Sindarov vs Nakamura || USA vs. Uzbekistan - Miami 2026",
-          "thumbnail": "https://i.ytimg.com/vi/B-ssiIOwO1Q/mqdefault.jpg",
-          "published_at": "2026-07-29T14:34:58Z",
-          "url": "https://www.youtube.com/watch?v=B-ssiIOwO1Q"
-        },
-        {
-          "id": "2Mc2JIWaqoE",
-          "title": "Chess is Eternal || Leon Luke Mendonca vs Ido Gorshtein || Dole Open 2026",
-          "thumbnail": "https://i.ytimg.com/vi/2Mc2JIWaqoE/mqdefault.jpg",
-          "published_at": "2026-07-25T14:26:21Z",
-          "url": "https://www.youtube.com/watch?v=2Mc2JIWaqoE"
         }
       ]
     },
