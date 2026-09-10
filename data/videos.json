@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T09:16:45.546887+00:00",
+  "last_updated": "2026-09-10T09:15:25.058344+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -722,7 +722,7 @@
       "videos": [
         {
           "id": "uIQzkLTI2MU",
-          "title": "Why Did It Take 1,900 Years to Invent the Exponent?",
+          "title": "Why Did It Take 1,900 Years to Invent The Exponent?",
           "thumbnail": "https://i.ytimg.com/vi/uIQzkLTI2MU/mqdefault.jpg",
           "published_at": "2026-09-01T15:19:06Z",
           "url": "https://www.youtube.com/watch?v=uIQzkLTI2MU"
@@ -2947,6 +2947,13 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "hK8kzWOBi-U",
+          "title": "The FBI Agent Who Infiltrated the Mafia",
+          "thumbnail": "https://i.ytimg.com/vi/hK8kzWOBi-U/mqdefault.jpg",
+          "published_at": "2026-09-09T14:00:16Z",
+          "url": "https://www.youtube.com/watch?v=hK8kzWOBi-U"
+        },
+        {
           "id": "-Gnrp_caPvo",
           "title": "The Death of Educational Content on YouTube",
           "thumbnail": "https://i.ytimg.com/vi/-Gnrp_caPvo/mqdefault.jpg",
@@ -3288,13 +3295,6 @@
           "thumbnail": "https://i.ytimg.com/vi/QVr6oNkOfrc/mqdefault.jpg",
           "published_at": "2025-09-07T14:00:39Z",
           "url": "https://www.youtube.com/watch?v=QVr6oNkOfrc"
-        },
-        {
-          "id": "imCjhNEovL4",
-          "title": "How a Minecraft Scammer Stole $16,500,000",
-          "thumbnail": "https://i.ytimg.com/vi/imCjhNEovL4/mqdefault.jpg",
-          "published_at": "2025-08-31T14:01:09Z",
-          "url": "https://www.youtube.com/watch?v=imCjhNEovL4"
         }
       ]
     },
@@ -3752,6 +3752,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "CCfKuFm6eYs",
+          "title": "Effortless! || Magnus vs MVL || Tech Mahindra Global Chess League 2026",
+          "thumbnail": "https://i.ytimg.com/vi/CCfKuFm6eYs/mqdefault.jpg",
+          "published_at": "2026-09-09T11:24:44Z",
+          "url": "https://www.youtube.com/watch?v=CCfKuFm6eYs"
+        },
+        {
+          "id": "dR0sWstUWJs",
+          "title": "A Reflection in the Mirror || Anand vs Sindarov || Tech Mahindra Global Chess League 2026",
+          "thumbnail": "https://i.ytimg.com/vi/dR0sWstUWJs/mqdefault.jpg",
+          "published_at": "2026-09-09T09:44:04Z",
+          "url": "https://www.youtube.com/watch?v=dR0sWstUWJs"
+        },
+        {
           "id": "Pc5R83JUmDw",
           "title": "Lotus Chess September Arena - lichess.org",
           "thumbnail": "https://i.ytimg.com/vi/Pc5R83JUmDw/mqdefault.jpg",
@@ -4086,20 +4100,6 @@
           "thumbnail": "https://i.ytimg.com/vi/p8aESP_EV90/mqdefault.jpg",
           "published_at": "2026-08-03T14:02:24Z",
           "url": "https://www.youtube.com/watch?v=p8aESP_EV90"
-        },
-        {
-          "id": "YIoJsrarOfw",
-          "title": "\"Can't Play Chess if You Can't Move\" || Sindarov vs Aronian || USA vs. Uzbekistan 2026",
-          "thumbnail": "https://i.ytimg.com/vi/YIoJsrarOfw/mqdefault.jpg",
-          "published_at": "2026-08-02T12:11:38Z",
-          "url": "https://www.youtube.com/watch?v=YIoJsrarOfw"
-        },
-        {
-          "id": "eJg5dPsxn1o",
-          "title": "\"Despite Their Age, They are Playing Very Well!\" || Nakamura vs Sindarov || USA vs. Uzbekistan 2026",
-          "thumbnail": "https://i.ytimg.com/vi/eJg5dPsxn1o/mqdefault.jpg",
-          "published_at": "2026-07-30T13:49:20Z",
-          "url": "https://www.youtube.com/watch?v=eJg5dPsxn1o"
         }
       ]
     },
