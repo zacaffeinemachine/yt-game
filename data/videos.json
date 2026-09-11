@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T09:15:25.058344+00:00",
+  "last_updated": "2026-09-11T09:14:01.566273+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3752,6 +3752,27 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "TdJYImoukgM",
+          "title": "The Ghosts of Chess Past || Magnus vs Vishy Anand || Tech Mahindra Global Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/TdJYImoukgM/mqdefault.jpg",
+          "published_at": "2026-09-10T14:13:49Z",
+          "url": "https://www.youtube.com/watch?v=TdJYImoukgM"
+        },
+        {
+          "id": "c2HrgXFKmU8",
+          "title": "Challenger vs The Chosen One || Javokhir vs Alireza || Tech Mahindra Global Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/c2HrgXFKmU8/mqdefault.jpg",
+          "published_at": "2026-09-10T12:04:41Z",
+          "url": "https://www.youtube.com/watch?v=c2HrgXFKmU8"
+        },
+        {
+          "id": "AOD8MtKauak",
+          "title": "The Prodigy and the Wizard || Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f vs Daniil Dubov || Tech Mahindra Global Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/AOD8MtKauak/mqdefault.jpg",
+          "published_at": "2026-09-10T09:59:38Z",
+          "url": "https://www.youtube.com/watch?v=AOD8MtKauak"
+        },
+        {
           "id": "CCfKuFm6eYs",
           "title": "Effortless! || Magnus vs MVL || Tech Mahindra Global Chess League 2026",
           "thumbnail": "https://i.ytimg.com/vi/CCfKuFm6eYs/mqdefault.jpg",
@@ -4079,27 +4100,6 @@
           "thumbnail": "https://i.ytimg.com/vi/3674Qzp203E/mqdefault.jpg",
           "published_at": "2026-08-05T14:59:03Z",
           "url": "https://www.youtube.com/watch?v=3674Qzp203E"
-        },
-        {
-          "id": "S4tdkSVuxZA",
-          "title": "Unreal Moves || Praggnanandhaa vs Vincent Keymer || Saint Louis Rapid & Blitz 2026",
-          "thumbnail": "https://i.ytimg.com/vi/S4tdkSVuxZA/mqdefault.jpg",
-          "published_at": "2026-08-05T10:35:58Z",
-          "url": "https://www.youtube.com/watch?v=S4tdkSVuxZA"
-        },
-        {
-          "id": "XxKjIHyAFW4",
-          "title": "He is Too Strong || Awonder Liang vs Praggnanandhaa || Saint Louis Rapid & Blitz 2026",
-          "thumbnail": "https://i.ytimg.com/vi/XxKjIHyAFW4/mqdefault.jpg",
-          "published_at": "2026-08-04T12:39:40Z",
-          "url": "https://www.youtube.com/watch?v=XxKjIHyAFW4"
-        },
-        {
-          "id": "p8aESP_EV90",
-          "title": "The Giant-Killer",
-          "thumbnail": "https://i.ytimg.com/vi/p8aESP_EV90/mqdefault.jpg",
-          "published_at": "2026-08-03T14:02:24Z",
-          "url": "https://www.youtube.com/watch?v=p8aESP_EV90"
         }
       ]
     },
