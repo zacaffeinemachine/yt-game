@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T09:14:01.566273+00:00",
+  "last_updated": "2026-09-12T08:55:34.703586+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3752,6 +3752,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "44OpRv-mXrU",
+          "title": "Unstoppable Force Meets Immovable Object || Magnus vs Javokhir || Tech Mahindra Global Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/44OpRv-mXrU/mqdefault.jpg",
+          "published_at": "2026-09-11T14:16:24Z",
+          "url": "https://www.youtube.com/watch?v=44OpRv-mXrU"
+        },
+        {
+          "id": "NXog9AnlTIA",
+          "title": "Clash of Challengers || Javokhir vs Nepo || Tech Mahindra Global Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/NXog9AnlTIA/mqdefault.jpg",
+          "published_at": "2026-09-11T10:06:50Z",
+          "url": "https://www.youtube.com/watch?v=NXog9AnlTIA"
+        },
+        {
           "id": "TdJYImoukgM",
           "title": "The Ghosts of Chess Past || Magnus vs Vishy Anand || Tech Mahindra Global Chess 2026",
           "thumbnail": "https://i.ytimg.com/vi/TdJYImoukgM/mqdefault.jpg",
@@ -4086,20 +4100,6 @@
           "thumbnail": "https://i.ytimg.com/vi/kmVWoLOyyWw/mqdefault.jpg",
           "published_at": "2026-08-07T09:23:54Z",
           "url": "https://www.youtube.com/watch?v=kmVWoLOyyWw"
-        },
-        {
-          "id": "vnxzsRrL5V0",
-          "title": "Morphy Reborn || Levon Aronian vs Anish Giri || Saint Louis Rapid & Blitz 2026",
-          "thumbnail": "https://i.ytimg.com/vi/vnxzsRrL5V0/mqdefault.jpg",
-          "published_at": "2026-08-06T15:51:16Z",
-          "url": "https://www.youtube.com/watch?v=vnxzsRrL5V0"
-        },
-        {
-          "id": "3674Qzp203E",
-          "title": "5 Years After Emailing Keanu Reeves, Bianca Mitchell-Avila Faces Him At Chess!",
-          "thumbnail": "https://i.ytimg.com/vi/3674Qzp203E/mqdefault.jpg",
-          "published_at": "2026-08-05T14:59:03Z",
-          "url": "https://www.youtube.com/watch?v=3674Qzp203E"
         }
       ]
     },
