@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T09:53:38.202840+00:00",
+  "last_updated": "2026-09-14T10:10:57.331074+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -477,7 +477,7 @@
         },
         {
           "id": "cMx139eTxoc",
-          "title": "The asbestos problem is worse than we thought",
+          "title": "What does asbestos do to a person?",
           "thumbnail": "https://i.ytimg.com/vi/cMx139eTxoc/mqdefault.jpg",
           "published_at": "2026-02-17T21:33:35Z",
           "url": "https://www.youtube.com/watch?v=cMx139eTxoc"
@@ -3752,6 +3752,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "81K-do74YPc",
+          "title": "Time Is Not Everything! || Dubov vs Vidit || Tech Mahindra Global Chess League 2026",
+          "thumbnail": "https://i.ytimg.com/vi/81K-do74YPc/mqdefault.jpg",
+          "published_at": "2026-09-13T12:48:13Z",
+          "url": "https://www.youtube.com/watch?v=81K-do74YPc"
+        },
+        {
           "id": "99JIawJJzwY",
           "title": "One Pawn Can Ruin Everything || MVL vs Sindarov || Tech Mahindra Global Chess League 2026",
           "thumbnail": "https://i.ytimg.com/vi/99JIawJJzwY/mqdefault.jpg",
@@ -4093,13 +4100,6 @@
           "thumbnail": "https://i.ytimg.com/vi/vstI37XsG6U/mqdefault.jpg",
           "published_at": "2026-08-10T11:34:37Z",
           "url": "https://www.youtube.com/watch?v=vstI37XsG6U"
-        },
-        {
-          "id": "fghaYatKvSM",
-          "title": "The Golden Line! || Shreyas Royal vs Luke McShane || British Chess Championships 2026",
-          "thumbnail": "https://i.ytimg.com/vi/fghaYatKvSM/mqdefault.jpg",
-          "published_at": "2026-08-09T11:28:26Z",
-          "url": "https://www.youtube.com/watch?v=fghaYatKvSM"
         }
       ]
     },
@@ -4108,6 +4108,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "YE1rnoaKtEA",
+          "title": "\"Vegan Cardiologist Goes Carnivore!\" Response",
+          "thumbnail": "https://i.ytimg.com/vi/YE1rnoaKtEA/mqdefault.jpg",
+          "published_at": "2026-09-13T23:38:42Z",
+          "url": "https://www.youtube.com/watch?v=YE1rnoaKtEA"
+        },
         {
           "id": "nIgUkxgEPlc",
           "title": "Creatine Study Finds Unique Fat Loss in Vegans",
@@ -4450,13 +4457,6 @@
           "thumbnail": "https://i.ytimg.com/vi/myQsvKQs6qc/mqdefault.jpg",
           "published_at": "2025-10-25T18:32:16Z",
           "url": "https://www.youtube.com/watch?v=myQsvKQs6qc"
-        },
-        {
-          "id": "_9PmHZWk42Y",
-          "title": "Is there a LEAD crisis in food right now?",
-          "thumbnail": "https://i.ytimg.com/vi/_9PmHZWk42Y/mqdefault.jpg",
-          "published_at": "2025-10-21T22:35:29Z",
-          "url": "https://www.youtube.com/watch?v=_9PmHZWk42Y"
         }
       ]
     },
