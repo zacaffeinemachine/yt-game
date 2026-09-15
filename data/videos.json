@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T10:10:57.331074+00:00",
+  "last_updated": "2026-09-15T09:40:50.064859+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -791,6 +791,13 @@
       "thumbnail": "https://yt3.ggpht.com/2syNrbo0YVfXvAYIwA3hQ8jUFPTj3pyootPeForoT3ZDjfrFpCE3LUN5F-Tpn15t6KdYBvTu5sI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "z2hGTf6woyY",
+          "title": "Indra the tiger : The Revisit",
+          "thumbnail": "https://i.ytimg.com/vi/z2hGTf6woyY/mqdefault.jpg",
+          "published_at": "2026-09-13T16:12:23Z",
+          "url": "https://www.youtube.com/watch?v=z2hGTf6woyY"
+        },
+        {
           "id": "dAtnFLt2D6I",
           "title": "This movie aged like milk (Extras)",
           "thumbnail": "https://i.ytimg.com/vi/dAtnFLt2D6I/mqdefault.jpg",
@@ -1132,13 +1139,6 @@
           "thumbnail": "https://i.ytimg.com/vi/F_rigwIYibM/mqdefault.jpg",
           "published_at": "2023-02-24T09:00:25Z",
           "url": "https://www.youtube.com/watch?v=F_rigwIYibM"
-        },
-        {
-          "id": "PvfWjfhtJjQ",
-          "title": "Ragini 2 :The Revisit",
-          "thumbnail": "https://i.ytimg.com/vi/PvfWjfhtJjQ/mqdefault.jpg",
-          "published_at": "2023-02-17T10:30:11Z",
-          "url": "https://www.youtube.com/watch?v=PvfWjfhtJjQ"
         }
       ]
     },
@@ -2948,7 +2948,7 @@
       "videos": [
         {
           "id": "hK8kzWOBi-U",
-          "title": "The FBI Agent Who Infiltrated the Mafia",
+          "title": "The FBI's Most Valuable Agent",
           "thumbnail": "https://i.ytimg.com/vi/hK8kzWOBi-U/mqdefault.jpg",
           "published_at": "2026-09-09T14:00:16Z",
           "url": "https://www.youtube.com/watch?v=hK8kzWOBi-U"
@@ -3752,6 +3752,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "U2pINhGF47k",
+          "title": "Go Big or Go Home! || Magnus vs Nepo || Tech Mahindra Global Chess League 2026",
+          "thumbnail": "https://i.ytimg.com/vi/U2pINhGF47k/mqdefault.jpg",
+          "published_at": "2026-09-14T14:33:51Z",
+          "url": "https://www.youtube.com/watch?v=U2pINhGF47k"
+        },
+        {
           "id": "81K-do74YPc",
           "title": "Time Is Not Everything! || Dubov vs Vidit || Tech Mahindra Global Chess League 2026",
           "thumbnail": "https://i.ytimg.com/vi/81K-do74YPc/mqdefault.jpg",
@@ -4093,13 +4100,6 @@
           "thumbnail": "https://i.ytimg.com/vi/eoFafeuSJHk/mqdefault.jpg",
           "published_at": "2026-08-11T12:16:15Z",
           "url": "https://www.youtube.com/watch?v=eoFafeuSJHk"
-        },
-        {
-          "id": "vstI37XsG6U",
-          "title": "The New British Chess Champion! || Shreyas Royal vs Harry Grieve",
-          "thumbnail": "https://i.ytimg.com/vi/vstI37XsG6U/mqdefault.jpg",
-          "published_at": "2026-08-10T11:34:37Z",
-          "url": "https://www.youtube.com/watch?v=vstI37XsG6U"
         }
       ]
     },
