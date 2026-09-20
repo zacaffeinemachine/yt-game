@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T09:02:53.456087+00:00",
+  "last_updated": "2026-09-20T09:30:19.596971+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3752,6 +3752,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "Pc8KyhXOR_c",
+          "title": "Lord of the Windmills || Wei Yi vs Aleksandar Indjic | 46th FIDE Chess Olympiad 2026",
+          "thumbnail": "https://i.ytimg.com/vi/Pc8KyhXOR_c/mqdefault.jpg",
+          "published_at": "2026-09-19T14:55:30Z",
+          "url": "https://www.youtube.com/watch?v=Pc8KyhXOR_c"
+        },
+        {
+          "id": "2lUw_9_cw1Q",
+          "title": "Killer Instinct || Arjun Erigaisi vs Maksim Chigaev | 46th FIDE Chess Olympiad 2026",
+          "thumbnail": "https://i.ytimg.com/vi/2lUw_9_cw1Q/mqdefault.jpg",
+          "published_at": "2026-09-19T14:16:20Z",
+          "url": "https://www.youtube.com/watch?v=2lUw_9_cw1Q"
+        },
+        {
           "id": "HdJ6sPRxcu0",
           "title": "Return of The Ding! || Ding Liren vs Arkadij Naiditsch | 46th FIDE Chess Olympiad 2026",
           "thumbnail": "https://i.ytimg.com/vi/HdJ6sPRxcu0/mqdefault.jpg",
@@ -4086,20 +4100,6 @@
           "thumbnail": "https://i.ytimg.com/vi/gQxsQ8-D4WA/mqdefault.jpg",
           "published_at": "2026-08-18T12:48:53Z",
           "url": "https://www.youtube.com/watch?v=gQxsQ8-D4WA"
-        },
-        {
-          "id": "0W7Xfl8gpEs",
-          "title": "There Can Be Only One Dutchman! || Anish vs Jorden || Sinquefield Cup 2026 R6",
-          "thumbnail": "https://i.ytimg.com/vi/0W7Xfl8gpEs/mqdefault.jpg",
-          "published_at": "2026-08-17T13:13:47Z",
-          "url": "https://www.youtube.com/watch?v=0W7Xfl8gpEs"
-        },
-        {
-          "id": "FkwlgXXt41k",
-          "title": "Ultimate Clash of Generations || Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f vs Vasyl Ivanchuk || Turkish Chess Leagues 2026",
-          "thumbnail": "https://i.ytimg.com/vi/FkwlgXXt41k/mqdefault.jpg",
-          "published_at": "2026-08-16T13:08:23Z",
-          "url": "https://www.youtube.com/watch?v=FkwlgXXt41k"
         }
       ]
     },
