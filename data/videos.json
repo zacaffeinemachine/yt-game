@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T09:30:19.596971+00:00",
+  "last_updated": "2026-09-21T10:16:30.287833+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3752,6 +3752,34 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "35ZFTvGt-qI",
+          "title": "To Avoid Losing a Pawn... || Frederik Svane vs Hans Niemann | 46th FIDE Chess Olympiad 2026",
+          "thumbnail": "https://i.ytimg.com/vi/35ZFTvGt-qI/mqdefault.jpg",
+          "published_at": "2026-09-20T17:47:45Z",
+          "url": "https://www.youtube.com/watch?v=35ZFTvGt-qI"
+        },
+        {
+          "id": "8fMkBAivX8U",
+          "title": "Challenger Faces a Legend || Javokhir Sindarov vs Peter Leko | 46th FIDE Chess Olympiad 2026",
+          "thumbnail": "https://i.ytimg.com/vi/8fMkBAivX8U/mqdefault.jpg",
+          "published_at": "2026-09-20T16:06:11Z",
+          "url": "https://www.youtube.com/watch?v=8fMkBAivX8U"
+        },
+        {
+          "id": "sUikz1gGIM4",
+          "title": "Impossible Lines || Rich\u00e1rd Rapport vs Nodirbek Abdusattorov | 46th FIDE Chess Olympiad 2026",
+          "thumbnail": "https://i.ytimg.com/vi/sUikz1gGIM4/mqdefault.jpg",
+          "published_at": "2026-09-20T14:59:54Z",
+          "url": "https://www.youtube.com/watch?v=sUikz1gGIM4"
+        },
+        {
+          "id": "hsniiFSdFUw",
+          "title": "Clash of Super Calculators || Caruana vs Ivanchuk | 46th FIDE Chess Olympiad 2026",
+          "thumbnail": "https://i.ytimg.com/vi/hsniiFSdFUw/mqdefault.jpg",
+          "published_at": "2026-09-20T09:37:27Z",
+          "url": "https://www.youtube.com/watch?v=hsniiFSdFUw"
+        },
+        {
           "id": "Pc8KyhXOR_c",
           "title": "Lord of the Windmills || Wei Yi vs Aleksandar Indjic | 46th FIDE Chess Olympiad 2026",
           "thumbnail": "https://i.ytimg.com/vi/Pc8KyhXOR_c/mqdefault.jpg",
@@ -4072,34 +4100,6 @@
           "thumbnail": "https://i.ytimg.com/vi/5UFhzwB3U-k/mqdefault.jpg",
           "published_at": "2026-08-22T11:26:33Z",
           "url": "https://www.youtube.com/watch?v=5UFhzwB3U-k"
-        },
-        {
-          "id": "tpXBA1B0_Vo",
-          "title": "Moment of Truth! || Pragg vs Wesley || Sinquefield Cup 2026 FINAL GAME ARMAGEDDON",
-          "thumbnail": "https://i.ytimg.com/vi/tpXBA1B0_Vo/mqdefault.jpg",
-          "published_at": "2026-08-20T13:50:54Z",
-          "url": "https://www.youtube.com/watch?v=tpXBA1B0_Vo"
-        },
-        {
-          "id": "ENbo6noGk9g",
-          "title": "The New Generation is Already Here || Sinquefield Cup 2026 R8",
-          "thumbnail": "https://i.ytimg.com/vi/ENbo6noGk9g/mqdefault.jpg",
-          "published_at": "2026-08-19T10:38:36Z",
-          "url": "https://www.youtube.com/watch?v=ENbo6noGk9g"
-        },
-        {
-          "id": "cZIm99F2vKQ",
-          "title": "Where he Goes, The Storm Follows || Javokhir vs Jorden || Sinquefield Cup 2026 R8",
-          "thumbnail": "https://i.ytimg.com/vi/cZIm99F2vKQ/mqdefault.jpg",
-          "published_at": "2026-08-18T21:44:55Z",
-          "url": "https://www.youtube.com/watch?v=cZIm99F2vKQ"
-        },
-        {
-          "id": "gQxsQ8-D4WA",
-          "title": "The Price of Victory || Vincent vs Javokhir || Sinquefield Cup 2026 R7",
-          "thumbnail": "https://i.ytimg.com/vi/gQxsQ8-D4WA/mqdefault.jpg",
-          "published_at": "2026-08-18T12:48:53Z",
-          "url": "https://www.youtube.com/watch?v=gQxsQ8-D4WA"
         }
       ]
     },
