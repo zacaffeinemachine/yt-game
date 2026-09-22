@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T10:16:30.287833+00:00",
+  "last_updated": "2026-09-22T09:32:10.229228+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -364,6 +364,13 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "JsBZOcqZerk",
+          "title": "The Machine That Cracked WWII's \"Unbreakable\" Code",
+          "thumbnail": "https://i.ytimg.com/vi/JsBZOcqZerk/mqdefault.jpg",
+          "published_at": "2026-09-21T17:49:57Z",
+          "url": "https://www.youtube.com/watch?v=JsBZOcqZerk"
+        },
+        {
           "id": "J1WoNuemKOg",
           "title": "We sent a camera to space to film the solar eclipse",
           "thumbnail": "https://i.ytimg.com/vi/J1WoNuemKOg/mqdefault.jpg",
@@ -705,13 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/H6q6pYZ9Fho/mqdefault.jpg",
           "published_at": "2025-01-21T16:58:06Z",
           "url": "https://www.youtube.com/watch?v=H6q6pYZ9Fho"
-        },
-        {
-          "id": "Rdj5-6t6QI8",
-          "title": "Why Don\u2019t Railroads Need Expansion Joints?",
-          "thumbnail": "https://i.ytimg.com/vi/Rdj5-6t6QI8/mqdefault.jpg",
-          "published_at": "2025-01-01T07:00:06Z",
-          "url": "https://www.youtube.com/watch?v=Rdj5-6t6QI8"
         }
       ]
     },
@@ -722,7 +722,7 @@
       "videos": [
         {
           "id": "uIQzkLTI2MU",
-          "title": "Why Did It Take 1,900 Years to Invent The Exponent?",
+          "title": "Why Did It Take 1,877 Years to Invent x\u00b2?",
           "thumbnail": "https://i.ytimg.com/vi/uIQzkLTI2MU/mqdefault.jpg",
           "published_at": "2026-09-01T15:19:06Z",
           "url": "https://www.youtube.com/watch?v=uIQzkLTI2MU"
@@ -2218,6 +2218,13 @@
       "name": "Darshan Shastra",
       "thumbnail": "https://yt3.ggpht.com/IQFvQUlLc-op-bgmK66CAvkR0-RmqL8d-63WkvvKI2xbjhNEBfo3kUjv8_66z_VFaezf2Jt1-w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "wk5-sAQbzEQ",
+          "title": "Anton Chekhov - \u0936\u0930\u094d\u0924 (The Bet)",
+          "thumbnail": "https://i.ytimg.com/vi/wk5-sAQbzEQ/mqdefault.jpg",
+          "published_at": "2026-09-21T13:16:00Z",
+          "url": "https://www.youtube.com/watch?v=wk5-sAQbzEQ"
+        },
         {
           "id": "Sqv6uxqP2BU",
           "title": "Friedrich Nietzsche: Life and Philosophy | \u092b\u094d\u0930\u0947\u0921\u0930\u093f\u0915 \u0928\u0940\u0924\u094d\u0936\u0947: \u091c\u0940\u0935\u0928 \u0914\u0930 \u0926\u0930\u094d\u0936\u0928",
@@ -3752,6 +3759,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "U5Uz36z9u-I",
+          "title": "Ding vs Vincent || 46th FIDE Chess Olympiad 2026",
+          "thumbnail": "https://i.ytimg.com/vi/U5Uz36z9u-I/mqdefault.jpg",
+          "published_at": "2026-09-21T15:59:42Z",
+          "url": "https://www.youtube.com/watch?v=U5Uz36z9u-I"
+        },
+        {
+          "id": "HTE5SItNeiw",
+          "title": "Uzbekistan vs India | 46th FIDE Chess Olympiad 2026",
+          "thumbnail": "https://i.ytimg.com/vi/HTE5SItNeiw/mqdefault.jpg",
+          "published_at": "2026-09-21T15:17:17Z",
+          "url": "https://www.youtube.com/watch?v=HTE5SItNeiw"
+        },
+        {
           "id": "35ZFTvGt-qI",
           "title": "To Avoid Losing a Pawn... || Frederik Svane vs Hans Niemann | 46th FIDE Chess Olympiad 2026",
           "thumbnail": "https://i.ytimg.com/vi/35ZFTvGt-qI/mqdefault.jpg",
@@ -4086,20 +4107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/7DyOTUGRw9g/mqdefault.jpg",
           "published_at": "2026-08-23T13:53:00Z",
           "url": "https://www.youtube.com/watch?v=7DyOTUGRw9g"
-        },
-        {
-          "id": "vlpRAsZbJM0",
-          "title": "Lotus Chess August Arena - lichess.org",
-          "thumbnail": "https://i.ytimg.com/vi/vlpRAsZbJM0/mqdefault.jpg",
-          "published_at": "2026-08-22T18:40:15Z",
-          "url": "https://www.youtube.com/watch?v=vlpRAsZbJM0"
-        },
-        {
-          "id": "5UFhzwB3U-k",
-          "title": "He Couldn't Resist Sacrificing His Queen to Such An Opponent",
-          "thumbnail": "https://i.ytimg.com/vi/5UFhzwB3U-k/mqdefault.jpg",
-          "published_at": "2026-08-22T11:26:33Z",
-          "url": "https://www.youtube.com/watch?v=5UFhzwB3U-k"
         }
       ]
     },
@@ -5390,6 +5397,13 @@
       "thumbnail": "https://yt3.ggpht.com/J-mQZ7gIHpil3l78nqzKNPSYqeU9fkzg8xxeQP0WVEKxEG8-puK1Hf-sJURo-lKtK8ykLPekaAE=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "YAGaqmXcrTQ",
+          "title": "What the Hell Happened to Veganism?",
+          "thumbnail": "https://i.ytimg.com/vi/YAGaqmXcrTQ/mqdefault.jpg",
+          "published_at": "2026-09-21T17:16:51Z",
+          "url": "https://www.youtube.com/watch?v=YAGaqmXcrTQ"
+        },
+        {
           "id": "dy55smEWHD0",
           "title": "Meat eater accuses vegan of forcing him into a corner",
           "thumbnail": "https://i.ytimg.com/vi/dy55smEWHD0/mqdefault.jpg",
@@ -5731,13 +5745,6 @@
           "thumbnail": "https://i.ytimg.com/vi/KyvX_Qnk3D4/mqdefault.jpg",
           "published_at": "2024-05-31T16:50:44Z",
           "url": "https://www.youtube.com/watch?v=KyvX_Qnk3D4"
-        },
-        {
-          "id": "nlZ0EBBnR2c",
-          "title": "I never imagined this would happen.",
-          "thumbnail": "https://i.ytimg.com/vi/nlZ0EBBnR2c/mqdefault.jpg",
-          "published_at": "2024-05-14T17:38:45Z",
-          "url": "https://www.youtube.com/watch?v=nlZ0EBBnR2c"
         }
       ]
     }
