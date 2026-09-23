@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T09:32:10.229228+00:00",
+  "last_updated": "2026-09-23T09:37:10.656309+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "JsBZOcqZerk",
-          "title": "The Machine That Cracked WWII's \"Unbreakable\" Code",
+          "title": "This Machine Made Wartime Germany (Almost) Impossible to Defeat",
           "thumbnail": "https://i.ytimg.com/vi/JsBZOcqZerk/mqdefault.jpg",
           "published_at": "2026-09-21T17:49:57Z",
           "url": "https://www.youtube.com/watch?v=JsBZOcqZerk"
@@ -2220,7 +2220,7 @@
       "videos": [
         {
           "id": "wk5-sAQbzEQ",
-          "title": "Anton Chekhov - \u0936\u0930\u094d\u0924 (The Bet)",
+          "title": "Anton Chekhov - \u0936\u0930\u094d\u0924 (The Bet) | Philosophical Short Story",
           "thumbnail": "https://i.ytimg.com/vi/wk5-sAQbzEQ/mqdefault.jpg",
           "published_at": "2026-09-21T13:16:00Z",
           "url": "https://www.youtube.com/watch?v=wk5-sAQbzEQ"
@@ -3402,6 +3402,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "QW_jlUn4gA8",
+          "title": "This Is What a Godlike Civilization Would Look Like",
+          "thumbnail": "https://i.ytimg.com/vi/QW_jlUn4gA8/mqdefault.jpg",
+          "published_at": "2026-09-22T14:00:01Z",
+          "url": "https://www.youtube.com/watch?v=QW_jlUn4gA8"
+        },
+        {
           "id": "0NY2gAftzJE",
           "title": "This Woman Cured Her Cancer with an Insane Method",
           "thumbnail": "https://i.ytimg.com/vi/0NY2gAftzJE/mqdefault.jpg",
@@ -3743,13 +3750,6 @@
           "thumbnail": "https://i.ytimg.com/vi/cRZOUcpiOxY/mqdefault.jpg",
           "published_at": "2024-08-13T14:00:01Z",
           "url": "https://www.youtube.com/watch?v=cRZOUcpiOxY"
-        },
-        {
-          "id": "fa8k8IQ1_X0",
-          "title": "A.I. \u2010 Humanity's Final Invention?",
-          "thumbnail": "https://i.ytimg.com/vi/fa8k8IQ1_X0/mqdefault.jpg",
-          "published_at": "2024-08-06T14:00:09Z",
-          "url": "https://www.youtube.com/watch?v=fa8k8IQ1_X0"
         }
       ]
     },
@@ -3758,6 +3758,13 @@
       "name": "agadmator's Chess Channel",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "1q_bhxz0NUY",
+          "title": "In The Last Moment Possible || Hans Niemann vs Frode Urkedal || 46th FIDE Chess Olympiad 2026",
+          "thumbnail": "https://i.ytimg.com/vi/1q_bhxz0NUY/mqdefault.jpg",
+          "published_at": "2026-09-22T13:57:33Z",
+          "url": "https://www.youtube.com/watch?v=1q_bhxz0NUY"
+        },
         {
           "id": "U5Uz36z9u-I",
           "title": "Ding vs Vincent || 46th FIDE Chess Olympiad 2026",
@@ -4100,13 +4107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Anitoxq0Lww/mqdefault.jpg",
           "published_at": "2026-08-24T12:32:12Z",
           "url": "https://www.youtube.com/watch?v=Anitoxq0Lww"
-        },
-        {
-          "id": "7DyOTUGRw9g",
-          "title": "Grand Chess Tour 2026 Finals",
-          "thumbnail": "https://i.ytimg.com/vi/7DyOTUGRw9g/mqdefault.jpg",
-          "published_at": "2026-08-23T13:53:00Z",
-          "url": "https://www.youtube.com/watch?v=7DyOTUGRw9g"
         }
       ]
     },
