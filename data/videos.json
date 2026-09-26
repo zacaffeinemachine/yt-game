@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T09:53:50.783995+00:00",
+  "last_updated": "2026-09-26T09:36:21.187718+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "JsBZOcqZerk",
-          "title": "The Insane Real Engineering of the Nazis' Enigma",
+          "title": "The Insane Real Engineering of the Nazi Enigma Machine",
           "thumbnail": "https://i.ytimg.com/vi/JsBZOcqZerk/mqdefault.jpg",
           "published_at": "2026-09-21T17:49:57Z",
           "url": "https://www.youtube.com/watch?v=JsBZOcqZerk"
@@ -3759,6 +3759,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "bvvFztUDrjc",
+          "title": "The Dark Forest || Wesley So vs Javokhir Sindarov | 46th FIDE Chess Olympiad 2026",
+          "thumbnail": "https://i.ytimg.com/vi/bvvFztUDrjc/mqdefault.jpg",
+          "published_at": "2026-09-26T08:03:13Z",
+          "url": "https://www.youtube.com/watch?v=bvvFztUDrjc"
+        },
+        {
+          "id": "MOvnFKqvCqI",
+          "title": "Best of the Best || Nodirbek Abdusattorov vs Fabiano Caruana | 46th FIDE Chess Olympiad 2026",
+          "thumbnail": "https://i.ytimg.com/vi/MOvnFKqvCqI/mqdefault.jpg",
+          "published_at": "2026-09-25T22:47:40Z",
+          "url": "https://www.youtube.com/watch?v=MOvnFKqvCqI"
+        },
+        {
           "id": "swUeA-EERQA",
           "title": "The Human Machine || Fabiano Caruana vs Alexei Sarana || 46th FIDE Chess Olympiad 2026",
           "thumbnail": "https://i.ytimg.com/vi/swUeA-EERQA/mqdefault.jpg",
@@ -4093,20 +4107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/8jLaz8HK1fw/mqdefault.jpg",
           "published_at": "2026-08-31T13:27:23Z",
           "url": "https://www.youtube.com/watch?v=8jLaz8HK1fw"
-        },
-        {
-          "id": "bsEdyotpPX0",
-          "title": "Attacking is Easy... Defending is HARD || Ya\u011f\u0131z Kaan vs Nodirbek || Green Hills Resort Masters 2026",
-          "thumbnail": "https://i.ytimg.com/vi/bsEdyotpPX0/mqdefault.jpg",
-          "published_at": "2026-08-31T12:07:35Z",
-          "url": "https://www.youtube.com/watch?v=bsEdyotpPX0"
-        },
-        {
-          "id": "1p9ZxmBMt7s",
-          "title": "Alireza, The Wizard",
-          "thumbnail": "https://i.ytimg.com/vi/1p9ZxmBMt7s/mqdefault.jpg",
-          "published_at": "2026-08-30T14:30:54Z",
-          "url": "https://www.youtube.com/watch?v=1p9ZxmBMt7s"
         }
       ]
     },
@@ -4115,6 +4115,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "BuAxlNLPwUc",
+          "title": "Protein EVERYTHING: How the Obsession was Manufactured",
+          "thumbnail": "https://i.ytimg.com/vi/BuAxlNLPwUc/mqdefault.jpg",
+          "published_at": "2026-09-25T23:19:53Z",
+          "url": "https://www.youtube.com/watch?v=BuAxlNLPwUc"
+        },
         {
           "id": "cNyZdSXm_Zo",
           "title": "Expert Warns of AI Doomsday in 10 Years. Should We Be \"AI Vegan\"?",
@@ -4457,13 +4464,6 @@
           "thumbnail": "https://i.ytimg.com/vi/w5PfGmGSYX4/mqdefault.jpg",
           "published_at": "2025-11-08T01:47:18Z",
           "url": "https://www.youtube.com/watch?v=w5PfGmGSYX4"
-        },
-        {
-          "id": "EIi6Th5pDLM",
-          "title": "The MAHA Diet EXPOSED",
-          "thumbnail": "https://i.ytimg.com/vi/EIi6Th5pDLM/mqdefault.jpg",
-          "published_at": "2025-10-31T23:16:12Z",
-          "url": "https://www.youtube.com/watch?v=EIi6Th5pDLM"
         }
       ]
     },
