@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T10:58:38.956471+00:00",
+  "last_updated": "2026-09-30T10:47:51.695809+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -1862,6 +1862,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nYFWjG64F27JNXiQXMCKYB0umXlsvIxNxkHzaBByxxeDk=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "zrNa9k6sSlg",
+          "title": "How Solar Is Beating Nuclear's Best Idea",
+          "thumbnail": "https://i.ytimg.com/vi/zrNa9k6sSlg/mqdefault.jpg",
+          "published_at": "2026-09-29T12:16:57Z",
+          "url": "https://www.youtube.com/watch?v=zrNa9k6sSlg"
+        },
+        {
           "id": "N3EqEocLPJk",
           "title": "The World\u2019s Largest Air Battery Just Switched On",
           "thumbnail": "https://i.ytimg.com/vi/N3EqEocLPJk/mqdefault.jpg",
@@ -2203,13 +2210,6 @@
           "thumbnail": "https://i.ytimg.com/vi/L1kyvI2m6UY/mqdefault.jpg",
           "published_at": "2025-08-05T12:16:46Z",
           "url": "https://www.youtube.com/watch?v=L1kyvI2m6UY"
-        },
-        {
-          "id": "LbprE3qROs0",
-          "title": "How Nature Solved Platinum's $2 Trillion Problem",
-          "thumbnail": "https://i.ytimg.com/vi/LbprE3qROs0/mqdefault.jpg",
-          "published_at": "2025-07-29T12:16:48Z",
-          "url": "https://www.youtube.com/watch?v=LbprE3qROs0"
         }
       ]
     },
@@ -3759,6 +3759,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "HivQJzOjU7M",
+          "title": "Calm Through the Storm || Alexander Donchenko vs Gukesh | 46th FIDE Chess Olympiad 2026",
+          "thumbnail": "https://i.ytimg.com/vi/HivQJzOjU7M/mqdefault.jpg",
+          "published_at": "2026-09-29T13:56:56Z",
+          "url": "https://www.youtube.com/watch?v=HivQJzOjU7M"
+        },
+        {
           "id": "LFyoROLP_pU",
           "title": "Game of The Olympiad! || Abdimalik Abdisalimov vs Wei Yi | 46th FIDE Chess Olympiad 2026",
           "thumbnail": "https://i.ytimg.com/vi/LFyoROLP_pU/mqdefault.jpg",
@@ -4100,13 +4107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/SQ_DH83TR3Y/mqdefault.jpg",
           "published_at": "2026-09-07T14:38:24Z",
           "url": "https://www.youtube.com/watch?v=SQ_DH83TR3Y"
-        },
-        {
-          "id": "A7LBPVaCc3E",
-          "title": "Faster than Lightning || Vishy vs Magnus || Tech Mahindra Global Chess League 2026",
-          "thumbnail": "https://i.ytimg.com/vi/A7LBPVaCc3E/mqdefault.jpg",
-          "published_at": "2026-09-07T12:14:55Z",
-          "url": "https://www.youtube.com/watch?v=A7LBPVaCc3E"
         }
       ]
     },
