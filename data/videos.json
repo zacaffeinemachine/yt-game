@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T11:14:20.876626+00:00",
+  "last_updated": "2026-10-02T10:47:01.937808+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3759,6 +3759,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "VuY0b-8fOwY",
+          "title": "Alien Abduction || Magnus Carlsen vs Volen Dyulgerov || Chess Club Showdown 2026",
+          "thumbnail": "https://i.ytimg.com/vi/VuY0b-8fOwY/mqdefault.jpg",
+          "published_at": "2026-10-01T12:47:22Z",
+          "url": "https://www.youtube.com/watch?v=VuY0b-8fOwY"
+        },
+        {
           "id": "CsHWpFu7DDI",
           "title": "Facing The Timeless Giant || Vasyl Ivanchuk vs Javokhir Sindarov || 46th FIDE Chess Olympiad 2026",
           "thumbnail": "https://i.ytimg.com/vi/CsHWpFu7DDI/mqdefault.jpg",
@@ -4100,13 +4107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Pc5R83JUmDw/mqdefault.jpg",
           "published_at": "2026-09-08T18:43:18Z",
           "url": "https://www.youtube.com/watch?v=Pc5R83JUmDw"
-        },
-        {
-          "id": "dt22Dn0CgG8",
-          "title": "A Bolt From the Blue || Nepo vs Anand || Tech Mahindra Global Chess League 2026",
-          "thumbnail": "https://i.ytimg.com/vi/dt22Dn0CgG8/mqdefault.jpg",
-          "published_at": "2026-09-08T14:20:15Z",
-          "url": "https://www.youtube.com/watch?v=dt22Dn0CgG8"
         }
       ]
     },
