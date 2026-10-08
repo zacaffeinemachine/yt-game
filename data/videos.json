@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T11:24:41.830423+00:00",
+  "last_updated": "2026-10-08T11:40:18.504459+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -2954,6 +2954,13 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "dU7gCt-7kKk",
+          "title": "the entire history of 4chan, i guess",
+          "thumbnail": "https://i.ytimg.com/vi/dU7gCt-7kKk/mqdefault.jpg",
+          "published_at": "2026-10-07T17:23:23Z",
+          "url": "https://www.youtube.com/watch?v=dU7gCt-7kKk"
+        },
+        {
           "id": "4zxG_oUxBg4",
           "title": "The Scariest Building in Europe",
           "thumbnail": "https://i.ytimg.com/vi/4zxG_oUxBg4/mqdefault.jpg",
@@ -3295,13 +3302,6 @@
           "thumbnail": "https://i.ytimg.com/vi/8Gm7kSUkBAk/mqdefault.jpg",
           "published_at": "2025-10-08T15:10:53Z",
           "url": "https://www.youtube.com/watch?v=8Gm7kSUkBAk"
-        },
-        {
-          "id": "1aQutbZq0v0",
-          "title": "How Egypt is Flooding the Desert",
-          "thumbnail": "https://i.ytimg.com/vi/1aQutbZq0v0/mqdefault.jpg",
-          "published_at": "2025-09-29T13:00:04Z",
-          "url": "https://www.youtube.com/watch?v=1aQutbZq0v0"
         }
       ]
     },
