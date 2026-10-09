@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T11:40:18.504459+00:00",
+  "last_updated": "2026-10-09T11:33:41.973757+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -2955,7 +2955,7 @@
       "videos": [
         {
           "id": "dU7gCt-7kKk",
-          "title": "the entire history of 4chan, i guess",
+          "title": "The Strangest Place on the Internet",
           "thumbnail": "https://i.ytimg.com/vi/dU7gCt-7kKk/mqdefault.jpg",
           "published_at": "2026-10-07T17:23:23Z",
           "url": "https://www.youtube.com/watch?v=dU7gCt-7kKk"
@@ -3402,6 +3402,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "_y9JuojAIg0",
+          "title": "We Finally Know More About Humanity\u2019s First Civilization",
+          "thumbnail": "https://i.ytimg.com/vi/_y9JuojAIg0/mqdefault.jpg",
+          "published_at": "2026-10-08T14:07:00Z",
+          "url": "https://www.youtube.com/watch?v=_y9JuojAIg0"
+        },
+        {
           "id": "ujkD4SxPKOI",
           "title": "AI Just Crossed the Terrifying Line - Now What?",
           "thumbnail": "https://i.ytimg.com/vi/ujkD4SxPKOI/mqdefault.jpg",
@@ -3743,13 +3750,6 @@
           "thumbnail": "https://i.ytimg.com/vi/vSSkDos2hzo/mqdefault.jpg",
           "published_at": "2024-09-12T14:01:11Z",
           "url": "https://www.youtube.com/watch?v=vSSkDos2hzo"
-        },
-        {
-          "id": "dBxxi5XAm3U",
-          "title": "We Traveled Back in Time. Now Physicists Are Angry.",
-          "thumbnail": "https://i.ytimg.com/vi/dBxxi5XAm3U/mqdefault.jpg",
-          "published_at": "2024-08-27T14:00:00Z",
-          "url": "https://www.youtube.com/watch?v=dBxxi5XAm3U"
         }
       ]
     },
@@ -3758,6 +3758,20 @@
       "name": "agadmator's Chess Channel",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "qnrDx5OP_To",
+          "title": "Lotus Chess October Arena - lichess.org",
+          "thumbnail": "https://i.ytimg.com/vi/qnrDx5OP_To/mqdefault.jpg",
+          "published_at": "2026-10-08T18:43:11Z",
+          "url": "https://www.youtube.com/watch?v=qnrDx5OP_To"
+        },
+        {
+          "id": "Ak6yM51zdYE",
+          "title": "\"The Old Warrior's Weak Point\" || Bobby Fischer vs Samuel Reshevsky || Fischer-Reshevsky (1961) G2",
+          "thumbnail": "https://i.ytimg.com/vi/Ak6yM51zdYE/mqdefault.jpg",
+          "published_at": "2026-10-08T12:48:10Z",
+          "url": "https://www.youtube.com/watch?v=Ak6yM51zdYE"
+        },
         {
           "id": "q2E8yBWC54s",
           "title": "\"Forgive Me, Father\" || William Lombardy vs Bobby Fischer || United States Championship (1960/61)",
@@ -4093,20 +4107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/44OpRv-mXrU/mqdefault.jpg",
           "published_at": "2026-09-11T14:16:24Z",
           "url": "https://www.youtube.com/watch?v=44OpRv-mXrU"
-        },
-        {
-          "id": "NXog9AnlTIA",
-          "title": "Clash of Challengers || Javokhir vs Nepo || Tech Mahindra Global Chess 2026",
-          "thumbnail": "https://i.ytimg.com/vi/NXog9AnlTIA/mqdefault.jpg",
-          "published_at": "2026-09-11T10:06:50Z",
-          "url": "https://www.youtube.com/watch?v=NXog9AnlTIA"
-        },
-        {
-          "id": "TdJYImoukgM",
-          "title": "The Ghosts of Chess Past || Magnus vs Vishy Anand || Tech Mahindra Global Chess 2026",
-          "thumbnail": "https://i.ytimg.com/vi/TdJYImoukgM/mqdefault.jpg",
-          "published_at": "2026-09-10T14:13:49Z",
-          "url": "https://www.youtube.com/watch?v=TdJYImoukgM"
         }
       ]
     },
