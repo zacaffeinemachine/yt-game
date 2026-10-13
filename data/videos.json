@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T12:32:24.370668+00:00",
+  "last_updated": "2026-10-13T12:16:10.071715+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -364,6 +364,13 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "NiCgcUTL9_Q",
+          "title": "The Clearest Material Ever Made",
+          "thumbnail": "https://i.ytimg.com/vi/NiCgcUTL9_Q/mqdefault.jpg",
+          "published_at": "2026-10-12T17:11:45Z",
+          "url": "https://www.youtube.com/watch?v=NiCgcUTL9_Q"
+        },
+        {
           "id": "ONAuUyml0yI",
           "title": "We're trying something new...",
           "thumbnail": "https://i.ytimg.com/vi/ONAuUyml0yI/mqdefault.jpg",
@@ -638,7 +645,7 @@
         },
         {
           "id": "J3i3F2e4IYs",
-          "title": "The Biggest Misconception in Football (ft. Tom Brady)",
+          "title": "We don't understand how a football works (ft. Tom Brady)",
           "thumbnail": "https://i.ytimg.com/vi/J3i3F2e4IYs/mqdefault.jpg",
           "published_at": "2025-06-01T05:31:02Z",
           "url": "https://www.youtube.com/watch?v=J3i3F2e4IYs"
@@ -705,13 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/88bMVbx1dzM/mqdefault.jpg",
           "published_at": "2025-02-05T15:02:34Z",
           "url": "https://www.youtube.com/watch?v=88bMVbx1dzM"
-        },
-        {
-          "id": "Ni82f1-cAXg",
-          "title": "Why Super Glue Is Perfect For Gluing Skin",
-          "thumbnail": "https://i.ytimg.com/vi/Ni82f1-cAXg/mqdefault.jpg",
-          "published_at": "2025-01-28T19:17:22Z",
-          "url": "https://www.youtube.com/watch?v=Ni82f1-cAXg"
         }
       ]
     },
@@ -3759,6 +3759,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "1Vp-pbU9c5A",
+          "title": "The Machine is Back! || Fabiano Caruana vs Ray Robson || U.S. Chess Championships 2026",
+          "thumbnail": "https://i.ytimg.com/vi/1Vp-pbU9c5A/mqdefault.jpg",
+          "published_at": "2026-10-13T10:16:13Z",
+          "url": "https://www.youtube.com/watch?v=1Vp-pbU9c5A"
+        },
+        {
+          "id": "lWq9xDbBzsg",
+          "title": "Lords of Chaos || Wesley So vs Jeffrey Xiong || U.S. Chess Championships 2026",
+          "thumbnail": "https://i.ytimg.com/vi/lWq9xDbBzsg/mqdefault.jpg",
+          "published_at": "2026-10-12T13:24:38Z",
+          "url": "https://www.youtube.com/watch?v=lWq9xDbBzsg"
+        },
+        {
           "id": "8svwFGKpGTY",
           "title": "When 2 Puzzle World Champions Meet || Ray Robson vs Andy Woodward || U.S. Chess Championships 2026",
           "thumbnail": "https://i.ytimg.com/vi/8svwFGKpGTY/mqdefault.jpg",
@@ -4093,20 +4107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/wAapkVR2Xe4/mqdefault.jpg",
           "published_at": "2026-09-16T13:56:55Z",
           "url": "https://www.youtube.com/watch?v=wAapkVR2Xe4"
-        },
-        {
-          "id": "_4v5xaH6pa8",
-          "title": "KASPAROV vs TOPALOV || Clutch Chess: The Legends 2026",
-          "thumbnail": "https://i.ytimg.com/vi/_4v5xaH6pa8/mqdefault.jpg",
-          "published_at": "2026-09-15T17:45:44Z",
-          "url": "https://www.youtube.com/watch?v=_4v5xaH6pa8"
-        },
-        {
-          "id": "U2pINhGF47k",
-          "title": "Go Big or Go Home! || Magnus vs Nepo || Tech Mahindra Global Chess League 2026",
-          "thumbnail": "https://i.ytimg.com/vi/U2pINhGF47k/mqdefault.jpg",
-          "published_at": "2026-09-14T14:33:51Z",
-          "url": "https://www.youtube.com/watch?v=U2pINhGF47k"
         }
       ]
     },
