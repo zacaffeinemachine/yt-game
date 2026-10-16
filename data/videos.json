@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T09:30:07.746618+00:00",
+  "last_updated": "2026-10-16T09:22:50.570463+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -589,7 +589,7 @@
         },
         {
           "id": "onr80iOoEXs",
-          "title": "Alfred Nobel: The Man Who Fooled The World",
+          "title": "The Nobel prize has a dark history...",
           "thumbnail": "https://i.ytimg.com/vi/onr80iOoEXs/mqdefault.jpg",
           "published_at": "2025-09-21T14:13:30Z",
           "url": "https://www.youtube.com/watch?v=onr80iOoEXs"
@@ -2241,7 +2241,7 @@
       "videos": [
         {
           "id": "RNwee_AUno4",
-          "title": "Struggling to climb! Olympic 411",
+          "title": "They couldn't climb! The horrifying story of Olympic 411",
           "thumbnail": "https://i.ytimg.com/vi/RNwee_AUno4/mqdefault.jpg",
           "published_at": "2026-09-23T16:00:24Z",
           "url": "https://www.youtube.com/watch?v=RNwee_AUno4"
@@ -3102,7 +3102,7 @@
         },
         {
           "id": "5ZqolNRkxvM",
-          "title": "The Hunt for America's Weirdest Killer",
+          "title": "Decoding the Zodiac Killer",
           "thumbnail": "https://i.ytimg.com/vi/5ZqolNRkxvM/mqdefault.jpg",
           "published_at": "2026-05-18T17:18:50Z",
           "url": "https://www.youtube.com/watch?v=5ZqolNRkxvM"
@@ -3310,6 +3310,13 @@
       "name": "Nightshift \u2013 Kurzgesagt After Dark",
       "thumbnail": "https://yt3.ggpht.com/eXEBNg6ggwrJopuwMkvxi-ZZhlTOAo8juTk5FBWDoE8qvoLPXWInWKtVKJN5SKiOpheZyudT=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "kGvF7ATAqoo",
+          "title": "The Real Story of the Mongolian Singing Dunes",
+          "thumbnail": "https://i.ytimg.com/vi/kGvF7ATAqoo/mqdefault.jpg",
+          "published_at": "2026-10-15T14:00:08Z",
+          "url": "https://www.youtube.com/watch?v=kGvF7ATAqoo"
+        },
         {
           "id": "AcjDyzYcIkc",
           "title": "Why These Nuns Cut off Their Noses and Lips",
@@ -3759,6 +3766,27 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "mzTolKTW2qI",
+          "title": "Blink And it's Over || Sam Shankland vs Fabiano Caruana || U.S. Chess Championships 2026",
+          "thumbnail": "https://i.ytimg.com/vi/mzTolKTW2qI/mqdefault.jpg",
+          "published_at": "2026-10-16T09:06:22Z",
+          "url": "https://www.youtube.com/watch?v=mzTolKTW2qI"
+        },
+        {
+          "id": "2_Gk4begNeg",
+          "title": "No One REALLY Knows Endgames || Hans Niemann vs Ray Robson || U.S. Chess Championships 2026",
+          "thumbnail": "https://i.ytimg.com/vi/2_Gk4begNeg/mqdefault.jpg",
+          "published_at": "2026-10-15T13:48:39Z",
+          "url": "https://www.youtube.com/watch?v=2_Gk4begNeg"
+        },
+        {
+          "id": "hQe9rNBg_1E",
+          "title": "Put This Game in Every Book || Andy Woodward vs Fabiano Caruana || U.S. Chess Championships 2026",
+          "thumbnail": "https://i.ytimg.com/vi/hQe9rNBg_1E/mqdefault.jpg",
+          "published_at": "2026-10-15T10:47:34Z",
+          "url": "https://www.youtube.com/watch?v=hQe9rNBg_1E"
+        },
+        {
           "id": "ghYNkQZU6gI",
           "title": "So Many Wonders in One Game || Awonder Liang vs Jeffery Xiong || U.S. Chess Championships 2026",
           "thumbnail": "https://i.ytimg.com/vi/ghYNkQZU6gI/mqdefault.jpg",
@@ -4086,27 +4114,6 @@
           "thumbnail": "https://i.ytimg.com/vi/y4ySPtyqXdU/mqdefault.jpg",
           "published_at": "2026-09-18T09:55:12Z",
           "url": "https://www.youtube.com/watch?v=y4ySPtyqXdU"
-        },
-        {
-          "id": "fmIUJ044IPk",
-          "title": "The Saviour! || Nihal Sarin vs Arif Abdul Hafiz || 46th FIDE Chess Olympiad 2026 R2",
-          "thumbnail": "https://i.ytimg.com/vi/fmIUJ044IPk/mqdefault.jpg",
-          "published_at": "2026-09-17T18:05:55Z",
-          "url": "https://www.youtube.com/watch?v=fmIUJ044IPk"
-        },
-        {
-          "id": "dgMcZ9oOHgs",
-          "title": "Prepare The Brilliancy Prize! || Diego Quillas vs Javokhir Sindarov || 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/dgMcZ9oOHgs/mqdefault.jpg",
-          "published_at": "2026-09-17T14:21:36Z",
-          "url": "https://www.youtube.com/watch?v=dgMcZ9oOHgs"
-        },
-        {
-          "id": "2f5BFix8sW4",
-          "title": "850-Point Rating Difference! || Gukesh vs Faris Alriyami || 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/2f5BFix8sW4/mqdefault.jpg",
-          "published_at": "2026-09-17T08:52:14Z",
-          "url": "https://www.youtube.com/watch?v=2f5BFix8sW4"
         }
       ]
     },
