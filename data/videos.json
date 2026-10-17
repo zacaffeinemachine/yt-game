@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-16T09:22:50.570463+00:00",
+  "last_updated": "2026-10-17T08:54:07.642391+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
       "name": "3Blue1Brown",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "LKrwhjOI8Nc",
+          "title": "There's never been a better time to go into math",
+          "thumbnail": "https://i.ytimg.com/vi/LKrwhjOI8Nc/mqdefault.jpg",
+          "published_at": "2026-10-16T16:15:20Z",
+          "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc"
+        },
         {
           "id": "Nbwv5wHQoj0",
           "title": "The last IMO problem AI could not solve",
@@ -348,13 +355,6 @@
           "thumbnail": "https://i.ytimg.com/vi/LqbZpur38nw/mqdefault.jpg",
           "published_at": "2021-10-16T12:39:12Z",
           "url": "https://www.youtube.com/watch?v=LqbZpur38nw"
-        },
-        {
-          "id": "-RdOwhmqP5s",
-          "title": "Newton\u2019s fractal (which Newton knew nothing about)",
-          "thumbnail": "https://i.ytimg.com/vi/-RdOwhmqP5s/mqdefault.jpg",
-          "published_at": "2021-10-12T18:57:07Z",
-          "url": "https://www.youtube.com/watch?v=-RdOwhmqP5s"
         }
       ]
     },
@@ -2240,6 +2240,13 @@
       "thumbnail": "https://yt3.ggpht.com/UA49UqXeNmPQQpfO41F9aFiAzJjCQETaPHCGbJrjW4u9snhqGIQyskZPK99hrhk0Ur9AoMTFVw=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "M-riK_SEJBQ",
+          "title": "A TINY mistake doomed this flight | Eastern 855",
+          "thumbnail": "https://i.ytimg.com/vi/M-riK_SEJBQ/mqdefault.jpg",
+          "published_at": "2026-10-16T11:00:09Z",
+          "url": "https://www.youtube.com/watch?v=M-riK_SEJBQ"
+        },
+        {
           "id": "RNwee_AUno4",
           "title": "They couldn't climb! The horrifying story of Olympic 411",
           "thumbnail": "https://i.ytimg.com/vi/RNwee_AUno4/mqdefault.jpg",
@@ -2581,13 +2588,6 @@
           "thumbnail": "https://i.ytimg.com/vi/gaRnDgvitR4/mqdefault.jpg",
           "published_at": "2023-03-26T20:00:06Z",
           "url": "https://www.youtube.com/watch?v=gaRnDgvitR4"
-        },
-        {
-          "id": "T7uw6VzWHcM",
-          "title": "INFERNO over Dubai | The Horror of UPS 6",
-          "thumbnail": "https://i.ytimg.com/vi/T7uw6VzWHcM/mqdefault.jpg",
-          "published_at": "2023-03-16T00:30:12Z",
-          "url": "https://www.youtube.com/watch?v=T7uw6VzWHcM"
         }
       ]
     },
@@ -3508,7 +3508,7 @@
         },
         {
           "id": "H4KMQuyxH_Y",
-          "title": "Tattoo Removal Is Insane",
+          "title": "Wait, Tattoo Lasering Is Insane!",
           "thumbnail": "https://i.ytimg.com/vi/H4KMQuyxH_Y/mqdefault.jpg",
           "published_at": "2025-12-12T15:00:02Z",
           "url": "https://www.youtube.com/watch?v=H4KMQuyxH_Y"
@@ -3765,6 +3765,20 @@
       "name": "agadmator's Chess Channel",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "utSvrGN_Pf0",
+          "title": "This is Real Chess! || Ray Robson vs Wesley So || U.S. Chess Championships 2026",
+          "thumbnail": "https://i.ytimg.com/vi/utSvrGN_Pf0/mqdefault.jpg",
+          "published_at": "2026-10-17T08:25:00Z",
+          "url": "https://www.youtube.com/watch?v=utSvrGN_Pf0"
+        },
+        {
+          "id": "02T1AV2upfg",
+          "title": "The Worst Decision || Awonder Liang vs Levon Aronian || U.S. Chess Championships 2026",
+          "thumbnail": "https://i.ytimg.com/vi/02T1AV2upfg/mqdefault.jpg",
+          "published_at": "2026-10-16T13:05:48Z",
+          "url": "https://www.youtube.com/watch?v=02T1AV2upfg"
+        },
         {
           "id": "mzTolKTW2qI",
           "title": "Blink And it's Over || Sam Shankland vs Fabiano Caruana || U.S. Chess Championships 2026",
@@ -4100,20 +4114,6 @@
           "thumbnail": "https://i.ytimg.com/vi/HdJ6sPRxcu0/mqdefault.jpg",
           "published_at": "2026-09-18T19:31:45Z",
           "url": "https://www.youtube.com/watch?v=HdJ6sPRxcu0"
-        },
-        {
-          "id": "K1cuFOwLfNs",
-          "title": "Challenge Accepted! || Javokhir Sindarov vs Felix Blohberger | 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/K1cuFOwLfNs/mqdefault.jpg",
-          "published_at": "2026-09-18T14:14:27Z",
-          "url": "https://www.youtube.com/watch?v=K1cuFOwLfNs"
-        },
-        {
-          "id": "y4ySPtyqXdU",
-          "title": "The Game That Keeps on Giving || Nodirbek Abdusattorov vs Jorge Cori | 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/y4ySPtyqXdU/mqdefault.jpg",
-          "published_at": "2026-09-18T09:55:12Z",
-          "url": "https://www.youtube.com/watch?v=y4ySPtyqXdU"
         }
       ]
     },
@@ -4122,6 +4122,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "jf6lsK18B9k",
+          "title": "\"There\u2019s never been a worse time to be a vegan\" Telegraph Response",
+          "thumbnail": "https://i.ytimg.com/vi/jf6lsK18B9k/mqdefault.jpg",
+          "published_at": "2026-10-17T00:09:39Z",
+          "url": "https://www.youtube.com/watch?v=jf6lsK18B9k"
+        },
         {
           "id": "nRCvB04E7uI",
           "title": "\"Cholesterol is barely relevant to heart disease\" Dr Fung Debunked",
@@ -4464,13 +4471,6 @@
           "thumbnail": "https://i.ytimg.com/vi/QloUqDnJmXo/mqdefault.jpg",
           "published_at": "2025-11-21T23:55:39Z",
           "url": "https://www.youtube.com/watch?v=QloUqDnJmXo"
-        },
-        {
-          "id": "YLMvyd7wOQ4",
-          "title": "The Cat Parasite Lie: Where Humans Really Get Toxoplasmosis",
-          "thumbnail": "https://i.ytimg.com/vi/YLMvyd7wOQ4/mqdefault.jpg",
-          "published_at": "2025-11-18T23:45:22Z",
-          "url": "https://www.youtube.com/watch?v=YLMvyd7wOQ4"
         }
       ]
     },
@@ -5047,6 +5047,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nHMEGcI8PxO0vdIbD5hdsDERWUfdWw8gozBw0BEOHl19g=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "kINLt02jFsg",
+          "title": "I Tried Living in Constant Pain for 10 Years",
+          "thumbnail": "https://i.ytimg.com/vi/kINLt02jFsg/mqdefault.jpg",
+          "published_at": "2026-10-16T16:50:24Z",
+          "url": "https://www.youtube.com/watch?v=kINLt02jFsg"
+        },
+        {
           "id": "VrX1hBx-ZXY",
           "title": "the rat situation is crazy",
           "thumbnail": "https://i.ytimg.com/vi/VrX1hBx-ZXY/mqdefault.jpg",
@@ -5388,13 +5395,6 @@
           "thumbnail": "https://i.ytimg.com/vi/lW3LyAGOGn4/mqdefault.jpg",
           "published_at": "2021-10-10T16:17:10Z",
           "url": "https://www.youtube.com/watch?v=lW3LyAGOGn4"
-        },
-        {
-          "id": "VTq0M2ODhR4",
-          "title": "Why People Don't Take You Seriously",
-          "thumbnail": "https://i.ytimg.com/vi/VTq0M2ODhR4/mqdefault.jpg",
-          "published_at": "2021-09-19T16:16:43Z",
-          "url": "https://www.youtube.com/watch?v=VTq0M2ODhR4"
         }
       ]
     },
