@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T09:12:08.532263+00:00",
+  "last_updated": "2026-10-19T10:22:17.157343+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -791,6 +791,13 @@
       "thumbnail": "https://yt3.ggpht.com/2syNrbo0YVfXvAYIwA3hQ8jUFPTj3pyootPeForoT3ZDjfrFpCE3LUN5F-Tpn15t6KdYBvTu5sI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "JyaXl_UABkI",
+          "title": "Milking Andaaz(2003)",
+          "thumbnail": "https://i.ytimg.com/vi/JyaXl_UABkI/mqdefault.jpg",
+          "published_at": "2026-10-18T14:28:31Z",
+          "url": "https://www.youtube.com/watch?v=JyaXl_UABkI"
+        },
+        {
           "id": "xC6yu69jLdo",
           "title": "Andaaz : The Revisit",
           "thumbnail": "https://i.ytimg.com/vi/xC6yu69jLdo/mqdefault.jpg",
@@ -1132,13 +1139,6 @@
           "thumbnail": "https://i.ytimg.com/vi/afMdliTxnN4/mqdefault.jpg",
           "published_at": "2023-05-15T17:51:54Z",
           "url": "https://www.youtube.com/watch?v=afMdliTxnN4"
-        },
-        {
-          "id": "8xXi8mihKUY",
-          "title": "Best of Revisits",
-          "thumbnail": "https://i.ytimg.com/vi/8xXi8mihKUY/mqdefault.jpg",
-          "published_at": "2023-04-29T13:04:03Z",
-          "url": "https://www.youtube.com/watch?v=8xXi8mihKUY"
         }
       ]
     },
@@ -3766,6 +3766,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "RNC_viycV6M",
+          "title": "Textbook Execution! || Sam Shankland vs Hans Niemann || U.S. Chess Championships 2026",
+          "thumbnail": "https://i.ytimg.com/vi/RNC_viycV6M/mqdefault.jpg",
+          "published_at": "2026-10-18T13:34:56Z",
+          "url": "https://www.youtube.com/watch?v=RNC_viycV6M"
+        },
+        {
+          "id": "xpucWJ_fKEE",
+          "title": "There are Levels To This Game || Wesley So vs Andy Woodward || U.S. Chess Championships 2026",
+          "thumbnail": "https://i.ytimg.com/vi/xpucWJ_fKEE/mqdefault.jpg",
+          "published_at": "2026-10-18T12:48:22Z",
+          "url": "https://www.youtube.com/watch?v=xpucWJ_fKEE"
+        },
+        {
           "id": "utSvrGN_Pf0",
           "title": "This is Real Chess! || Ray Robson vs Wesley So || U.S. Chess Championships 2026",
           "thumbnail": "https://i.ytimg.com/vi/utSvrGN_Pf0/mqdefault.jpg",
@@ -4100,20 +4114,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Pc8KyhXOR_c/mqdefault.jpg",
           "published_at": "2026-09-19T14:55:30Z",
           "url": "https://www.youtube.com/watch?v=Pc8KyhXOR_c"
-        },
-        {
-          "id": "2lUw_9_cw1Q",
-          "title": "Killer Instinct || Arjun Erigaisi vs Maksim Chigaev | 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/2lUw_9_cw1Q/mqdefault.jpg",
-          "published_at": "2026-09-19T14:16:20Z",
-          "url": "https://www.youtube.com/watch?v=2lUw_9_cw1Q"
-        },
-        {
-          "id": "HdJ6sPRxcu0",
-          "title": "Return of The Ding! || Ding Liren vs Arkadij Naiditsch | 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/HdJ6sPRxcu0/mqdefault.jpg",
-          "published_at": "2026-09-18T19:31:45Z",
-          "url": "https://www.youtube.com/watch?v=HdJ6sPRxcu0"
         }
       ]
     },
