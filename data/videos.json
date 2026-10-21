@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T09:42:11.514901+00:00",
+  "last_updated": "2026-10-21T09:43:36.964699+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "NiCgcUTL9_Q",
-          "title": "The Absurd Engineering Behind the Internet",
+          "title": "The Insane Engineering of Fiber Optics",
           "thumbnail": "https://i.ytimg.com/vi/NiCgcUTL9_Q/mqdefault.jpg",
           "published_at": "2026-10-12T17:11:45Z",
           "url": "https://www.youtube.com/watch?v=NiCgcUTL9_Q"
@@ -3409,6 +3409,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n1Ribd7LwdP_qKtqWL3ZDfIgv9M1d6g78VwpHGXVR2Ir4=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "PXbVn-f_wuM",
+          "title": "You Will Only Like Half of This Video",
+          "thumbnail": "https://i.ytimg.com/vi/PXbVn-f_wuM/mqdefault.jpg",
+          "published_at": "2026-10-20T14:00:11Z",
+          "url": "https://www.youtube.com/watch?v=PXbVn-f_wuM"
+        },
+        {
           "id": "_y9JuojAIg0",
           "title": "We Finally Know More About Humanity\u2019s First Civilization",
           "thumbnail": "https://i.ytimg.com/vi/_y9JuojAIg0/mqdefault.jpg",
@@ -3750,13 +3757,6 @@
           "thumbnail": "https://i.ytimg.com/vi/SbvAaDN1bpE/mqdefault.jpg",
           "published_at": "2024-09-17T14:00:08Z",
           "url": "https://www.youtube.com/watch?v=SbvAaDN1bpE"
-        },
-        {
-          "id": "vSSkDos2hzo",
-          "title": "We Need to Rethink Exercise (Updated Version)",
-          "thumbnail": "https://i.ytimg.com/vi/vSSkDos2hzo/mqdefault.jpg",
-          "published_at": "2024-09-12T14:01:11Z",
-          "url": "https://www.youtube.com/watch?v=vSSkDos2hzo"
         }
       ]
     },
@@ -5404,6 +5404,13 @@
       "thumbnail": "https://yt3.ggpht.com/J-mQZ7gIHpil3l78nqzKNPSYqeU9fkzg8xxeQP0WVEKxEG8-puK1Hf-sJURo-lKtK8ykLPekaAE=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "HFiPlZN0AE4",
+          "title": "Do we need to move away from the word 'vegan'? In conversation with Matthew Glover",
+          "thumbnail": "https://i.ytimg.com/vi/HFiPlZN0AE4/mqdefault.jpg",
+          "published_at": "2026-10-20T16:44:31Z",
+          "url": "https://www.youtube.com/watch?v=HFiPlZN0AE4"
+        },
+        {
           "id": "NWiuMVco64U",
           "title": "Christian meat eater challenges vegan with the Bible",
           "thumbnail": "https://i.ytimg.com/vi/NWiuMVco64U/mqdefault.jpg",
@@ -5745,13 +5752,6 @@
           "thumbnail": "https://i.ytimg.com/vi/IkQCTw6S3qM/mqdefault.jpg",
           "published_at": "2024-06-30T17:35:37Z",
           "url": "https://www.youtube.com/watch?v=IkQCTw6S3qM"
-        },
-        {
-          "id": "NN-nDYeafIU",
-          "title": "\u201cCorporations should change, not consumers!\u201d - are vegans missing the point?",
-          "thumbnail": "https://i.ytimg.com/vi/NN-nDYeafIU/mqdefault.jpg",
-          "published_at": "2024-06-11T17:46:28Z",
-          "url": "https://www.youtube.com/watch?v=NN-nDYeafIU"
         }
       ]
     }
