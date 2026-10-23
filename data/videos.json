@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T09:43:01.649857+00:00",
+  "last_updated": "2026-10-23T09:39:23.160604+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3766,6 +3766,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "PcA592Z5468",
+          "title": "The Final Match! || Wesley So vs Fabiano Caruana || U.S. Chess Championship 2026",
+          "thumbnail": "https://i.ytimg.com/vi/PcA592Z5468/mqdefault.jpg",
+          "published_at": "2026-10-22T19:26:50Z",
+          "url": "https://www.youtube.com/watch?v=PcA592Z5468"
+        },
+        {
+          "id": "3_DzRcp0tGs",
+          "title": "It's Happening! || Samuel Sevian vs Wesley So || U.S. Chess Championship 2026",
+          "thumbnail": "https://i.ytimg.com/vi/3_DzRcp0tGs/mqdefault.jpg",
+          "published_at": "2026-10-22T11:36:12Z",
+          "url": "https://www.youtube.com/watch?v=3_DzRcp0tGs"
+        },
+        {
           "id": "tZi7PRPh0lI",
           "title": "Is It Happening? || Fabiano Caruana vs Awonder Liang || U.S. Chess Championship 2026",
           "thumbnail": "https://i.ytimg.com/vi/tZi7PRPh0lI/mqdefault.jpg",
@@ -4100,20 +4114,6 @@
           "thumbnail": "https://i.ytimg.com/vi/1q_bhxz0NUY/mqdefault.jpg",
           "published_at": "2026-09-22T13:57:33Z",
           "url": "https://www.youtube.com/watch?v=1q_bhxz0NUY"
-        },
-        {
-          "id": "U5Uz36z9u-I",
-          "title": "Ding vs Vincent || 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/U5Uz36z9u-I/mqdefault.jpg",
-          "published_at": "2026-09-21T15:59:42Z",
-          "url": "https://www.youtube.com/watch?v=U5Uz36z9u-I"
-        },
-        {
-          "id": "HTE5SItNeiw",
-          "title": "Uzbekistan vs India | 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/HTE5SItNeiw/mqdefault.jpg",
-          "published_at": "2026-09-21T15:17:17Z",
-          "url": "https://www.youtube.com/watch?v=HTE5SItNeiw"
         }
       ]
     },
