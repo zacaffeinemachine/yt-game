@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T09:11:44.522705+00:00",
+  "last_updated": "2026-10-25T09:28:51.640927+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3773,6 +3773,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "mOOPo1NX_Xw",
+          "title": "Inaugural agadmator Quiz Arena - vastknowledge.org",
+          "thumbnail": "https://i.ytimg.com/vi/mOOPo1NX_Xw/mqdefault.jpg",
+          "published_at": "2026-10-24T19:23:53Z",
+          "url": "https://www.youtube.com/watch?v=mOOPo1NX_Xw"
+        },
+        {
+          "id": "YZI9aaaF2bE",
+          "title": "He's The Grim Reaper || Hilmir Heimisson vs Wei Yi || European Club Cup 2026",
+          "thumbnail": "https://i.ytimg.com/vi/YZI9aaaF2bE/mqdefault.jpg",
+          "published_at": "2026-10-24T15:21:31Z",
+          "url": "https://www.youtube.com/watch?v=YZI9aaaF2bE"
+        },
+        {
           "id": "YDAe799ecdU",
           "title": "Magic on The Board! || Anish Giri vs Nodirbek Abdusattorov || European Club Cup 2026",
           "thumbnail": "https://i.ytimg.com/vi/YDAe799ecdU/mqdefault.jpg",
@@ -4107,20 +4121,6 @@
           "thumbnail": "https://i.ytimg.com/vi/sY6vVRXFZbA/mqdefault.jpg",
           "published_at": "2026-09-24T14:17:50Z",
           "url": "https://www.youtube.com/watch?v=sY6vVRXFZbA"
-        },
-        {
-          "id": "AbybcfoDxAc",
-          "title": "Board 1 Brilliancy || Nikita Vitiugov vs Praggnanandhaa || 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/AbybcfoDxAc/mqdefault.jpg",
-          "published_at": "2026-09-24T09:42:00Z",
-          "url": "https://www.youtube.com/watch?v=AbybcfoDxAc"
-        },
-        {
-          "id": "-BISK_jkAqI",
-          "title": "Nodirbek Yakubboev vs Yu Yangyi || Uzbekistan vs China || 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/-BISK_jkAqI/mqdefault.jpg",
-          "published_at": "2026-09-23T15:24:56Z",
-          "url": "https://www.youtube.com/watch?v=-BISK_jkAqI"
         }
       ]
     },
