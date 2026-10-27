@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T10:37:17.062015+00:00",
+  "last_updated": "2026-10-27T10:06:25.120878+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3773,6 +3773,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "nXilOnEPjHg",
+          "title": "Chess is a FIGHT || Maxim Redshtein vs Nihal Sarin || European Club Cup 2026",
+          "thumbnail": "https://i.ytimg.com/vi/nXilOnEPjHg/mqdefault.jpg",
+          "published_at": "2026-10-26T13:10:14Z",
+          "url": "https://www.youtube.com/watch?v=nXilOnEPjHg"
+        },
+        {
           "id": "DzMhZ6n4qrM",
           "title": "Caro-Kann Adventures || Jorden van Foreest vs Yagiz Kaan Erdogmus || European Club Cup 2026",
           "thumbnail": "https://i.ytimg.com/vi/DzMhZ6n4qrM/mqdefault.jpg",
@@ -4114,13 +4121,6 @@
           "thumbnail": "https://i.ytimg.com/vi/SnoQ1J-gj_4/mqdefault.jpg",
           "published_at": "2026-09-24T15:57:29Z",
           "url": "https://www.youtube.com/watch?v=SnoQ1J-gj_4"
-        },
-        {
-          "id": "NC7WeDokg-U",
-          "title": "The Undefeated Ones || Frederik Svane vs Nodirbek Yakubboev || 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/NC7WeDokg-U/mqdefault.jpg",
-          "published_at": "2026-09-24T14:46:10Z",
-          "url": "https://www.youtube.com/watch?v=NC7WeDokg-U"
         }
       ]
     },
