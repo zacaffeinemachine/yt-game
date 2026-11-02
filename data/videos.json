@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T11:33:15.655137+00:00",
+  "last_updated": "2026-11-02T12:56:06.420301+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3773,6 +3773,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "1eZXKF1l1SA",
+          "title": "The Greatest Chess Game You've Never Seen || Euwe vs Tal || Radio game (1960)",
+          "thumbnail": "https://i.ytimg.com/vi/1eZXKF1l1SA/mqdefault.jpg",
+          "published_at": "2026-11-01T16:54:24Z",
+          "url": "https://www.youtube.com/watch?v=1eZXKF1l1SA"
+        },
+        {
+          "id": "OhESv-ICuow",
+          "title": "Only Perfection Will Do || Praggnanandhaa vs Hikaru Nakamura || Clutch Chess 2026",
+          "thumbnail": "https://i.ytimg.com/vi/OhESv-ICuow/mqdefault.jpg",
+          "published_at": "2026-11-01T13:47:02Z",
+          "url": "https://www.youtube.com/watch?v=OhESv-ICuow"
+        },
+        {
           "id": "-rQrQDwpkf4",
           "title": "agadmator Quiz Arena || Gold Coins and Windmills - vastknowledge.org",
           "thumbnail": "https://i.ytimg.com/vi/-rQrQDwpkf4/mqdefault.jpg",
@@ -4107,20 +4121,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ee0wnKDF_gI/mqdefault.jpg",
           "published_at": "2026-09-26T17:32:42Z",
           "url": "https://www.youtube.com/watch?v=ee0wnKDF_gI"
-        },
-        {
-          "id": "qGqJh5Qptco",
-          "title": "2900!! || Haik Martirosyan vs Nodirbek Abdusattorov | 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/qGqJh5Qptco/mqdefault.jpg",
-          "published_at": "2026-09-26T15:45:39Z",
-          "url": "https://www.youtube.com/watch?v=qGqJh5Qptco"
-        },
-        {
-          "id": "91E_QQ53pEo",
-          "title": "Rooks Are Overrated || Javokhir Sindarov vs Robert Hovhannisyan | 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/91E_QQ53pEo/mqdefault.jpg",
-          "published_at": "2026-09-26T14:02:30Z",
-          "url": "https://www.youtube.com/watch?v=91E_QQ53pEo"
         }
       ]
     },
@@ -5409,6 +5409,363 @@
           "thumbnail": "https://i.ytimg.com/vi/lW3LyAGOGn4/mqdefault.jpg",
           "published_at": "2021-10-10T16:17:10Z",
           "url": "https://www.youtube.com/watch?v=lW3LyAGOGn4"
+        }
+      ]
+    },
+    {
+      "id": "UCVRrGAcUc7cblUzOhI1KfFg",
+      "name": "Earthling Ed",
+      "thumbnail": "https://yt3.ggpht.com/J-mQZ7gIHpil3l78nqzKNPSYqeU9fkzg8xxeQP0WVEKxEG8-puK1Hf-sJURo-lKtK8ykLPekaAE=s88-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "TDsT3tFTEwM",
+          "title": "Unnatural Pairing (#WorldVeganDay Short Film) | First Date With a Dairy Farmer",
+          "thumbnail": "https://i.ytimg.com/vi/TDsT3tFTEwM/mqdefault.jpg",
+          "published_at": "2026-11-01T19:00:08Z",
+          "url": "https://www.youtube.com/watch?v=TDsT3tFTEwM"
+        },
+        {
+          "id": "HFiPlZN0AE4",
+          "title": "Do we need to move away from the word 'vegan'? In conversation with Matthew Glover",
+          "thumbnail": "https://i.ytimg.com/vi/HFiPlZN0AE4/mqdefault.jpg",
+          "published_at": "2026-10-20T16:44:31Z",
+          "url": "https://www.youtube.com/watch?v=HFiPlZN0AE4"
+        },
+        {
+          "id": "NWiuMVco64U",
+          "title": "Christian meat eater challenges vegan with the Bible",
+          "thumbnail": "https://i.ytimg.com/vi/NWiuMVco64U/mqdefault.jpg",
+          "published_at": "2026-10-05T16:23:38Z",
+          "url": "https://www.youtube.com/watch?v=NWiuMVco64U"
+        },
+        {
+          "id": "YAGaqmXcrTQ",
+          "title": "What the Hell Happened to Veganism?",
+          "thumbnail": "https://i.ytimg.com/vi/YAGaqmXcrTQ/mqdefault.jpg",
+          "published_at": "2026-09-21T17:16:51Z",
+          "url": "https://www.youtube.com/watch?v=YAGaqmXcrTQ"
+        },
+        {
+          "id": "dy55smEWHD0",
+          "title": "Meat eater accuses vegan of forcing him into a corner",
+          "thumbnail": "https://i.ytimg.com/vi/dy55smEWHD0/mqdefault.jpg",
+          "published_at": "2026-09-07T17:14:41Z",
+          "url": "https://www.youtube.com/watch?v=dy55smEWHD0"
+        },
+        {
+          "id": "WCqVr-Lc0hA",
+          "title": "What happens when an open-minded meat eater meets a vegan?",
+          "thumbnail": "https://i.ytimg.com/vi/WCqVr-Lc0hA/mqdefault.jpg",
+          "published_at": "2026-07-14T16:19:40Z",
+          "url": "https://www.youtube.com/watch?v=WCqVr-Lc0hA"
+        },
+        {
+          "id": "6UgqXhj_W-A",
+          "title": "Veganism, Bad Arguments, and Moral Philosophy with @DrJackSymes",
+          "thumbnail": "https://i.ytimg.com/vi/6UgqXhj_W-A/mqdefault.jpg",
+          "published_at": "2026-06-11T17:52:31Z",
+          "url": "https://www.youtube.com/watch?v=6UgqXhj_W-A"
+        },
+        {
+          "id": "KDLNanDEJbI",
+          "title": "Meat eater does 180 when debating a vegan",
+          "thumbnail": "https://i.ytimg.com/vi/KDLNanDEJbI/mqdefault.jpg",
+          "published_at": "2026-05-27T17:24:56Z",
+          "url": "https://www.youtube.com/watch?v=KDLNanDEJbI"
+        },
+        {
+          "id": "EFZlo_5Kfgo",
+          "title": "Texan meat eater takes on British vegan",
+          "thumbnail": "https://i.ytimg.com/vi/EFZlo_5Kfgo/mqdefault.jpg",
+          "published_at": "2026-04-30T16:36:12Z",
+          "url": "https://www.youtube.com/watch?v=EFZlo_5Kfgo"
+        },
+        {
+          "id": "DLPFE91pXak",
+          "title": "Is AI sentient? Professor breaks down the evidence around AI, plant, fish and insect sentience",
+          "thumbnail": "https://i.ytimg.com/vi/DLPFE91pXak/mqdefault.jpg",
+          "published_at": "2026-04-10T17:13:37Z",
+          "url": "https://www.youtube.com/watch?v=DLPFE91pXak"
+        },
+        {
+          "id": "z5RQXErCWLs",
+          "title": "Vegan debates student at UCS",
+          "thumbnail": "https://i.ytimg.com/vi/z5RQXErCWLs/mqdefault.jpg",
+          "published_at": "2026-03-27T18:07:04Z",
+          "url": "https://www.youtube.com/watch?v=z5RQXErCWLs"
+        },
+        {
+          "id": "GrAvvDoRUws",
+          "title": "I debated five meat eaters on Skavlan, Sweden's biggest talk show",
+          "thumbnail": "https://i.ytimg.com/vi/GrAvvDoRUws/mqdefault.jpg",
+          "published_at": "2026-03-20T15:54:27Z",
+          "url": "https://www.youtube.com/watch?v=GrAvvDoRUws"
+        },
+        {
+          "id": "yAj39gnoImw",
+          "title": "Texan animal farmer debates vegan",
+          "thumbnail": "https://i.ytimg.com/vi/yAj39gnoImw/mqdefault.jpg",
+          "published_at": "2026-02-17T17:56:46Z",
+          "url": "https://www.youtube.com/watch?v=yAj39gnoImw"
+        },
+        {
+          "id": "-caz82tOOJE",
+          "title": "Inside the legal fight against animal farming",
+          "thumbnail": "https://i.ytimg.com/vi/-caz82tOOJE/mqdefault.jpg",
+          "published_at": "2026-01-29T17:44:42Z",
+          "url": "https://www.youtube.com/watch?v=-caz82tOOJE"
+        },
+        {
+          "id": "4uc5eJBZHX4",
+          "title": "Have we been overpromised on lab-grown meat? A journalist reveals what they\u2019ve seen firsthand",
+          "thumbnail": "https://i.ytimg.com/vi/4uc5eJBZHX4/mqdefault.jpg",
+          "published_at": "2026-01-08T18:00:07Z",
+          "url": "https://www.youtube.com/watch?v=4uc5eJBZHX4"
+        },
+        {
+          "id": "7MYWCODm1Es",
+          "title": "Teaching Veganism in Japan",
+          "thumbnail": "https://i.ytimg.com/vi/7MYWCODm1Es/mqdefault.jpg",
+          "published_at": "2025-12-29T17:44:41Z",
+          "url": "https://www.youtube.com/watch?v=7MYWCODm1Es"
+        },
+        {
+          "id": "985POhVqSyw",
+          "title": "Why your family takes your veganism personally",
+          "thumbnail": "https://i.ytimg.com/vi/985POhVqSyw/mqdefault.jpg",
+          "published_at": "2025-12-23T18:08:30Z",
+          "url": "https://www.youtube.com/watch?v=985POhVqSyw"
+        },
+        {
+          "id": "4bNMBHPctvo",
+          "title": "Meat eater\u2019s arguments are more porous than a sponge",
+          "thumbnail": "https://i.ytimg.com/vi/4bNMBHPctvo/mqdefault.jpg",
+          "published_at": "2025-12-16T18:20:32Z",
+          "url": "https://www.youtube.com/watch?v=4bNMBHPctvo"
+        },
+        {
+          "id": "-3EqY5mcJs0",
+          "title": "Investigative reporter uncovers who's orchestrating the meat culture wars",
+          "thumbnail": "https://i.ytimg.com/vi/-3EqY5mcJs0/mqdefault.jpg",
+          "published_at": "2025-12-02T18:12:01Z",
+          "url": "https://www.youtube.com/watch?v=-3EqY5mcJs0"
+        },
+        {
+          "id": "T2mkTR-67T0",
+          "title": "I need to share my thoughts about my trip to Japan",
+          "thumbnail": "https://i.ytimg.com/vi/T2mkTR-67T0/mqdefault.jpg",
+          "published_at": "2025-11-20T18:07:47Z",
+          "url": "https://www.youtube.com/watch?v=T2mkTR-67T0"
+        },
+        {
+          "id": "yhETI66IWyc",
+          "title": "After months of hard work, I can finally tell you about this",
+          "thumbnail": "https://i.ytimg.com/vi/yhETI66IWyc/mqdefault.jpg",
+          "published_at": "2025-10-13T16:42:24Z",
+          "url": "https://www.youtube.com/watch?v=yhETI66IWyc"
+        },
+        {
+          "id": "wmjTslgiCN8",
+          "title": "I made a mistake when I went vegan",
+          "thumbnail": "https://i.ytimg.com/vi/wmjTslgiCN8/mqdefault.jpg",
+          "published_at": "2025-09-09T17:46:53Z",
+          "url": "https://www.youtube.com/watch?v=wmjTslgiCN8"
+        },
+        {
+          "id": "gQ9tsRTQNo8",
+          "title": "Eleven Madison Park abandons all-vegan menu, but was this planned from the beginning?",
+          "thumbnail": "https://i.ytimg.com/vi/gQ9tsRTQNo8/mqdefault.jpg",
+          "published_at": "2025-08-21T18:34:03Z",
+          "url": "https://www.youtube.com/watch?v=gQ9tsRTQNo8"
+        },
+        {
+          "id": "qJesWqOv8FI",
+          "title": "Orthodox Christian meat eater has spirited debate with vegan",
+          "thumbnail": "https://i.ytimg.com/vi/qJesWqOv8FI/mqdefault.jpg",
+          "published_at": "2025-08-19T16:39:25Z",
+          "url": "https://www.youtube.com/watch?v=qJesWqOv8FI"
+        },
+        {
+          "id": "287vMTsVhhw",
+          "title": "Meat eater rapid-fires anti-vegan arguments, then does a 180",
+          "thumbnail": "https://i.ytimg.com/vi/287vMTsVhhw/mqdefault.jpg",
+          "published_at": "2025-08-07T16:11:40Z",
+          "url": "https://www.youtube.com/watch?v=287vMTsVhhw"
+        },
+        {
+          "id": "_-peW2yD1uc",
+          "title": "Has Switzerland tricked the vegan community?",
+          "thumbnail": "https://i.ytimg.com/vi/_-peW2yD1uc/mqdefault.jpg",
+          "published_at": "2025-07-31T17:27:33Z",
+          "url": "https://www.youtube.com/watch?v=_-peW2yD1uc"
+        },
+        {
+          "id": "iUQLh6mvgHk",
+          "title": "Unpacking the truth about ultra-processed plant-based alternatives, food politics, RFK Jr., and more",
+          "thumbnail": "https://i.ytimg.com/vi/iUQLh6mvgHk/mqdefault.jpg",
+          "published_at": "2025-07-23T17:19:30Z",
+          "url": "https://www.youtube.com/watch?v=iUQLh6mvgHk"
+        },
+        {
+          "id": "iTV80-jiyf0",
+          "title": "Are celebrities hurting the vegan movement?",
+          "thumbnail": "https://i.ytimg.com/vi/iTV80-jiyf0/mqdefault.jpg",
+          "published_at": "2025-07-02T17:26:55Z",
+          "url": "https://www.youtube.com/watch?v=iTV80-jiyf0"
+        },
+        {
+          "id": "D0dwyUJgzQs",
+          "title": "It's time for a new chapter.",
+          "thumbnail": "https://i.ytimg.com/vi/D0dwyUJgzQs/mqdefault.jpg",
+          "published_at": "2025-06-26T17:23:51Z",
+          "url": "https://www.youtube.com/watch?v=D0dwyUJgzQs"
+        },
+        {
+          "id": "JXv4NiWO2F0",
+          "title": "\u2018Wellness\u2019 is destroying veganism. Here\u2019s why.",
+          "thumbnail": "https://i.ytimg.com/vi/JXv4NiWO2F0/mqdefault.jpg",
+          "published_at": "2025-05-29T17:36:36Z",
+          "url": "https://www.youtube.com/watch?v=JXv4NiWO2F0"
+        },
+        {
+          "id": "kWJlwF8Eh_w",
+          "title": "'Should mowing the lawn be illegal?\u2019 | Vegan vs Plant Rights Activist",
+          "thumbnail": "https://i.ytimg.com/vi/kWJlwF8Eh_w/mqdefault.jpg",
+          "published_at": "2025-05-22T16:52:09Z",
+          "url": "https://www.youtube.com/watch?v=kWJlwF8Eh_w"
+        },
+        {
+          "id": "OFl-I16no4s",
+          "title": "When Influencers Steal Animals: Sam Jones and the Wombat Scandal",
+          "thumbnail": "https://i.ytimg.com/vi/OFl-I16no4s/mqdefault.jpg",
+          "published_at": "2025-03-19T17:35:59Z",
+          "url": "https://www.youtube.com/watch?v=OFl-I16no4s"
+        },
+        {
+          "id": "9s11imeKBCA",
+          "title": "\"It hurts my soul to watch plants get killed\"",
+          "thumbnail": "https://i.ytimg.com/vi/9s11imeKBCA/mqdefault.jpg",
+          "published_at": "2025-03-04T17:56:24Z",
+          "url": "https://www.youtube.com/watch?v=9s11imeKBCA"
+        },
+        {
+          "id": "SYe8o9bQxUs",
+          "title": "Homesteading: The Ugly Reality",
+          "thumbnail": "https://i.ytimg.com/vi/SYe8o9bQxUs/mqdefault.jpg",
+          "published_at": "2025-01-15T17:58:24Z",
+          "url": "https://www.youtube.com/watch?v=SYe8o9bQxUs"
+        },
+        {
+          "id": "iODDo3VA6BU",
+          "title": "H3H3 crew have disgusting response to animal rights discussion",
+          "thumbnail": "https://i.ytimg.com/vi/iODDo3VA6BU/mqdefault.jpg",
+          "published_at": "2024-12-30T18:15:40Z",
+          "url": "https://www.youtube.com/watch?v=iODDo3VA6BU"
+        },
+        {
+          "id": "50U-26CAFU8",
+          "title": "The hardest time of the year.",
+          "thumbnail": "https://i.ytimg.com/vi/50U-26CAFU8/mqdefault.jpg",
+          "published_at": "2024-12-18T18:14:48Z",
+          "url": "https://www.youtube.com/watch?v=50U-26CAFU8"
+        },
+        {
+          "id": "v2RCQfscDo4",
+          "title": "Heartwarming conversation between meat eater and vegan to make you smile!",
+          "thumbnail": "https://i.ytimg.com/vi/v2RCQfscDo4/mqdefault.jpg",
+          "published_at": "2024-11-29T17:58:14Z",
+          "url": "https://www.youtube.com/watch?v=v2RCQfscDo4"
+        },
+        {
+          "id": "6JfugtL7lBo",
+          "title": "Joe Rogan + Elon Musk = my worst nightmare",
+          "thumbnail": "https://i.ytimg.com/vi/6JfugtL7lBo/mqdefault.jpg",
+          "published_at": "2024-11-27T18:20:51Z",
+          "url": "https://www.youtube.com/watch?v=6JfugtL7lBo"
+        },
+        {
+          "id": "WFKQbvlzB9s",
+          "title": "Do I (honestly) think there\u2019s any future for veganism?",
+          "thumbnail": "https://i.ytimg.com/vi/WFKQbvlzB9s/mqdefault.jpg",
+          "published_at": "2024-11-19T18:01:43Z",
+          "url": "https://www.youtube.com/watch?v=WFKQbvlzB9s"
+        },
+        {
+          "id": "lRyKX5WPTfY",
+          "title": "Matilda and the Brave Escape | Narrated by Bella Ramsey | Webby Winner 2025 | Animated Short Film",
+          "thumbnail": "https://i.ytimg.com/vi/lRyKX5WPTfY/mqdefault.jpg",
+          "published_at": "2024-11-01T19:00:07Z",
+          "url": "https://www.youtube.com/watch?v=lRyKX5WPTfY"
+        },
+        {
+          "id": "PHXVdNWLF6o",
+          "title": "Meat Eater Eats Chicken In Front of Vegan - Can He Be Convinced to Stop?",
+          "thumbnail": "https://i.ytimg.com/vi/PHXVdNWLF6o/mqdefault.jpg",
+          "published_at": "2024-10-30T18:30:23Z",
+          "url": "https://www.youtube.com/watch?v=PHXVdNWLF6o"
+        },
+        {
+          "id": "q7t53XAiHPg",
+          "title": "Meat eaters try to convince vegan that what he\u2019s doing is POINTLESS.",
+          "thumbnail": "https://i.ytimg.com/vi/q7t53XAiHPg/mqdefault.jpg",
+          "published_at": "2024-09-30T18:03:43Z",
+          "url": "https://www.youtube.com/watch?v=q7t53XAiHPg"
+        },
+        {
+          "id": "DWmbvrNgl3A",
+          "title": "This might be the craziest argument from a non-vegan that I\u2019ve ever heard.",
+          "thumbnail": "https://i.ytimg.com/vi/DWmbvrNgl3A/mqdefault.jpg",
+          "published_at": "2024-09-25T18:01:53Z",
+          "url": "https://www.youtube.com/watch?v=DWmbvrNgl3A"
+        },
+        {
+          "id": "TyxYIooAWl4",
+          "title": "The Untold Truth About Mr Beast's Cruel Empire",
+          "thumbnail": "https://i.ytimg.com/vi/TyxYIooAWl4/mqdefault.jpg",
+          "published_at": "2024-09-05T17:09:49Z",
+          "url": "https://www.youtube.com/watch?v=TyxYIooAWl4"
+        },
+        {
+          "id": "eAE1ZOLIyrE",
+          "title": "I tried to turn ChatGPT into a vegan activist",
+          "thumbnail": "https://i.ytimg.com/vi/eAE1ZOLIyrE/mqdefault.jpg",
+          "published_at": "2024-08-28T17:04:53Z",
+          "url": "https://www.youtube.com/watch?v=eAE1ZOLIyrE"
+        },
+        {
+          "id": "sMS1HNXPP8E",
+          "title": "Passionate meat eater calls me out during live debate",
+          "thumbnail": "https://i.ytimg.com/vi/sMS1HNXPP8E/mqdefault.jpg",
+          "published_at": "2024-08-19T16:54:28Z",
+          "url": "https://www.youtube.com/watch?v=sMS1HNXPP8E"
+        },
+        {
+          "id": "anDjaEdrHMc",
+          "title": "Jordan Peterson fails to convince Elon Musk to go carnivore.",
+          "thumbnail": "https://i.ytimg.com/vi/anDjaEdrHMc/mqdefault.jpg",
+          "published_at": "2024-08-16T18:04:25Z",
+          "url": "https://www.youtube.com/watch?v=anDjaEdrHMc"
+        },
+        {
+          "id": "3JyLHHFmg98",
+          "title": "Ben Shapiro\u2019s views on veganism are an absolute mess",
+          "thumbnail": "https://i.ytimg.com/vi/3JyLHHFmg98/mqdefault.jpg",
+          "published_at": "2024-07-30T17:00:20Z",
+          "url": "https://www.youtube.com/watch?v=3JyLHHFmg98"
+        },
+        {
+          "id": "HXb-Bn4CwFk",
+          "title": "Vegan products are being 'blended' with actual meat and dairy now?",
+          "thumbnail": "https://i.ytimg.com/vi/HXb-Bn4CwFk/mqdefault.jpg",
+          "published_at": "2024-07-26T16:41:49Z",
+          "url": "https://www.youtube.com/watch?v=HXb-Bn4CwFk"
+        },
+        {
+          "id": "RWGr6CGYqg0",
+          "title": "People are quitting veganism. Is this why?",
+          "thumbnail": "https://i.ytimg.com/vi/RWGr6CGYqg0/mqdefault.jpg",
+          "published_at": "2024-07-04T17:13:15Z",
+          "url": "https://www.youtube.com/watch?v=RWGr6CGYqg0"
         }
       ]
     }
