@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T12:56:06.420301+00:00",
+  "last_updated": "2026-11-03T12:27:28.877113+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -372,7 +372,7 @@
         },
         {
           "id": "NiCgcUTL9_Q",
-          "title": "The Insane Engineering of Fiber Optics",
+          "title": "Fiber Optics are so much cooler than I thought",
           "thumbnail": "https://i.ytimg.com/vi/NiCgcUTL9_Q/mqdefault.jpg",
           "published_at": "2026-10-12T17:11:45Z",
           "url": "https://www.youtube.com/watch?v=NiCgcUTL9_Q"
@@ -3773,6 +3773,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "QFptOBwLYjM",
+          "title": "If You Ever Wondered Why They Call Him \"The Pirate\"",
+          "thumbnail": "https://i.ytimg.com/vi/QFptOBwLYjM/mqdefault.jpg",
+          "published_at": "2026-11-02T14:10:13Z",
+          "url": "https://www.youtube.com/watch?v=QFptOBwLYjM"
+        },
+        {
           "id": "1eZXKF1l1SA",
           "title": "The Greatest Chess Game You've Never Seen || Euwe vs Tal || Radio game (1960)",
           "thumbnail": "https://i.ytimg.com/vi/1eZXKF1l1SA/mqdefault.jpg",
@@ -4114,13 +4121,6 @@
           "thumbnail": "https://i.ytimg.com/vi/84zYJ69nxGs/mqdefault.jpg",
           "published_at": "2026-09-27T11:26:18Z",
           "url": "https://www.youtube.com/watch?v=84zYJ69nxGs"
-        },
-        {
-          "id": "ee0wnKDF_gI",
-          "title": "Clash of Prodigies || Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f vs Faustino Oro | 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/ee0wnKDF_gI/mqdefault.jpg",
-          "published_at": "2026-09-26T17:32:42Z",
-          "url": "https://www.youtube.com/watch?v=ee0wnKDF_gI"
         }
       ]
     },
