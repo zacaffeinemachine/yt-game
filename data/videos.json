@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T12:38:54.728167+00:00",
+  "last_updated": "2026-11-05T12:49:42.538183+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -364,6 +364,13 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "KfODG5REyss",
+          "title": "The Closest Thing We Have to Alien Matter",
+          "thumbnail": "https://i.ytimg.com/vi/KfODG5REyss/mqdefault.jpg",
+          "published_at": "2026-11-04T15:52:59Z",
+          "url": "https://www.youtube.com/watch?v=KfODG5REyss"
+        },
+        {
           "id": "eyZEqSPeMwg",
           "title": "No device could prove Einstein wrong... until now",
           "thumbnail": "https://i.ytimg.com/vi/eyZEqSPeMwg/mqdefault.jpg",
@@ -705,13 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dFVrncgIvos/mqdefault.jpg",
           "published_at": "2025-02-18T16:03:35Z",
           "url": "https://www.youtube.com/watch?v=dFVrncgIvos"
-        },
-        {
-          "id": "P_fHJIYENdI",
-          "title": "AlphaFold - The Most Useful Thing AI Has Ever Done",
-          "thumbnail": "https://i.ytimg.com/vi/P_fHJIYENdI/mqdefault.jpg",
-          "published_at": "2025-02-10T14:03:41Z",
-          "url": "https://www.youtube.com/watch?v=P_fHJIYENdI"
         }
       ]
     },
@@ -1863,7 +1863,7 @@
       "videos": [
         {
           "id": "J5RdPNC48dw",
-          "title": "Why Most Battery Breakthroughs Fail",
+          "title": "A Battery Made of Sand Is Now Heating a Town",
           "thumbnail": "https://i.ytimg.com/vi/J5RdPNC48dw/mqdefault.jpg",
           "published_at": "2026-11-03T13:16:45Z",
           "url": "https://www.youtube.com/watch?v=J5RdPNC48dw"
@@ -3773,6 +3773,27 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "ZmLg3_Bv2vY",
+          "title": "Greatness Can Not Be Rushed! || Anand vs Topalov || World Championship Match (2010)",
+          "thumbnail": "https://i.ytimg.com/vi/ZmLg3_Bv2vY/mqdefault.jpg",
+          "published_at": "2026-11-05T12:16:08Z",
+          "url": "https://www.youtube.com/watch?v=ZmLg3_Bv2vY"
+        },
+        {
+          "id": "HShUibKrXKw",
+          "title": "Giants Of The Past || Vasily Smyslov vs Mikhail Botvinnik || World Championship Rematch (1958) G11",
+          "thumbnail": "https://i.ytimg.com/vi/HShUibKrXKw/mqdefault.jpg",
+          "published_at": "2026-11-04T16:26:24Z",
+          "url": "https://www.youtube.com/watch?v=HShUibKrXKw"
+        },
+        {
+          "id": "gNko7BiOQZU",
+          "title": "Bolt From The Blue! || Gukesh D vs Javokhir Sindarov",
+          "thumbnail": "https://i.ytimg.com/vi/gNko7BiOQZU/mqdefault.jpg",
+          "published_at": "2026-11-04T13:37:15Z",
+          "url": "https://www.youtube.com/watch?v=gNko7BiOQZU"
+        },
+        {
           "id": "RCbbhy7ilgc",
           "title": "Their FIRST EVER GAME! || Gukesh D vs Javokhir Sindarov (2018)",
           "thumbnail": "https://i.ytimg.com/vi/RCbbhy7ilgc/mqdefault.jpg",
@@ -4100,27 +4121,6 @@
           "thumbnail": "https://i.ytimg.com/vi/HivQJzOjU7M/mqdefault.jpg",
           "published_at": "2026-09-29T13:56:56Z",
           "url": "https://www.youtube.com/watch?v=HivQJzOjU7M"
-        },
-        {
-          "id": "LFyoROLP_pU",
-          "title": "Game of The Olympiad! || Abdimalik Abdisalimov vs Wei Yi | 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/LFyoROLP_pU/mqdefault.jpg",
-          "published_at": "2026-09-28T12:38:43Z",
-          "url": "https://www.youtube.com/watch?v=LFyoROLP_pU"
-        },
-        {
-          "id": "H_WjVgg8hkY",
-          "title": "Never Create a Permanent Weakness! || Peter Leko vs Arjun Erigaisi | 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/H_WjVgg8hkY/mqdefault.jpg",
-          "published_at": "2026-09-27T13:06:48Z",
-          "url": "https://www.youtube.com/watch?v=H_WjVgg8hkY"
-        },
-        {
-          "id": "WaOI4M3EC-s",
-          "title": "The Most Important Game!! || Roman Dehtiarov vs Mukhiddin Madaminov || 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/WaOI4M3EC-s/mqdefault.jpg",
-          "published_at": "2026-09-27T12:15:55Z",
-          "url": "https://www.youtube.com/watch?v=WaOI4M3EC-s"
         }
       ]
     },
