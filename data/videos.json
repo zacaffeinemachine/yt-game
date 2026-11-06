@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T12:49:42.538183+00:00",
+  "last_updated": "2026-11-06T12:33:32.141944+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -365,7 +365,7 @@
       "videos": [
         {
           "id": "KfODG5REyss",
-          "title": "The Closest Thing We Have to Alien Matter",
+          "title": "I finally saw quantum physics with my own eyes...",
           "thumbnail": "https://i.ytimg.com/vi/KfODG5REyss/mqdefault.jpg",
           "published_at": "2026-11-04T15:52:59Z",
           "url": "https://www.youtube.com/watch?v=KfODG5REyss"
@@ -2954,8 +2954,15 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "oc8G53Tbsvs",
+          "title": "How the Internet Uncovered a Massive Pok\u00e9mon Fraud",
+          "thumbnail": "https://i.ytimg.com/vi/oc8G53Tbsvs/mqdefault.jpg",
+          "published_at": "2026-11-06T00:05:01Z",
+          "url": "https://www.youtube.com/watch?v=oc8G53Tbsvs"
+        },
+        {
           "id": "kp0jkUqVuok",
-          "title": "NATO\u2019s Plan for War With Russia",
+          "title": "NATO's Plan If Russia Attacks Tomorrow",
           "thumbnail": "https://i.ytimg.com/vi/kp0jkUqVuok/mqdefault.jpg",
           "published_at": "2026-10-28T16:44:21Z",
           "url": "https://www.youtube.com/watch?v=kp0jkUqVuok"
@@ -3295,13 +3302,6 @@
           "thumbnail": "https://i.ytimg.com/vi/K4E1u3_S1p8/mqdefault.jpg",
           "published_at": "2025-11-04T15:30:48Z",
           "url": "https://www.youtube.com/watch?v=K4E1u3_S1p8"
-        },
-        {
-          "id": "HauQtcj7UTM",
-          "title": "The Dumb Design of Modern Cars",
-          "thumbnail": "https://i.ytimg.com/vi/HauQtcj7UTM/mqdefault.jpg",
-          "published_at": "2025-10-29T17:50:45Z",
-          "url": "https://www.youtube.com/watch?v=HauQtcj7UTM"
         }
       ]
     },
@@ -3310,6 +3310,13 @@
       "name": "Nightshift \u2013 Kurzgesagt After Dark",
       "thumbnail": "https://yt3.ggpht.com/eXEBNg6ggwrJopuwMkvxi-ZZhlTOAo8juTk5FBWDoE8qvoLPXWInWKtVKJN5SKiOpheZyudT=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "QQXCC6o_LHU",
+          "title": "The Cult That Drove a Whole City Insane",
+          "thumbnail": "https://i.ytimg.com/vi/QQXCC6o_LHU/mqdefault.jpg",
+          "published_at": "2026-11-05T15:00:03Z",
+          "url": "https://www.youtube.com/watch?v=QQXCC6o_LHU"
+        },
         {
           "id": "HfaO94_KZ3c",
           "title": "The Fall of the Last Zulu King",
@@ -3773,8 +3780,15 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "M7JbY7cAm9I",
+          "title": "Eyjafjallajokull || Anand vs Topalov || World Championship Match (2010) G1",
+          "thumbnail": "https://i.ytimg.com/vi/M7JbY7cAm9I/mqdefault.jpg",
+          "published_at": "2026-11-05T17:06:24Z",
+          "url": "https://www.youtube.com/watch?v=M7JbY7cAm9I"
+        },
+        {
           "id": "ZmLg3_Bv2vY",
-          "title": "Greatness Can Not Be Rushed! || Anand vs Topalov || World Championship Match (2010)",
+          "title": "Greatness Can Not Be Rushed! || Anand vs Topalov || World Championship Match (2010) G12",
           "thumbnail": "https://i.ytimg.com/vi/ZmLg3_Bv2vY/mqdefault.jpg",
           "published_at": "2026-11-05T12:16:08Z",
           "url": "https://www.youtube.com/watch?v=ZmLg3_Bv2vY"
@@ -4114,13 +4128,6 @@
           "thumbnail": "https://i.ytimg.com/vi/CsHWpFu7DDI/mqdefault.jpg",
           "published_at": "2026-09-30T13:12:13Z",
           "url": "https://www.youtube.com/watch?v=CsHWpFu7DDI"
-        },
-        {
-          "id": "HivQJzOjU7M",
-          "title": "Calm Through the Storm || Alexander Donchenko vs Gukesh | 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/HivQJzOjU7M/mqdefault.jpg",
-          "published_at": "2026-09-29T13:56:56Z",
-          "url": "https://www.youtube.com/watch?v=HivQJzOjU7M"
         }
       ]
     },
