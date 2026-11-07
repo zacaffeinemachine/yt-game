@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T12:33:32.141944+00:00",
+  "last_updated": "2026-11-07T11:23:24.128561+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3780,6 +3780,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "0GyfgO6FFfQ",
+          "title": "Never Show Your Opponents How You Will Checkmate Them! || Hikaru vs Magnus || 30T 2026",
+          "thumbnail": "https://i.ytimg.com/vi/0GyfgO6FFfQ/mqdefault.jpg",
+          "published_at": "2026-11-06T12:38:13Z",
+          "url": "https://www.youtube.com/watch?v=0GyfgO6FFfQ"
+        },
+        {
           "id": "M7JbY7cAm9I",
           "title": "Eyjafjallajokull || Anand vs Topalov || World Championship Match (2010) G1",
           "thumbnail": "https://i.ytimg.com/vi/M7JbY7cAm9I/mqdefault.jpg",
@@ -4121,13 +4128,6 @@
           "thumbnail": "https://i.ytimg.com/vi/VuY0b-8fOwY/mqdefault.jpg",
           "published_at": "2026-10-01T12:47:22Z",
           "url": "https://www.youtube.com/watch?v=VuY0b-8fOwY"
-        },
-        {
-          "id": "CsHWpFu7DDI",
-          "title": "Facing The Timeless Giant || Vasyl Ivanchuk vs Javokhir Sindarov || 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/CsHWpFu7DDI/mqdefault.jpg",
-          "published_at": "2026-09-30T13:12:13Z",
-          "url": "https://www.youtube.com/watch?v=CsHWpFu7DDI"
         }
       ]
     },
@@ -4136,6 +4136,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "TzrS68EFwo4",
+          "title": "Drinking Vegan Milk Results in Deficiency? New Study Response",
+          "thumbnail": "https://i.ytimg.com/vi/TzrS68EFwo4/mqdefault.jpg",
+          "published_at": "2026-11-07T00:18:23Z",
+          "url": "https://www.youtube.com/watch?v=TzrS68EFwo4"
+        },
         {
           "id": "JQyAYoyktrA",
           "title": "From Lashes to Lungs: We Are Failing to Respond to the Mink Flu Outbreak",
@@ -4478,13 +4485,6 @@
           "thumbnail": "https://i.ytimg.com/vi/215-ZyCR49M/mqdefault.jpg",
           "published_at": "2025-12-13T00:37:51Z",
           "url": "https://www.youtube.com/watch?v=215-ZyCR49M"
-        },
-        {
-          "id": "heN67Ja3Mz8",
-          "title": "\"I Was Paid to Discredit Veganism Online\"",
-          "thumbnail": "https://i.ytimg.com/vi/heN67Ja3Mz8/mqdefault.jpg",
-          "published_at": "2025-12-06T00:07:07Z",
-          "url": "https://www.youtube.com/watch?v=heN67Ja3Mz8"
         }
       ]
     },
@@ -4852,7 +4852,7 @@
       "videos": [
         {
           "id": "sSUfXgJ04D0",
-          "title": "Are we running out of sperm?",
+          "title": "The case of the missing sperm",
           "thumbnail": "https://i.ytimg.com/vi/sSUfXgJ04D0/mqdefault.jpg",
           "published_at": "2026-10-29T12:00:34Z",
           "url": "https://www.youtube.com/watch?v=sSUfXgJ04D0"
