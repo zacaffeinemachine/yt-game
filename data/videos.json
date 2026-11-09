@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T11:35:26.072083+00:00",
+  "last_updated": "2026-11-09T13:27:38.117322+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -2955,7 +2955,7 @@
       "videos": [
         {
           "id": "oc8G53Tbsvs",
-          "title": "How the Internet Uncovered a Massive Pok\u00e9mon Fraud",
+          "title": "How the Internet Exposed a $10,000,000 Scam",
           "thumbnail": "https://i.ytimg.com/vi/oc8G53Tbsvs/mqdefault.jpg",
           "published_at": "2026-11-06T00:05:01Z",
           "url": "https://www.youtube.com/watch?v=oc8G53Tbsvs"
@@ -3780,6 +3780,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "vXrVAaTCxWw",
+          "title": "\"Can you please play the Caro-Kann?\" || Volen Dyulgerov vs Magnus Carlsen || 2026",
+          "thumbnail": "https://i.ytimg.com/vi/vXrVAaTCxWw/mqdefault.jpg",
+          "published_at": "2026-11-09T11:29:11Z",
+          "url": "https://www.youtube.com/watch?v=vXrVAaTCxWw"
+        },
+        {
+          "id": "OZs-hjFr4lI",
+          "title": "Can Daniil Dubov Beat Bullet Grandpa 100-0?",
+          "thumbnail": "https://i.ytimg.com/vi/OZs-hjFr4lI/mqdefault.jpg",
+          "published_at": "2026-11-08T18:20:27Z",
+          "url": "https://www.youtube.com/watch?v=OZs-hjFr4lI"
+        },
+        {
           "id": "0GyfgO6FFfQ",
           "title": "Never Show Your Opponents How You Will Checkmate Them! || Hikaru vs Magnus || 30T 2026",
           "thumbnail": "https://i.ytimg.com/vi/0GyfgO6FFfQ/mqdefault.jpg",
@@ -4114,20 +4128,6 @@
           "thumbnail": "https://i.ytimg.com/vi/0-KM6Qta0hI/mqdefault.jpg",
           "published_at": "2026-10-03T13:15:21Z",
           "url": "https://www.youtube.com/watch?v=0-KM6Qta0hI"
-        },
-        {
-          "id": "CzCBO_p9mls",
-          "title": "\"There is Always Room for Nr.2!\" || Nikolas Theodorou vs Anish Giri || 46th FIDE Chess Olympiad 2026",
-          "thumbnail": "https://i.ytimg.com/vi/CzCBO_p9mls/mqdefault.jpg",
-          "published_at": "2026-10-02T12:57:04Z",
-          "url": "https://www.youtube.com/watch?v=CzCBO_p9mls"
-        },
-        {
-          "id": "VuY0b-8fOwY",
-          "title": "Alien Abduction || Magnus Carlsen vs Volen Dyulgerov || Chess Club Showdown 2026",
-          "thumbnail": "https://i.ytimg.com/vi/VuY0b-8fOwY/mqdefault.jpg",
-          "published_at": "2026-10-01T12:47:22Z",
-          "url": "https://www.youtube.com/watch?v=VuY0b-8fOwY"
         }
       ]
     },
