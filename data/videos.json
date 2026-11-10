@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T13:27:38.117322+00:00",
+  "last_updated": "2026-11-10T13:05:56.955617+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3780,6 +3780,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "thU9tud6zlE",
+          "title": "Never Play h3 Against Mikhail Tal (60fps)",
+          "thumbnail": "https://i.ytimg.com/vi/thU9tud6zlE/mqdefault.jpg",
+          "published_at": "2026-11-09T19:26:02Z",
+          "url": "https://www.youtube.com/watch?v=thU9tud6zlE"
+        },
+        {
+          "id": "kQjqrPAz0CU",
+          "title": "The Brilliance You Will Never Understand || Anand vs Topalov || World Championship Match (2010) G2",
+          "thumbnail": "https://i.ytimg.com/vi/kQjqrPAz0CU/mqdefault.jpg",
+          "published_at": "2026-11-09T14:35:11Z",
+          "url": "https://www.youtube.com/watch?v=kQjqrPAz0CU"
+        },
+        {
           "id": "vXrVAaTCxWw",
           "title": "\"Can you please play the Caro-Kann?\" || Volen Dyulgerov vs Magnus Carlsen || 2026",
           "thumbnail": "https://i.ytimg.com/vi/vXrVAaTCxWw/mqdefault.jpg",
@@ -4114,20 +4128,6 @@
           "thumbnail": "https://i.ytimg.com/vi/eeNm7-vfFfI/mqdefault.jpg",
           "published_at": "2026-10-05T14:14:40Z",
           "url": "https://www.youtube.com/watch?v=eeNm7-vfFfI"
-        },
-        {
-          "id": "D1E1tNnQX5o",
-          "title": "One Of My Favorite Bobby Fischer Games || Rene Letelier Martner vs Bobby Fischer || Leipzig 1960",
-          "thumbnail": "https://i.ytimg.com/vi/D1E1tNnQX5o/mqdefault.jpg",
-          "published_at": "2026-10-04T15:29:05Z",
-          "url": "https://www.youtube.com/watch?v=D1E1tNnQX5o"
-        },
-        {
-          "id": "0-KM6Qta0hI",
-          "title": "Luring a Weaker Player to his Own Destruction || Gu\u00f0mundsson vs Fischer || Iceland 1960",
-          "thumbnail": "https://i.ytimg.com/vi/0-KM6Qta0hI/mqdefault.jpg",
-          "published_at": "2026-10-03T13:15:21Z",
-          "url": "https://www.youtube.com/watch?v=0-KM6Qta0hI"
         }
       ]
     },
