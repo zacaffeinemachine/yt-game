@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T12:15:22.393379+00:00",
+  "last_updated": "2026-11-12T13:24:08.230436+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -2220,8 +2220,8 @@
       "videos": [
         {
           "id": "wk5-sAQbzEQ",
-          "title": "Anton Chekhov - \u0936\u0930\u094d\u0924 (The Bet) | Philosophical Short Story",
-          "thumbnail": "https://i.ytimg.com/vi/wk5-sAQbzEQ/mqdefault.jpg",
+          "title": "Deleted video",
+          "thumbnail": "",
           "published_at": "2026-09-21T13:16:00Z",
           "url": "https://www.youtube.com/watch?v=wk5-sAQbzEQ"
         },
@@ -2976,7 +2976,7 @@
         },
         {
           "id": "88itHnh8eMI",
-          "title": "The Most Feared Kids on the Internet",
+          "title": "How Teenagers Got Past America's Toughest Security",
           "thumbnail": "https://i.ytimg.com/vi/88itHnh8eMI/mqdefault.jpg",
           "published_at": "2026-10-14T14:53:28Z",
           "url": "https://www.youtube.com/watch?v=88itHnh8eMI"
@@ -3780,6 +3780,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "tY0unrMmY8o",
+          "title": "When Brilliance is the Standard || Rapport vs Caruana || Total Chess World Championship 2026",
+          "thumbnail": "https://i.ytimg.com/vi/tY0unrMmY8o/mqdefault.jpg",
+          "published_at": "2026-11-12T12:23:08Z",
+          "url": "https://www.youtube.com/watch?v=tY0unrMmY8o"
+        },
+        {
+          "id": "JWfgot0d7lc",
+          "title": "One Day You Give Your Opponent a Lesson... || Levon vs Jorden || Total Chess World Championship 2026",
+          "thumbnail": "https://i.ytimg.com/vi/JWfgot0d7lc/mqdefault.jpg",
+          "published_at": "2026-11-11T20:54:55Z",
+          "url": "https://www.youtube.com/watch?v=JWfgot0d7lc"
+        },
+        {
           "id": "tSBCO0gcZGY",
           "title": "Every Game is Revenge! || Duda vs MC || Total Chess World Championship Tour Pilot 2026",
           "thumbnail": "https://i.ytimg.com/vi/tSBCO0gcZGY/mqdefault.jpg",
@@ -4114,20 +4128,6 @@
           "thumbnail": "https://i.ytimg.com/vi/5DwnQhNnArI/mqdefault.jpg",
           "published_at": "2026-10-09T12:38:29Z",
           "url": "https://www.youtube.com/watch?v=5DwnQhNnArI"
-        },
-        {
-          "id": "qnrDx5OP_To",
-          "title": "Lotus Chess October Arena - lichess.org",
-          "thumbnail": "https://i.ytimg.com/vi/qnrDx5OP_To/mqdefault.jpg",
-          "published_at": "2026-10-08T18:43:11Z",
-          "url": "https://www.youtube.com/watch?v=qnrDx5OP_To"
-        },
-        {
-          "id": "Ak6yM51zdYE",
-          "title": "\"The Old Warrior's Weak Point\" || Bobby Fischer vs Samuel Reshevsky || Fischer-Reshevsky (1961) G2",
-          "thumbnail": "https://i.ytimg.com/vi/Ak6yM51zdYE/mqdefault.jpg",
-          "published_at": "2026-10-08T12:48:10Z",
-          "url": "https://www.youtube.com/watch?v=Ak6yM51zdYE"
         }
       ]
     },
