@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T12:42:10.604013+00:00",
+  "last_updated": "2026-11-14T11:50:50.584120+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3424,7 +3424,7 @@
       "videos": [
         {
           "id": "fEjvSbI_PT4",
-          "title": "What Actually Happens When You Die?",
+          "title": "Dying Is Complicated",
           "thumbnail": "https://i.ytimg.com/vi/fEjvSbI_PT4/mqdefault.jpg",
           "published_at": "2026-11-10T15:00:01Z",
           "url": "https://www.youtube.com/watch?v=fEjvSbI_PT4"
@@ -3780,6 +3780,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "ULMrkhGNL70",
+          "title": "\"I'm Ready!!\" || Haik Martirosyan vs Magnus Carlsen || Total Chess World Championship 2026",
+          "thumbnail": "https://i.ytimg.com/vi/ULMrkhGNL70/mqdefault.jpg",
+          "published_at": "2026-11-13T16:48:56Z",
+          "url": "https://www.youtube.com/watch?v=ULMrkhGNL70"
+        },
+        {
           "id": "TVCfplpYQgI",
           "title": "This Game Will Show You How Little You Know || Alireza vs Jorden || Total Chess WC 2026",
           "thumbnail": "https://i.ytimg.com/vi/TVCfplpYQgI/mqdefault.jpg",
@@ -4121,13 +4128,6 @@
           "thumbnail": "https://i.ytimg.com/vi/1Vp-pbU9c5A/mqdefault.jpg",
           "published_at": "2026-10-13T10:16:13Z",
           "url": "https://www.youtube.com/watch?v=1Vp-pbU9c5A"
-        },
-        {
-          "id": "lWq9xDbBzsg",
-          "title": "Lords of Chaos || Wesley So vs Jeffrey Xiong || U.S. Chess Championships 2026",
-          "thumbnail": "https://i.ytimg.com/vi/lWq9xDbBzsg/mqdefault.jpg",
-          "published_at": "2026-10-12T13:24:38Z",
-          "url": "https://www.youtube.com/watch?v=lWq9xDbBzsg"
         }
       ]
     },
@@ -4136,6 +4136,13 @@
       "name": "Mic the Vegan",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k_eJ2sYoc86uTL0JmbV1e1Zf9Ax1LLe5gXb7yfCTALGJI=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "lzi1jde6d9s",
+          "title": "Dr Mike Goes Vegan Response",
+          "thumbnail": "https://i.ytimg.com/vi/lzi1jde6d9s/mqdefault.jpg",
+          "published_at": "2026-11-14T01:01:05Z",
+          "url": "https://www.youtube.com/watch?v=lzi1jde6d9s"
+        },
         {
           "id": "TzrS68EFwo4",
           "title": "Drinking Vegan Milk Results in Deficiency? New Study Response",
@@ -4478,13 +4485,6 @@
           "thumbnail": "https://i.ytimg.com/vi/tINupBG6wc0/mqdefault.jpg",
           "published_at": "2025-12-20T01:42:04Z",
           "url": "https://www.youtube.com/watch?v=tINupBG6wc0"
-        },
-        {
-          "id": "215-ZyCR49M",
-          "title": "Paul Saladino and Russell Brand's Meat Worship Session Response",
-          "thumbnail": "https://i.ytimg.com/vi/215-ZyCR49M/mqdefault.jpg",
-          "published_at": "2025-12-13T00:37:51Z",
-          "url": "https://www.youtube.com/watch?v=215-ZyCR49M"
         }
       ]
     },
