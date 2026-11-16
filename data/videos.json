@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T12:21:20.498203+00:00",
+  "last_updated": "2026-11-16T13:13:20.100848+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -2639,13 +2639,6 @@
           "url": "https://www.youtube.com/watch?v=iiGIJQxXNZM"
         },
         {
-          "id": "dww8Hekngmg",
-          "title": "LIFE BEYOND: Visions of Alien Life. Full Documentary Remastered (4K)",
-          "thumbnail": "https://i.ytimg.com/vi/dww8Hekngmg/mqdefault.jpg",
-          "published_at": "2024-04-17T16:16:54Z",
-          "url": "https://www.youtube.com/watch?v=dww8Hekngmg"
-        },
-        {
           "id": "FiO7Vyq8Rn8",
           "title": "Could Humans Survive the Dinosaur-Killing Asteroid?  Featuring @LEMMiNO",
           "thumbnail": "https://i.ytimg.com/vi/FiO7Vyq8Rn8/mqdefault.jpg",
@@ -2679,13 +2672,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ViGcwiW7rfY/mqdefault.jpg",
           "published_at": "2022-06-30T16:11:10Z",
           "url": "https://www.youtube.com/watch?v=ViGcwiW7rfY"
-        },
-        {
-          "id": "saWNMPL5ygk",
-          "title": "LIFE BEYOND 3:  In Search of Giants.  The Hunt for Intelligent Alien Life (4K)",
-          "thumbnail": "https://i.ytimg.com/vi/saWNMPL5ygk/mqdefault.jpg",
-          "published_at": "2021-12-07T17:21:39Z",
-          "url": "https://www.youtube.com/watch?v=saWNMPL5ygk"
         },
         {
           "id": "OeYnV9zp7Dk",
@@ -3780,6 +3766,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "z_ZmJWhFUMY",
+          "title": "We Are in a Simulation || Nepo vs Magnus || Total Chess World Championship 2026",
+          "thumbnail": "https://i.ytimg.com/vi/z_ZmJWhFUMY/mqdefault.jpg",
+          "published_at": "2026-11-15T17:12:22Z",
+          "url": "https://www.youtube.com/watch?v=z_ZmJWhFUMY"
+        },
+        {
+          "id": "XBnxWTBoGG4",
+          "title": "Total Silence - Only Chess Speaks || Hans vs Bibisara || Total World Championship 2026",
+          "thumbnail": "https://i.ytimg.com/vi/XBnxWTBoGG4/mqdefault.jpg",
+          "published_at": "2026-11-15T13:48:49Z",
+          "url": "https://www.youtube.com/watch?v=XBnxWTBoGG4"
+        },
+        {
           "id": "RwvnZqtnPX8",
           "title": "Greatest Blunder in Chess History!! || Rapport vs Praggnanandhaa || Total World Championship 2026",
           "thumbnail": "https://i.ytimg.com/vi/RwvnZqtnPX8/mqdefault.jpg",
@@ -4114,20 +4114,6 @@
           "thumbnail": "https://i.ytimg.com/vi/2_Gk4begNeg/mqdefault.jpg",
           "published_at": "2026-10-15T13:48:39Z",
           "url": "https://www.youtube.com/watch?v=2_Gk4begNeg"
-        },
-        {
-          "id": "hQe9rNBg_1E",
-          "title": "Put This Game in Every Book || Andy Woodward vs Fabiano Caruana || U.S. Chess Championships 2026",
-          "thumbnail": "https://i.ytimg.com/vi/hQe9rNBg_1E/mqdefault.jpg",
-          "published_at": "2026-10-15T10:47:34Z",
-          "url": "https://www.youtube.com/watch?v=hQe9rNBg_1E"
-        },
-        {
-          "id": "ghYNkQZU6gI",
-          "title": "So Many Wonders in One Game || Awonder Liang vs Jeffery Xiong || U.S. Chess Championships 2026",
-          "thumbnail": "https://i.ytimg.com/vi/ghYNkQZU6gI/mqdefault.jpg",
-          "published_at": "2026-10-14T13:56:12Z",
-          "url": "https://www.youtube.com/watch?v=ghYNkQZU6gI"
         }
       ]
     },
