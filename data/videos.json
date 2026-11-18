@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-11-17T13:56:36.287353+00:00",
+  "last_updated": "2026-11-18T13:32:13.402119+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
       "name": "3Blue1Brown",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "qbsb9DpdZ6s",
+          "title": "How to compress text to 1 bit per character | Information theory, part 3",
+          "thumbnail": "https://i.ytimg.com/vi/qbsb9DpdZ6s/mqdefault.jpg",
+          "published_at": "2026-11-17T16:43:16Z",
+          "url": "https://www.youtube.com/watch?v=qbsb9DpdZ6s"
+        },
         {
           "id": "LKrwhjOI8Nc",
           "title": "There's never been a better time to go into math",
@@ -22,14 +29,14 @@
         },
         {
           "id": "GlYgs6v2YfU",
-          "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+          "title": "But what is cross-entropy? | Information theory, part 2",
           "thumbnail": "https://i.ytimg.com/vi/GlYgs6v2YfU/mqdefault.jpg",
           "published_at": "2026-07-16T11:56:04Z",
           "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU"
         },
         {
           "id": "l6DKRf-fAAM",
-          "title": "Reinventing Entropy | Compression is Intelligence Part 1",
+          "title": "Reinventing Entropy | Information theory, part 1",
           "thumbnail": "https://i.ytimg.com/vi/l6DKRf-fAAM/mqdefault.jpg",
           "published_at": "2026-06-07T11:49:51Z",
           "url": "https://www.youtube.com/watch?v=l6DKRf-fAAM"
@@ -348,13 +355,6 @@
           "thumbnail": "https://i.ytimg.com/vi/F3Qixy-r_rQ/mqdefault.jpg",
           "published_at": "2021-10-23T20:25:56Z",
           "url": "https://www.youtube.com/watch?v=F3Qixy-r_rQ"
-        },
-        {
-          "id": "LqbZpur38nw",
-          "title": "Beyond the Mandelbrot set, an intro to holomorphic dynamics",
-          "thumbnail": "https://i.ytimg.com/vi/LqbZpur38nw/mqdefault.jpg",
-          "published_at": "2021-10-16T12:39:12Z",
-          "url": "https://www.youtube.com/watch?v=LqbZpur38nw"
         }
       ]
     },
@@ -2955,7 +2955,7 @@
       "videos": [
         {
           "id": "JaAn-rwwG6w",
-          "title": "America\u2019s Most Dangerous Priests",
+          "title": "The Scariest Movement in America",
           "thumbnail": "https://i.ytimg.com/vi/JaAn-rwwG6w/mqdefault.jpg",
           "published_at": "2026-11-12T16:00:24Z",
           "url": "https://www.youtube.com/watch?v=JaAn-rwwG6w"
@@ -3780,6 +3780,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "TXqiXP85aso",
+          "title": "A Game of Endless Possibilities || Alireza vs Fabi || Total Chess World Championship SF 2026",
+          "thumbnail": "https://i.ytimg.com/vi/TXqiXP85aso/mqdefault.jpg",
+          "published_at": "2026-11-17T20:54:36Z",
+          "url": "https://www.youtube.com/watch?v=TXqiXP85aso"
+        },
+        {
           "id": "q6oV9jZrigQ",
           "title": "Speed Demons, Assemble! || Ya\u011f\u0131z Kaan Erdo\u011fmu\u015f vs Hikaru Nakamura || Speed Chess Championship 2026",
           "thumbnail": "https://i.ytimg.com/vi/q6oV9jZrigQ/mqdefault.jpg",
@@ -4121,13 +4128,6 @@
           "thumbnail": "https://i.ytimg.com/vi/utSvrGN_Pf0/mqdefault.jpg",
           "published_at": "2026-10-17T08:25:00Z",
           "url": "https://www.youtube.com/watch?v=utSvrGN_Pf0"
-        },
-        {
-          "id": "02T1AV2upfg",
-          "title": "The Worst Decision || Awonder Liang vs Levon Aronian || U.S. Chess Championships 2026",
-          "thumbnail": "https://i.ytimg.com/vi/02T1AV2upfg/mqdefault.jpg",
-          "published_at": "2026-10-16T13:05:48Z",
-          "url": "https://www.youtube.com/watch?v=02T1AV2upfg"
         }
       ]
     },
