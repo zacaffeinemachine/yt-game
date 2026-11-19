@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T13:32:13.402119+00:00",
+  "last_updated": "2026-11-19T13:59:38.309281+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -8,7 +8,7 @@
       "videos": [
         {
           "id": "qbsb9DpdZ6s",
-          "title": "How to compress text to 1 bit per character | Information theory, part 3",
+          "title": "This algorithm changed how I think about compression | Information theory, part 3",
           "thumbnail": "https://i.ytimg.com/vi/qbsb9DpdZ6s/mqdefault.jpg",
           "published_at": "2026-11-17T16:43:16Z",
           "url": "https://www.youtube.com/watch?v=qbsb9DpdZ6s"
@@ -364,6 +364,13 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "uXuQF_PPg5U",
+          "title": "Most people don\u2019t understand randomness.",
+          "thumbnail": "https://i.ytimg.com/vi/uXuQF_PPg5U/mqdefault.jpg",
+          "published_at": "2026-11-18T20:29:44Z",
+          "url": "https://www.youtube.com/watch?v=uXuQF_PPg5U"
+        },
+        {
           "id": "KfODG5REyss",
           "title": "I finally saw quantum physics with my own eyes... (It's spookier than I expected)",
           "thumbnail": "https://i.ytimg.com/vi/KfODG5REyss/mqdefault.jpg",
@@ -705,13 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/qJZ1Ez28C-A/mqdefault.jpg",
           "published_at": "2025-03-05T02:22:56Z",
           "url": "https://www.youtube.com/watch?v=qJZ1Ez28C-A"
-        },
-        {
-          "id": "dFVrncgIvos",
-          "title": "The Interview Question Everyone Gets Wrong",
-          "thumbnail": "https://i.ytimg.com/vi/dFVrncgIvos/mqdefault.jpg",
-          "published_at": "2025-02-18T16:03:35Z",
-          "url": "https://www.youtube.com/watch?v=dFVrncgIvos"
         }
       ]
     },
@@ -3780,6 +3780,27 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "nKh7ehUNj8w",
+          "title": "Unstoppable! || Anish vs MVL || Total Chess World Championship SF 2026",
+          "thumbnail": "https://i.ytimg.com/vi/nKh7ehUNj8w/mqdefault.jpg",
+          "published_at": "2026-11-19T10:37:17Z",
+          "url": "https://www.youtube.com/watch?v=nKh7ehUNj8w"
+        },
+        {
+          "id": "v3oALh3cuTQ",
+          "title": "This Event Has it ALL || Fabi vs Alireza || Total Chess World Championship SF 2026",
+          "thumbnail": "https://i.ytimg.com/vi/v3oALh3cuTQ/mqdefault.jpg",
+          "published_at": "2026-11-18T20:51:42Z",
+          "url": "https://www.youtube.com/watch?v=v3oALh3cuTQ"
+        },
+        {
+          "id": "MuIocd3RzLc",
+          "title": "Classical is King! || Anish vs MVL || Total Chess World Championship SF 2026",
+          "thumbnail": "https://i.ytimg.com/vi/MuIocd3RzLc/mqdefault.jpg",
+          "published_at": "2026-11-18T13:53:16Z",
+          "url": "https://www.youtube.com/watch?v=MuIocd3RzLc"
+        },
+        {
           "id": "TXqiXP85aso",
           "title": "A Game of Endless Possibilities || Alireza vs Fabi || Total Chess World Championship SF 2026",
           "thumbnail": "https://i.ytimg.com/vi/TXqiXP85aso/mqdefault.jpg",
@@ -4107,27 +4128,6 @@
           "thumbnail": "https://i.ytimg.com/vi/cZ6a4PHu_dk/mqdefault.jpg",
           "published_at": "2026-10-19T18:37:46Z",
           "url": "https://www.youtube.com/watch?v=cZ6a4PHu_dk"
-        },
-        {
-          "id": "RNC_viycV6M",
-          "title": "Textbook Execution! || Sam Shankland vs Hans Niemann || U.S. Chess Championships 2026",
-          "thumbnail": "https://i.ytimg.com/vi/RNC_viycV6M/mqdefault.jpg",
-          "published_at": "2026-10-18T13:34:56Z",
-          "url": "https://www.youtube.com/watch?v=RNC_viycV6M"
-        },
-        {
-          "id": "xpucWJ_fKEE",
-          "title": "There are Levels To This Game || Wesley So vs Andy Woodward || U.S. Chess Championships 2026",
-          "thumbnail": "https://i.ytimg.com/vi/xpucWJ_fKEE/mqdefault.jpg",
-          "published_at": "2026-10-18T12:48:22Z",
-          "url": "https://www.youtube.com/watch?v=xpucWJ_fKEE"
-        },
-        {
-          "id": "utSvrGN_Pf0",
-          "title": "This is Real Chess! || Ray Robson vs Wesley So || U.S. Chess Championships 2026",
-          "thumbnail": "https://i.ytimg.com/vi/utSvrGN_Pf0/mqdefault.jpg",
-          "published_at": "2026-10-17T08:25:00Z",
-          "url": "https://www.youtube.com/watch?v=utSvrGN_Pf0"
         }
       ]
     },
