@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T13:59:38.309281+00:00",
+  "last_updated": "2026-11-20T13:41:25.109540+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -568,7 +568,7 @@
         },
         {
           "id": "Y-W-w8yNiKU",
-          "title": "Why is there antimatter?",
+          "title": "Why does antimatter exist?",
           "thumbnail": "https://i.ytimg.com/vi/Y-W-w8yNiKU/mqdefault.jpg",
           "published_at": "2025-12-05T09:47:19Z",
           "url": "https://www.youtube.com/watch?v=Y-W-w8yNiKU"
@@ -1148,6 +1148,13 @@
       "thumbnail": "https://yt3.ggpht.com/2Q1gdW39CMqUTI5mQ9nPuwz4djn89ofGHWV6JaBrTNb7ZQgqnHTR3nvk-7Ischim1cSyr1ZUqA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "KPm7HFLSmC0",
+          "title": "Proof That Social Media Companies Are EVIL",
+          "thumbnail": "https://i.ytimg.com/vi/KPm7HFLSmC0/mqdefault.jpg",
+          "published_at": "2026-11-20T08:32:03Z",
+          "url": "https://www.youtube.com/watch?v=KPm7HFLSmC0"
+        },
+        {
           "id": "hgeao9TTNHc",
           "title": "The Fashion Industry's Darkest Secrets",
           "thumbnail": "https://i.ytimg.com/vi/hgeao9TTNHc/mqdefault.jpg",
@@ -1489,13 +1496,6 @@
           "thumbnail": "https://i.ytimg.com/vi/3BpQ1ue_Tdc/mqdefault.jpg",
           "published_at": "2024-06-12T02:45:41Z",
           "url": "https://www.youtube.com/watch?v=3BpQ1ue_Tdc"
-        },
-        {
-          "id": "H9adJ17CRwg",
-          "title": "The Disturbing Reality of Instagram Reels",
-          "thumbnail": "https://i.ytimg.com/vi/H9adJ17CRwg/mqdefault.jpg",
-          "published_at": "2024-06-04T10:29:10Z",
-          "url": "https://www.youtube.com/watch?v=H9adJ17CRwg"
         }
       ]
     },
@@ -3780,6 +3780,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "QgRgc_hkB8k",
+          "title": "He Never Played Better Chess! || Alireza vs Anish | Total Chess World Championship FINALS 2026",
+          "thumbnail": "https://i.ytimg.com/vi/QgRgc_hkB8k/mqdefault.jpg",
+          "published_at": "2026-11-20T10:29:52Z",
+          "url": "https://www.youtube.com/watch?v=QgRgc_hkB8k"
+        },
+        {
+          "id": "EMCJTFYmFtQ",
+          "title": "EVERYTHING on the Line || Magnus Carlsen vs Vladislav Artemiev | Total Chess World Championship 2026",
+          "thumbnail": "https://i.ytimg.com/vi/EMCJTFYmFtQ/mqdefault.jpg",
+          "published_at": "2026-11-19T20:34:55Z",
+          "url": "https://www.youtube.com/watch?v=EMCJTFYmFtQ"
+        },
+        {
           "id": "nKh7ehUNj8w",
           "title": "Unstoppable! || Anish vs MVL || Total Chess World Championship SF 2026",
           "thumbnail": "https://i.ytimg.com/vi/nKh7ehUNj8w/mqdefault.jpg",
@@ -4114,20 +4128,6 @@
           "thumbnail": "https://i.ytimg.com/vi/DxZlXKZHP7A/mqdefault.jpg",
           "published_at": "2026-10-21T10:02:54Z",
           "url": "https://www.youtube.com/watch?v=DxZlXKZHP7A"
-        },
-        {
-          "id": "qsnuMLHmzDA",
-          "title": "The Delayed Evans Gambit! || Fabi vs Wesley So || U.S. Chess Championships 2026",
-          "thumbnail": "https://i.ytimg.com/vi/qsnuMLHmzDA/mqdefault.jpg",
-          "published_at": "2026-10-19T20:42:04Z",
-          "url": "https://www.youtube.com/watch?v=qsnuMLHmzDA"
-        },
-        {
-          "id": "cZ6a4PHu_dk",
-          "title": "The Lion Emerges! || Levon Aronian vs Sam Shankland || U.S. Chess Championships 2026",
-          "thumbnail": "https://i.ytimg.com/vi/cZ6a4PHu_dk/mqdefault.jpg",
-          "published_at": "2026-10-19T18:37:46Z",
-          "url": "https://www.youtube.com/watch?v=cZ6a4PHu_dk"
         }
       ]
     },
@@ -4850,6 +4850,13 @@
       "name": "Howtown",
       "thumbnail": "https://yt3.ggpht.com/WPr50X5C9Hyvd21TyVKWsfsuaxkuyH-gOErQbuPMmDo-g0urjzsKLF9VDmnaPxzB6_xM_5LNNQ=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "uGabaaJ2r7k",
+          "title": "Why horses lost their toes",
+          "thumbnail": "https://i.ytimg.com/vi/uGabaaJ2r7k/mqdefault.jpg",
+          "published_at": "2026-11-20T13:00:08Z",
+          "url": "https://www.youtube.com/watch?v=uGabaaJ2r7k"
+        },
         {
           "id": "9IAL9BtqlHc",
           "title": "We tried to make the perfect science t-shirt",
