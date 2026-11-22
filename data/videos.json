@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-11-21T13:07:02.041377+00:00",
+  "last_updated": "2026-11-22T12:55:21.449875+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
       "name": "3Blue1Brown",
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "zqzk43bSdDI",
+          "title": "Since last year, we asked: \u201cWhat if AI solved the Riemann Hypothesis?\u201d",
+          "thumbnail": "https://i.ytimg.com/vi/zqzk43bSdDI/mqdefault.jpg",
+          "published_at": "2026-11-22T02:02:12Z",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI"
+        },
         {
           "id": "qbsb9DpdZ6s",
           "title": "This algorithm changed how I think about compression | Information theory, part 3",
@@ -348,13 +355,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ltLUadnCyi0/mqdefault.jpg",
           "published_at": "2021-12-20T15:02:30Z",
           "url": "https://www.youtube.com/watch?v=ltLUadnCyi0"
-        },
-        {
-          "id": "F3Qixy-r_rQ",
-          "title": "2021 Summer of Math Exposition results",
-          "thumbnail": "https://i.ytimg.com/vi/F3Qixy-r_rQ/mqdefault.jpg",
-          "published_at": "2021-10-23T20:25:56Z",
-          "url": "https://www.youtube.com/watch?v=F3Qixy-r_rQ"
         }
       ]
     },
@@ -3780,6 +3780,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "RPkpb-S7lmc",
+          "title": "Challenge me to some blitz and bullet! - https://app.lotus-chess.com/play is LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/RPkpb-S7lmc/mqdefault.jpg",
+          "published_at": "2026-11-21T16:55:08Z",
+          "url": "https://www.youtube.com/watch?v=RPkpb-S7lmc"
+        },
+        {
           "id": "Et5pNn4lnvA",
           "title": "The Total Chess Champion! || Anish vs Alireza | Total Chess World Championship FINALS 2026",
           "thumbnail": "https://i.ytimg.com/vi/Et5pNn4lnvA/mqdefault.jpg",
@@ -4121,13 +4128,6 @@
           "thumbnail": "https://i.ytimg.com/vi/3_DzRcp0tGs/mqdefault.jpg",
           "published_at": "2026-10-22T11:36:12Z",
           "url": "https://www.youtube.com/watch?v=3_DzRcp0tGs"
-        },
-        {
-          "id": "tZi7PRPh0lI",
-          "title": "Is It Happening? || Fabiano Caruana vs Awonder Liang || U.S. Chess Championship 2026",
-          "thumbnail": "https://i.ytimg.com/vi/tZi7PRPh0lI/mqdefault.jpg",
-          "published_at": "2026-10-21T21:14:00Z",
-          "url": "https://www.youtube.com/watch?v=tZi7PRPh0lI"
         }
       ]
     },
@@ -4817,29 +4817,29 @@
         },
         {
           "id": "l5F4usl62u0",
-          "title": "Don't be fooled into corporate slavery | OLA CEO | Breakdown",
-          "thumbnail": "https://i.ytimg.com/vi/l5F4usl62u0/mqdefault.jpg",
+          "title": "Deleted video",
+          "thumbnail": "",
           "published_at": "2024-10-19T04:45:02Z",
           "url": "https://www.youtube.com/watch?v=l5F4usl62u0"
         },
         {
           "id": "TTUjd_7S6X8",
-          "title": "'Arpit Explains' UNEXAMINED LOGIC EXPOSED | Reaction Video | Veganism",
-          "thumbnail": "https://i.ytimg.com/vi/TTUjd_7S6X8/mqdefault.jpg",
+          "title": "Deleted video",
+          "thumbnail": "",
           "published_at": "2024-10-12T04:45:02Z",
           "url": "https://www.youtube.com/watch?v=TTUjd_7S6X8"
         },
         {
           "id": "8OdgOAXFu_I",
-          "title": "STUPIDEST Street Interview takes a U TURN | Questioning Public | Reaction",
-          "thumbnail": "https://i.ytimg.com/vi/8OdgOAXFu_I/mqdefault.jpg",
+          "title": "Deleted video",
+          "thumbnail": "",
           "published_at": "2024-10-05T04:45:00Z",
           "url": "https://www.youtube.com/watch?v=8OdgOAXFu_I"
         },
         {
           "id": "QkGdE8N5JhY",
-          "title": "Best Dog Food Ever | Backed by Science | Curry n Pepper | Ethical Leaders Podcast",
-          "thumbnail": "https://i.ytimg.com/vi/QkGdE8N5JhY/mqdefault.jpg",
+          "title": "Deleted video",
+          "thumbnail": "",
           "published_at": "2024-09-28T04:45:01Z",
           "url": "https://www.youtube.com/watch?v=QkGdE8N5JhY"
         }
