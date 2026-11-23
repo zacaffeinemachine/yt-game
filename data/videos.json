@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T12:55:21.449875+00:00",
+  "last_updated": "2026-11-23T15:29:27.287829+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -36,7 +36,7 @@
         },
         {
           "id": "GlYgs6v2YfU",
-          "title": "But what is cross-entropy? | Information theory, part 2",
+          "title": "What is cross-entropy, and why is it used in ML? | Information theory, part 2",
           "thumbnail": "https://i.ytimg.com/vi/GlYgs6v2YfU/mqdefault.jpg",
           "published_at": "2026-07-16T11:56:04Z",
           "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU"
@@ -2954,6 +2954,13 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "grBaH7LMnEY",
+          "title": "The iPhone Battery Conspiracy",
+          "thumbnail": "https://i.ytimg.com/vi/grBaH7LMnEY/mqdefault.jpg",
+          "published_at": "2026-11-22T15:00:19Z",
+          "url": "https://www.youtube.com/watch?v=grBaH7LMnEY"
+        },
+        {
           "id": "JaAn-rwwG6w",
           "title": "The Scariest Movement in America",
           "thumbnail": "https://i.ytimg.com/vi/JaAn-rwwG6w/mqdefault.jpg",
@@ -3295,13 +3302,6 @@
           "thumbnail": "https://i.ytimg.com/vi/zVgj3dFjWhs/mqdefault.jpg",
           "published_at": "2025-11-21T15:02:06Z",
           "url": "https://www.youtube.com/watch?v=zVgj3dFjWhs"
-        },
-        {
-          "id": "wLFY_Zu_O08",
-          "title": "How an FBI Agent Infiltrated the KKK",
-          "thumbnail": "https://i.ytimg.com/vi/wLFY_Zu_O08/mqdefault.jpg",
-          "published_at": "2025-11-12T15:01:54Z",
-          "url": "https://www.youtube.com/watch?v=wLFY_Zu_O08"
         }
       ]
     },
@@ -3780,6 +3780,20 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "8tZEY31qkK4",
+          "title": "Chaos is the Bare Minimum || Mikhail Tal vs David Bronstein | USSR Championship (1964/65)",
+          "thumbnail": "https://i.ytimg.com/vi/8tZEY31qkK4/mqdefault.jpg",
+          "published_at": "2026-11-23T13:34:53Z",
+          "url": "https://www.youtube.com/watch?v=8tZEY31qkK4"
+        },
+        {
+          "id": "Hla2GkQWn9k",
+          "title": "Challenge me to some blitz and bullet! - https://app.lotus-chess.com/play is LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/Hla2GkQWn9k/mqdefault.jpg",
+          "published_at": "2026-11-22T14:27:58Z",
+          "url": "https://www.youtube.com/watch?v=Hla2GkQWn9k"
+        },
+        {
           "id": "RPkpb-S7lmc",
           "title": "Challenge me to some blitz and bullet! - https://app.lotus-chess.com/play is LIVE",
           "thumbnail": "https://i.ytimg.com/vi/RPkpb-S7lmc/mqdefault.jpg",
@@ -4114,20 +4128,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ls8xOjQyP2g/mqdefault.jpg",
           "published_at": "2026-10-23T13:15:55Z",
           "url": "https://www.youtube.com/watch?v=ls8xOjQyP2g"
-        },
-        {
-          "id": "PcA592Z5468",
-          "title": "The Final Match! || Wesley So vs Fabiano Caruana || U.S. Chess Championship 2026",
-          "thumbnail": "https://i.ytimg.com/vi/PcA592Z5468/mqdefault.jpg",
-          "published_at": "2026-10-22T19:26:50Z",
-          "url": "https://www.youtube.com/watch?v=PcA592Z5468"
-        },
-        {
-          "id": "3_DzRcp0tGs",
-          "title": "It's Happening! || Samuel Sevian vs Wesley So || U.S. Chess Championship 2026",
-          "thumbnail": "https://i.ytimg.com/vi/3_DzRcp0tGs/mqdefault.jpg",
-          "published_at": "2026-10-22T11:36:12Z",
-          "url": "https://www.youtube.com/watch?v=3_DzRcp0tGs"
         }
       ]
     },
@@ -4817,29 +4817,29 @@
         },
         {
           "id": "l5F4usl62u0",
-          "title": "Deleted video",
-          "thumbnail": "",
+          "title": "Don't be fooled into corporate slavery | OLA CEO | Breakdown",
+          "thumbnail": "https://i.ytimg.com/vi/l5F4usl62u0/mqdefault.jpg",
           "published_at": "2024-10-19T04:45:02Z",
           "url": "https://www.youtube.com/watch?v=l5F4usl62u0"
         },
         {
           "id": "TTUjd_7S6X8",
-          "title": "Deleted video",
-          "thumbnail": "",
+          "title": "'Arpit Explains' UNEXAMINED LOGIC EXPOSED | Reaction Video | Veganism",
+          "thumbnail": "https://i.ytimg.com/vi/TTUjd_7S6X8/mqdefault.jpg",
           "published_at": "2024-10-12T04:45:02Z",
           "url": "https://www.youtube.com/watch?v=TTUjd_7S6X8"
         },
         {
           "id": "8OdgOAXFu_I",
-          "title": "Deleted video",
-          "thumbnail": "",
+          "title": "STUPIDEST Street Interview takes a U TURN | Questioning Public | Reaction",
+          "thumbnail": "https://i.ytimg.com/vi/8OdgOAXFu_I/mqdefault.jpg",
           "published_at": "2024-10-05T04:45:00Z",
           "url": "https://www.youtube.com/watch?v=8OdgOAXFu_I"
         },
         {
           "id": "QkGdE8N5JhY",
-          "title": "Deleted video",
-          "thumbnail": "",
+          "title": "Best Dog Food Ever | Backed by Science | Curry n Pepper | Ethical Leaders Podcast",
+          "thumbnail": "https://i.ytimg.com/vi/QkGdE8N5JhY/mqdefault.jpg",
           "published_at": "2024-09-28T04:45:01Z",
           "url": "https://www.youtube.com/watch?v=QkGdE8N5JhY"
         }
