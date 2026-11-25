@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T15:23:38.121994+00:00",
+  "last_updated": "2026-11-25T15:04:54.413023+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -8,7 +8,7 @@
       "videos": [
         {
           "id": "zqzk43bSdDI",
-          "title": "Since last year, we asked: \u201cWhat if AI solved the Riemann Hypothesis?\u201d",
+          "title": "We've been asking: \u201cWhat if AI solved the Riemann Hypothesis?\u201d",
           "thumbnail": "https://i.ytimg.com/vi/zqzk43bSdDI/mqdefault.jpg",
           "published_at": "2026-11-22T02:02:12Z",
           "url": "https://www.youtube.com/watch?v=zqzk43bSdDI"
@@ -364,6 +364,13 @@
       "thumbnail": "https://yt3.ggpht.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "WbM7GP7QoEM",
+          "title": "Scientists Said This Wave Was Impossible",
+          "thumbnail": "https://i.ytimg.com/vi/WbM7GP7QoEM/mqdefault.jpg",
+          "published_at": "2026-11-25T14:00:52Z",
+          "url": "https://www.youtube.com/watch?v=WbM7GP7QoEM"
+        },
+        {
           "id": "uXuQF_PPg5U",
           "title": "Randomness is a lie. Let me explain",
           "thumbnail": "https://i.ytimg.com/vi/uXuQF_PPg5U/mqdefault.jpg",
@@ -705,13 +712,6 @@
           "thumbnail": "https://i.ytimg.com/vi/20vUNgRdB4o/mqdefault.jpg",
           "published_at": "2025-03-20T22:41:55Z",
           "url": "https://www.youtube.com/watch?v=20vUNgRdB4o"
-        },
-        {
-          "id": "qJZ1Ez28C-A",
-          "title": "The Strangest Implication of Quantum Mechanics",
-          "thumbnail": "https://i.ytimg.com/vi/qJZ1Ez28C-A/mqdefault.jpg",
-          "published_at": "2025-03-05T02:22:56Z",
-          "url": "https://www.youtube.com/watch?v=qJZ1Ez28C-A"
         }
       ]
     },
@@ -3780,6 +3780,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "Ktw0FDBPUgA",
+          "title": "Javokhir Sindarov vs Gukesh D || FIDE World Championship 2026 || GAME 1",
+          "thumbnail": "https://i.ytimg.com/vi/Ktw0FDBPUgA/mqdefault.jpg",
+          "published_at": "2026-11-24T18:38:05Z",
+          "url": "https://www.youtube.com/watch?v=Ktw0FDBPUgA"
+        },
+        {
           "id": "8tZEY31qkK4",
           "title": "Chaos is the Bare Minimum || Mikhail Tal vs David Bronstein | USSR Championship (1964/65)",
           "thumbnail": "https://i.ytimg.com/vi/8tZEY31qkK4/mqdefault.jpg",
@@ -4121,13 +4128,6 @@
           "thumbnail": "https://i.ytimg.com/vi/YDAe799ecdU/mqdefault.jpg",
           "published_at": "2026-10-23T18:12:47Z",
           "url": "https://www.youtube.com/watch?v=YDAe799ecdU"
-        },
-        {
-          "id": "ls8xOjQyP2g",
-          "title": "The Nodirbeks Meet Again! || European Club Cup 2026",
-          "thumbnail": "https://i.ytimg.com/vi/ls8xOjQyP2g/mqdefault.jpg",
-          "published_at": "2026-10-23T13:15:55Z",
-          "url": "https://www.youtube.com/watch?v=ls8xOjQyP2g"
         }
       ]
     },
@@ -4852,7 +4852,7 @@
       "videos": [
         {
           "id": "uGabaaJ2r7k",
-          "title": "Why horses lost their toes",
+          "title": "Why horses run on one \"middle finger\"",
           "thumbnail": "https://i.ytimg.com/vi/uGabaaJ2r7k/mqdefault.jpg",
           "published_at": "2026-11-20T13:00:08Z",
           "url": "https://www.youtube.com/watch?v=uGabaaJ2r7k"
