@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T15:04:54.413023+00:00",
+  "last_updated": "2026-11-26T14:34:04.779542+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -3780,6 +3780,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "brIddk3uYyM",
+          "title": "Gukesh D vs Javokhir Sindarov || FIDE World Championship 2026 || GAME 2",
+          "thumbnail": "https://i.ytimg.com/vi/brIddk3uYyM/mqdefault.jpg",
+          "published_at": "2026-11-25T16:29:49Z",
+          "url": "https://www.youtube.com/watch?v=brIddk3uYyM"
+        },
+        {
           "id": "Ktw0FDBPUgA",
           "title": "Javokhir Sindarov vs Gukesh D || FIDE World Championship 2026 || GAME 1",
           "thumbnail": "https://i.ytimg.com/vi/Ktw0FDBPUgA/mqdefault.jpg",
@@ -4121,13 +4128,6 @@
           "thumbnail": "https://i.ytimg.com/vi/YZI9aaaF2bE/mqdefault.jpg",
           "published_at": "2026-10-24T15:21:31Z",
           "url": "https://www.youtube.com/watch?v=YZI9aaaF2bE"
-        },
-        {
-          "id": "YDAe799ecdU",
-          "title": "Magic on The Board! || Anish Giri vs Nodirbek Abdusattorov || European Club Cup 2026",
-          "thumbnail": "https://i.ytimg.com/vi/YDAe799ecdU/mqdefault.jpg",
-          "published_at": "2026-10-23T18:12:47Z",
-          "url": "https://www.youtube.com/watch?v=YDAe799ecdU"
         }
       ]
     },
@@ -4852,7 +4852,7 @@
       "videos": [
         {
           "id": "uGabaaJ2r7k",
-          "title": "Why horses run on one \"middle finger\"",
+          "title": "Why horses lost their toes",
           "thumbnail": "https://i.ytimg.com/vi/uGabaaJ2r7k/mqdefault.jpg",
           "published_at": "2026-11-20T13:00:08Z",
           "url": "https://www.youtube.com/watch?v=uGabaaJ2r7k"
