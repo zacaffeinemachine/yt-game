@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T14:34:04.779542+00:00",
+  "last_updated": "2026-11-27T14:29:21.096402+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -15,7 +15,7 @@
         },
         {
           "id": "qbsb9DpdZ6s",
-          "title": "This algorithm changed how I think about compression | Information theory, part 3",
+          "title": "This algorithm changed how I think about compression | Compression & Intelligence, part 3",
           "thumbnail": "https://i.ytimg.com/vi/qbsb9DpdZ6s/mqdefault.jpg",
           "published_at": "2026-11-17T16:43:16Z",
           "url": "https://www.youtube.com/watch?v=qbsb9DpdZ6s"
@@ -36,14 +36,14 @@
         },
         {
           "id": "GlYgs6v2YfU",
-          "title": "What is cross-entropy, and why is it used in ML? | Information theory, part 2",
+          "title": "What is cross-entropy, and why is it used in ML? | Compression & Intelligence, part 2",
           "thumbnail": "https://i.ytimg.com/vi/GlYgs6v2YfU/mqdefault.jpg",
           "published_at": "2026-07-16T11:56:04Z",
           "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU"
         },
         {
           "id": "l6DKRf-fAAM",
-          "title": "Shannon's dream: The limit of compressibility | Information theory, part 1",
+          "title": "How to invent entropy | Compression & Intelligence, part 1",
           "thumbnail": "https://i.ytimg.com/vi/l6DKRf-fAAM/mqdefault.jpg",
           "published_at": "2026-06-07T11:49:51Z",
           "url": "https://www.youtube.com/watch?v=l6DKRf-fAAM"
@@ -2954,6 +2954,13 @@
       "thumbnail": "https://yt3.ggpht.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "wA2DRkzGfr4",
+          "title": "The Worst New YouTube Sponsor",
+          "thumbnail": "https://i.ytimg.com/vi/wA2DRkzGfr4/mqdefault.jpg",
+          "published_at": "2026-11-26T19:36:36Z",
+          "url": "https://www.youtube.com/watch?v=wA2DRkzGfr4"
+        },
+        {
           "id": "grBaH7LMnEY",
           "title": "The iPhone Battery Conspiracy",
           "thumbnail": "https://i.ytimg.com/vi/grBaH7LMnEY/mqdefault.jpg",
@@ -3295,13 +3302,6 @@
           "thumbnail": "https://i.ytimg.com/vi/tpn8_ZpQ-Ho/mqdefault.jpg",
           "published_at": "2025-11-27T16:59:28Z",
           "url": "https://www.youtube.com/watch?v=tpn8_ZpQ-Ho"
-        },
-        {
-          "id": "zVgj3dFjWhs",
-          "title": "How a Cult Took Over Fiji",
-          "thumbnail": "https://i.ytimg.com/vi/zVgj3dFjWhs/mqdefault.jpg",
-          "published_at": "2025-11-21T15:02:06Z",
-          "url": "https://www.youtube.com/watch?v=zVgj3dFjWhs"
         }
       ]
     },
@@ -3310,6 +3310,13 @@
       "name": "Nightshift \u2013 Kurzgesagt After Dark",
       "thumbnail": "https://yt3.ggpht.com/eXEBNg6ggwrJopuwMkvxi-ZZhlTOAo8juTk5FBWDoE8qvoLPXWInWKtVKJN5SKiOpheZyudT=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "WBQfpIq2-ew",
+          "title": "The Forgotten Horrors of the Moriori Tribe",
+          "thumbnail": "https://i.ytimg.com/vi/WBQfpIq2-ew/mqdefault.jpg",
+          "published_at": "2026-11-26T15:00:06Z",
+          "url": "https://www.youtube.com/watch?v=WBQfpIq2-ew"
+        },
         {
           "id": "QQXCC6o_LHU",
           "title": "The Cult That Drove a Whole City Insane",
@@ -3780,6 +3787,13 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "fF3pKBWheJs",
+          "title": "Javokhir Sindarov vs Gukesh D || FIDE World Championship 2026 || GAME 3",
+          "thumbnail": "https://i.ytimg.com/vi/fF3pKBWheJs/mqdefault.jpg",
+          "published_at": "2026-11-26T19:37:57Z",
+          "url": "https://www.youtube.com/watch?v=fF3pKBWheJs"
+        },
+        {
           "id": "brIddk3uYyM",
           "title": "Gukesh D vs Javokhir Sindarov || FIDE World Championship 2026 || GAME 2",
           "thumbnail": "https://i.ytimg.com/vi/brIddk3uYyM/mqdefault.jpg",
@@ -4121,13 +4135,6 @@
           "thumbnail": "https://i.ytimg.com/vi/mOOPo1NX_Xw/mqdefault.jpg",
           "published_at": "2026-10-24T19:23:53Z",
           "url": "https://www.youtube.com/watch?v=mOOPo1NX_Xw"
-        },
-        {
-          "id": "YZI9aaaF2bE",
-          "title": "He's The Grim Reaper || Hilmir Heimisson vs Wei Yi || European Club Cup 2026",
-          "thumbnail": "https://i.ytimg.com/vi/YZI9aaaF2bE/mqdefault.jpg",
-          "published_at": "2026-10-24T15:21:31Z",
-          "url": "https://www.youtube.com/watch?v=YZI9aaaF2bE"
         }
       ]
     },
