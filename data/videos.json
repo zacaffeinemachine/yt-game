@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T14:29:21.096402+00:00",
+  "last_updated": "2026-11-28T13:44:58.514929+00:00",
   "channels": [
     {
       "id": "UCYO_jab_esuFRV4b17AJtAw",
@@ -36,7 +36,7 @@
         },
         {
           "id": "GlYgs6v2YfU",
-          "title": "What is cross-entropy, and why is it used in ML? | Compression & Intelligence, part 2",
+          "title": "Cross-entropy: Compression ratios as loss functions | Compression & Intelligence, part 2",
           "thumbnail": "https://i.ytimg.com/vi/GlYgs6v2YfU/mqdefault.jpg",
           "published_at": "2026-07-16T11:56:04Z",
           "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU"
@@ -3787,6 +3787,27 @@
       "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nu8s0QqnZsbo5bqcCxd7IkKfyacCgItwcLgLyUpPfCR1w=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "uSphuFUulRg",
+          "title": "Lotus Chess November Arena - lichess.org",
+          "thumbnail": "https://i.ytimg.com/vi/uSphuFUulRg/mqdefault.jpg",
+          "published_at": "2026-11-27T19:40:38Z",
+          "url": "https://www.youtube.com/watch?v=uSphuFUulRg"
+        },
+        {
+          "id": "yCktOKltThs",
+          "title": "Lotus Chess November Arena - lichess.org",
+          "thumbnail": "https://i.ytimg.com/vi/yCktOKltThs/mqdefault.jpg",
+          "published_at": "2026-11-27T17:35:09Z",
+          "url": "https://www.youtube.com/watch?v=yCktOKltThs"
+        },
+        {
+          "id": "74lK87ZwlBE",
+          "title": "You Haven't Seen Chaos Until You See This Game | Kholmov vs  Bronstein | USSR Championship (1964/65)",
+          "thumbnail": "https://i.ytimg.com/vi/74lK87ZwlBE/mqdefault.jpg",
+          "published_at": "2026-11-27T14:50:37Z",
+          "url": "https://www.youtube.com/watch?v=74lK87ZwlBE"
+        },
+        {
           "id": "fF3pKBWheJs",
           "title": "Javokhir Sindarov vs Gukesh D || FIDE World Championship 2026 || GAME 3",
           "thumbnail": "https://i.ytimg.com/vi/fF3pKBWheJs/mqdefault.jpg",
@@ -4114,27 +4135,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Mswx15A7WVs/mqdefault.jpg",
           "published_at": "2026-10-27T15:56:30Z",
           "url": "https://www.youtube.com/watch?v=Mswx15A7WVs"
-        },
-        {
-          "id": "nXilOnEPjHg",
-          "title": "Chess is a FIGHT || Maxim Redshtein vs Nihal Sarin || European Club Cup 2026",
-          "thumbnail": "https://i.ytimg.com/vi/nXilOnEPjHg/mqdefault.jpg",
-          "published_at": "2026-10-26T13:10:14Z",
-          "url": "https://www.youtube.com/watch?v=nXilOnEPjHg"
-        },
-        {
-          "id": "DzMhZ6n4qrM",
-          "title": "Caro-Kann Adventures || Jorden van Foreest vs Yagiz Kaan Erdogmus || European Club Cup 2026",
-          "thumbnail": "https://i.ytimg.com/vi/DzMhZ6n4qrM/mqdefault.jpg",
-          "published_at": "2026-10-25T11:58:02Z",
-          "url": "https://www.youtube.com/watch?v=DzMhZ6n4qrM"
-        },
-        {
-          "id": "mOOPo1NX_Xw",
-          "title": "Inaugural agadmator Quiz Arena - vastknowledge.org",
-          "thumbnail": "https://i.ytimg.com/vi/mOOPo1NX_Xw/mqdefault.jpg",
-          "published_at": "2026-10-24T19:23:53Z",
-          "url": "https://www.youtube.com/watch?v=mOOPo1NX_Xw"
         }
       ]
     },
@@ -5446,6 +5446,13 @@
       "thumbnail": "https://yt3.ggpht.com/J-mQZ7gIHpil3l78nqzKNPSYqeU9fkzg8xxeQP0WVEKxEG8-puK1Hf-sJURo-lKtK8ykLPekaAE=s88-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "GymRj4VldXc",
+          "title": "Two Vegans Debate God, Religion, and the Value of Life",
+          "thumbnail": "https://i.ytimg.com/vi/GymRj4VldXc/mqdefault.jpg",
+          "published_at": "2026-11-27T18:00:33Z",
+          "url": "https://www.youtube.com/watch?v=GymRj4VldXc"
+        },
+        {
           "id": "NXEIsrSMcwg",
           "title": "The Worst Arguments for Veganism (Tier List)",
           "thumbnail": "https://i.ytimg.com/vi/NXEIsrSMcwg/mqdefault.jpg",
@@ -5787,13 +5794,6 @@
           "thumbnail": "https://i.ytimg.com/vi/3JyLHHFmg98/mqdefault.jpg",
           "published_at": "2024-07-30T17:00:20Z",
           "url": "https://www.youtube.com/watch?v=3JyLHHFmg98"
-        },
-        {
-          "id": "HXb-Bn4CwFk",
-          "title": "Vegan products are being 'blended' with actual meat and dairy now?",
-          "thumbnail": "https://i.ytimg.com/vi/HXb-Bn4CwFk/mqdefault.jpg",
-          "published_at": "2024-07-26T16:41:49Z",
-          "url": "https://www.youtube.com/watch?v=HXb-Bn4CwFk"
         }
       ]
     }
